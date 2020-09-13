@@ -1,0 +1,21 @@
+Fifty percent of accidents occur at intersections. Therefore
+understanding the problems at intersections may lead to better
+improvement strategies.
+
+The main goal of this study was to investigate the effect of
+sight distance on the safety of unsignalized intersections using
+traffic conflicts. Traffic conflicts were employed because reliable
+accident information is not available at this time.
+
+Conflict studies have been carried out at twenty one inter 
+sections in the Eastern Province. Using this data the effect of
+sight distance have been analyzed.
+
+The analysis was done using Multiple Regression Analysis,
+Analysis of Variance and Covariance, and Multiple Classification
+Analysis. Uncontrolled and stop controlled approaches have been
+analyzed separately.
+
+Finally conclusions of the study and recommendations for
+the improvement of safety at unsignalized intersections were
+reported.

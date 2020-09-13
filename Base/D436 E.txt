@@ -1,0 +1,12 @@
+A group of drilling rigs with different specifications will drill a set of wells that have different
+characteristics; a schedule needs to be created assigning a specific set of wells to each drilling rig. This schedule
+should be optimal or near optimal in terms of cost. Note that drilling rigs are not the same, but are different in
+type, rating cost, moving cost, and capability. The same for the wells, as they differ in type, complexity, capability
+production rate, distance to other wells.
+To solve this problem, there is a need to come up with a standard and unified scale that will use these
+different specifications and characteristics to come up with standard points. After that, analysis and studies of
+different algorithms will be needed to find solutions for various problems, such as the lightest weight network,
+job assignment, and matching. Finally the standard scale will be integrated with the proper algorithm to develop
+an engine that can solve this problem.
+This study sets out to solve a real problem in a petroleum engineering discipline, particularly in drilling
+and production operation in order to substantially enhance the oil and gas companies’ net present value.

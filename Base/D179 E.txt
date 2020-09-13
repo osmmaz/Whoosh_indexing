@@ -1,0 +1,10 @@
+A blind equalization algorithm with a variable step size procedure leading to faster
+convergence speed is considered. An earlier work on an enhanced version of the Decision
+Directed Modified Constant Modulus Algorithm(DD MCMA), used with a variable
+step size procedure showed a very good convergence speed (compared to the same
+algorithm with a fixed step size) on different types of channels and different kinds of
+modulation schemes. Different step size update schemes were considered, a prediction
+error dependant scheme were adapted to change the step size according to the autocorrelation
+of the prediction error. The step size parameters were optimized using
+particle swarm optimization method which yield solutions that gave good results in
+terms of the step size affect on the speed of convergence.

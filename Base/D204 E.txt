@@ -1,0 +1,21 @@
+The carburization behaviors o f three Fe based alloys (310 Stainless Steel, Incoloy
+800HT and Haynes 556) have been investigated under varying high temperatures and
+different ratios o f methane/hydrogen gas mixtures. The study involved cyclic and
+isothermal exposures o f the above alloys to different carburizing conditions and
+microstructural characterization o f selected exposed samples using advanced analytical
+techniques (scanning electron microscopy, X ray diffraction and X ray photoelectron
+spectroscopy). Thermodynamic analysis indicates that the gas mixtures (2  and
+10 CH/H2 with oxygen impurity less than lOOppm) are mixed oxidizing/carburizing
+below approximately 1000°C while reducing carburizing fo r chromium in excess o f
+1000°C, where 1000°C is a boundary condition. Kinetic and microstructural results
+indicate that, fo r the three Fe based alloys, the external continuous layers formed at
+lower temperatures (<I000°C) consist primarily o f different oxides and carbides which
+are responsible fo r the improved protection, however at higher temperatures (>1000°C)
+the external scales consist o f carbides or metallic Cr rich phases which are
+discontinuous and non protective leading to increased weight gain. 31 OSS suffers both
+internal and external carburization attack at 800°C in 2 CH/H2, while it experiences
+external carburization at 1100°C in 10 CH/H2. The presence o f Co in Haynes 556 is
+beneficial fo r the improvement o f carburization resistance. Nickel and Cobalt play an
+important role in combating carburization especially when an external continuous layer
+is not formed at elevated temperatures. Under certain exposure conditions, despite the
+carbon activity exceeds unity metal dusting has not been experienced during this study.

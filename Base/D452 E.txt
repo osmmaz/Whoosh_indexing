@@ -1,0 +1,20 @@
+The primary objective of this study is to investigate the effect of including
+captive riders in mode choice modelling for intercity travel in Saudi
+Arabia. To achieve this objective, mode choice models were calibrated
+and validated using the intercity travel data of Saudi Arabia. The calibration
+process was carried out in three stages. In the first stage, modechoice
+models were calibrated using the data of choice riders only, the
+choices being those alternatives as stated by the travellers. In the second
+stage, mode choice models were calibrated assuming full choices over all
+the alternatives available by the choice riders. Finally, in the last stage of
+model calibration, captive riders were included in the travel dataset. The
+calibrated models were compared with respect to their coefficient estimates
+and other goodness of fit statistics.
+It was found from the study that the inclusion of captive riders in
+mode choice models resulted in increased significance of the coefficient
+estimates which is mainly due to the increased sample size but decreased
+the overall fit of the models. When used for prediction purpose, only that
+model which was calibrated with choice riders data was capable of predicting
+the mode choice of the travellers correctly whereas, the model calibrated
+with choice riders plus captive riders was unable to predict the
+mode choice of the intercity travellers correctly.

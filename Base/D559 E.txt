@@ -1,0 +1,18 @@
+The use of CNT in the production of rubber  nanocomposites have been on the increase
+since they were discovered in early 1990s. This has been attributed to excellent physical
+and mechanical properties which they posses. The use of CNT for reinforcement in
+rubbers offers several advantages over mineral fillers such as carbon black and silicates.
+For instance, little amount of CNT is required to obtain significant improvement while
+for mineral fillers large amount is required for any significant improvement to be
+observed. This often results in lightweight high performance materials. However, the use
+of CNT as reinforcement filler in rubber is yet to be fully established as the
+experimentally obtained results are still below theoretically predicted values.
+Agglomeration of CNT, poor dispersion within the rubber matrix and poor interaction
+between CNT and the matrix are some of the factors responsible for such observation. To
+solve these problems and to improve on the performance of CNT as fillers, several steps
+have been suggested. These include surface modification, sonication, use of solution
+blending and in situ polymerization. In this study, the CNT surface was oxidized using
+concentrated acid and subsequently functionalized using different (Octadecanol, Phenol
+and Dodecylamine) surfactants. The effect of the oxidized CNT as well as each
+functionalized CNT on the mechanical and thermal properties of natural rubber (RSS1)
+was investigated.

@@ -1,0 +1,22 @@
+After the discovery of the millisecond pulsars the model o f a highly relativistic neutron
+star (NS) became the most acceptable to explain the observed pulses. Also, the discovery
+o f sub millisecond pulsar is expected. In this thesis, we study the effect o f the
+gravitational mass of a pulsar on the amount o f the electromagnetic radiation by using
+both the special and general theories o f relativity. Relying on the magnetic dipole model
+of the pulsar, we use the extension o f the work of Haxton Ruffini [31] for single charges
+by DePaolis Ingrosso Qadir [32] for an obliquely rotating magnetic dipole, to incorporate
+the effect o f the gravitational mass.
+By using the numerical (evaluated by Mathematica 4.1) and analytical solutions
+o f the differential equation for the radiation, we construct the energy spectra for different
+masses of the dipole. These spectra show that, in relatively low angular momentum /, the
+effect o f the gravitational mass is very significant in suppressing the relativistic
+enhancement factor (y4), which had been found [27, 28, 32], by two orders o f magnitude,
+as the mass changes from 0.5 M0 to 3Ma. It is an indication that most o f the angular
+momentum of the NS is retained as rotational kinetic energy instead o f being radiated as
+an electromagnetic energy, E. Also, the suppressing in radiation energy is more or less
+independent of the angular momentum, /, and the high rotational velocity, /?. We also
+found that E ~ to4 sin2/ , where x is the inclination angle o f the obliquity, and to is the
+angular frequency of the dipole. It is similar to the classical behavior. However, in the
+very high /, the whole radiation suppresses and the effect of mass is neglected. It indicates
+that the (special) relativistic enhancement expected is lost to the (general) relativistic
+increase o f angular momentum after incorporating the effect o f mass.

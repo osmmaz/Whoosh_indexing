@@ -1,0 +1,15 @@
+Chlorinated organic pollutants are persistent, toxic and ubiquitously distributed in the
+environment. These compounds are highly bioaccumulative and adversely affect the
+ozone layer in the atmosphere. As such, its widespread usage is a major cause of
+environmental and health concern. Therefore it is important to detoxify such compounds
+by environment friendly methods. In this work, for the first time rice husk supported
+platinum (RHA Pt) and Titanium (RHA Ti) catalysts were used to investigate the
+detoxification of chlorobenzenes and Chlorophenols in a glass capillary microreactor.
+High potential (in Kv range) was applied to expedite the activation of catalysts. The main
+advantage of this capillary reactor is in situ generation of hydrogen for the detoxification
+of chlorobenzene and Chlorophenols. Various experimental conditions influencing
+detoxification were optimized. Reaction performance of capillary microreactor was
+compared with conventional catalysis. Only 20 min is sufficient to completely detoxify
+chlorobenzene and Chlorophenols in capillary microreactor as compared to 24 hrs
+reaction time in conventional method. The proposed method is simple, easy to use and
+suitable for the detoxification of wide range of chlorinated organic pollutants.

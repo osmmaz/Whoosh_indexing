@@ -1,0 +1,13 @@
+The objective of this thesis is to design, analyze and implement a STATCOM based
+stabilizers to enhance damping of low frequency oscillations. The effectiveness of
+STATCOM gain and phase modulation channels to enhance the damping
+characteristics is investigated. The coordination among the internal AC and DC
+voltage controllers and the proposed damping controllers on each channel is
+designed. Differential Evolution as an intelligent optimization technique is
+considered to design the STATCOM supplementary damping controllers. The
+implementation of STATCOM based stabilizers on Real Time Digital Simulator
+(RTDS) is carried out. The RTDS experimental setup of a power system with
+STATCOM is verified. The power system considered is tested through nonlinear
+time domain simulations to examine the validity of the proposed approach to damp
+low frequency oscillations. Comparisons with similar results reported in literature
+are demonstrated.

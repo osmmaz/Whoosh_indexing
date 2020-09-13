@@ -1,0 +1,13 @@
+Pressure swing adsorption separation of a 60  methane 40  nitrogen mixture is
+carried out on a high specific surface area activated carbon MAXSORB in a dual bed
+unit. Pure gas isotherms on MAXSORB are linear with an equilibrium separation factor
+o f 3.0 in favor of methane. The kinetics is very rapid for both the gases and, consequently,
+the current PSA is equilibrium controlled. A Skarstrom cycle and a modified cycle with
+cocurrent depressurization step are used to obtain a stream of up to 88  methane.
+Mathematical modeling of the Skarstrom experiments is also performed successfully.
+A new linear driving force expression for single component and binary diffusion
+is theoretically derived for a concentration dependent diffusivity system. The results o f
+the new equations match fairly well with the exact distributed parameter model solution.
+Simulation of a pressure swing adsorption reactor is also performed and the
+results compared with a catalytic reactor with no adsorption capacity for a sample
+reaction of ethane dehydrogenation on a cadmium catalyst impregnated on 4A zeolite.

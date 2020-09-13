@@ -1,0 +1,26 @@
+A study was conducted to investigate the effectiveness of combined processes of
+electrooxidation and electrocoagulation using stainless steel electrodes for the removal of
+BOD, ammonia, coliform, turbidity and total suspended solids. In addition to total
+organics, removal o f soluble and particulate organics was also investigated. Experiments
+were also conducted with filtered samples to study the effect o f suspended solids on the
+electrooxidation of soluble BOD and ammonia. Comparative jar test experiments were
+conducted with FeCU coagulant, to compare the sludge production by electrocoagulation
+with chemical addition process.
+Combined processes were proved effective for the removal o f BOD. Most o f the removal
+of BOD was contributed by the removal o f particulate organics by electrocoagulation.
+Significant effect o f current and contact time was observed on the removal o f the above
+contaminants. BOD removal increased with the increase in current and contact time up to
+0.2 A, beyond which, further increase in current (i.e. at 0.4 and 0.8 A) resulted in the
+decrease in the removal efficiency. The maximum removal o f 84.82   was observed at
+0.2 A and 50 minutes contact time. Ammonia removal on stainless steel electrodes was
+not efficient. Maximum removal o f only 18.13   was observed at 0.2 A and 50 minutes
+contact time. Coliform removal was observed to be directly dependent on applied current
+and contact time. Maximum removal o f 5.05 log scale removal was observed at 0.8 A and
+30 minutes contact time. High removal o f turbidity and total suspended solids (93.33 and
+95.38  ) was achieved by the combined processes. Experiments with filtered samples
+resulted in the increase in the removal o f soluble BOD and ammonia thus shows that there
+is an effect o f suspended solids on the electrooxidation of contaminants. Sludge
+production by electrochemical process was observed to be 2.45 less than the conventional
+coagulation process. However, when the sample pH was altered fi'om 7.07 to 9.11,
+marked decrease in the optimum dosage was observed, and the sludge production was
+observed to be 2.95 times less than the electrocoagulation process.

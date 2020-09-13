@@ -1,0 +1,13 @@
+The objective of this thesis is to enhance the insulation capability (Increasing the
+breakdown voltage) in SF6 CBs by reducing the electric field concentration inside the
+insulation medium. To achieve that, the electric field Problem in the SF6 CB is
+formulated as an optimization problem. Two artificial intelligence techniques namely:
+particle swarm (PS) and simulated annealing (SA) where used to solve the objective
+function. A combined ANSYS Artificial intelligence algorithms have been proposed.
+The effectiveness of the newly proposed electric field optimization algorithms has been
+tested successfully on two SF6 CB’s (252 kV and 550 kV) reported in the literature. The
+performance of the proposed methods outperformed the optimization results reported
+before.
+Not only the electric field is highly reduced using the proposed algorithms but also the
+computational time is reduced too. Furthermore the effect of space charge on the
+performance of the proposed algorithms has been studied.

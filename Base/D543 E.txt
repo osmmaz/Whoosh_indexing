@@ -1,0 +1,15 @@
+This study was carried out to analyze more than eighty outcrop samples from the
+carbonate Dam Formation in Al Lidam area in the Eastern Province   Saudi Arabia for
+texture, mineralogy, and to investigate the influence of confining pressure on
+compressional and shear wave velocities at room temperature. The methods used in this
+study included field investigations, facies analysis, petrographic analysis, petrophysical
+analysis, and acoustic data analysis.
+The laboratory investigations revealed that Dam Formation in Al Lidam area has four
+facies types including, mudstone, packstone, wackestone and grainstone. The measured
+porosity values range between 52  and 55  with an average value 38  and
+permeability values from 0.39 mD to 18 D, with an average of 3 D.
+The results show that P wave and S waves velocities increase with the increase in confining
+pressure for dry samples. The P wave velocity increased and the S wave velocity decreased
+with confining pressure under saturated condition. This increase is non linear with confining
+pressure. A regression equation of the form gives a good fit to the
+measured velocity when compared with equations suggested by other studies.

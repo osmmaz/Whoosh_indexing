@@ -1,0 +1,27 @@
+Dynamic analysis and control of the microgrids have received much attention recently. A
+microgrid is a distributed generation unit connected close to a cluster of loads. It can be
+operated in either a grid connected mode or an autonomous mode to achieve some
+operational requirements in each mode. The stability and the effectiveness of control in
+the inverter based distributed generation interfacing have faced the challenge of the
+uncertain and dynamic nature of the distribution network. The droop characteristics are
+used to manage power sharing between distributed generators in the autonomous mode
+while the power controllers are used in grid connected mode.
+A new technique for stability enhancement of a microgrid operating in both autonomous
+and grid connected modes is proposed in this thesis. Linear and nonlinear models of
+microgrids operating in different modes are developed. Optimal designs of LC filter,
+controller parameters, and damping resistance are carried out for the case of the gridconnected
+mode. On the other hand, controller parameters and power sharing coefficients
+are optimized for the case of the autonomous mode. The control problem has been
+formulated as an optimization problem where particle swarm optimization is employed to
+search for optimal settings of the optimized parameters in each mode. In addition,
+nonlinear time domain based as well as eigenvalue based objective functions are
+proposed to minimize the error in the measured power and to enhance the damping characteristics. The nonlinear time domain simulation has been carried out to assess the
+effectiveness of the proposed controllers under different disturbances and loading
+conditions. The obtained results demonstrate a high dynamic performance with efficient
+damping characteristics of the microgrid considered in this study. At the end, the stability
+of the microgrid has been investigated in the Real Time Digital Simulator (RTDS)
+environment. The obtained RTDS results are compared with those obtained from
+MATLAB simulation to assess the validity and accuracy of the proposed controller
+model. The obtained results of the RTDS illustrate that the optimal proposed controller
+not only ensures fast response, perfect tracking for its reference values with no significant
+overshoot and delay time but also improve the system stability.

@@ -1,0 +1,11 @@
+A study of the regiochemical and stereochemical behavior of the addition
+reaction of a heterocyclic nitrone. 5.6 dihydro l ,4 oxazine 4 oxide with a series
+of alkenes has been carried out The high degree of regiochemical control in these
+concerted reactions has been explained in terms of frontier molecular orbital
+treatment. Stereoselectivity in these cycloaaditions has been explained in terms
+of steric factors and secondary orbital interactions.
+Rate constants for the cycloaddition of the heterocyclic nitrone with
+several alkenes have been determined at 36°C by *H NMR spectroscopy.
+Differences in the rates of cycloadditions have been explained in terms of
+combination of various factors such as torsional strain, bond angle bending strain,
+and steric factors (non bonded repulsion) in the transition state.

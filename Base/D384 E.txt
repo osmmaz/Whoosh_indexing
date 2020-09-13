@@ -1,0 +1,16 @@
+The objective o f this thesis is to investigate the effectiveness o f the coordinated design o f
+power system stabilizers and FACTS based stabilizers to improve power system transient
+stability. Three power systems are studied: a single machine infinite bus system with
+First Generation (Gl) FACTS devices, a single machine infinite bus system with a
+UPFC, and a multimachine power system. To estimate the controllability o f each
+stabilizer control signal on the electromechanical modes, singular value decomposition is
+employed. In each system, the problem o f designing all the stabilizers, PSSs and FACTSbased
+stabilizers, individually is formulated as an optimization problem. Particle swarm
+optimizer is utilized to search fo r the optimum stabilizer parameter settings that optimize
+a given eigenvalue based objective function. Coordinated design o f the different
+stabilizers is also carried out by finding the best parameter settings fo r more than one
+stabilizer at a given operating condition simultaneously. To ensure the robustness o f the
+proposed control schemes, the design procedure is repeated considering a wide range o f
+operating conditions. To assess the effectiveness o f the proposed designs, damping torque
+coefficient analysis, eigenvalue analysis, as well as nonlinear time domain simulations
+are carried out.

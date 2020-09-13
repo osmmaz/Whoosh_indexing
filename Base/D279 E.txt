@@ -1,0 +1,30 @@
+To make an optimum use of Self Compacting Concrete (SCC), especially when planning
+the casting of concrete in complicated structures, simulation may serve as a tool in the
+construction and formwork design as well as determining the desired rheological
+parameters for a robust mix design of SCC.
+The aim of this research work is the development and validation of the hydrodynamics of
+the flow behavior of SCC made from local materials found in Saudi Arabia using a
+continuum (single fluid) approach. Navier Stoke’s equations that govern the flow were
+used to obtain numerical solution of the problem using computational fluid dynamics
+(CFD) commercial software that enabled the tracking, in time and space, of material
+motion with any type of material behavior, including non linear and time dependent
+ones. The problem is characterized by free surface flow of a non Newtonian fluid. While
+the rheological behavior can be described by means of a Bingham model, some extra
+phenomenon occurs in case of SCC, like shear thickening and sometimes significant
+thixotropy. For that reason, the Bingham behavior in combination with shear thickening
+and thixotropy was modeled in the software package FLUENT by means of a userdefined
+thixotropy model. Validation of the simulation results was achieved by using
+experimental data from a series of tests conducted at KFUPM using different SCC mixes
+to obtain the critical range of rheological parameters of yield stress and viscosity for
+robust mixes.
+In addition, a new finite element model for the lateral pressure evolution in formwork
+due to SCC was developed in which the effects of thixotropy and casting rate were
+incorporated. Experimental investigation was conducted to verify the model developed
+for the lateral pressure evolution due to SCC and prediction of flow behavior during the
+full scale casting of a slab. More experimental data from the literature were used to
+further validate the developed finite element model in this study. Simulation runs of fullscale
+casting of the slab were also carried out to study the effect of the rheological
+parameters on the flow of this material.
+A successful validation of the CFD simulations and the finite element model’s
+predictions shows a good correlation with the conducted experimental results and those
+from the literature

@@ -1,0 +1,19 @@
+Metallic materials are widely used in the industry due to their superior mechanical
+properties and offshore structures are one example from the industry that usually
+uses the metallic materials such as carbon steel to support the daily operation of the
+concern oil and gas facilities. However, these metallic materials are subjected to
+corrosive conditions like aqueous environment. Therefore, a corrosion protection
+technique like external coating must be considered to prevent and mitigate corrosion
+process from initiation and then damage the target structures. Solution plasma spray
+technique (SPS) showed the ability to produce Aluminum oxide nano structured
+coating by oxidizing aluminum nitrate nona hydrate solution as achieved in this
+research.
+Aluminum oxide nano structured coating has several applications in the industry as a
+corrosion protection layer like insulator due to its high wear resistance and hardness.
+In this thesis, three different concentrations with three different flowrates of
+aluminum nitrate solution were involved to prepare different aluminum oxide nanostructured
+coating system. These coating systems were studied and characterized
+using several techniques such as AC Impedance, X ray diffraction (XRD), Scanning
+electron microscope (SEM). Accordingly, the generated coating systems have showed slight improvements. Furthermore, concentration of the aluminum nitrate
+nona hydrate salt can be reduced by 40   50 wt.   and still can achieve same
+aluminum oxide structure

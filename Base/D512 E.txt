@@ -1,0 +1,41 @@
+Magnetic resonance study was carried out for four vanadium model
+compounds containing sulfur and nitrogen heteroatoms at 9GHz. These
+systems are Bis(S methyl 3 isopropyIIidenehydrazinecarbodithioto)oxovanadium(
+IV); (VI); and Bis(S methyl 3 cyclohexylidenehydrazinecarbodithioto)
+oxovanadium(IV); (V2) in toluene and S mehtyl N salicylidene hydrazinecarbo 
+thioatophenanthrolineoxovanadium(IV); V3; and S mehtyl N 5 
+methoxysalicylidenehydrazinecarbothioatophenanthorline oxovanaium(IV);
+V4; in methylene chloride.
+The magnetic parameters for these systems are determined and
+structural and electronic information are obtained. The obtained magnetic
+parameters suggest that the structure of these systems is five coordinated
+distorted square pyramidal. Also, it is found that for VO(N2S2) systems are
+characterized by a more in plane c bonding compared to VO(N3S) systems.
+Also, it is found that for VO(N3S) systems the unpaired electron is more
+localized on vanadium compared to VO(N2S2) systems. Also, we found a
+good correlation between gn and Ay values for varying complexes with equatorial liquids of the type VO(N4), VO(N3S), VO(N2S2) and VO(S4).
+This will be useful in characterization of the non porphyrin species of
+vanadium in asphaltenes.
+The hydrodynamic radii of these systems , which are essential to the
+anisotropic interaction analysis, are obtained from the translational diffusion
+experiment to be 5.39, 5.70, 7.12 and 7.67 A0 for VI and V2 in toluene and
+V3 and V4 in methylene chloride respectively.
+The variable temperature spectra were recorded and analyzed in both
+the motional narrowing and the slow motion regions. The anisotropy of
+rotation (N) and the correlation times, xR were obtained from this motional
+analysis. The fast motion limit analysis suggest that the four systems
+studied were undergoing axially symmetric rotational diffusion at y axis
+with N = 2.5, 1.7, 1.5 and 1.7 ± 0.4 for VI, V2, V3 and 4 respectively. The
+spectra in the slow tumbling region were successfully simulated using the
+Brownian model. This is important for the calculation of the hydrodynamic
+molecular radius, r0, based on the stick model.
+Molecular reorientation for these systems were analyzed in terms of
+the hydrodynamic free space model for molecular relaxation in liquids. The
+motional analysis indicate that the solute solvent interactions and r0 are
+constant in the temperature range studied. The stickiness factor is found to
+be 0.461, 0.636, 0.365 and 0.160 for VI, and V2 in toluene, and V3 and V4
+in methylene chloride respectively. We found that quite remarkably that S
+approaches unity even on the molecular level. In conclusion, rough solute
+spheres exert torques more efficiently than elongated solutes, and the
+solutes exert torques more efficiently when the solvent used is more
+anisotropic

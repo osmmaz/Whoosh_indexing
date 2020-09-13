@@ -1,0 +1,17 @@
+Corrosive behavior o f mild steel type 1018 in a typical drilling fluid used in drilling
+deep and hot wells was studied. The studies were carried out under simulated flow
+conditions, temperature, and pressure; which drilling fluid and drill pipe are exposed to
+while drilling such wells using a dynamic flow loop. Corrosion monitoring and
+measurements were carried out by weight loss and electrochemical techniques. The
+electrochemical techniques  >re: Polarization resistance, Potentiodynamic plots and AC
+impedance test. They were used to characterize the corrosion behavior o f the steel in
+drilling fluid. Scanning electron microscope was also used to study the general morphology
+changes o f steel samples when exposed to drilling fluid under simulated downhole
+Results show that corrosion rate increases with increase in temperature and
+decrease in pH. Corrosion rates are low at mildly alkaline to mildly acidic pH range. The
+drilling fluid generally attacks the grain boundaries o f the steel. Diffusion was found to be
+the rate limiting step for the corrosion reaction. Once diffusion resistance is overcome by
+increased flow rate or agitation, the corrosiveness o f mud increases tremendously.
+Diffusion resistance led to a capricious and non linear kinetic behavior. Experiments
+conducted at high agitation will give a better understanding o f mud corrosion reaction
+kinetics.

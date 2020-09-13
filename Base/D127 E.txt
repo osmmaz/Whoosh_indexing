@@ -1,0 +1,10 @@
+Software engineers are faced with new technology and left with legacy systems,
+that are integral part of an organization. Legacy systems are difficult and costly to
+maintain and cannot just be abandoned. They are full of problems and obstacles
+that aggravate handling them. Industry and literature have been proposing
+schemes to deal with legacy systems and their problems. This thesis will propose
+a methodology and a tool to alleviate the problem of dealing with these notorious
+legacy systems. The proposed methodology is based on similar characteristics
+possessed by fragments of code scattered in source code file(s). When applied,
+this methodology should help with source code understanding, which in turn
+enhances legacy systems’ migration, maintenance, and parts reusability.

@@ -1,0 +1,14 @@
+Conjugate laminar forced convection heat transfer in the entry region o f eccentric
+annuli is numerically investigated. Heat transfer •parameters are presented for a
+fluid o f Pr=0.7 flowing in an annulus of radius ratio 0.5 fo r four values of dimensionless
+eccentricity ranging from 0.1 to 0.7. Solid fluid conductivity ratio (KR) is
+varied to cover the range fo r practical cases with commonly encountered inner and
+outer tube thicknesses. Lim its for KR above which the conjugation can be neglected
+are obtained. For solid fluid conductivity ratio (KR) equal to 10, the inner and
+outer tube thicknesses are varied to obtain the limits of wall thickness below which
+the conjugation can be neglected. Boundary conditions applied are isothermal heating
+o f the inner surface o f the core tube while the outer surface o f the external tube is
+maintained at the inlet fluid temperature. Results indicate that the conjugate effect
+is significant fo r systems with low values of KR and thick walled tubes. Moreover,
+this effect increases with invreasing the eccentricity (E) and thus conjugation must
+be taken into consideration particularly at high values o f E.

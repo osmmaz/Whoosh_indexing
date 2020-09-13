@@ -1,0 +1,13 @@
+Testing systems on a chip (SOC) involves applying huge amounts of test data, which
+is stored in the tester memory and then transferred to the circuit under test (CUT)
+during test application. Therefore, practical techniques, such as compression and
+compaction, are required to reduce the amount of test data in order to reduce both
+the total testing time and the memory requirements for the tester. Some of the existing
+compression/compaction techniques require the test data to be partially specified,
+while others can benefit from partially specified test sets either directly or by specifying
+the don’t care values in these test sets in a way that improves their efficiency.
+One obvious way to extract the don’t care values in the test sets is to test for the
+possibility of changing every bit in the test set to an X based on fault simulation.
+This is called bitwise relaxation. In this thesis, we propose a novel and efficient test
+relaxation technique for synchronous sequential circuits. The proposed technique is
+faster than the bitwise relaxation method by several orders of magnitude.

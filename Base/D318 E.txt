@@ -1,0 +1,22 @@
+The target of this research is to assist designers in understanding the cost implication of
+design variables, so that they can make more objective design decisions and offer more
+objective cost advice for the benefits of their clients. This research was focused to
+achieve two major targets. After thorough review of relevant literature in order to gain
+insight into the research theme, the first target was to investigate the procedures adopted
+by A/E firms in accounting for design variables in the early cost estimates they prepare for
+residential buildings. This was achieved through the administration of questionnaire.
+Nineteen (19) firms working in the Eastern province of Saudi Arabia participated in the
+survey. The survey results revealed that most of the A/E firms do not utilize specialized
+software packages in carrying out cost estimating services. Also, the firms neither utilize
+any systematic procedures in accounting for design variables nor the models developed by
+construction researchers. The second target was concerned with the empirical study of the
+effects of architectural design variables on the cost of residential building in a series of
+simulation experiments. The design variables that were studied include Plan shape, Size,
+Average s torey h eight, an d n umber o f s toreys. An e mpirical c ost estimate m odel o f a
+“typical Saudi Arabian villa” was prepared and used for the simulation. The effects of the
+other factors on construction cost were held constant during the simulation runs and
+conclusions to a number of hypotheses formulated, among other things, were sought from
+the results of the simulation runs.
+Similar studies have been recommended for other project types (such as Industrial and
+Commercial buildings), and on Design Build contractors and estimating personnel
+working in relevant Government agencies.

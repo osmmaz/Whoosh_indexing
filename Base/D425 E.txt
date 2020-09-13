@@ -1,0 +1,12 @@
+Recently a lot of interest has been shown in parameter estimation using ad hoc
+wireless sensor networks. An ad hoc wireless sensor network is devoid of any
+centralized fusion center and thus, has a distributed structure. Several algorithms
+have been proposed in the literature in order to exploit this distributed structure
+in order to improve estimation. One algorithm that was practically sound as well
+as fully distributed was called Diffusion LMS (DLMS) algorithm. In this work,
+variations to the DLMS algorithm are incorporated.
+The first algorithm improves the DLMS algorithm by varying the step size of
+the algorithm and eventually the Variable Step Size DLMS (VSSDLMS) algorithm
+is setup. Well known VSSLMS algorithms are compared, then the most suitable
+algorithm identified to provide the best trade off between performance and complexity
+is chosen.

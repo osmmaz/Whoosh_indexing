@@ -1,0 +1,6 @@
+In this thesis work, the filtering and coupling performance of an add/drop filter is analyzed. The
+basic add/drop filter which has been considered in this thesis consists of two identical and
+parallel single mode slab waveguides, coupled by a resonant cavity of a planar shape. A number
+of planar cavity shapes were considered. This includes, for example, the rectangular, the bowtie,
+the hexagonal and the parallelogram shaped cavities. The Method of Lines (MOL) using the
+Layer by Layer Algorithm has been applied to model these add/drop filters.

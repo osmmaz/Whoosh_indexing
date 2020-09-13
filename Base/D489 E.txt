@@ -1,0 +1,19 @@
+The lack of cost data in Saudi construction industry is one of the main causes of projects’
+poor cost estimation that results in contractors failures especially residential buildings’
+contractors.
+This research develops a cost data model for preparation of detailed estimates of
+mechanical works in residential buildings. The mechanical works include plumbing and
+heating, ventilating and air conditioning (HVAC) for small size villa or two (2) storey
+building consisting of four (4) apartments.
+The research utilized the assembly estimate method of MEANS Cost Data Book published
+in the United States as a basis for the development of the model. The method considers all
+the system components as one work package or assembly.
+The research began by identifying the mechanical works’ systems and assemblies available
+in residential buildings. Next, interviews were performed for data collection of material cost, labor productivity and contractors’ current estimating practices. A simple
+mathematical relationship was developed to calculate the costs of material, labor,
+equipment, overhead and profit.
+The data was collected through interviews with selected firms and personnel who can
+contribute to the research through their expertise such as equipment and material suppliers,
+project managers, engineers and tradesmen.
+The research focused on Dammam Metropolitan Area which is located in the Eastern
+Province of Saudi Arabia.

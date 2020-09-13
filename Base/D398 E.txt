@@ -1,0 +1,22 @@
+Suboptimal linear quadratic control law of high dimensional
+systems based on reduced order models derived via balancing
+reduction method is derived. The proposed law is compared to
+suboptimal control laws based on aggregation and singular
+perturbation. Performance evaluation based on stability,
+suboptimality degree, quadratic cost degradation, closed loop
+step responses and controls, and closed loop pole positions
+has shown the superiority of the proposed suboptimal control
+law. The comparison is done through the application of the
+suboptimal control laws to several physical plants. The base
+of the comparison is the optimal control law. Also, a new
+reduction method, which combines features of balancing and
+aggregation, called Balagg is introduced and evaluated.
+The use of reduced order models based on balancing,
+aggregation, balagg, and singular perturbation in pole
+placement is also considered. In pole placement, two design
+purposes are considered: 1. placing only some of the open loop eigenvalues and 2. shaping the open loop responses, to nominal
+ones. Aggregation and balagg perform the best for the first
+design purpose while none of reduction methods meet the second
+design purpose.
+Throughout the thesis, the work is done for both continuous
+time and discrete time systems.

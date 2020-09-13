@@ -1,0 +1,18 @@
+Transient stability is an important part of power system design and
+operation. This thesis deals with the application of Multiterminal Direct
+Current(MTDC) systems for transient stability enhancement because of its fast
+response at exchanging electrical power with AC system.
+A mathematical model for the MTDC system components has been
+developed in the thesis. All the differential equations of MTDC system and
+controllers are modeled in an algebraic form and are solved by the trapezoidal
+rule.
+A linear Programming optimization model has been developed as a mean
+to seek for an optimum control strategy. The method uses the Golden Search
+approach to improve the solution as another new control scheme. Two types of
+control schemes with generator rotor slip and other signals as an input to the
+controllers have been studied .
+The developed controlling schemes have been applied using two
+multimachine power systems. A comparative study between the control methods
+has been carried out. The transient stability performance with applying Linear
+Programming and Golden Search is found to be superior compared to the other
+methods.

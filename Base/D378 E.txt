@@ -1,0 +1,19 @@
+In this research, the problem of complex valued  nite impulse response FIR wave 
+ eld extrapolation  lter design is considered as a linear complimentarity problem
+(LCP). LCP is not an optimization technique as there is no objective function to
+optimize, however, quadratic programming, one of the applications of LCP, can
+be used to  nd an optimal solution for the 1 D FIR wave eld extrapolation  lter.
+Quadratic programs are an extremely important source of applications of LCP,
+in fact, several algorithms for quadratic programs are based on LCP. This work
+shows the e orts that are being made to convert the FIR wave eld extrapolation
+ lter design problem into a quadratic program and then  nally, to an equivalent
+linear complimenatarity problem. There are two families of algorithms available
+to solve for the LCP: a direct (pivoting based) algorithms, and b indirect (iterative) algorithms . In this study, the LCP has been solved by a direct, Lemke0s
+algorithm, and indirect, Fisher Newton algorithm. In the explicit depth extrap 
+olation process, FIR wave eld extrapolation  lters are used recursively. Hence,
+the challenge is to design these  lters with smallest possible length while keeping
+passband error as small as possible. To achieve the above design constraints, the
+problem of designing a 1 D FIR wave eld extrapolation  lter has also been studied
+via L1 error approximation approach.
+Performance of 1 D FIR extrapolation  lters designed by the proposed methods has
+been tested by extrapolating the challenging 2 D SEG/EAGE salt velocity model.

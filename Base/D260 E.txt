@@ -1,0 +1,19 @@
+High level synthesis is the process of translating a high level program like specification
+of the behavior of a digital circuit into a structural design in terms of interconnected
+set of Register Transfer level components. Component selection and pipelining is
+one of the important problems in HLS. We investigate the application of Stochastic
+Evolution (SE) for solving component selection and pipelining and compare it with
+Simulated Annealing (SA) for the same computation time. The inputs are a Data
+Flow Graph (DFG), a realistic component library with multiple implementations of
+operators and Latency and Pipe stage delay constraints. Component selection involves
+replacing components of the DFG by slower components to minimize the cost.
+The cost function is the sum of costs (in gates) of all the components of the DFG
+and the pipeline registers. Pipelining is done based on the constraints of latency
+and pipe stage delay specified. A new method of improving the results in SE, called
+post processing is proposed. This is called Modified Stochastic Evolution (MSE) technique.
+In post processing, after obtaining a valid state the DFG is scanned to see
+if there is a possibility of replacing one or more components by slower components
+of the same type without violating the constraints. Experiments were carried out on
+different types of DFGs. The performance of SA is better than SE without postprocessing,
+while SE performs better than SA in some cases when post processing is
+introduced.

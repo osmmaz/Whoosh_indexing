@@ -1,0 +1,9 @@
+In many occasions, we are interested in making inference about the yet
+unobserved set o f responses Yr, conditional on the observed part Ys. Using
+the Bayesian approach, the probability density function for Yr, conditional
+on Ys is obtained as a general procedure to derive the prediction
+distributions. In this work, we find the predictive probability density
+function for a set o f responses o f the Multiple Linear Regression Model
+with First Order Auto Correlation and compare our results with that
+available in the literature where different approaches, other than the
+Bayesian approach, were used.

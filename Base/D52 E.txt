@@ -1,0 +1,16 @@
+OFDM modulation combines the advantages of high achievable rates and relatively
+easy implementation. In this Thesis, we focus on the receiver design for OFDM transmission
+over block fading channels. Blind and semiblind techniques are developed for
+channel estimation and data recovery. The techniques use as many a priori information
+about the communication problem as possible to reduce the training overhead
+and/or improve the channel estimation accuracy and bit error rate. The thesis develops
+two blind techniques, a data centered technique (i.e. the input data is the main
+unknown) and the other is channel centered (i.e. channel is the main unknown). In
+the data centered blind technique, we show how an OFDM symbol can be blindly
+detected using output symbol and associated cyclic prefix. The approach is based
+on the transformation of the OFDM channel into two parallel subchannels due to
+the presence of cyclic prefix at the input. In the channel centered blind approach, the cyclic prefix and the Gaussian assumption on the transmitted data in an OFDM
+system are used for channel estimation and subsequent data detection. Finally, the
+thesis considers a more realistic problem in which we design a semiblind receiver for
+space time coded OFDM transmission over MIMO frequency selective, time variant,
+and spatially correlated channels.

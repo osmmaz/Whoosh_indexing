@@ -1,0 +1,15 @@
+A fouling system device was designed and operated to simulate the twisted tube
+heat exchanger, where the cooling fluid circulates on the tube side. An electrical heating
+element was mechanically bounded to the exterior side of the tube, and simulated heat
+application by shell side fluid or gas. A fouling monitoring device identified the fouling
+deposition rate as a function of fluid velocity (0.5, 1, 1.5 & 2 m/s) and heat input (200,
+400,600 & 800 W) by using raw water in twisted tube to simulate heat exchanger.
+Also, in this work, existing twisted tube heat exchanger was installed on naphtha
+hydrotreating unit. The replacement of all the existing tube bundles of feed effluent
+exchanger in the naphtha hydotreater unit with twisted tube bundles increased the surface
+area which improved the unit reliability and safety. This new technology increased the
+production throughput and further saving of about $ 10,000 per day ($3.66 million per
+year).
+In addition, pressure drop was compared between twisted and plain tube. Water
+analysis was conducted at the inlet and outlet of the test tube to study the composition of
+water.

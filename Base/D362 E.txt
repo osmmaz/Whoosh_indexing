@@ -1,0 +1,13 @@
+Multiple input multiple output (MIMO) Orthogonal Frequency Division Multiple
+Access (OFDMA) systems have great potential for providing enormous capacity due to its
+integrated space frequency and multi user diversity. It is generally hard to find an optimal
+solution for sub channel and power allocation in a multiuser MIMO OFDMA system that
+maximizes the overall systems capacity, given proportional rate constraints. In this thesis,
+an adaptive subcarrier and power allocation scheme is proposed for a MIMO OFDMA
+system. This algorithm optimizes power distribution, guarantees quality of service
+requirements, and ensures fairness to all active users. In addition, the performance of the
+designed algorithm is also investigated by applying it to practical MIMO schemes, taking
+into account adaptive modulation and bit loading techniques. Simulation results show that
+the proposed scheme satisfies the proportional rate constraints in strict sense and
+therefore can provide absolute rate guarantees in contrast to other schemes found in
+literature.

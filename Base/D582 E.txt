@@ -1,0 +1,19 @@
+Phenol and chlorophenol derivatives were electrochemically investigated on the surface
+of glassy carbon electrode (GCE) by cyclic voltammetry (CV) and square wave
+adsorptive stripping voltammetry (SWASV) at optimum pH of 0.1 M phosphate buffer
+solutions. The obtained results indicated that phenol, 2 chlorophenol, 2,4 dichlorophenol,
+2,6 dichlorophenol, 2,4,6 trichlorophenol and pentachlorophenol, with no exception,
+exhibit fouling effects as a result of first oxidized irreversible phenoxy radical products.
+At the same time, phenol and all studied chlorophenol derivatives, except
+pentachlorophenol, showed isomerization peaks. Such peaks were obtained all at once at
+a single scan via the selection of the right value for accumulation potential. The typical
+oxidation peak of 2 chlorophenol was obtained by fixing the accumulation potential at
++0.40 V, where the isomerize peaks were obtained with relatively much higher signals by
+accumulation at +1.10 V. Both peaks were optimized for possible analytical
+determination. Detection limits of 18.99 M (2.44 ppm) and 1.11 (140 ppb) were
+obtained from monitoring the conventional and the isomerize peak respectively. Relative
+standard deviation of 1.84  and 1.31  for seven repeated measurement at the same
+concentration were obtained for the conventional and isomerized peaks of 2 chlorophenol
+respectively. The current study proved that the well known phenol surface
+passivation/fouling effect is no longer a failure, and can be useful for more sensitive
+electroanalytical determination of phenol and phenol derivatives.

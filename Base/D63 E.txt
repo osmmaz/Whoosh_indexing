@@ -1,0 +1,14 @@
+The objective of this thesis is to develop an adaptive Artificial Neural Networks (ANN)
+controller to control water extraction of the Inline Surface Oil/Water Separator (ISOWS).
+The thesis contains both a theoretical part and a practical part of the implementation of
+the ANN controller. The definition of the process problem is briefly discussed to explain
+the practical application of the ANN controller. An overview of the ANN types and the
+calculations commonly used for training Feed Forward ANNs are given. More emphasis
+is shown on the RBF Networks with online training. The practical part shows the detailed
+implementation blocks of this project consisting of the system used to control water
+extraction from the ISOWS, which includes water in oil detection probes, input
+processing, ANN controller, anti windup routine, output processing, and the motoroperated 
+valves (MOVs), which are controlled using the output parameters. The results
+of the practical application of the ANN controller to the ISOWS are illustrated using
+screen captures of the graphical interface of the developed software and a short video for
+the actual operation and control of the ISOWS.

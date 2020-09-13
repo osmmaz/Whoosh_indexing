@@ -1,0 +1,27 @@
+An office building is designed and built to h o st a group of people
+perform ing distinct office work. The perform ance of th e u s e rs of su ch
+a building is substantially influenced by its environm ental quality.
+E nvironm ental Quality Factors (EQF) are lighting, acoustic, therm al
+a n d indoor air quality. The evaluation of environm ental q uality of
+su c h a building is a n indication of how well this building achieves the
+environm ental comfort for its users.
+This study addressed th e evaluation of environm ental quality of
+office buildings as an integrated approach (lighting, acoustic, therm al
+a n d indoor a ir quality). In th is research, the perform ance criteria
+(variables) of EQF an d th e sc ale s u se d for e v a lu a tin g th e se
+perform ance criteria (attributes) w ere ex tracted from tw o m ain
+sources: The first by carrying o u t a n extensive lite ra tu re review
+th ro u g h published papers, reports, books, etc. related to EQF. The
+second by conducting the interviews w ith 21 academ icians an d 29
+p ractitio n ers who are considered experts in th ese a re a s in th e
+E astern Province of the Kingdom of S audi Arabia.
+Sixty five perform ance criteria (variables) a n d th e ir a ttrib u te s
+w ere extracted to investigate an d com prehend th e EQF a n d u se d to
+build the knowledge base of environm ental quality evaluation of office
+buildings. Also, the evaluation m ethods th a t the dom ain experts are
+using for assessing the environm ent of office buildings were analyzed.
+A com puterized unified program u sin g E x p ert S y stem for
+E nvironm ental Quality Evaluation (ESEQE) of office b u ild in g s w as
+developed sim ulating the m ethods th a t the dom ain experts u sed in
+office environm ent assessm ent. This computerized program correlated
+100  w ith a hand worked solution.

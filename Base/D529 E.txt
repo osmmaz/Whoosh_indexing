@@ -1,0 +1,20 @@
+Tribological behavior of Al 6061 alloy reinforced with 20  submicron (0.7 nm) AI2O3
+particles was examined under dry and lubricated conditions at temperatures ranging from
+25°C to 300°C. Wear tests were performed against AISI 4041 steel counterface material
+at selected loads using a pin on disk type apparatus using graphite and molybdenum
+disulfide burnished powders as solid lubricants. Under dry conditions, the wear resistance
+of the composite was characterized by two regimes namely mild and severe wear at all
+temperatures. However, the critical load for severe wear was found to decrease with
+increase in temperature, indicating decrease in wear resistance with increase in
+temperature. The worn surfaces were characterized by abrasion, delamination and
+adhesion in mild, transition and severe wear regions respectively at room temperature.
+However, at elevated temperatures, matrix softening of the composite was found to be
+dominant mechanism of wear in addition to particulate fracture. Lubrication using
+graphite was found to be effective only at room temperature and upto 3 ON normal load.
+At high temperatures, severe wear rates and high coefficients of friction resulted under
+graphite lubrication because of absence of vapor and moisture at high temperature
+required for superlubricity of graphite. When molybdenum disulfide was employed as
+solid lubricant, the wear rates and coefficients of friction were drastically reduced when
+compared with dry conditions at respective loads and temperatures. The composite worn
+surfaces under M0S2 lubrication were characterized by smooth surface covered with
+M0S2 layers evident by EDS analysis.

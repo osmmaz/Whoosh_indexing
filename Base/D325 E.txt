@@ -1,0 +1,13 @@
+The use of wireless sensor networks in environmental monitoring applications has increased
+rapidly. Due to the presence of extremely versatile as well as low cost devices in the market,
+setting up a network now has become easy. A custom build wireless sensor node, named the
+KFUPM node, has been successfully designed, implemented and tested with the network for
+monitoring temperature and light. An expansion port for adding external sensors has been
+provided to ease the need for sensing multiple phenomenon. Widely employed MAC protocol, SMAC,
+has been implemented with unique algorithm which exhibits much better energy
+conservation as compared to basic S MAC. A routing protocol based on cluster head rotation has
+been designed and implemented. By employing a cluster head rotation policy, the new protocol
+promises better energy consumption as compared to the existing protocols thus leading to the
+enhancement of the overall network life. A network design utility has been created to provide
+complete specifications for a network setup for a given network cost and an acceptable message
+reception rate.

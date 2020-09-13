@@ -1,0 +1,12 @@
+If the lightning strikes unprotected structure, a hazard in the human live
+and damage to the structure's materials could occur. With the increase in the
+knowledge of the lightning behavior, one of the methods to improve the
+effectiveness of the classical Franklin rod is to apply a pulse voltage to the rod.
+In this thesis a theoretical study using computer simulation to investigate the
+effect of energizing Franklin rod on the onset condition of upward streamers is
+developed for the first time. The onset condition of the upward streamers from
+the rod is the condition for these streamers to materialize and become selfpropagating.
+Moreover, the onset condition of the upward streamers from an energized
+Franklin rod is correlated to the downward leader current and height as well as
+the rod dimensions. In addition, the onset condition is also correlated to the
+amplitude of the pulse voltage applied to the rod.

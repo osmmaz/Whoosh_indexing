@@ -1,0 +1,5 @@
+Reinforced concrete is per se neither elastic nor plastic material. lt exhibits
+damage attributable to irreversible changes; i.e. slip and micmeracking. Three
+phases of behavior exist and interact: elasticity, plasticity and damage. An
+extensive literature review is carried out to figure nut the phenomenological
+aspects of damage along with the existing constitutive models.

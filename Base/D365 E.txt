@@ -1,0 +1,11 @@
+This thesis studies three major issues that affect deployment of wireless network in
+Industrial Plants for monitoring and control. Many benefits are acquired by using
+wireless communication systems in industries such as financial saving, safer for
+maintenance, and easier diagnosing. The First issue is to assess suitability of wireless
+technologies for industrial networks. This thesis evaluates WPAN (IEEE802.15) and
+WLAN (IEEE802.11) as Bluetooth, ZigBee, Wi Fi and SP100 are candidate
+networks. The Second hurdle is to characterize the industrial environment from
+radio wave propagation aspects. Extensive measurements are done in Hot Strip Mill
+and resulting Impulse responses are analyzed. The Third issue is of performance of
+candidate data transmission formats to determine data rates and ensuring bit error
+rates.

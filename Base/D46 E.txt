@@ -1,0 +1,7 @@
+In this thesis, New current feedback operational amplifier ( CFOA ) based filter,
+oscillator and signal generator circuits were proposed In order to be compatible with
+integration requirements, these circuits use minimum number o f active elements and
+enjoy independent control of the critical circuit parameters. The effects of parasitics,
+voltage and current tracking errors o f the CFOA on the circuit parameters were
+discussed. Reasonable agreement between theory and measurements was obtained in all
+circuits.

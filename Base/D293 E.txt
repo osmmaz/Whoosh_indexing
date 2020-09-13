@@ -1,0 +1,19 @@
+The design of a concrete mix is a complex procedure. It
+depends on many factors such as properties of materials
+,method of preparation , compaction , placement and curing
+of concrete , as well as the requirements of a construction
+job such as workability and durability. Once these factors
+are specified, the remaining task involves proportioning of
+the quantities of materials. This is usually carried out in
+terms of determining the water cement ratio, aggregatecement
+ratio or cement content, and sand to total aggregate
+ratio for particular gradations of aggregates and maximum
+size of coarse aggregate. This procedure becomes more
+difficult to achieve for an optimum mix design in hot
+weather conditions.
+In order to develop a suitable method for concrete mix
+design in hot weather, the effects of the following factors
+were considered : (i) water cement ratio, (i i) total
+aggregate to cement ratio, (iii) sand to total aggregate
+ratio and (iv) concrete mix temperature at placement in
+conjunction with field conditions for curing in hot weather.

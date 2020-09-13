@@ -1,0 +1,27 @@
+Aluminum extrusion finds extensive application in the construction, automobile and
+aerospace industries. High pressures, elevated temperatures, complex and intricate section
+geometries lead to repeated mechanical and thermal stresses in the die and affiliated
+tooling. Product rework and rejects can be traced back to various defects spread over the
+die life cycle: die design, die manufacture and heat treatment, process parameters, inprocess
+die maintenance/correction and, billet type and quality. Therefore, improved and
+efficient service life of die and related tooling used in the extrusion press is one the most
+important factors in maximizing productivity and minimizing cost for ensuring the
+economical efficiency of an aluminum extrusion plant. How often a die has to be scrapped
+and replaced with a new one directly contributes to the commercial viability of producing
+a certain profile.
+The focus of the current work is on three distinct yet inter related studies pertaining to
+the improvement of aluminum extrusion die. Study A (Die Failure Analysis) is an
+investigation of various modes and critical failure types based on industrial data (Chapter 
+2), examination of failed dies and finite element simulation for identification of critical
+process parameters and design features in die fatigue life (Chapter 3). In Study B (Die
+Surface Hardening Treatment), two stage controlled gas nitriding process for H13 steel is
+evaluated, both experimentally and numerically, in terms of nitrided case morphology
+and properties (Chapter 4) followed by experimental and numerical investigation of the
+effects of repeated nitriding (Chapter 5), pre nitriding surface preparation (Chapter 6)
+and die profile geometry (Chapter 7) on nitriding performance in regard to die service
+life. In Study C (Effect of Billet Quality on Die Life), the effect of billet quality and
+related influencing extrusion parameters on the die service life is investigated based on
+industrial data and some regression based die life models are proposed (Chapter 8). This
+is followed by a detailed microstructural investigation of different billet samples and finite
+element analysis of extrusion process to observe the influence of smelter (primary) and
+recycled (secondary) billets on the useful life of extrusion die (Chapter 9).

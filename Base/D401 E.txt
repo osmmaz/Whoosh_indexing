@@ -1,0 +1,19 @@
+The need for cleaner fuels in term of low sulfur content is becoming a very
+challenging task to most of the refineries. This is due to the stringent environmental
+regulations which are placing considerable pressure on refinery operators to reduce sulfur
+below 10 PPM by the year 2010. The current conventional hydrodesulfurization process
+has limitation to deep desulfurize fuels as a result of the high refractory sulfur compounds.
+Therefore, the need for other process to further reduce the sulfur content became
+very essential. This study has evaluated the oxidation extraction technique which resulted
+in a promising approach to reduce the sulfur content in diesel to less than 100 PPM from
+the original value of 1044 PPM, with total removal of 92 . This was achieved at low
+temperature, 50 °C and atmospheric pressure. The direct extraction of diesel fuel without
+any oxidation was about 45  sulfur removal, however such direct extraction has a great
+impact on removing some of other aromatic hydrocarbons. Oxidation/extraction technique
+is not applicable to fluid catalytic cracking (FCC) gasoline due to the high olefins content
+that tend to react with hydrogen peroxide to form epoxides product. Sulfur speciation for
+both gasoline and diesel were accomplished in addition to the speciation of sulfones
+compounds that can be used as a good reference for the future studies.
+The oxidation extraction technique can be used as an additional process to the
+hydrodesulfurization to enable the refiners to meet the future environmental sulfur
+regulations.

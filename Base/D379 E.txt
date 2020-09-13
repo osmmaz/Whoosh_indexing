@@ -1,0 +1,23 @@
+The main idea of equalization is simply to compensate for nonidcal
+characteristics by additional filtering. An equalizer is, then, an adaptive filter
+that is capable of high speed digital signaling over slowly varying, band limited
+channels whose impulse responses are unknown at the receiver.
+Among the most widely used equalizers are the synchronous equalizer and
+the fractionally spaced equalizer. In the synchronous equalizer the tap
+coefficients are spaced at the reciprocal of the symbol rate. While in a
+fractionally spaced equalizer, on the other hand, the tap coefficients are spaced
+closer than the reciprocal of the symbol rate.
+The fractionally spaced equalizer is superior to the synchronous equalizer,
+and this is in its ability to be not affected by aliasing problems and independent
+of the sampler phase. However, for a given time span NT, a synchronous
+equalizer will need N tap coefficients, while (2N) tap coefficients are needed for
+a fractionally spaced equalizer with tap spacing T/2. This will result in a great
+amount of computations needed to update the tap coefficients every symbol
+period, an important drawback of the fractionally spaced equalizer.
+In this thesis, we introduce an idea where a compromise between
+performance and complexity, for both equalizers, is presented. The idea consists
+of setting some of the tap coefficients of a fractionally spaced equalizer, with tap
+spacing T/2, to zero. The zero tap coefficients are neither updated nor entered in
+the computational process, thus leading to simplified algorithms.
+The study was carried out through simulation for PAM and QAM systems.
+Simulation results show the validity of the proposed equalizer

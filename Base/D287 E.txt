@@ -1,0 +1,22 @@
+Concurrency control is the activity of preventing harmful
+interference among asynchronous parallel processes. In this
+research work, the problem of supporting concurrent
+operations in the interpolation based grid files is studied.
+A systematic approach that demonstrates an effective method
+for detecting conflict between processes is defined. A
+scheduling system that exploits the numbering property of
+the structure and employs the conflict detecting method is
+presented. The scheduler achieves a higher degree of
+concurrency than concurrency mechanisms developed for
+B trees on the average case .and the same degree of
+concurrency in the worst case. Efficient algorithms for
+concurrent operations in two structures; namely
+Multi dimensional Linear Hashinjg and Interpolation Based
+Index Maintenance are presented. Both of these structures
+are extensions of Linear hashing to the multi dimensional
+case. The concurrent scheme presented is an adaptation of
+the one proposed for linear hashing. The algorithms include
+searching for, inserting, and deleting data elements. These
+algorithms support a high degree of concurrency and are
+shown to be correct based on the restrictions imposed by the
+comaptibility scheme.

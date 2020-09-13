@@ -1,0 +1,39 @@
+The present work is but a small contribution to an emerging multidisciplinary area o f research with considerable
+potential about durability problems in concrete. Deterioration of concrete infrastructures resulting from physicalchemical
+attack by deleterious species accounts for a large proportion of durability problems. However, for
+sustainable development and associated social and economic concerns, it is necessary that the infrastructures retain
+their required durability and structural performance over the long term. The need for models that empower
+durability analysis and ordering of management systems such as schedule of repairs, service life design, service
+life prediction, as well as forensics that describe the deterioration mechanisms involved is imperative.
+Most o f these durability problems result from individual but often synergetic mechanisms o f chemical attack
+following transport of deleterious species such as heat, moisture, chloride ions, carbondioxide, and sulfate ions
+into the concrete. For realistic conditions to which concrete structures are subjected in the field, the coupled impact
+o f mechanically induced damage cannot also be ignored. Mitigation against such individual or coupled
+deterioration mechanisms can be made possible by scientifically studying the behavior o f the various energy/mass
+transfers, chemical reactions, and force mechanics that contribute to the degradation mechanism. Yet, most current
+mitigation methods for concrete degradation are empirical and depend on rule o f thumb or curve fitting of
+extrapolations that are scientifically uncertain and therefore devoid o f firm physical, chemical and mechanical
+foundations for prediction purposes.
+In this study, analysis of durability and structural behavior of concrete under prescribed coupled chemomechanical
+conditions was proposed, formulated and implemented in a computational framework. The governing
+mathematical equations that idealize the tripartite physical chemical mechanical phenomena modeled into the
+framework are nonlinear and have to therefore be solved numerically. They were resolved in space using finite
+element method and in time using finite difference time stepping scheme that are together capable of handling any
+geometry, prescribed initial and boundary conditions as well as material nonlinearities expected to occur during
+the service life o f the concrete host structure.
+Dubbed SConDur2D, which stands for 2 Dimensional Synergetic Concrete Durability, the computational
+framework developed is an amalgam of two other separate but operationally interlaced computational systems
+called ConTra2D and LoiDam2D. ConTra2D, which stands for 2D CONcrete TRAnsport, models the most
+significant transport reaction phenomena that contribute to the rate and amount o f the concrete material
+deteriorating. It specifically models not only individual transport reaction processes of various energies/species
+attributable to heat, moisture, chlorides, carbondioxide and/or sulfates, but also their synergetic influence on one
+another as experimentally observed in practice. LoiDam2D, which stands for 2D LOad Induced DAMage, uses
+continuum damage mechanics to quantify load induced material defects or damage in concrete.
+The centerpiece o f the SConDur2D analysis framework developed in this study is the balance between the
+modular and coupled appeal o f its operations. Despite the coupled appeal, the ConTra2D and LoiDam2D programs
+integrated within the framework underscores an equally modular appeal that makes it possible to simulate various
+dependent and independent durability mechanics problems. In this study, sulfate attack simulations were
+conducted to demonstrate the predictive capability and adequate sensitivity o f the SConDur2D analysis framework
+for parameters germane to the problem. In particular, the evaluation o f strength reduction in concrete subjected to
+gypsum based sulfate attack mechanisms were carried out. In this regard, a good agreement was reported when
+model results in this study were compared to experimental data in the literature.

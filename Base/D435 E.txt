@@ -1,0 +1,11 @@
+This Ph.D. thesis traverses two chapters which contribute to the study of star operations in
+integral domains. In Chapter 1, we study when the dual of a t ideal in a PVMD is a ring
+and we treat the question of when it coincides with its endomorphism ring. We also study
+particular classes of overrings of PVMDs. Specifically, we investigate the Nagata transform
+and the endomorphism ring of ideals in PVMDs in an attempt to establish analogues for
+well known results on overrings of Pr¨ufer domains. In Chapter 2, we study the notions of
+compactly packed ring and coprimely packed ring with respect to a star operation of finite
+type. We extend well known results and investigate more properties of these notions
+in different contexts such as Pr¨ufer like settings, Noetherian like settings, and pullbacks.
+Particular attention is paid to the t operation as the often usual star operation of finite type.
+Examples are constructed in order to illustrate the scopes and limits of the results.

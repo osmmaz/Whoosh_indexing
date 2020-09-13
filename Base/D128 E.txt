@@ -1,0 +1,16 @@
+In almost all over the kingdom of Saudi Arabia, the hot and humid environment persists
+using air conditioners from four to six months annually. And the Air Conditioner (AC)
+could represent 80  of the residential electrical load. The AC compressor is switching
+ON and OFF several times a day and the compressor start up causes a very high starting
+inrush current associated with a voltage dip. The objective of this thesis is to study the
+starting performance of the compressor induction motor and to design a soft starting
+scheme in order to reduce the inrush current and consequently improving the voltage dip.
+A soft starter circuit was designed to be integrated with the induction motor, which drive
+the compressor. Then two different firing circuits were designed and implemented for the
+soft starter. An experimental investigation was then conducted to validate the relevant
+simulation results.
+The analysis of the simulation and the experimental investigation show a reduction of
+30  of the inrush current and 20  improvement in the voltage dip at the compressor start
+up when the suggested designed model was used without compromising the starting
+torque pulsation. The presented soft starter would be cost effective and could easily be
+contained within the residential air conditioner unit frame.

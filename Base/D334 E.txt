@@ -1,0 +1,19 @@
+As organizations strive for means of providing more secure methods for user
+access, biometrics is gaining increasing attention. However a biometric recognition
+system good for one case study may not be accurate for the other one. One solution
+to the problem is combining classifiers; so that the complementary information
+departed by different classifiers could be combined, in an efficient way, to achieve a
+much better recognition rate as compared to the participating experts. In this context
+the Dempster Shafer theory of evidence (DST) has shown some promising results;
+however the D ST has not yet been explored for the problem of biometric recognition
+systems. In this thesis we have proposed three novel algorithms to combine different
+biometric systems using the DST. NNEF (Nearest Neighbor Based Evidence Fusion)
+algorithm uses the nearest neighbor distance of the participating experts as an
+evidence estimation parameter; RR EF (Recognition Rate Based Evidence Fusion)
+algorithm uses the performance parameters of the participating experts for evidence
+estimation and VEF (Variance Based Evidence Fusion) algorithm uses the second
+order statistics of decision parameters to estimate the belief in the combining experts.
+Extensive experiments have been conducted on uni modal (speech only) and
+multi modal (speech and face) biometric recognition systems; the simulation results
+have shown that our proposed algorithms achieve much better recognition rate than
+the individual classifiers.

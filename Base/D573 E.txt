@@ -1,0 +1,13 @@
+The significant advancement in VLSI technology has made System On Chip (SOC) designs very popular. One
+o f the most challenging problems in testing SOCs is dealing with the large volume o f test data. There have
+been two methods to release this problem, namely, test compaction and test compression. Many compression
+techniques assume relaxed test set in order to achieve high compression ratios. In this work, we address the
+problem o f generating a relaxed test set from a given test set. A Bitwise Relaxation (BR) technique can be
+used to solve this problem. However, the BR technique is very slowfor large circuits. Another way to obtain a
+relaxed test set is to generate the test set using dynamic compaction technique. Dynamic compaction is slow
+as well, and generating the relaxed test set using this method slows down the ATPG process. Furthermore,
+dynamic compaction can not be used to relax an existing test set. Thus, the only existing solution to the test
+relaxation problem is the BR method. In this work, we propose three efficient techniques to solve the test
+set relaxation problem. We also propose cost functions to guide the selection in maximizing the number o f
+extracted x's. The proposed techniques are faster than the BR method by several orders o f magnitude. They
+also obtain comparable results with the BR method.

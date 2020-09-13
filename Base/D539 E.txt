@@ -1,0 +1,9 @@
+Vibration control is a large area of interest either in all sections of industry or
+in research. One way to control the vibration of dynamic systems is by using
+piezoelectric materials (PZT's). PZT's have been used to reduce vibration in both
+active and passive control systems and that is due to their special characteristics. In
+this work, the effect of the PZT actuator location on controlling the vibrations is
+studied. Two structures are used in the study, a 2 D beam and a 3 D plate with two
+different control techniques, an LQR controller and an LQG controller. The modeling
+is done using the well known finite element method. Results were found by
+simulating the cases in MATLAB. Validation of the results is done in ANSYS.

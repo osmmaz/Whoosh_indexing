@@ -1,0 +1,7 @@
+In this thesis, we will consider the num erical com putation of simple tu rning
+points, simple bifurcation points and cubic turning points, for two point
+boundary value problems. A direct m ethod will be employed to characterize
+th e B .V P .’s. Since the main block of all system s involved is th e sam e, this
+will allow us to use block elim ination which will reduce th e work by a large
+factor. To obtain accurate results we will use Richardson extrapolation w ith
+sm all sizes. Numerical examples will also be presented.

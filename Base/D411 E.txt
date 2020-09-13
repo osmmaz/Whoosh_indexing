@@ -1,0 +1,24 @@
+Recently, there has been m uch in terest among researchers in the economics of
+quality control. One of the m ost im portant areas in quality control is "process
+targeting". The m ajority of the process targeting models in the literatu re deal
+w ith single stage production system s. However, in real world in d u strial
+settings, products are often processed through m ultistage production system s.
+In th is thesis, a production system of two m achines in series th a t produces a
+single product is considered. The product is assum ed to have two quality
+characteristics, in which the first one is im pacted by the first process and the
+second one is impacted by the two processes. Four process targ etin g models
+are developed using different approaches for product quality control to
+maximize the expected profit. The models provide the optim al param eters for
+both processes. The first targeting model is developed for single sam pling
+plans w ith error free inspection. The second model considers the effect of
+inspection error on the sam pling plan. In the third model, a 100 percent
+inspection is used instead of sam pling. The 100 percent inspection w ith
+inspection error is studied in the fourth model. Sensitivity analysis is
+conducted to study the effect of different param eters and inspection errors on
+expected profit and optim al process m eans. It has been shown th a t the models
+are very sensitive to the variance of the two processes, selling prices, and
+rework cost and insensitive to the inspection cost. However, in th e case of
+error prone inspection the models are more sensitive to type I error (rejecting
+conforming items) th a n type II error (accepting nonconforming item s). A
+realistic case study from local industry is used to dem onstrate th e utility of
+the models.

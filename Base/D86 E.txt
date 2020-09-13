@@ -1,0 +1,30 @@
+In recent times, the search for new advanced materials has been the focus of numerous
+research interests. In the field of analytical chemistry, great attention has been paid to
+nano porous materials from different sources including calcium carbonate from waste
+avian eggshells. Due to their intrinsic porous structures, researchers are now dedicating
+much effort to the preparation and applications of calcium carbonate nanocrystals. In this
+direction, a novel micro solid phase extraction method ( SPE) in combination with gas
+chromatography flame ionization detector (GC FID) is described for the analysis of
+polycyclic aromatic hydrocarbons (PAHs) in environmental matrix, with calcium
+carbonate nanocrystals as sorbent material. Various factors that might affect extraction
+recoveries were tested for seven PAHs. The developed method displayed high extraction
+recoveries (85 110 ), high sample enrichment (388 1433), good repeatability ( RSD<
+13) and involved the use of minimal solvents. This method compared favorably to
+previously reported techniques. Analysis of sea water from Dammam Port revealed the
+presence of the analytes at concentrations between 0.15 and 13.43 ng ml 1. A method for the determination of chlorinated hydrocarbons (CHCs) was developed. In
+this study, functionalized polysulfone membrane has been utilized as a sorbent for the
+extraction of CHCs in water samples. Two different functionalized polysulfones, (i)
+phosphonic acid functionalized polysulfone (PPSU A) and (ii) phosphonic ester
+functionalized polysulfone (PPSU E), both with cross linked and non cross linked subtypes,
+were evaluated for the extraction of CHCs in water. A 10 ml of spiked water sample was extracted with 50 mg of the functionalized membrane. After extraction, the
+membrane was desorbed by organic solvent and the extract was analyzed by gas
+chromatography mass spectrometry. Eight CHCs, 3, 5 trichlorobenzene (1, 3, 5 TCB), 1,
+2, 3 trichlorobenzene (1, 2, 3 TCB), 1, 1, 2, 3, 4, 4 hexachloro 1, 3 butadiene (HCBD), 1,
+2, 4 trichloro 3 methylbenzene (TCMB), 1, 2, 3, 4 tetrachlorobenzene (1, 2, 3, 4 TeCB),
+1, 2, 4, 5 tetrachlorobenzene (1, 2, 4, 5 TeCB), pentachlorobenzene (PeCB) and hexachlorobenzene (HCB) were used as model compounds. Experimental parameters
+such as extraction time, desorption time, type of polymer membrane as well as the nature
+of desorption solvent were optimized. Using optimum extraction conditions, calibration
+curves were linear with correlation of determination between 0.9954 and 0.9999 over the
+concentration range of 0.01 to 50  l 1. The method detection limits (at a signal to noise
+ratio of 3) were in the range of 0.4 to 3.9 ng l 1. The proposed method was evaluated for
+the determination of CHCs in drinking water samples.

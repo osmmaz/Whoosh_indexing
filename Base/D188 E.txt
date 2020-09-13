@@ -1,0 +1,10 @@
+Boundary element solutions for the bending o f non prismatic beams and plates are
+presented. The boundary integral formulation is developed for the analysis of nonprismatic
+beams. The required fundamental solutions for non prismatic beams of linear
+and parabolic profiles are derived and exact relations are obtained among the variables
+over the nodes (beam supports). The method is then extended for the analysis of
+continuous beams with varying depth. The problem of a plate with linearly varying
+rigidity is solved by splitting the equation governing the transverse deflection of the plate
+into two Poisson's equations, for which, fundamental solutions are available. Finally, the
+proposed formulations for both beams and plates are tested through several numerical
+examples.

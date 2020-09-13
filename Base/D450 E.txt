@@ -1,0 +1,17 @@
+This thesis focuses on Economic Production Quantity problem. The EPQ problem
+is concerned with the selection of the optimal production time for a production
+process. The literature in the area of EPQ focused more on either the selection of
+production rate or the production time. We have developed a mathematical model for
+the selection of optimal production time in case the production rate shifts to a value
+lower than the starting value for the case when this time to shift is deterministic.
+The second model is developed for the case when this time to shift is a random variable
+with known general distribution. The third model is an extension of the second
+model to include the possibility of restoration of the system to the original production
+rate in case a shift is detected during process inspection. The fourth model includes
+the possibility of preventive maintenance to reduce the effective age of the system to
+decrease the probability of shift. The fifth and final model extends the general model
+by relaxing the assumption of deterministic production rate after the shift. Results
+show that for the case where the production rate shifts, the expected cost per unit
+time will be forced higher and also the system is forced to operate for longer periods
+of time. The thesis is concluded by suggesting a number of recommendations for
+future research.

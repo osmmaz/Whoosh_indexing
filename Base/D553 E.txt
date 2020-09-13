@@ -1,0 +1,17 @@
+The term fouling is generally used to describe the deposition of unwanted (initially
+fluid) particles, which increases both resistance to heat transfer and pressure drop
+through the heat exchanger. CaCOz which is predominantly present in the cooling
+water, has inverse solubility characteristics i.e., it is less soluble in warm water,
+resulting in deposition of scales on heat transfer surfaces. A n experimental study
+is carried out to determine the effect of tube surface temperature, Reynolds num ­
+ber, tube diameter and scaling salt concentration on the induction time of CaCOz
+scaling. It was observed that tube surface temperature, Reynolds number and tube
+diameter have no effect on the onset time of the scaling whereas salt concentration
+and tube surface roughness have a profound influence on the induction period. The
+effect of tube surface temperature, Reynolds number, tube diameter and salt concentration
+on the growth rate of fouling has also been studied. It was concluded that
+for the range of parameters studied Reynolds number does not influence the fouling
+resistance substantially. However, the tube surface temperature, tube diameter
+and salt concentration have profound effect on the growth rate of scaling. The data
+collected from the experiments are used to develop dimensionless fording resistance
+models for estimation and prediction purpose.

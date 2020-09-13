@@ -1,0 +1,24 @@
+The quality of water resources in a water scarce country like the Kingdom of Saudi
+Arabia is an issue requiring a great deal of attention. Pollution from the production and
+use of chemicals poses a threat to the Kingdom’s water resources. Methyl tertiary butyl
+ether (MTBE) is one such compound encountered in groundwater. MTBE is a fuel
+additive that replaced tetraethyl lead as the main anti knocking agent and is used to
+enhance octane rating in refined fuels. Treatment of MTBE contaminated water by
+conventional methods (air stripping, adsorption onto activated carbon and
+biodegradation) is challenging due to its unique properties of high water solubility, low
+adsorption onto solids and resistance to biodegradation. Advanced oxidation processes
+(AOPs), however, seem to be a promising treatment option for water contaminated by
+MTBE and other organics. Photocatalysis is one form of AOPs that utilizes ultraviolet
+(UV) or visible light radiation in combination with a semiconductor photocatalyst. In this
+study, titanium dioxide (TiO2), multi walled carbon nanotubes (MWCNT) and TiO2
+supported on MWCNT (TiO2 MWCNT) composites were used in combination with
+ultraviolet (UV) light radiation to photocatalytically degrade MTBE in spiked water
+samples. The removal of MTBE as well as its expected degradation by products: acetone,
+tertiary butyl alcohol (TBA) and tertiary butyl formate (TBF) were studied under
+different experimental conditions; TiO2, MWCNT and TiO2 MWCNT dosage (1 mg, 10
+mg and 20 mg) and UV light intensity (0.98 mW/cm2, 1.12 mW/cm2 and 2.17 mW/cm2)
+were examined. MTBE removal was found to be mainly due to the photocatalytic effect
+of TiO2 (with removal rates reaching up about 95  after treatment). MWCNTs with UV
+light also demonstrated limited removal capabilities (with removal rates up to 68.21 );
+though the mechanism by which this happens is not fully understood. The prepared TiO2 
+MWCNT composites however showed the lowest removal rates.

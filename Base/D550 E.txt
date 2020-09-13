@@ -1,0 +1,26 @@
+During service, engineering structures and components made from
+Carbon Fiber reinforced Plastics (CFRPs) are often subjected to cyclic
+loading as well as varying environmental temperatures. Fatigue failure o f
+CFRPs is complicated and quite different from those o f isotropic
+materials. In this study, the influence o f environmental temperature on
+fatigue response o f Plain Weave Woven Carbon Fabric reinforced
+Composite Plastic was examined. The 8 ply laminates were obtained from
+epoxy resin prepreg fabric layers, stacked in two different sequences
+producing unidirectional [0]s and angle plied [0,0,45, 45j s orientations.
+The fatigue tests were carried out at  20°C, 0°C, 24°C, 100°C, and 150°C.
+Enhanced dye penetrant X ray radiography and Scanning Electron
+Microscope Fractography was used to characterize the fatigue damag.
+The fiber/matrix interface strength, that is the most critical parameter in
+initiation o f primary matrix cracks and interply delamination was found to
+vary with testing temperature. It was found that there was no change in
+sequence o f damage events but duration o f each event and hence
+cumulative damage rates were different with varying temperatures. The
+fatigue life at elevated temperature was found to decrease with increasing
+temperature but decreasing temperature below ambient conditions caused
+an increase in fatigue life fo r both classes o f woven laminates. An
+analytical model used fo r CFRP life prediction based on Stiffness
+Degradation during cyclic loading has been successfidly employed. A
+parameter Dcritical (critical damage) that was a function o f testing
+temperature and indicated the least stiffness value in Modulus
+Degradation curves was introduced. A reasonably good correlation has
+been obtained between predicted and experimental lives.

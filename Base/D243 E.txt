@@ -1,0 +1,7 @@
+The exponential increase in demand of biological systems has renewed
+research in very low frequency circuit techniques. Developing new fully integrated
+solutions exhibiting improved characteristics is highly desired. Area, linearity, noise
+and power consumption are the main performance indicators of biomedical
+applications. In this thesis, various techniques to realize low power and low
+frequency (LPLF) operation are investigated. Consequently, new circuit design
+solutions are developed.

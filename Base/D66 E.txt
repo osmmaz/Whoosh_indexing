@@ -1,0 +1,30 @@
+Adaptive equalization made it possible for digital data transmission over radio
+and telephone channels, as it mitigates the distortions caused by these channels.
+Different algorithms have been used in adaptive equalization, e. g., the least mean
+square (LMS) and the recursive least square (RLS) algorithms. Recently, particle
+swarm optimization (PSO) technique was introduced and turned out to be very
+effective in handling problems having non linear behaviour. Different versions of
+the PSO algorithm were proposed, to name a few, the PSO using linearly time decreasing
+inertia weight (PSO W) and the PSO using constant constriction factor
+(PSO CCF). However, these algorithms still suffer the problem of stagnation and
+can become less effective in a situation when the solution hits a local minimum.
+We will address such issues here. In this thesis we have implemented a new algorithm for adaptive equalization, PSO using adaptive inertia weight (PSO AW).
+A new algorithm, Hybrid Particle Swarm Optimization (HPSO), is also proposed
+for adaptive equalization. In the end two new methodologies, named Local Search
+(LS) and Train and Verify (T&V), are used to reduce the number of computations.
+PSO AW uses adaptive inertia weights, instead of linearly decreasing inertia
+weights, to improve the convergence rate and secure better steady state error
+simultaneously. HPSO will incorporate three different techniques. These techniques
+includes re randomization of particles to improve the search capacity of the
+swarm, second one is to introduced more socialized behaviour among particles, so
+that there is less chance of getting trap in to some local minimum values. And the
+third one is adaptively inertia weight assignment to the particles. This hybrid algorithm
+secured the minimum steady state error as compared to all previously used
+PSO algorithms as well as the LMS algorithm in both non linear and linear channels.
+In order to complete the process with minimum number of computations, our
+proposed algorithm will be incorporated with two new techniques as well, LS and
+T&V. While using these techniques, although there is slight effect on convergence
+rate, but the reduction in number of PSO operations is remarkable. Significant
+improvements in BER and convergence rate, obtained using these algorithms. Extensive
+simulation results are conducted to confirm the consistency in performance
+of these algorithms in different scenarios.

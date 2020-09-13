@@ -1,0 +1,16 @@
+Hardware description languages (HDLs) have been widely used for documentation,
+communication and verification. They have also been used as input specification languages
+to Design Automation (DA) systems which synthesize VLSI layouts. AHPL
+is an HDL that has been in use for the past three decades in modeling digital systems.
+Recently a language called VHDL (VHSIC Hardware Description Language)
+developed under the auspices o f the United States Department o f Defense Very High
+Speed Integrated Circuits Program, is rapidly emerging as the next generation Design
+Automation Language. However, because of its large size and sophistication, VHDL
+is a difficult language to learn and master. On the other hand, AHPL is a very concise
+language that can be mastered within few hours. The objective of this research
+is to develop a tool that will assist designers quickly learn and model in the VHDL
+language. In this thesis, we present a tool for the automatic composition of VHDL
+descriptions from their equivalent AHPL specifications. Central to the composition
+algorithms is a template which is the skeleton o f a generic VHDL model consisting
+of a small subset of VHDL constructs that are sufficient to capture VHDL equivalent
+descriptions of any input AHPL model.

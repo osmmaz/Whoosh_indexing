@@ -1,0 +1,16 @@
+First a survey of principles used in designing
+the principal types of solar radiation measuring instruments
+is described together with a brief description of
+the various factors affecting their calibration and
+limiting their lifetimes. Then a theoretical analysis
+of thermal effect in transistors is developed, with the
+aim of designing an electronic apparatus for measuring
+total and possibly direct solar radiation. Finally a
+laboratory set up of such "transheliometer" is reported
+along with the pertinent calculations and experimental
+observations.
+The major objective in this work is to assess
+the suitability of the bipolar junction transistor (BJT)
+as a radiation sensing device in order to meet the
+requirement of designing simple, effective and economic
+radiation measuring instrument.

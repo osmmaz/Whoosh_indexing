@@ -1,0 +1,24 @@
+In recent years, we have witnessed a growing interest in improving the reliability when
+running parallel batch jobs on the High Performance Computing (HPC) environments.
+However, existing distributed memory HPC systems do not provide proper quality of
+service (QoS) controls and reliability features because of two limitations. First, standard
+communication libraries such as Message Passing Interface (MPI) and Parallel Virtual
+Machine (PVM) do not provide means for applications to specify service quality for
+computation and communication. Secondly, modern high speed interconnects such as
+Infiniband, Myrinet and Quadrics are optimized for performance rather than faulttolerance
+and QoS control. On the other hand, Data Centric Publish Subscribe (DCPS)
+model, which is the core of Data Distribution Service (DDS) systems, defines standards
+that enable applications running on heterogeneous platforms to control various QoS
+policies in a net centric system. Notably, a number of DDS standards are comparable to
+those for High Performance Computing (HPC) systems. In this research, we present a
+comprehensive survey of the studies exploring the reliability factors of distributed
+computing in general and the Real Time Publish Subscribe (RTPS) models for HPC and
+Grid computing in particular. We then investigate the QoS and reliability measures on the
+different HPC layers, such as the high speed interconnects and the diskless HPC. Finally,
+we present our model of incorporating DDS QoS and reliability controls into HPC. Our
+results show that DDS integration into HPC adds considerable overheard in terms of
+performance and network utilization when the application is mainly communicationbound,
+while the performance is comparable to those MPI based applications when the
+program is computation bound. In both cases, the solution is a viable option for those
+applications in which QoS is considered a priority, or for those HPC batch jobs that
+would run on commodity hardware, where the probability of failure is not negligible

@@ -1,0 +1,19 @@
+The Qur’anic document is a document basis for a full range of applications around the
+Qur’an, such as recitation, research, taffasir, translation, etc.
+The existence of different Qur’anic applications requires on the other hand the need
+to standardize the computer support of the Qur’an and Qur’anic sciences. These needs
+are part of a comprehensive project for the standardization of computer support giving
+rise to several sub projects.
+Indexing and querying Qur’anic document are part of this overall project.
+The application is to implement a search engine for Qur'anic documents, full of specific
+search options for Qur'anic text:
+• Search by word and regular expression
+• Search by different word forms
+• Search by Arabic word root
+• Search by synonym
+• Search by subject
+• Search using predefined indexes
+The work required is to design and implement a search engine for the Qur'an, which
+provides advanced search options.
+The search engine should provide an API (Application Programming Interface) of search
+that can be used by developers of Qur'an applications.

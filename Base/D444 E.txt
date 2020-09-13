@@ -1,0 +1,9 @@
+The Domain Name System (DNS) is a critical service in the Internet infrastructure,
+and it provides user friendly name to Internet IP address mapping services. The
+absence of the DNS has a severe impact on several Internet applications such as
+HTTP, FTP, and or email that can cause such applications to become nonfunctional.
+To avoid an intentional blocking from higher name servers, a dynamic
+round robin P2P solution that is built over Chord protocol is proposed as a
+secondary path to resolve the DNS queries. An evaluation of the proposed solution
+based on load balancing, failure, timeout, and number of hops is also conducted.
+Furthermore, the effect of joining and leaving nodes is also considered in the study.

@@ -1,0 +1,15 @@
+The ARRO W {Antiresonant Relecting Optical Waveguide) waveguide is a basic
+component of integrated optical circuits. In this thesis, multi layer A R R O W planar
+waveguide is studied for the purpose of enhancing the evanescent field in low index
+media. This leads to enhancing the sensitivity of optical detection in the low index
+media. We have analyzed this structure using water as the low index superstrate
+and investigated different aspects which include a study of the polarization properties,
+sensitivity and coupling loss using endfire excitation. The sensiiivity of optical
+detection and power enhancement of the evanescent field in the low index superstrate
+of the multi layer A R R O W waveguide is sufficiently increased as the the core
+thickness of the multi layer A R R O W waveguide is decreased. Gaussain beam coupling
+problem which involves a single discontinuity is successfully analyzed using the
+Method of Lines (MOL). The Perfectly Matched Layer (PML) absorber is used to
+absorb the radiated fields from this discontinuities. The MOL with Higher order approximations
+of the second derivative (EPfdxr) operator with appropriate interface
+conditions are used in the analysis.

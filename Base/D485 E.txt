@@ -1,0 +1,12 @@
+Determination of organic contaminates in water samples required tedious sample
+preparation prior to instrumental analyses. Most of the environmental contaminants are
+present at trace level concentrations; thus, multi step conventional sample preparation
+methods lead to poor quantization. In this regards, this thesis is focused on the
+development of automated analytical methodologies for water samples. To achieve
+complete automation, different strategies were adopted to automate the entire analytical
+procedure without any human intervention. For the first time, solvent minimized
+dispersive liquid liquid microextraction (DLLME) and solvent less solid phase
+microextraction techniques (SPME) were developed and integrated the extraction using
+CTC CombiPal autosampler coupled with gas chromatography/mass spectrometry.
+Chapter 2 and 5 are dedicated for DLLME/GC MS analytical technique while chapter 3,
+4 and 6 are focused on SPME/GC MS methods.

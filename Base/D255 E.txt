@@ -1,0 +1,11 @@
+Current voltage measurements in the presence of a small magnetic field
+have been performed on high quality samples of Y123 an d Yl23/(Ag20 ) x Hi 
+Tc super conductors, to study the behavior of the critical currents, pinning
+Forces an d flux flow resistance (F F R ) near Tc.
+T h e additio n of Ag20 enhances the critical currents an d reduces the flux
+flow resistanc e in all flux flow regions. Moreover F FR exhibits a broad minimum a t low temperature s , then diverges n e a r Tc. This minimum becomes
+sharper in the field cooled state s of Y\23, a n d occurs a t fields n e a r B e. The field cooled p in n in g forces follow a scaling behavior (n ear Tc) as a function of the reduced field B / B C7.
+Further more , Viscosity coefficient j/, deduced from the F FR and Kim ’s
+model, displays sharp peaks for different Ag20 concentrations x, with sharper
+peaks for higher x. Viscosity coefficient  versus temperature exhibits broad
+maximum at low temperatures an d decreases rapidly close to Tc..

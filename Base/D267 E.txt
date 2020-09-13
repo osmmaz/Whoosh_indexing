@@ -1,0 +1,11 @@
+The performance of three different feedback control systems has been studied in
+controlling the vibration of a rotor bearing system. Two Different mathematical models
+of the rotor bearing system have been presented. One model is developed by considering
+the rotor bearing system on rigid supports and another model is developed by considering
+the system on flexible supports. The control techniques applied on these models are: the
+State variable feedback , Integral plus state variable feedback and Linear quadratic servo.
+The response of the deflection of the rotor has been simulated on a digital computer. The
+results of the simulation are presented. These control techniques have been compared on
+the basis of time response specifications. The relative suitability of controllers is discussed.
+The effect of the flexibility of the supports, on the response of the rotor deflection has been
+studied. The results obtained for different support stiffnesses are discussed.

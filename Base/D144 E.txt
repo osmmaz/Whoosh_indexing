@@ -1,0 +1,31 @@
+Infrared thermography is an important and powerful technique for diagnostics and
+evaluation of building envelope, in terms of locating thermal bridges, damaged thermal
+insulation, air leakage, moisture damage, and cracks, all of which contribute to an
+increase in the energy consumption of the buildings. This is because typically the thermal
+gains or losses in practice are greater than those estimated during the design stage.
+Accurate and detailed information of where a problem occurs can reveal the source of the
+problem thus avoiding extensive renovation work and hence decreasing the cost of repair
+work and potential energy savings can be achieved. The present study is aimed at
+assessing the effective R value of building envelope, using high definition thermal
+imaging technique.
+It focuses on the investigation of the thermal performance of building envelope of
+residential building under hot humid climate represented by Dhahran, Saudi Arabia. A
+residential building on KFUPM campus is selected to conduct both thermographic and
+heat flux measurements. The building envelope is modified by installing three different
+types of insulation with intentionally introduced envelope defects (Test Wall). Data
+obtained by heat flux measurements about the building envelope thermal characteristics
+have being processed following methods of the ISO standard 9869:1994. To solve the
+required algorithm a MATLAB Program was developed. Simultaneously thermal imaging
+technique is used to record the surface temperature of the test wall. Recorded thermal
+images (IRT) are analyzed to detect missing and damaged thermal insulation, and thermal
+bridging. A method for quantification of the impact of thermal insulation defects is
+developed to improve the prediction of the actual thermal resistance of building envelope
+using infrared thermography. As a result of analysis of R value calculation for the test
+wall it is found that R values determined using IRT on average are varying from the Rvalue
+measured using dynamic method by 7.3  when R value is determined based on
+reference R value measured using dynamic method. The IRT method described in the
+study can be used to obtain the effective R value of the envelope considering the total
+defective area rather than measuring the R values at single point using the dynamic
+method. Energy simulation program Visual DOE is then used to evaluate the impact of
+thermal bridging on cooling energy, compared to when the building envelope is properly
+designed and well constructed

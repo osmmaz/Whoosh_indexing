@@ -1,0 +1,17 @@
+Excessive water production from petroleum reservoirs has been a serious problem. Polymer gel
+is one of the common successful treatments. In this study, cheap polyacrylamide (PAM)
+polyethylenimene (PEI) gel system was developed for use at high temperature applications. The
+effect of salts on PAM degree of hydrolysis was studied by using NaCl and NH4Cl. These salts
+showed good compatibility with field mixing water whereas, NaCO3 (a high effective retarder)
+was observed to form a white precipitate with PAM / PEI at high temperatures. 13C NMR and
+DSC revealed that NH4Cl increased PAM degree of hydrolysis more compared to NaCl.
+Rheological measurements showed that NH4Cl decrease the viscosity of the hydrolyzed PAM.
+The cross linking retardation was concluded to be due to charge shielding effect rather than
+deceased PAM hydrolysis. The strength of PAM / PEI was examined through dynamic
+measurements taking into account different parameters like temperature, polymer and crosslinker
+concentrations, initial pH, salinity, salt (retarder) effect. The gelation kinetics was studied
+by DSC and modeled using rate based processes. The developed PAM / PEI gel system was
+evaluated in sandstone and carbonate cores at high temperature (150oC) and pressure (1000 psi).
+A reduction in permeability of about 94  was obtained in sandtone core. In the carbonate core,
+about 99.8  permeability reduction was achieved by PAM / PEI at the same conditions. The proposed PAM/PEI system proved to provide satisfactory gel strength at high temperature using
+field water.

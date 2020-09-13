@@ -1,0 +1,16 @@
+Projects are initiated and implemented to promote investment and maintain the
+competitiveness o f the company. In order for projects to be successful, the
+company management must come up with the best decisions during the
+planning and implementation phases of these projects. Quite often these
+decisions are inadequate, lack consistency and fail to consider all the relevant
+criteria. In this research, a computerized multi criteria decision making model
+based on the Analytic Hierarchy Process (AHP) has been developed to assist in
+decision making for projects. This process incorporates the quantitative and
+qualitative aspects of the decision making problem and provides a measure for
+determining the consistency o f the decision maker. Additionally, a survey has
+been conducted to gather information about the criteria that influence the
+decisions for ranking and evaluating telecommunications projects alternatives.
+Selected professional who play a major role in decision making were asked to
+participate in this survey. To demonstrate the usefulness and application of the
+model, it has been applied on a telecommunications project for a major
+industrial company using the criteria that resulted from the questionnaires

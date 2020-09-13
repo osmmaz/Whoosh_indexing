@@ -1,0 +1,17 @@
+In recent work, distributed adaptive algorithms have been proposed to solve the
+problem of estimation over distributed networks. In diffusion protocol, each node
+in the network functions as an individual adaptive filter whose aim is to estimate
+a parameter of interest through local observations. All the estimates obtained from
+the nodes are then locally fused with their neighboring estimates in the network.
+Several algorithms have been proposed to exploit this distributed structure in order
+to improve estimation.
+Diffusion techniques have been used based on the least mean square (LMS) or
+recursive least square (RLS) algorithm in wireless sensor networks. The LMS
+algorithm, unlike the RLS algorithm, is a very simple algorithm when the computational
+complexity is concerned. However, the performance of the LMS algorithm
+deteriorates as the amount of correlation increases among the input data.
+To address this problem, in this network, a diffusion normalized least mean
+square (NLMS) algorithm is proposed. First, transient analysis of the proposed
+algorithm are derived. Second, the steady state analysis are derived. Finally, simulation
+results are carried out to prove the better performance of the proposed
+algorithm and more importantly to corroborate the theoretical findings.

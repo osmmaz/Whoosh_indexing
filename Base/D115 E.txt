@@ -1,0 +1,22 @@
+Information technology has the potential to enhance the efficiency of conducting FM
+functions in any organization. The objectives of this thesis was to investigate the level
+of automation of FM practices in universities world wide, followed by investigating
+the level of automation and soliciting the experience of staff carrying out the range of
+FM functions in the Saudi Arabian universities, and finally developing FM framework
+models for the purpose of facilitating automation of FM practices in Saudi Arabian
+universities. The framework models treated five major FM functions, including
+construction drawing creation and management, inventory management, space
+management, maintenance management, and emergency preparedness management.
+To achieve these objectives, previous studies and literature was reviewed to
+investigate the level of automation of FM practices in universities world wide. A
+questionnaire survey was developed to assess the level of automation and solicit the
+experience of staff carrying out the range of FM functions in Saudi universities. A
+total of 7 questionnaires were distributed to projects & maintenance department of
+Saudi Universities. A total of 7 completed responses were received. The survey was
+statistically analyzed. The result indicated that great majority of the Saudi universities
+use computers. However, computer resources have not been employed to utilize the
+potential capabilities of IT in conducting FM functions. The survey showed a lack of
+awareness among facility managers on the subject of IT utilization in the facilities
+maintenance management domain. The final objective involved the development of
+FM framework models based on the findings obtained from analyzing the automation
+survey of FM practices in the Saudi universities.

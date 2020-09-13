@@ -1,0 +1,30 @@
+In this thesis, work is done in two fold. First, a generalized Photovoltaic (PV) array
+simulator is developed in MATLAB/Simulink based on the five parameters equivalent
+electric circuit model. The values of the five unknown parameters are estimated using a
+stochastic optimization technique. Estimation problem is converted into an optimization
+problem where Differential Evolution (DE) as an efficient optimizing technique is
+employed to identify the model parameters at Standard Test Condition (STC) using only
+the data provided by the manufacturer. The effectiveness of the proposed method is
+analyzed by estimating the parameters of six PV panels of three different technologies
+and comparing the determined I V curves with the experimental curves given in the
+datasheets. These identified parameters are then used to develop a precise PV simulator
+which is flexible enough to simulate any number of PV panels connected in series and
+parallel. The robustness of the proposed simulator is demonstrated under partial shaded
+conditions and its performance is verified by interfacing it with an actual power
+electronics converter and Maximum Power Point Tracking (MPPT) controller. Second, an efficient Adaptive Neuro Fuzzy Inference System (ANFIS) based MPPT
+controller is proposed that extract maximum possible power from PV under all operating
+condition. The proposed ANFIS based MPPT controller has the capacity to track the
+optimum point under rapidly changing irradiation conditions with less fluctuations in
+steady state as compared to the conventional MPPT methods. Nonlinear time domain
+simulations have been carried out to assess the effectiveness of the proposed controllers
+under different disturbances and compared with the performance of conventional
+Incremental Conductance (InCond) method. The obtained results demonstrate that the
+proposed ANFIS based MPPT controller has better dynamic and steady state
+performance than the conventional method. Finally, its performance is investigated
+experimentally where Real Time Digital Simulator (RTDS) is utilized to simulate a PV
+system in real time and proposed ANFIS based MPPT controller is developed in
+dSPACE DS1104. The experimental results are compared with those obtained from
+MATLAB simulation to assess the validity and accuracy of the proposed controller.
+Simulation and experimental results show that the proposed ANFIS based MPPT has fast
+dynamic response and fewer fluctuations in the steady state as compare to conventional
+InCond method.

@@ -1,0 +1,14 @@
+Multiple access interference (MAI) is considered the major air interference for the 3G
+radio communication systems in which code division multiple access (CDMA) technique
+is used for allocating certain number of users the same channel at the same time.
+Canceling MAI is a major task in the 3G system. Multiuser detection (MUD) receivers
+can provide better interference rejection than the conventional detector used in 2G
+system (like IS 95). The optimal MUD detector which is the maximum likelihood detector
+is too complex for practical implementation with today’s technology. Due to this
+complexity, most of researches have focused on finding suboptimal low complexity
+multiuser detectors solutions that are feasible to implement. In this thesis, we investigate
+the performance of a new receiver structure which uses decision feedback equalizer
+(DFE) as a multiuser detector. A modified DFE structure in which error feedback filter
+(EFF) is added to the main structure is also investigated. The performance of these
+proposed structures will be compared to the decorrelator detector (DD). The proposed
+structure is shown to exhibit good MAI rejection as well as near far resistance.

@@ -1,0 +1,23 @@
+This thesis describes the development of methods for the preparation of chiral racemic
+substituted cyclic and a cyclic nitrones. This has been accomplished by the following
+points.
+In chapter 3, the diastereoselectivity in the cycloaddition reactions of several monoand
+disubstituted alkenes with a ( )norephedrine derived methylenenitrone has been
+investigated. The stereochemical analysis of the addition products (i.e. isoxazolidines)
+has been carried out by X ray, NMR and chemical conversions. The NMR spectra of the
+isoxazolidines at low temperatures indicated the presence of either a single or a
+predominant invertomer. The stereochemistry of the invertomers and nitrogen inversion
+barriers are determined using complete line shape analysis and their dependence on
+solvent is discussed.
+In chapter 4, a study of the stereo  and face selectivity of the cycloaddition
+reactions of several mono  and disubstituted alkenes with 4 hydroxymethyl 3,4,5,6 
+tetrahydropyridine 1 oxide has been carried out. The addition reactions have displayed a
+very high degree of face selectivity (13 48:1). Use of dimethyl methylenemalonate as a
+protective group in nitrone cycloaddition reactions has been demonstrated. The
+invertomeric analysis revealed that the bicyclic cycloadducts remain predominantly as the
+cis fused isomer which leads to the formation of synthetically important secondgeneration
+cyclic aldonitrones via peracid oxidation. One interesting finding was that
+treatment of the cycloadducts with two equivalents of peracid afforded the cyclic Nhydroxy
+lactams, presumably via further oxidation of the aldonitrones. The piperidine
+ring has been elaborated by cycloaddition reaction of the second generation nitrones with
+several alkenes, which in most cases gave the cycloadducts in a stereoselective manner.  

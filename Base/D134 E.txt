@@ -1,0 +1,11 @@
+The analysis and design of buried pipelines is a problem of soil structure interaction.
+Compared with previous work in this area, this study utilizes a more realistic and comprehensive
+non linear finite element method to analyze pipes subjected to sand overburden
+and crossing highways. Soils associated with local pipe network are characterized, and
+soil properties for Duncan and Selig model, which are to be used in the non linear finite
+element analyses, are determined. A parametric study is carried out for pipes of various diameters
+and thicknesses under sand overburden up to 60 feet and subjected to various other
+loadings such as live load, internal pressure, and temperature. The results of the parametric
+study are used to develop regression models using the multiple linear regression method.
+The regression models are capable of predicting stresses and diameter changes in the pipes
+under sand overburden and crossing highways

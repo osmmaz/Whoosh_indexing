@@ -1,0 +1,19 @@
+Four XC Polymeric water based mud systems with different median particle sizes o f the
+bridging additives were used to study the effect o f particle size distribution and flooding
+time on formation damage. The experiment was conducted using Leak O ff experimental
+setup. An Ultrasonic technique, a non destructive method was implemented to measure
+depth o f invasion by the drilling fluid filtrates and particles on a Berea core samples. The
+results o f this experimental work proved that an increase in the median particle size o f
+the bridging additive would decrease the invasion depth and increase the return
+permeability. It is also observed that as flooding time increases, permeability impairment
+and invasion depth increased, which resulted in an increase o f the skin factor. For all o f
+the drilling fluid types studied, the largest invasion depth was observed in the first four
+hours flooding time. This is due to the absence o f well established, low permeable filter
+cake to protect the formation from invasion by drilling flu id filtrates and drilling fluid
+particulates down to colloidal sizes. In sizing particles in the drilling flu id system, it is
+important to consider not only the invasion o f particles, but also the invasion o f
+particulates down to colloidal sizes like the polymers. It is possible to achieve minimum
+formation impairment by properly sizing the particles, not only to minimize the invasion
+depth into the formation, but also to effectively filter out the smaller polymers and other
+colloidal particulates in the drilling flu id system. An example is presented at the end to
+show how this experimental work can be applied to horizontal well.

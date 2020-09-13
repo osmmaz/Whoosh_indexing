@@ -1,0 +1,18 @@
+The behavior of steel frames is highly influenced by the beam column connections. In
+analysis and design, they are idealized as either rigid or pinned for simplicity and
+between these two extremities lie the actual behavior of steel frames connections
+which is semi rigid. This classification is characterized by the nonlinear momentrotation
+relationship which must be incorporated in the analysis. Cap plate connection
+is widely used in industrial steel frames for its advantages over other types of building
+connections, but the response of such connection has not been theoretically and
+experimentally determined.
+In this research, the behavior of cap plate connections was studied by testing
+six different connections to obtain data for moment rotation curves of such
+connections, to measure the forces in the tension bolts, and to measure the strain
+distribution at different cross section along the beam at the connection. A computer
+program was developed for a refined analysis of industrial steel frames taking into
+consideration the nonlinearities resulting from the connection flexibility and secondorder
+effects. A mathematical model for the connection moment rotation curve is also
+proposed using the finite element method and the yield line method. A good
+agreement was found by comparing the proposed model results to the experimental
+results.

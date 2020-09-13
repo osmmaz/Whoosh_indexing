@@ -1,0 +1,21 @@
+Multi storey buildings with waffle slabs as concrete floor and roof systems are very
+common in Saudi Arabia and in many parts of the world. Because of the complex
+geometry of intersecting ribs. the analysis and design of waffle slab is not easy. Current
+design methods neglect the existence of ribs and treat the slabs as solid slabs and are
+approximate in nature. Finite element based methods are also used for' design of waffle
+slabs. Strut and tie model is being used increasingly for analysis and design of concrete
+structures with pronounced D regions. With a grid of intersecting ribs. waffle slab
+essentially forms a D region. This thesis presents a new approach based on strut and tie
+method for analysis and design of waffle slabs. A three dimensional strut and tie model is
+proposed for analysis and design of simply supported waffle slabs and to predict the
+strength and corresponding mode of failure. The result obtained from proposed method.
+generated in AN SYS software and analyzed using its nonlinear analysis features. is
+compared with experimental results from literature. The strut and tie model is in good
+agreement with experimental results for all configurations of simply supported waffle
+slabs. whether the mode of failure is flexural. shear or slip bond failure. and it can be
+employed for the design of waffle slabs. A Visual Basic based user fiiendly software
+“STWAF” has been developed for' analysis of the 3D truss model using STAAD and for
+the design based on ACI 318 05 recormnendations for waffle slabs using the proposed
+strut and tie method. Parametric studies conducted using STVVAF shows that ACI code
+provisions for' the rib dimensions and spacing of waffle slab is done in such a way that
+the slab fails under flexure in case of overloading for' spans up to 12m.

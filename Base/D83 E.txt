@@ -1,0 +1,30 @@
+The primary objective of this dissertation is the development of a modeling tool, using
+the finite element method, for static and dynamic analysis of general refined laminated
+shell structures undergoing finite rotations and large motion with strains assumed to
+remain small.
+A kinematic model based on the material representation is presented leading to a third
+order shear deformation theory with large rotation capabilities and quadratic transverse
+shear stress distribution across the thickness. A singularity free parametrization of the
+rotation field is adopted with it the exponential mapping for configuration update. A
+Total Lagrangian formulation is used with the second Piola Kirchhoff stresses, Green 
+Lagrange strains and constitutive equations defined with respect to laminate general
+curvilinear coordinates. The developed shell element is composed of an arbitrary number
+of layers where the fiber directions are allowed to vary in any way from layer to layer.
+The finite element discretization is carried out using a four node isoparametric laminated
+shell element with seven degrees of freedom per node. The transverse shear locking
+problem is avoided by applying the Assumed Natural Strain concept to the constant part
+of the transverse shear strain. A consistent linearization of the weak form of equilibrium
+equations (static case) or equations of motion (dynamic case) is undertaken to achieve a
+quadratic rate of convergence.
+The dynamic part consists of designing and implementing an energy momentum
+conserving time stepping algorithm. This algorithm is based on a general methodology
+for the design of exact energy momentum schemes, which was recently proposed in the
+literature and applied successfully to nonlinear shells based on the first order shear
+deformation theory. Here it is extended, for the first time, to the third order shear
+deformation theory.
+The developed finite rotation shell element is then implemented in two independent
+computer programs, one for static and the other for dynamic analysis. Then it is tested on
+some challenging linear and nonlinear problems, recently reported in the literature, and
+the results show its excellent performance and robustness. A couple of examples show'
+the discrepancy in prediction between third and first order shear deformation theories and
+this raises the need for such refined theories.

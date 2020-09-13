@@ -1,0 +1,13 @@
+Economic Production Quantity EPQ in its classical version does not include a scenario of
+imperfect quality items. However, many researchers have considered this situation. We
+consider a manufacturing process that generates non conforming items until proper
+adjustment of the process is reached. The time to perform the adjustment is treated as a
+fixed value and a random variable. Items produced after the adjustment period is always
+conforming and the demand rate for the produced items is constant. The process stops
+when the production of conforming items is sufficient to cover the demand, and then the
+cycle is repeated uninterrupted. Other considerations such as maximum allowable
+shortage, inspection errors, defective items processing and Taguchi’s quality loss
+function approach are incorporated as extensions. We determined the optimal production
+quantity and maximum allowable shortage that result in minimum expected total cost.
+Data example and sensitivity analysis are provided for illustration and is expected to
+provide more insights in managing this important problem.

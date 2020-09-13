@@ -1,0 +1,16 @@
+This study attempts to formulate and quantify various relevant considerations
+which influence the effective cathodic protection of corroding reinforcing
+steel in concrete structures in the Gulf environment. The parameters included in
+the research program are: chloride content, temperature, reactive aggregates,
+depth o f reinforcement in a two mat system and secondary effects. It was found
+that the instant off, shift and decay potentials as well as the current density
+needed for adequate protection of steel are dependent on the chloride gradient as
+well as the chloride content in concrete. A 60°C exposure required only about
+2 0 percent higher level of protection in terms of current density/instant off potential/
+decay potential for an initial polarization period of two months. Enhanced
+activation in the initial period reduces the corrosion activity subsequently due to
+the beneficial electromigration of ions requiring a reduced protection on a long
+term basis. The decay potential criterion was found to be least sensitive to chloride
+content, chloride gradient and temperature effect, although it does not
+explicitly indicate the level of protection current which is automatically adjusted
+to accommodate the various factors influencing corrosion activity

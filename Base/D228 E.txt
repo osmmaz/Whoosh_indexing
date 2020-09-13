@@ -1,0 +1,14 @@
+The flow pattern and the pressure drop of oil water flow in a 2.25 cm inner diameter
+acrylic horizontal pipe were studied experimentally. The used oil has a 781 kg/m3 density
+and a 1.85 cP viscosity at 25 oC. The experimental data were compared with Trallero,
+Brauner, and Torres flow pattern models and with several models of mixture viscosity.
+The effect of water salinity on flow pattern map and pressure drop was investigated by
+making the water salinity 75 ‰ and comparing the data of oil Tap water with that for oilsaline
+water. The added amount of salt caused the density ratio to change from 0.78 to
+0.732, and the viscosity ratio to change from1.94 to 1.536. It was noticed that due to the
+salt addition, the transition from dispersion of oil in water over a water layer flow pattern
+to the dispersion of water in oil and oil in water flow pattern was delayed. Also, it was
+noticed that in the stratified with mixture at the interface flow pattern, the waves in saline
+water has less amplitudes than that in tap water. For the pressure drop, it was noticed that
+the inversion in saline water case happened earlier, and the pressure drop decrease rate
+for saline water was found to be less than that for tap water.

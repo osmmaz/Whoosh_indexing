@@ -1,0 +1,29 @@
+The problems of global warming and air pollution have led to enforcement of stringent
+constraints by governments and international community on the release of emissions.
+These constraints are nowadays among the most important factors impacting plant
+operations. Inferential sensing techniques have been gaining momentum recently as
+viable alternatives to hardware sensors (i.e. Continuous Emission Monitoring System) in
+various situations. The core of inferential sensing is built on modeling and estimation
+techniques.
+This thesis work investigated and developed an inferential sensing technique for process
+emission monitoring using artificial neural networks. Neural Networks are powerful tool
+for modeling highly complex non linear systems, especially when the physics of the
+systems is not clearly understood or difficult to determine as with emission from
+processes. Three different neural networks techniques were employed to model emission
+xii
+R ep rod uced with perm ission o f the copyright ow ner. Further reproduction prohibited without perm ission.
+from the furnace unit of an industrial boiler. Multilayer Perceptron Neural Network was
+first investigated to construct the desired model; a trade off was struck between the
+accuracy and the computational complexity of the model. Due to the drawbacks of
+multilayer perceptron neural network in getting trapped in local solution and it
+sensitivities to initial value of weights and biases other approaches were investigated.
+Two models were developed with two different sets of data using Radial Basis Function
+Network so that adequate and parsimonious model can be obtained with no local
+minimum problem. While a third technique was improvised to seize the merits of Neural
+Networks and Particle Swarm Optimization to deal with approximation embedded in the
+estimation of the derivative in the multilayer perceptron thereby leading to a more
+accurate model. On a final note, real plant’s data were archived from an industrial
+process that produces ample amount of emission; the data were used to develop a model
+for the process using the modeling techniques highlighted above. The results obtained
+clearly shows the ability of neural network techniques in developing process emission
+model.

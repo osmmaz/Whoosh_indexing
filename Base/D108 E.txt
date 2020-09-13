@@ -1,0 +1,20 @@
+Arabic font recognition is the process of recognizing the font of a given text image. It
+may be needed as a preprocessing phase to an Optical Character Recognition (OCR)
+system which enables it to identify the font of text and then use the pre trained models of
+the specific font for the text image. Arabic font recognition has not been studied as
+extensively as OCR despite of its importance in improving recognition accuracy.
+A successful Arabic font recognition prototype is designed and developed. Since there is
+no available database of multi resolution, multi font, multi size, and multi style text
+images; this research includes building a database of 20 Arabic fonts in 3 resolutions, 10
+sizes, and 4 styles. Six hundred and thirty features are extracted. Fifty four features are
+classical features (viz. Curvature features (Concave and convex features), Direction
+features, Direction length features, Box Counting Dimension (BCD) features, Center of
+gravity features, Number of vertical and horizontal extrema features, Number of black
+and white components features, Smallest black component features, and Log baseline
+position features). Five hundred and seventy six features are extracted using Log Gabor
+features with 8 orientations and 4 scales. The accuracy computed of each feature
+independently and in a combination with other features is compared. Experimental results
+of applying these features on Arabic fonts are presented. The accuracy of these features
+using a freely available database and our database (K AFD) compared favorably with the
+state of art. To our knowledge this is the first work to use these number of fonts,
+sizes,..etc.

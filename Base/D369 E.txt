@@ -1,0 +1,18 @@
+The fourth generation of cellular networks will use a new high performance air interface
+for cellular mobile communication systems called Long Term Evolution (LTE). LTE is the
+evolution of Mobile Telecommunication System and will considerably increase the capacity and
+speed of mobile telephone networks by employing several enabling technologies including
+multiple input multiple output (MIMO) systems.
+In any wireless device, the performance of radio communications depends on the
+design of the efficient antennas. The objective of this research work is to design printed antennas
+suitable for use within LTE mobile terminals. To satisfy the antenna size of LTE devices,
+meander line technology is used to reduce the resonant length of the antenna. Design equations
+and professional software (HFSS) are used to design and optimize a 780 MHz single element
+meander line antenna (MLA) before designing a 2 element MLA for MIMO applications. Novel
+technique is used to reduce the mutual coupling of the MLA elements to an acceptable level (in excess of  15 dB at 870 MHz). MATLAB codes are written to investigate the frequency
+dependency of the correlation coefficient of the MIMO antenna.
+In house printed facility is used to fabricate the prototypes of the single and the two
+element meander line antennas. A Network analyser and an antenna measurement trainer are
+used to measure the S parameters and radiation patterns of both the antenna. Due to inaccuracy
+in the fabrication process, a precent error of 13.09  and 19.17  are observed in the reflection
+responses of the single element and MIMO antenna.

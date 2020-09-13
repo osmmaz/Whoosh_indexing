@@ -1,0 +1,18 @@
+The major objective of this thesis is to develop an Intelligent Alarm Processor
+(IAP) for processing excessive alarms at the Power Control Center (PCC) especially
+during a major power disturbance. The received alarms will be analyzed by the IAP
+and the outcome will be presented to the dispatcher in a shorter, more concise and
+meaningful manner.
+The processing of multiple alarms into fewer concise statements is best
+achieved by applying artificial intelligence techniques into the received alarms. In this
+thesis, a rule based Expert System consisting of 61 rules is developed. It utilizes
+CLIPS as a tool with a forward chaining reasoning. This system emulates an
+experienced dispatcher at the PCC in analyzing the power system alarms to reach a definite conclusion. The desired conclusion describes what has happened on the
+network. Such a conclusion is needed to lead to the course of actions required to
+return the power system to the normal state as soon as possible.
+The developed IAP manipulates the received alarms on the basis defined by
+the derived empirical rules to produce the descriptive messages. Furthermore, it
+controls the suppression and display of information to the dispatcher on the basis of
+what he needs and does not need to see. In deriving the required conclusion, the IAP
+relies heavily on the connectivity data of the network to relate the various equipment
+to each other

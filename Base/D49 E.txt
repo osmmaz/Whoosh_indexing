@@ -1,0 +1,21 @@
+With the growth of the Internet, the Internet traffic increases, burdening the
+available network resources. The Internet service providers (ISPs) that maintain
+the networks try to lessen the load on the resources by implementing new technologies,
+by efficient utilization of the available resources, or both. The ISPs ensure
+proper routing of the packets resulting in effective utilization and a reduced load on
+their resources. Open Shortest Path First (OSPF) is the most popular and most
+widely used protocol for routing in the intra domain networks. OSPF selects the
+path of the packet based on the weight of the links. The OSPF Weight Setting problem
+(OSPFWS) is to find a set of weights that when applied to the links, given
+a traffic demand, provide a better network performance. OSPFWS is an NP hard
+problem. An approach to the OSPFWS using Tabu Search (TS) already exists. The
+TS approach focusses on generating optimized solutions based only on the traffic demand,
+network topology, and link capacity. However, the solutions generated take a
+lot of time to obtain and are applied offline. Therefore, an approach to OSPFWS
+is proposed which can be used online. The objective of the thesis is to investigate
+and implement different online simulation system approaches using Tabu Search.
+To study the effects of assigning solution weights of different demands to a given
+demand at hand and to improve these weights to suit this demand also contributes
+towards the thesis work. To formulate a deterministic approach that improves the
+existing initial solution weights to suit the demand at hand is also part of this thesis
+work.

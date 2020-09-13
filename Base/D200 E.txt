@@ -1,0 +1,22 @@
+Simulation modeling is an increasingly popular and effective tool for analyzing
+transportation problems with the least cost. Recent advancements in computer technology
+have led to the development of high fidelity microscopic simulation models. For any
+simulation study, model calibration is a crucial step for obtaining any representative
+results from the analysis.
+The main objective of this study is to calibrate and validate the microscopic traffic
+simulation model VISSIM to the traffic conditions of Khobar and Dammam, Saudi
+Arabia. VISSIM is a German microscopic simulation model that is beginning to see
+increased use within the United States and in many other major countries. It is one of the
+few comprehensive microscopic traffic simulators covering a wide range of traffic
+situations including traffic and transit on urban roads and motorways.
+To achieve this main objective several default values for the parameters such as
+number of observed vehicles, additive and multiplicative part of desired safety distance,
+amber signal decision and distance required in changing lane were modified to replicate
+field conditions. The results with these modified values showed no discrepancy between
+the model simulation MOE’s and the field observed MOE’s.
+In order to validate the calibrated model, it has been applied on another network
+chosen in Dammam city using a different data set. Model validation was regarded as a
+final stage to investigate if each component adequately reproduces observed travel
+characteristics and overall performance of the model is within an acceptable error. The
+results of the validation showed that the difference between the field observed MOE’s and
+the VISSIM simulation results are within the acceptable range.

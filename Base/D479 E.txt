@@ -1,0 +1,18 @@
+The piecewise polynomial B spline representation is a flexible tool in CAGD for
+representing and designing the geometric objects. In the field of Computer Graphics
+or Computer Aided Design, a very useful property fo r a given spline model is to
+have locally supported basis functions, in order to allow localized modifications of the
+shape. Unfortunately this property can also become a serious disadvantage when the
+user wishes to edit the global shape of a complex object. Multiresolution representation
+is proposed as a solution to alleviate this problem. Various multiresolution
+methods are proposed fo r different B spline models.
+In our work, we propose a multiresolution representation for NURBS (Non 
+Uniform Rational B Spline). Among the types of B splines, NURBS have been receiving
+considerable attention in the areas of computer graphics and geometric modeling.
+The proposed multiresolution model uses control point decimation strategy for
+decomposition of NU RBS curves. It is extended to represent using multiresolution
+the NURBS surfaces. Our proposed method is efficient in both time and space utilization.
+This work makes a comparative study of our proposed method and two of the
+already existing multiresolution representation methods for B splines, one that uses
+the B spline wavelets and the other is based on knot decimation and least squares
+approximation strategy.

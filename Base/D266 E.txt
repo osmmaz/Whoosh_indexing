@@ -1,0 +1,16 @@
+Several methods have been developed for solving the system of linear
+equations that arise in approximating the solution of two dimensional reservoir
+flow equations. Those methods solve the system of linear equations either
+directly or iteratively.
+In this thesis a comparative study of the most commonly used methods is
+made. The study includes a full analysis of each method plus a comparison of the
+computing efficiencies in terms of both the computation times and the memory
+space requirements. It also includes a discussion of grid ordering techniques that
+have appeared in the literature.
+The test problem used in the comparison is a homogeneous, two phase
+(oil water), two dimensional five spot water flooding. A simple two phase three
+dimensional reservoir simulator was used. The results showed D4 Gaussian
+Elimination method to be the most efficient of the direct methods while the Point
+Successive Over relaxation method was the most efficient among the iterative
+techniques. Nested Factorization method had the fastest convergence of all the
+iterative techniques.

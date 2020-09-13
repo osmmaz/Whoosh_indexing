@@ -1,0 +1,8 @@
+In th is thesis we introduce th e annuli of a fuzzy subgroup and use it as a tool
+to give a lte rn ate proofs of some properties of fuzzy subgroups and to straighten
+out som e known results on fuzzy norm al and fuzzy abelian groups and obtain some
+new results about them. It is also used to describe th e left and right fuzzy cosets
+determ ined by a fuzzy subgroup.
+We o b ta in some com m utative diagram s which relate to hom om orphism s, fuzzy
+subgroups and fuzzy quotient groups. Finally, we straig h ten out some chains of
+fuzzy norm al subgroups which lead to the concept of fuzzy solvable groups.

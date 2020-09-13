@@ -1,0 +1,24 @@
+Densities o f the pure compounds o f Benzene, Cyclohexane and n Hexane as well as the
+densities of their binary and ternary mixtures have been measured using an experimental
+system whose accuracy and reliability have been previously established. The density
+measurements were carried out over a wide range o f temperatures (am bient to 20(fC) and
+concentrations. The experimental data were compared with predictions b y two renowned
+correlations; the Hankinson Brobst Thompson correlation (H B T ) and the Spencer Danner
+modified Rackett ( S D R ) equation. The two correlations appear to be quite satisfactory in
+predicting the satu rated liquid density o f the pure and liquid mixtures considered. The
+S D R predicts the experimental results with an overall average absolute deviation
+(A A D   ) o f 0.29  , while the H B T has an AAD  o f 0.61  .
+The excess molar volumes, Vf'* fo r the bi,nary liquid mixtures o f benzene and
+cyclohexane, benzene and n hexane, and cyclohexane and n hexane from ambient to 20(fC,
+were calculated fro m the density data. Values of the VE, fo r the three system s have been
+correlated, first as function o f concentration using a 3 constant Redlich Kister expansion;
+Vs = X ( 1   X ) \ A + B{ 1  2X ) + C ( /  2X )2 J
+A n d secondly, as a function o f temperature by expressing the coefficients in the Redlich 
+K ister expansion in term s o f temperature. Values o f VE have been found to be positive fo r
+benzene and cyclohexane and benzene and n hexane mixtures. For cyclohexane and nhexane,
+the values o f VE have been found to change from positive to negative with
+increasing temperature.
+The use o f the Lennard Jones poten tial to predict the density o f benzene, cyclohexane
+and n hexane through the use o f molecular simulation was also investigated. The densities
+o f benzene and n hexane were predicted with a reasonable degree o f accuracy, while the
+predictions made f o r cyclohexane involved considerable errors.

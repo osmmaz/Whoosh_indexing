@@ -1,0 +1,17 @@
+Quality control can be divided into statistical process control and product
+control. The product control area can also be divided into complete inspection
+plans and acceptance sampling plans. Complete inspection plans are becoming
+increasingly im portant in the area of quality control due to the growth in modern
+m anufacturing systems th a t make complete inspection inexpensive and reliable.
+This thesis proposes a new complete inspection plan for m ulticharacteristic
+critical components. Optim ization models which depict the plan are developed
+with the necessary algorithms and software. Comparisons w ith th e existing models
+in the literature are carried out using randomly generated inspection problems.
+Efforts to explicitly incorporate m aterial handling cost in th e inspection process
+are made.
+The general model in the thesis referred to as model (2) performed b etter in
+terms of expected to tal cost of inspection than the models in the literature, in
+75 80 percent of th e random ly generated problems. The savings in total expected
+costs range from 1 20 percent. Incorporating m aterial handling cost improved the
+performance of the proposed plan compared to th e ones in the literature. This
+was expected due to less m aterial handling involvements in th e proposed plan.

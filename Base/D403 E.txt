@@ -1,0 +1,17 @@
+This is an experimental study on the dynamic response o f a rotor with a
+transverse surface crack. The influences o f a non propagating and propagating
+transverse crack, and side load on the dynamic response o f rotors were investigated in
+order to get some clues that can be used to detect the presence o f a crack in rotating
+shafts. Startup and steady state vibration signatures were analyzed using the Wavelet
+Transform, a Joint Time Frequency Analysis technique. Vibration signals were also
+analyzed with the conventional methods in which the results presented in the form o f
+Frequency Spectrum Cascades and Waterfalls, Bode plots and orbits for comparison.
+Two experimental setups, simply supported and overhang shaft arrangements, were
+used: the response o f the two experimental arrangements under the influence o f crack
+and side load was different. The results showed that crack introduces additional features
+in the wavelet transform o f the startup signals and produces changes in amplitude o f IX
+and 2X vibration harmonics at steady state. The results o f the conventional analysis
+showed that crack increases the resonance bandwidth and may or may not excite 2X
+harmonics during startup depending on the location o f the crack. Also, crack produces
+changes in amplitudes o f IX and 2X harmonics and produces two loop orbit in the
+steady state signals.

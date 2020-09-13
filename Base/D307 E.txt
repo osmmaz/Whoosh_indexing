@@ -1,0 +1,24 @@
+Due to the rise in demand and price of propylene over ethylene, the need to increase the
+selective production of propylene is necessary. Our study focuses on developing a one
+dimensional zeolite which is suitable for the selective cracking of light naphtha (using nhexane
+as a model reactant) to produce propylene. In order to achieve this, we studied
+the effect of the incorporation of a nonionic surfactant in the synthesis of Mobil Twenty
+Three (MTT) zeolite, a one  dimensional 10 membered ring (10 MR) zeolite via a
+microwave reactor. Incorporation of nonionic polyoxyethylene 20 stearyl ether (Brij 78)
+surfactant into a synthesis mixture of SiO2 Al2O3   NaOH  Brij 78   isopropyl amine  
+H2O at different Brij 78/SiO2 ratio (0, 0.04 and 0.07) was studied with different synthesis
+aging time of 5, 24 and 48 h. The Taguchi method and the Pareto Analysis of variance
+were used to investigate the effects of Brij 78/SiO2 ratio and synthesis aging time on assynthesized
+samples Brunauer Emmett Teller (BET) surface area and mean crystal
+length. In order to minimize diffusion and mass transfer problems in our catalyst, we
+focused on minimizing catalyst mean crystal length and maximizing catalyst BET surface
+area. Characterization techniques such as X ray diffraction (XRD), BET, Field Emission
+Scanning Electron Microscope FESEM, energy dispersive X ray (EDX) and twenty
+seven aluminum nuclear magnetic resonance (27Al NMR) were used. Pure Rod like MTT
+zeolite phase were obtained with crystal length in the submicron to nanometer range Both Taguchi and Pareto analysis show that aging time of synthesis precursor is more
+significant with minimal competition from Brij 78/SiO2 ratio in reducing mean crystal
+length and increasing BET surface area of catalyst. Catalytic test of MTT zeolite in the
+cracking of n hexane shows good selectivity and yield towards olefins. Also, Propylene
+to ethylene ratio (P/E) of ~2.5 was recorded for evaluated catalyst. Furthermore, increase
+in catalyst activity and resistance to deactivation was observed after desilication followed
+by mild dealumination

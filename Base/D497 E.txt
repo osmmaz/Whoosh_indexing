@@ -1,0 +1,6 @@
+Wireless sensor networks (WSNs) require very efficient algorithms for data
+processing, compression and routing due to the limited resources of sensor nodes. As
+WSNs are commonly deployed for monitoring the remote and hazardous environments, it
+is not feasible to recharge or replace the battery of sensor nodes. Therefore, sensor nodes
+should use their energy very efficiently even when a power harvesting technique is used
+with the battery of limited capacity.

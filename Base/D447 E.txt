@@ -1,0 +1,43 @@
+The h LLDPE is well known for its superior mechanical properties but at
+the same time is very difficult to process. On the other hand LDPE is much better in
+processing but has lower mechanical properties. Thus a blend of h LLDPE/LDPE is an
+option which could improve processability and at the same time provide better
+mechanical properties. Of the two, h LLDPE and LDPE, h LLDPE is difficult to process
+and thus in this research, the processability and the mechanical characteristics of h 
+LLDPE/LDPE blends are studied. The processability window and polymer degradation
+studies for h LLDPE were established for different die temperatures (210, 230, 250 and
+270°C), and it was found that the optimum die temperature was 230°C. Also, effects of
+draw ratio (DR) and blow ratio (BR) on the mechanical properties of the blown films
+were studied. Mechanical tests such as tensile and Elmendorf tear test were conducted in
+both MD (machine) and TD (transverse) directions. Also, impact tests were carried out.
+Different mechanical tests of blown film samples at different DRs of 7, 21, 36, 49, 64 and
+86 were accomplished. The DR 21 which resulted in higher impact resistance to failure
+of films was selected as the optimum DR. Other blown films of h LLDPE were produced
+at different BRs of 1.12, 1.4 and 1.78 and mechanically tested. The study showed that the
+optimum BR should be in the range of 1.4 to 1.78; therefore an average value of 1.6 was
+selected. Consequently with the selected values of die temperature (230°C ), draw ratio
+(21), and blow ratio (1.6) the effect of blending h LLDPE with LDPE was studied.
+Pure h LLDPE, LDPE and their blends (5 , 10 , 15 , 20  and 50 ) were
+processed, and the effect of blending was studied using thermal, birefringence and
+mechanical techniques. The crystallinity for different blends was determined using DSC
+instrument. The cyrstallinity values were found to be in the range of 40  close to that of
+pure h LLDPE and were not affected by the blend ratio. The birefringence of the blends
+has been studied using an optical microscope and an index of orientation has been
+reported. There is an increase in MD orientation when the blend ratio increases ( 3x10 3
+to 5x10 3) from 0 to 50 , and then the birefringence decreases. Mechanical tests such as
+tensile, impact and elmendorf tear test were also conducted on the blended films. With
+addition of up to 20  LDPE, many mechanical properties of the blend showed improvement. There was a 20  enhancement in MD yield strength by small addition of
+LDPE without any decrease in the MD ductility. The MD toughness also displayed an
+increment of around 43  in its properties with this small addition of LDPE. The
+enhancement in TD tensile strength was more than 75  with very low blend ratio of 10 
+LDPE. The TD ductility slightly improved in comparison to pure h LLDPE. TD
+toughness showed a small increase up to a blend ratio of 50 . A 20  improvement was
+observed in the impact peak force with very small addition of LDPE. In case of impact
+failure energy there was some decrease with respect to the blend ratio. The tear
+resistance also showed some kind of deterioration in the MD direction, but there was a
+large improvement for tear resistance in the TD direction. The TD tear resistance
+improved by almost 100  by addition of LDPE for the low blend percentages up to 20 .
+In general, the study of blend effect of h LLDPE/LDPE on mechanical properties of
+blown films showed improvement up to 20  blends. In addition the torque requirement
+for the film process was reduced with the increase of blend ratio, except at 5  blend
+ratio.

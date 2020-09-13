@@ -1,0 +1,28 @@
+Scalar multiplication is the basic operation in elliptic curve cryptography that can
+be performed by many algorithms. These algorithms multiply a scalar value K with an
+elliptic curve base point P. One of the crucial decisions when implementing an efficient
+elliptic curve cryptosystem is deciding which point coordinate system to use. The point
+coordinate system used for addition and doubling of points on the elliptic curve
+determines the efficiency of these routines, and hence the efficiency of the basic
+cryptographic operation, scalar multiplication. Although using a fixed coordinate system
+enhances the performance of the scalar multiplication, (by removing the intermediate
+inversion operations), it becomes a security weakness since it can be exploited by
+projective coordinates leak attacks to reveal some secure information. Therefore, finding a
+coordinate system that can enhance the performance of the scalar multiplication and being
+secure against such attacks is desired goal.
+This thesis introduces a new approach called Dynamic Projective Coordinate
+(DPC) system. DPC provides a framework that automates the selection of the projective
+coordinate system and uses a single mathematical formulation/software code to implement different projective coordinate systems. This framework allows the
+computing/encrypting device to select the projective coordinate either at random, or
+according to a certain rule.
+DPC uses dynamic transformation functions to convert coordinates of any point on
+the elliptic curve to any projective coordinates by using the same mathematical formula.
+These transformation functions are used to develop dynamic addition and doubling
+formulas for elliptic curve over the prime field GF(p) and over the binary field GF(2m).
+Also, this thesis proposes a new classification method for Side Channel Attacks
+(SCA). This classification is based on the type of information being leaked which can be
+Operation dependent, Data dependent, Address dependent or any combination of them.
+New countermeasures for data dependent, data and operation dependent and addressdependent
+attacks are proposed. These countermeasures are based on the fact that DPC
+lends itself to randomize both the data being manipulated and the number of operations
+being performed by randomizing the coordinate system used.

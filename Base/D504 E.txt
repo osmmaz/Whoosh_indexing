@@ -1,0 +1,24 @@
+In recent years, lots of research efforts have been directed towards miniaturization
+of devices and components in order to make them portable, compact, more efficient,
+more sensitive and ultimately consume less power. These reasons, among others, propel
+the increased research interest in nanoelectromechanical system (NEMS). The impact of
+NEMS is projected to cut across all aspects of life from automotive systems and
+communication to medicine and bioengineering.
+A part of this dissertation focuses on the optimization of some characteristics of
+ultrathin ) polycrystalline silicon germanium (polySiGe) films that are suitable
+for applications as structural layers for NEMS devices including biosensors,
+nanoswitches, nanoresonators, etc. Poly SiGe is selected because it can be deposited at a
+lower temperature (< 450oC) by chemical vapour deposition technique compared to many
+other materials. In addition, the intrinsic stresses can be favourably tuned with
+germanium. For the optimization process, the grey Taguchi approach was used to deliver
+an optimal combination of stress (43 MPa), resistivity (1.39 cm) and deposition rate
+(0.34 nm/s) at CMOS (complementary metal oxide semiconductor) compatible deposition
+temperature of 415oC, silane and germane flow rates of 8 sccm and 180 sccm,
+respectively. In addition to the optimized recipe, an ‘experimental best’ recipe selected
+from the Taguchi orthogonal array was further characterized. Among the additional
+characteristics included those of chemical (boron concentration and germanium fraction),
+electrical (carrier concentration, Hall mobility and resistivity), and mechanical (surface
+roughness, elastic modulus and hardness). By using these recipes, detailed experimental
+studies of evolution of stress, resistivity and surface properties were conducted to understand how the trend of the local stresses across the film thickness is influenced. It is
+shown that a large variation in the local stresses is an indication of a strain gradient
+expected in a free standing structure.

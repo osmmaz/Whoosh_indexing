@@ -1,0 +1,18 @@
+Elliptic Curve Cryptosystems have attracted many researchers and have been included
+in many standards such as IEEE, ANSI, NIST, SEC and WTLS. The ability
+to use smaller keys and computationally more efficient algorithms compared with
+earlier public key cryptosystems such as RSA and ElGamal are two main reasons
+why elliptic curve cryptosystems are becoming more popular. They are considered to
+be particularly suitable for implementation on sm art cards or mobile devices. Power
+Analysis Attacks on such devices are considered serious threat due to the physical
+characteristics of these devices and their use in potentially hostile environments.
+This dissertation investigates elliptic curve cryptoprocessor architectures for curves
+defined over GF(2m) fields. In this dissertation, new architectures th a t are suitable
+for efficient com putation of scalar multiplications with resistance against power
+analysis attacks are proposed and their performance evaluated. This is achieved
+by exploiting parallelism and randomized processing techniques. Parallelism and
+randomization are controlled at different levels to provide more efficiency and security.
+Furthermore, the proposed architectures are flexible enough to allow designers
+tailor performance and hardware requirements according to their performance and
+cost objectives. The proposed architectures have been modeled using VHDL and
+implemented on FPGA platform.

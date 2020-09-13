@@ -1,0 +1,9 @@
+Random Access Schemes for the mobile communication systems are widely investigated.
+The choice of a particular random access scheme changes the way in which
+the mobile terminals contend for getting hold of the channel. Slotted ALOH A is
+one such scheme which, despite being simple, is shown to offer a good performance
+over mobile radio channels. The present thesis is focussed on the study o f slotted
+ALOHA under a generalized fading model taking into account various physical effects
+of a mobile radio channel. Through this study generalized results are obtained which
+provide better mathematical insight to model the real world changing transmission
+scenario.

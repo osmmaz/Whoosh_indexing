@@ -1,0 +1,17 @@
+Computerized Adaptive Testing (C AT) is a growing mode of assessment in many educational
+as well as non educational institutions around the world. A distinct feature
+of CAT is its ability to tailor the test to the ability level of a test taker based on
+the observed responses to previously administered items. Hence, shorter tests can be
+administered and yet more accurate estimates can be attained. In the literature, several
+approaches have been proposed for making C AT systems based on Item Response
+Theory (IRT) and Bayesian Belief Networks (BBNs). Along with other detriments,
+these approaches rely on strict assumptions and require a large amount of probability
+data. In this thesis, we survey the state of the art of computerized adaptive testing.
+Then, we explore the application of several static neural network models in designing
+traditional tests. A fter that, we propose a novel approach fo r making C A T systems
+using Recurrent Neural Networks (RNNs). A s a form of neural networks, R N N is
+data driven and self adaptive classifier. Moreover, being recurrent, it captures the system
+dynamics by remembering the time varying pattern of examinee’s responses to
+previously administered items. We developed a toolkit of C AT system based on RNNs
+in Matlab 1.0 and evaluated its performance on several datasets. The results of the
+proposed approach are found to be promising as compared to some existing techniques.

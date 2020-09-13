@@ -1,0 +1,22 @@
+The use o f Field Programmable Gate Arrays (FPGAs) for the design o f Application
+Specific Integrated Circuits (ASICs) is becoming increasingly popular. This is due to
+their fast turn around time, flexible architecture and their well developed design
+automation tools. Compared to Mask Programmable Gate Arrays (MPGAs), FPGAs
+have the advantage of field programmability requiring only few minutes to be
+customized FPGAs, however, are not as dense as MPGAs due to their programming area
+overhead The architectural flexibility and gate density o f FPGAs far surpasses those o f
+the well known Electrically Programmable Logic devices (EPLDs).
+Several technologies have been used for FPGAs customization. These include, SRAM,
+anti fuse, and floating gate technolopes. In contrast to other technologies, the SRAMbased
+FPGAs are volatile and hence the configuration data has to be loaded in the
+device every time the system is powered up. Alternatively, anti fuses are one time
+programmable lacking the necessary flexibility for design changes. A new floating gate
+technology combining the SRAM and the antifuse advantages was developed The new
+technology uses a new nonvolatile SRAM cell. Compared to the standard SRAM based
+FPGAs, the new technology speed increase by using a charge pump which causes a
+reduction o f the interconnect switch resistance. Compared to antifuse based FPGAs, the
+new technology is reprogrammable and fully testable. This results in high performance
+FPGA implemented circttits.. This work reports the initial development of an architecture
+based on the non volatile cell. The basic lope module was designed, laid out and verified
+through simulations. The interconnect architectural parameters were studied. A model
+was developed to estimate such parameters.

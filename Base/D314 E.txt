@@ -1,0 +1,20 @@
+Environmental pollution is a major problem facing us today. The rapid growth and the
+applications o f advanced production technology resulted in high metal contaminants in
+wastewater streams. This study is concerned with removing toxic heavy metal ions
+(copper ions) from industrial wastewater prior to its discharge to the waste streams.
+In this project, copper ion concentration in a wastewater was reduced from one
+hundred parts per million (ppm) to less than one part per million and the copper ions were
+recovered in their metallic form by electrodeposition at the cathode of an electrochemical
+cell. An oblique rotating barrel, which was partially filled with copper raschig rings, was
+used as the cathode. The rotating barrel offers a high mass transfer rate and a large
+cathode surface area for copper electrodeposition.
+This thesis presents the experimental measurements o f the apparent reaction rate
+constant of copper deposition reaction at different operation variables. These variables
+include; cell voltage, barrel rotation speed, percent barrel loading, percent barrel
+immersion, barrel tilt angle, and anode surface area. The experimental results showed that
+rate o f copper deposition reaction inside the rotating barrel was mass transfer and
+kinetically controlled. With an operating cell voltage of 2.5 to 5.0 V, the overall current
+efficiency for copper recovery was 20 to 53  , and the electric energy requirement was in
+the range of 4 to 21 kWh per kilogram of copper recovered from the wastewater. These
+results indicate that the present electrolytic process is economically feasible for large scale
+industrial wastewater treatment operations.

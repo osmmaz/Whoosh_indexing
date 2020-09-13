@@ -1,0 +1,21 @@
+The structural stability o f a chosen set o f important ketenes was investigated using ab
+initio calculations. The 6 311 ^G ** extended basis set at the DFT B3LYP level was
+employed in most o f the work. Full energy optim ization was perform ed at the ground
+states as well as the transition states for the systems under the study. It was found that
+when the conjugation effect in formyl ketene. fluorocarbonyl ketene. chlorocarbonyl
+ketene and vinyl ketene is dominant, theses systems exist as a mixture o f cis and trans
+conformations. M oreover, they were o f a relatively high calculated rotational barrier as
+compared to the corresponding isocyanates. In the case of non conjugated ketenic
+systems, such as trifiuorom ethyl ketene and chlorom ethyl ketene, the barrier to
+interconversion was calculated to be considerably low er and the gauche form was
+expected to appear as a stable form. In such systems, the steric effect, the intramolecular
+electrostatic attraction and the molecular orbital destabilization may play competitive
+roles in controlling the conformational behavior. The cis form was calculated to be the
+most stable conform ation in tri  and difluoromethyl ketene with the gauche conformation
+being the less stable form in only the difluoro derivative. W hile in halomethyl ketene only
+the gauche form was the stable form. Additionally, com plete normal coordinate analyses
+were perform ed to derive the potential energy distributions (PED) for each stable
+conformation in the m olecular systems. The calculated vibrational spectra for each system
+w ere plotted and reliable assignments o f the vibrational wavenumbers wrere made based
+on the vibrational frequencies, calculated PED values. Raman activities, IR intensities,
+depolarization ratios as well as the observed frequencies o f similar molecules.

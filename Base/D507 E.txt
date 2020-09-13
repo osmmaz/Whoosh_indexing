@@ -1,0 +1,18 @@
+Statistical machine translation (SMT) treats the translation of natural language as a
+machine learning problem. By examining many samples of human produced translations,
+SMT algorithms automatically learn how to translate. In this thesis, we discuss the
+automatic machine translation from English to Arabic using a statistical phrase based
+approach employing a parallel Arabic English corpus that was developed manually by
+more than one translator. Statistical machine translation (SMT) consists of two phases:
+The training phase and the decoding phase. In the training phase, the statistical language
+model and the translation model are built. In the decoding phase, the best possible
+translation is chosen depending on a comprehensive search process. We built a sizable
+parallel corpus spanning various categories of topics from the Meedan website, and later
+compared the results of Meedan with that of the other two corpora: LDC and UN. The
+performance was compared based on the Bilingual Evaluation Understudy (BLEU). Our
+experimentation shows that, overall, the Meedan corpus outperformed the other two
+corpora in most categories. We, also, compared the performance of the Moses decoder
+and the Pharaoh decoder. We conclude that although the response time for the pharaoh
+xii
+decoder is better than that of the Moses decoder, the quality of the translation of the
+Moses decoder exceeds that of the Pharaoh decoder.

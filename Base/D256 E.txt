@@ -1,0 +1,14 @@
+This study addresses the effect o f temperature and weld line on monotonic and fatigue
+crack growth (FCG) behavior o f Chlorinated PVC (CPVC). Tensile and FCG tests were
+conducted on weld and non weld CPVC specimens in the temperature range —10 to
+70 °C. These specimens were prepared from 4 inch injection molded pipe fittings. The
+results showed mechanical properties like yield stress and elastic modulus decrease with
+temperature increase. The presence o f weld line was observed to drastically reduce the
+mechanical strength o f CPVC. Crack growth behavior was studied using LEFM
+concepts. The effective stress intensity factor range AKejf gave satisfactory correlation o f
+crack growth rate (da/dN) at all temperatures o f interest. The crack growth resistance
+was found to decrease with temperature increase. The weld line showed higher crack
+growth rate and lower fatigue life as compared to non weld. Crack opening displacement
+also gave acceptable correlation o f da/dN at all test temperatures. Crazing was found to
+be the dominant fatigue mechanism, especially at high temperature, while shear yielding
+was the dominant mechanism at low temperatures.

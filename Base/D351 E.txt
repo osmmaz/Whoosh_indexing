@@ -1,0 +1,9 @@
+In this thesis, we present a high performance fault tolerant switch for B ISDN, called
+the Reliable and Zealous Network (RAZAN). It consists of NLog2 N switching elements
+of size n + 1 x n + 1, where N is the number o f inputs and n = Log^N is the
+number of stages. The performance of the network is evaluated analytically as well
+as through simulation under uniform traffic load. R AZAN shows a high throughput
+in the presence or absence of faults compared to a number of recently introduced
+networks. Moreover, R A Z A N has a high terminal reliability even for large network
+sizes. The architecture o f R AZAN also offers high fault tolerance, in sequence delivery
+of cells, simple routing, and regularity.

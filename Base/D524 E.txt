@@ -1,0 +1,7 @@
+Line search is a major component in the structure of the conjugate gradient
+method to solve unconstraind optimization problems. But its exact implementation
+to nonquadratic functions is unlikely in most of the cases. This
+thesis deals with a self contained study of inexact line search and its effect
+on the convergence of certain modifications and extensions of the conjugate
+gradient method. We describe in detail various algorithms due to these extensions
+and apply them to some of the standard test functions.

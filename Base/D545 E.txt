@@ -1,0 +1,36 @@
+Traffic accidents at urban intersections constitute about 50 percent of
+all urban accidents. There are only a few research studies about the signal
+coordination on intersection safety. The main purpose of this research is to
+study the effect of signal coordination on intersection safety and to develop
+a methodology by which intersection safety could be optimized besides other
+measures of effectiveness (stops and delays).
+It was hypothesized that signal coordination mainly affects stops and
+that stops are mainly related to rear end accidents. An experiment was
+designed and data were collected to establish the relationship between stops
+and rear accidents using the Traffic Conflict Techniques (TCT). It was
+shown that there is a significant relationship between rear end conflicts and
+a significant relationship between rear end conflicts and rear end accidents.
+Using these relationships, the direct relationship between stops and rear end
+accidents was obtained and used thereafter in the remaining parts of the
+research.
+A signal simulation and optimization model (TRANSYT) was selected
+and calibrated for the study area so that it simulated the observed number
+of stops in the field. The cost functions of the optimization model were
+revised for Saudi Arabian conditions and the costs of rear end accidents
+were added as functions of stops and delays. Delays were calculated based
+on the cost of delay and cost of stops. Furthermore, K values that optimize
+safety as well as other costs were calculated.
+“ X  
+R e p r o d u c e d with p erm is s io n of th e copyright ow ner. F u rth e r rep ro d u ctio n prohibited w ithout p erm issio n .
+Using the calibrated program and the calculated K values, several
+investigations were carried out. It was shown that signal coordination may
+reduce rear end accidents and operational costs up to 30 percent. Different
+signal phasing schemes were investigated for different combinations of
+volumes and intersection spacings and it seems that four phase schemes are
+generally better than five phase schemes in similar conditions of the study
+area. It was also shown that shorter than optimum cycle lengths may cause
+sharp increases in stops, delays, rear end accidents and operational costs;
+compared to longer than optimum cycle lengths. Therefore, it is
+recommended that shorter than optimum cycle lengths be avoided.
+Finally practical implications and some recommendations for further
+research were given.

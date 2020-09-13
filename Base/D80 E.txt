@@ -1,0 +1,10 @@
+S im ultaenous two component laser Doppler velocity m e a su re m e n ts were made in the
+isotherm al, turbulent fiowfield. of an a x isy m m e tn c jet. M ean velocities, norm al and
+shear stresses and triple products were measured, and presented at axial positions
+jj = \ to 22. .4 balance o f turbulent kinetic energy in the flow was performed.
+The production, convection and diffusion of turbulent k in e tic energy were computed
+directly from the experimental data using central differences. In this study, three
+velocity bias correction schemes were used and the effects o f each of them on the
+behavior o f the mean velocities, normal and shear stresses, triple products, production
+terms, convection terms and diffusion o f the turbulent kinetic energy will be
+presented.

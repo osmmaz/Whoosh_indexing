@@ -1,0 +1,13 @@
+The attractive stripping performance of nucleic acid constituents were
+characterized at different carbon composite electrode surfaces. A simple, sensitive and
+reliable electrochemical method was developed for the investigation and analytical
+determination of adenine (A), guanine (G), adenosine (AS) and guanosine (GS) at
+different composite carbon electrode surfaces. Different electroanalytical techniques
+were used as cyclic voltammetry (CV), square wave stripping voltammetry (SWV),
+linear sweep voltammetry (LSV) and differential pulse voltammetry (DPV). Factors
+influencing the trace detection of these compounds at glassy carbon paste (GCP), glassy
+carbon (GC) and graphite pencil (GP) composite electrode surfaces were assessed.
+All developed methods were optimized and the figures of merit were determined.
+The possibility of the detection in biological samples, interference of common organic
+compounds, and direct determination of ssDNA were tested successfully. Finally the
+developed methods were compared to HPLC.

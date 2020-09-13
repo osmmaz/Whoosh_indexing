@@ -1,0 +1,24 @@
+Low activity of the methanol electro oxidation catalysts and poisoning of the catalysts by
+intermediate organic compounds produce during the reaction is one of the biggest
+challenges facing the direct methanol fuel cell (DMFC) technology. In this work, several
+catalysts were prepared for methanol electro oxidation. In the first part, performance of
+PtRu catalysts supported on mesoporous carbon nitrides (MCN) was studied and
+compared with the performance of PtRu supported on Vulcan XC 72 and multi walled
+carbon nanotubes. The MCN was synthesized using SBA 15 as a template with different
+aging temperatures of 100, 130 and 150 °C. The Pt Ru/MCN 150 catalyst showed the
+highest activity, about 30  more than that of the commercial Pt Ru/C (E TEK).
+In the second part, a novel approach was used to prepare Pt Ru/Fe2O3 MC, Pt Ru/CoOMC
+and Pt Ru/NiO MC catalysts by synthesizing high surface area Fe2O3 MC, CoO MC
+and NiO MC and then followed by impregnation with PtRu. The Pt Ru/NiO MC catalyst
+showed the highest activity, about 18  greater than the commercial Pt Ru/C (E TEK).
+In the third part, Pt/CeO2 MC, Pt/PrO2 MC, Pt/NdO2 MC, and Pt/SmO2 MC catalysts
+were prepared by synthesizing high surface area CeO2 MC, PrO2 MC, NdO2 MC, and
+SmO2 MC, followed by impregnation with Pt. The Pt/CeO2 MC catalyst showed the
+highest activity, about 3.5  more than that of the commercial Pt Ru/C (E TEK) catalyst.
+All the prepared catalysts showed reasonable stability. The metal nano oxides & catalysts
+were characterized using FESEM, BET surface area, FT IR, UV Vis, EDS and XRD.
+Finally, from the cyclic voltammetric results, Pt Ru/MCN150, Pt Ru/MCN130, Pt 
+Ru/MCN100, Pt Ru/F MWCNTs, Pt Ru/Vulcan XC 72, and Pt Ru/C (E TEK) were
+selected and used to fabricate membrane electrode assemblies (MEAs). The MEAs were
+tested in a practical DMFC. The MEA in which Pt Ru/MCN150 was used as the anode
+catalyst showed the highest power density of 56.3 mW/cm2 at 80 °C.

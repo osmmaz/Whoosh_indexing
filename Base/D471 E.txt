@@ -1,0 +1,17 @@
+A Neural Network technique has been used successfully for developing a model
+for predicting bottomhole pressure in vertical multiphase flow in oil wells. The new
+model has been developed using the most robust learning algorithm (back propagation). A
+total number of 206 data sets; collected from Middle East fields; has been used in
+developing the model. The data used for developing the model covers an oil rate from 280
+to 19618 BPD, water cut up to 44.8 , and gas oil ratios up to 675.5 SCF/STB. A ratio of
+3:1:1 between training, validation, and testing sets yielded the best training/testing
+performance. The best available empirical correlations and mechanistic models have been
+tested against the data and the developed model.
+Graphical and statistical tools have been utilized for the sake of comparing the
+performance of the new model and other empirical correlations and mechanistic models.
+Thorough verifications indicated that the new developed model outperforms all tested
+empirical correlations and mechanistic models in terms of highest correlation coefficient,
+lowest average absolute percent error, lowest standard deviation, lowest maximum error,
+and lowest root mean square error. The new developed model results can only be used
+within the range of used data; hence care should be taken if other data beyond this limit is
+implemented.

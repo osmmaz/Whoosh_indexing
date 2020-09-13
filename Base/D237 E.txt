@@ -1,0 +1,13 @@
+One of the most commonly used techniques for improving software quality is called
+refactoring. Refactoring is the process of improving the design of existing code by
+changing its internal structure without affecting its external behavior. When applying
+refactoring methods, some quality attributes can be improved and some others can be
+impaired. This means that improving one quality attribute may affect negatively other
+quality attributes. However, there are no guidelines to help the software designer decide
+which refactoring methods to apply in order to optimize a software system with regard to
+certain design goals. In this thesis, we propose a classification of refactoring methods
+including refactoring to patterns based on their measurable effect on software quality
+attributes. Additionally, we empirically validate this classification by using real software
+systems. This study, in turn, helps the software designer, based on his design goals and
+objectives, to choose the appropriate refactorings that will improve the quality of his
+design and enables him to predict the quality drift caused by using the refactorings.

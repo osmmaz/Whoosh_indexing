@@ -1,0 +1,14 @@
+Relative permeability data are essential for almost all calculations of
+fluid flow in petroleum engineering. Water oil relative permeability curves play
+important roles in characterizing the simultaneous two phase flow in porous
+rocks and predicting the performance of immiscible displacement processes in
+oil reservoirs. New empirical equations were developed in this study to
+calculate water oil imbibition relative permeability curves for sandstones based
+on a total of 827 experimentally obtained data points from 46 displacement core
+tests. The relative permeability models were derived as a function of rock and
+fluid properties using stepwise linear and nonlinear regression analyses. The
+new empirical equations were both evaluated using the data utilized in the
+development and validated using published data, against previously published
+equations. Statistical results show that the empirical equations developed in this
+study outperform all previous empirical equations, for both the data used in the
+development and validation.

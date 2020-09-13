@@ -1,0 +1,23 @@
+2,6 Di tert butyl p cresol, (DBPC), dibenzyl disulfide, (DBDS), and 1,2,3 benzotriazole,
+(BTA), are additives may be found concomitantly in the matrix of the power transformer oil.
+DBPC and DBDS act as antioxidants while, BTA is a corrosion inhibitor that protects copper
+conductors inside the transformer from the effect of even traces of organic sulfur compounds
+such as DBDS. This work describes a unique single liquid liquid extraction pretreatment step
+using n hexane as diluent for the oil sample and acetonitrile as an extractant thus, the three
+components are extracted simultaneously before injection into either GC or HPLC system.
+DBDS and DBPC are simultaneously determined using GC technique with a dual detector
+(ECD and FID). Another portion of the extract is injected into an HPLC UV to determine
+BTA. This quantitative procedure has the advantage of low chemical consumption as well as
+being less laborious and less time consuming. The results indicate that the method is sensitive, accurate, precise and linear with R2 > 0.99 for each component. The resulting detection limits
+0.01  (w/v), 0.80mgL 1, and 2.04 mgL 1 for DBPC, DBDS and BTA respectively were lower
+than those obtained by the standard methods. The method can be used for both fresh and used
+mineral insulating oil. Using this analytical procedure, the behavior of DBDS as corrosive
+sulfur species has been investigated in mineral insulating oils. The critical DBDS
+concentration and temperature for copper sulfide formation were estimated kinetically to be
+less than 9 mgL 1 DBDS and 100° C respectively. The minimum effective BTA concentration
+was also determined to be 5 mgL 1 that retards copper sulfide formation. Also the study
+confirmed that DBDS remains in mineral insulating oil for long time before being subjected to
+chemical depletion when it acts as either as antioxidant or as corrosive sulfur. The synergy
+effect between corrosive sulfur (DBDS), primary antioxidant (DBPC) and metal passivator
+(BTA) in mineral insulating oil was also qualitatively and quantitatively investigated in the
+current work.

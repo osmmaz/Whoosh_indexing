@@ -1,0 +1,15 @@
+Composites are engineered materials developed from constituent materials; matrix and
+reinforcements, to attain synergistic behavior at the micro and macroscopic level which are
+different from the individual materials. The high specific strength, low weight, excellent chemical
+resistance and fatigue endurance makes these composites superior than other materials despite
+anisotropic behaviors. Metal matrix composites (MMCs) have excellent physical and mechanical
+properties and alumium (Al) alloy composites have gained considerable interest and are used in
+multiple industries including: aerospace, structural and automotive. The aim of this research work
+is to develop an advanced Albased nanocomposites reinforced with Carbon nanotubes (CNTs)
+and silicon carbide particulates (SiCp) nanophases using mechanical alloying and advanced
+consolidation procedure (Non conventional) i.e. Spark Plasma Sintering (SPS) using two types of
+aluminum alloys (Al 7Si 0.3mg and Al 12Si 0.3Mg). Different concentrations of SiCp and CNTs
+were added and ball milled for different milling periods under controlled atmosphere to study the
+effect of milling time and the distribution of the second phases. Characterization techniques were
+used to investigate the morphology of the as received monolithic and milled powder using Field
+Emission Scanning Electron Microscope (FESEM), Energy Dispersive Spectroscopy (EDS)

@@ -1,0 +1,31 @@
+Porosity is a critical volumetric parameter used to estimate the reserves for oil and gas
+reservoirs and as an input for reservoir simulation. Porosity can be classified into
+effective porosity (interconnected pores) and ineffective porosity (isolated pores) while
+total porosity  is defined as the sum of effective porosity and the porosity associated
+with clay bound water. In clean formations, total porosity is equal to effective porosity,
+whereas in shaly formations it must be corrected for clay effect. Formation porosity can
+be determined using several methods. These methods include: measuring actual porosity
+in the core laboratory, Computerized Tomography (CT) scan, neutron density logging,
+sonic tools and Nuclear Magnetic Resonance NMR logging tools. The NMR logging is
+unique compared to all other methods since it is independent of the reservoir lithology. It
+can be used to estimate the reservoir porosity directly without the knowledge of matrix
+lithology. On the other hand, conventional logging such as neutron density and acoustic
+depend strongly on lithology which might yield incorrect porosity measurement. Several
+studies have been conducted to estimate porosity for both sandstone and carbonate
+reservoirs using different logging tools, however, determining porosity is a challenge in
+complex and unconventional lithologies. In sandstone, the presence of shale and clay
+minerals will affect the response of all porosity tools. Carbonate is even more
+complicated than sandstone due to its heterogeneity and triple porosity system (pores,
+vugs, and fractures). In addition, the assessment of porosity measurements accuracy using
+NMR logging was considered in this study. An attempt was made to develop an empirical
+correlation from NMR data to obtain reliable porosity estimation. In this work, case
+studies were presented using NMR logging tool to show how NMR reduces the
+uncertainty of porosity measurements in carbonate reservoirs compared to other conventional logging tools, which improve reserves estimation. The study also showed
+the effect of impurities in the carbonate formation porosity measurements by
+conventional and NMR logging methods compared to stress core porosity by graphical
+means. Results of this study showed that a clear criterion to divide the formations into
+dolomitic and clean limestone formation should be established to get more accurate
+result. In the dolomitic formation, Neutron Density showed the least AARE of 40.2 
+compared to 84  for the NMR tool and 174  for the sonic tool. However, for clean
+limestone formation NMR tool was the most accurate tool with AARE of 10  compared
+to 14.3  for N D tool and 42.3  for sonic tool.

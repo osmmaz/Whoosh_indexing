@@ -1,0 +1,17 @@
+The catalytic carbonylation reaction is one o f the m ost im portant applications o f
+homogenous catalysts. M any catalytic carbonylation processes o f alkynes are activated
+using complexes o f nickel, palladium, and platinum w ith phosphine ligands. Different
+products c an b e form ed from t he c arbonylation r eactions d epending o n t he t ype o f t he
+nucleophile. Recently, the Pd catalytic carbonylation reaction o f term inal alkynes
+conducted w ith aniline forms gem  and trans a,B unsaturated am ides w ith a total control
+o f the regioselectivity under certain reaction conditions. The products’ distribution
+(regioselectivity) was affected by the variation o f the experimental conditions o f the
+catalytic systems. The explanation o f the detailed m echanism o f this palladium
+carbonylation process is not developed yet. Theoretical calculations provide the best
+approach to reveal the detailed mechanism o f this catalytic process.
+In this study, density function calculations have been carried out to investigate the
+mechanism o f this catalytic carbonylation process. The com puted results show that an
+oxidative addition mechanism with the possibility o f phosphine ligand to
+coordinate/decoordinate over the process is the m ajor pathw ay o f the process that use
+syngas (CO TT) and terminal alkj ne. Several experiments were peiform ed to test the
+proposed reaction routes and the rate determining step.

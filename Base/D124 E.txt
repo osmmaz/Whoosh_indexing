@@ -1,0 +1,36 @@
+Static adsorption experiments were conducted to investigate the
+adsorption and precipitation properties of various surfactants including
+petroleum sulfonate (T R S 10 410), ethoxylated sulfonates (V2880, V3348,
+B1083, B1139) and nonionics (T150) onto Saudi Arabian limestone. The
+effect of parameters such as solid to liquid ratio, salinity, pH,
+tem perature, surfactant ty p e , ethoxylation number, sacrificial agents,
+oil and alcohol has been investigated.
+The adsorption data fo r limestone/TRS10 410 system and
+V2880/system at d ifferen t salinities show th at the increase in ionic
+strength generally increases the surfactant adsorption on limestone at
+higher sulfonate concentrations. The dependence of adsorption on pH
+shows marginal sulfonate adsorption above ZPC (p H =8.3) where
+limestone is negatively charged and extremely high adsorption below pH
+of 8 .3 , where the surface of limestone acquires positive charge.
+Temperature data at three d ifferen t levels (25 , 50 and 90 °C ) show
+that adsorption drastically increases with increasing tem perature.
+Increasing the ethoxylation number of surfactants decreases the
+adsorption but concurrently increases the CMC of surfactants. The
+results also indicate th at adsorption of surfactants on limestone can be
+reduced with addition of silicates as sacrificial agents and n butanol as
+co surfactant. Adsorption data in the presence of crude oil show that
+adsorption of ethoxylated sulfonates increases significantly in the oil. The adsorption tests fo r nonionics (T150) show about fiv e  fo ld
+higher adsorption than the anionic surfactant (B1083) of th e same
+ethoxylation number under the same experimental conditions.
+Precipitation behaviour of TRS10 410 in the presence of NaCI and
+CaCI2 indicates th a t the surfactant is not tolerant to even as low as 1 
+NaCI and 0.15  C aCI2 levels at room tem perature. On the other hand,
+the precipitation behaviour of ethoxylated sulfonates at 20  NaCI and
+90°C tem perature indicates th a t this class of surfactants is indeed more
+tolerant to both mono and m ulti valent ions.
+The results were analyzed to formulate the most favorable conditions
+to achieve minimum adsorption fo r Saudi Arabian limestone reservoirs.
+Mechanisms governing the surfactant adsorption on limestone are
+elucidated and a surfactant formulation is designed fo r high salinity and
+high tem perature limestone reservoirs to achieve minimum adsorption fo r
+Saudi Arabian limestone.

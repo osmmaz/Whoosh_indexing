@@ -1,0 +1,32 @@
+The phasor measurement unit (PMU), using synchronization signals from the satellite global
+positioning system, is considered to be a key measuring device in the future of power systems.
+A PMU is characterized with its unique ability to provide synchronized phasor measurements
+of voltages and currents from widely separated locations in an electric power network. PMUs
+have recently evolved into mature tools and can now be deployed in a variety of power system
+applications including the field of fault location.
+Although PMUs have the potential to revolutionize the way electric power systems are
+monitored and controlled, their installation shall be optimized due to cost factor. This thesis
+addresses the two main issues in any PMU initiative, namely PMU placement and intended
+system application. A new formulation for the optimal PMU placement (OPP) problem is
+proposed considering not only the new PMUs to be installed but also the existing ones to be
+retained or relocated. This formulation takes into account various practical constraints and
+limitations such as achievement of full network observability, the list of system buses at which
+PMUs must be installed and the list of system buses at which PMU installation shall be
+avoided. An optimization technique based on differential evolution algorithm (DEA) is
+proposed and coded in MATLAB for solving OPP problem. To benchmark the proposed DEA,
+its optimal solutions are compared to the published solutions obtained using other
+optimization techniques for different IEEE test systems.
+Realizing the importance of accurate and swift fault location on a power network, this thesis
+also proposes new PMU based adaptive fault location algorithms for two terminal , threeterminal 
+and series compensted transmission networks. To improve the fault location
+accuracy, the proposed algorithms utilize only PMU synchronized measurements and do not
+require any data to be provided by the electric utility. In these algorithms, the transmission
+line parameters and Thevenin’s equivalent of the system at designated terminals are
+determined online to reflect the actual operating conditions of the system. Fault location
+accuracy evaluation of the proposed algorithms is performed considering various factors such
+as fault position, fault type, fault resistance, fault inception angle, pre fault loading and line
+compensation degree. The proposed algorithms have been simulated using both
+PSCAD/EMTDC and MATLAB and practically implemented using RTDS simulator. A real life
+system is used to test the proposed algorithms for OPP problem and PMU based adaptive
+fault location. Simulation results revealed that the developed algorithms produce reliable and
+high quality solutions.

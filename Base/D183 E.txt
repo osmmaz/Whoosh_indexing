@@ -1,0 +1,23 @@
+A generalized film theory model for nonisothermal gas liquid reactions has been developed
+including the possibility o f liquid evaporation. Irreversible (m,n)th reaction kinetics were considered
+without a priori restrictions on the reaction regime, thus including the slow, fa st and instantaneous
+reactions. The model considers the important aspects o f nonisothermal gas liquid reactions that were
+mostly ignored in the literature. For the first time, three films were analyzed, a gas film, a liquid mass
+transfer film and a liquid heat transfer film. The model equations were solved using the method o f
+orthogonal collocations on finite elements with the application o f the software codes, COLNEW and A UTO.
+Solution o f the model indicated the existence ofstatic bifurcation, or steady state multiplicity under
+certain model parameters combinations. A comprehensive parametric study # a i carried out and the
+sensitivity o f model parameters on the enhancement factor and surface temperature rise was tested. The
+model parameters were shown to affect the possibility o f steady state multiplicity as well as the regions of
+multiple steady states. An effective activation energy parameter was obtained by lumping the dimensionless
+activation energies o f reaction and solubility parameters, also, an effective heat o f reaction and solution
+parameter was obtained by lumping the dimensionless heats o f reaction and solution. No matter how the
+individual parameters are changed, the model predictions will be the same as long as the lumped parameter
+is kept constant. Parameter lumping way obtained through the physical understanding o f the model as well
+as some trail and error computations. The model was applied to three industrial gas liquid reaction
+systems, namely, the chlorination o f n decane, the sulfonation o f dodecylbenzene, and the chlorination of
+toluene. For the first time, the local film model was linked with a global reactor design problem in the
+differential form without using any approximation for the enhancement factor and the bulk liquid
+concentration fo r the gas reactant. For demonstration purposes, an isothermal nonvolatile gas liquid
+reaction case way considered using the chlorination o f n decane system in a non nonadiabatic CSTR. The
+solution showed the existence ofsteady state multiplicityfor the global behavior o f the reactor.

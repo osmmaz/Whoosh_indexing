@@ -1,0 +1,28 @@
+Predicting the effects of reservoir and well parameters on the performance of
+horizontal and vertical wells in retrograde gas condensate reservoirs is important in
+determining the well type needed in a given formation. Due to increased number of
+horizontal wells drilled in retrograde gas condensate reservoirs, there is a necessity for
+better and improved understanding of the behavior and performance of this type of wells in
+retrograde gas condensate reservoirs.
+The purpose of this research study is to investigate the effects of reservoir and well
+parameters on the performance of horizontal and vertical wells in volumetric retrograde
+gas condensate reservoirs using three dimensional, single well compositional reservoir
+simulation model. To simulate the depletion processes, the single well compositional
+reservoir simulation model is used to investigate the effects of reservoir and well
+parameters such as horizontal permeability, reservoir thickness, ratio of vertical to
+XVII
+horizontal permeability (kv/kh), and horizontal well penetration ratio on the performance of
+horizontal and vertical wells.
+Results indicate that, for the vertical well, the lower the values of horizontal
+permeability and formation thickness, the higher the average reservoir pressure at
+abandonment time. For the horizontal well, the lower the values of formation permeability,
+formation thickness, kv/kh ratio, and horizontal well penetration ratio, the higher the
+average reservoir pressure at abandonment time. The lower the values of horizontal
+permeability and formation thickness, and the higher the value of kv/kh and horizontal well
+penetration ratio, the better the performance of horizontal well over the performance of
+vertical well.
+Simple algebraic equations are presented that can be used to calculate the
+abandonment time as a function of well and reservoir parameters. Results presented in
+tabular form can be used by reservoir engineers in order to select the appropriate well type
+in a given reservoir, to determine the recovery factors for gross gas, free gas and oil, and to
+determine the abandonment pressure and abandonment time.

@@ -1,0 +1,5 @@
+This experimental work was carried out using gas oil water three phase flow loop set up
+in the Center for Engineering Research of the Research Institute, King Fahd University of
+Petroleum and Minerals. The objective of this work was to investigate the flow pattern
+and measure the pressure drop in a horizontal pipe with 2.25cm inner diameter and
+compare the experimental results with existing models.

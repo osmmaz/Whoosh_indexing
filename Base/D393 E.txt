@@ -1,0 +1,29 @@
+School buildings are characterized as being envelope load dominated buildings.
+Hence, they are greatly influenced by the outside climatic conditions. Due to the harsh
+climate of Saudi Arabia, government buildings including school buildings on average
+consume more than 11  of the total energy used. The bulk of this energy is consumed by the
+air conditioning systems, which remove a substantial amount of gained heat due to poor
+thermal envelope performance. Therefore, proper design and selection of components of the
+building envelope at early stages of the design process can greatly help in achieving thermal
+comfort with minimum reliance on air conditioning systems, and also minimizing energy
+requirements.
+This research aimed to evaluate the thermal performance and the impact of the critical
+parameters of building envelope on the annual required cooling and total energy of school
+buildings. In order to achieve this, a typical school building was developed as a base case.
+Envelope design practices were defined and twelve design parameters were selected for the
+base case to represent the wide variation of thermal characteristics.
+The energy performance of a typical school building in Dhahran is evaluated under
+various envelope designs using different envelope design components that cover a wide
+range of thermal characteristics. This evaluation was performed using the energy simulation
+program Visual DOE. Parametric analysis was conducted for wall and roof designs, glazing
+types, window to wall ratio (WWR), orientation, various air infiltrations and combination of
+envelope design parameters. Initially, for each envelope design parameter a few relevant
+types of designs were selected that are currently used for buildings in this region. Then,
+among the selected types of designs the most appropriate type of design was selected for
+each envelope design parameter. Finally, these selected types of designs were combined to
+produce an effective envelope design. The cooling and total energy consumption of a typical
+school building in Dhahran was reduced by 30.6  and 18.1 , respectively. The combined
+design alternative also produced significant reductions in the school building's cooling load.
+As a result, the air conditioning systems' capacity can be reduced as much as 40  for the
+school buildings constructed in the future. Finally, envelope thermal design guidelines were
+developed for school buildings in hot humid climates of Saudi Arabia.

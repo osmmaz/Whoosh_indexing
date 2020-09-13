@@ -1,0 +1,10 @@
+Electromagnetic fields, produced by the transmission lines on nearby oil and gas buried
+pipelines and underground communication cables, generate uncontrolled voltages which
+can be a safety problem and distort communications. This research evaluates and analyzes
+the electromagnetic interference effects on oil and gas buried pipelines and underground
+communication cables created by the nearby high voltage transmission lines in the Eastern
+Province of Saudi Arabia. The study revealed that the maximum induced voltage on all
+buried pipelines and communication cables during the steady state condition is within the
+standard limit. However, the results during the short circuit condition exceed the safety
+limits on some buried pipelines. A mitigation system using gradient control wires has
+been simulated to reduce the pipeline potential to the safety limit.

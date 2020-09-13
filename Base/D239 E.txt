@@ -1,0 +1,10 @@
+The Steiner Tree Problem is the determination of the shortest connecting length
+between a given set of points and additional points. The Rectilinear Steiner Tree
+Problem is the same as above but the connecting lines an' confined to the horizontal
+or vertical lines only (L\ metric). A cluster is a set of points that 'influence' each
+other locally. This research gives a new algorithm based 011 a clustering metric that
+determines much less steiner points locally in a cluster as well as those external to
+it. The algorithm matches the worst case time complexity of O(iilotjn) of previous
+authors while giving better average results then theirs. In addition, a Neural Solution
+to the Steiner problem in Networks, which is a graph theoretic representation of the
+problem, is explored and its limitations presented.

@@ -1,0 +1,23 @@
+For decreasing greenhouse gas (mainly CO2) emissions, several approaches have been
+evaluated and reviewed for capturing CO2 in the utility industry, namely Carbon Capture
+and Storage technology (CCS). As a promising CCS technology, oxy fuel combustion
+can be used in existing and new power plants. There are two main approaches available
+to utilize the oxy combustion technology, one of them is the use of air separation units to
+separate O2 which will be used in the combustion process and the other application is the
+ion transport membrane (ITM) reactor technology. The objective of this proposed work is
+to study in details the above mentioned two approaches for applications in oxy fuel
+combustion technology. For the application of the first approach, experimental and
+numerical investigations on an atmospheric diffusion oxy combustion flame in a gas
+turbine model combustor are conducted. The combustor is fuelled with CH4 and a
+mixture of CO2 and O2 as oxidizer. A wide range of operating parameters was considered
+aiming to determine the stability limits of the oxy combustion diffusion flame and
+characterize the flame in detail. The experimental and numerical results showed that the
+stability of the oxy combustion flame is affected when the operating percentage of oxygen in the oxidizer mixture is reduced below 25  . For the application of the second
+approach, from our understandings of the oxygen permeation and oxy fuel combustion
+characteristics that come out from a 2D analysis of a simple symmetric ITM reactor, a
+new 3D reactor design is introduced for the substitution of ITM reactors into a gas
+turbine combustor. A new oxygen permeation equation model has been developed by
+fitting the experimental data available in the literature for a LSCF ion transport
+membrane. Based on the 3D analysis, the present proposed monolith structure design
+ITM reactor is capable of delivering power ranging from 5 to 8 MWe based on cycle first
+law efficiency.

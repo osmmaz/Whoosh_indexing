@@ -1,0 +1,15 @@
+In this work, a diffusion particle swarm optimization (DPSO) algorithm
+is proposed to cooperatively estimate a monitored parameter by the sensor nodes
+in an ad hoc wireless sensor network (WSN). Here, every sensor node of a wireless
+sensor network is equipped with a PSO algorithm to estimate a parameter of
+interest. A novel diffusion scheme is used to cooperatively estimate the parameter
+by sharing the local best particle and the corresponding particle error value
+to the neighboring nodes. The performance of the DPSO algorithm is improved
+by applying different enhancements to the PSO algorithm. Therefore, different
+types of the DPSO algorithm proposed are: the DPSO algorithm with variable
+inertia weight (DPSO VIW), the DPSO algorithm with variable constriction factor
+(DPSO VCF), the diffusion modified PSO (DMPSO) algorithm, and a hybrid
+DPSO LMS (DPSO LMS) algorithm. The simulation results reports a great improvement
+brought about by the DPSO algorithms over the non cooperative PSOLMS
+(NCPSO LMS) algorithm, the diffusion least mean squares (DLMS) algorithm
+and the diffusion recursive least squares (DRLS) algorithm.

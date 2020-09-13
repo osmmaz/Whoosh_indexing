@@ -1,0 +1,20 @@
+The most efficient equipment in which heat rejection processes may be realized is
+the cooling towers, evaporative fluid coolers and evaporative condensers. This class of
+heat rejection devices is defined as evaporative heat exchangers. The mathematical
+models o f these heat exchangers are developed and validated against the experimental
+data available in the literature, using Engineering Equation Solver (EES) software, where
+the maximum error encountered is 6.5 . These devices basically consist o f three zones;
+namely, spray zone, packing/tube bundle and rain zone. The spray and rain zones are
+often neglected even though in large cooling towers, a significant portion o f the total heat
+that is rejected may occur in these zones. Therefore, the heat and mass transfer
+contribution o f the spray and rain zones in cooling towers is discussed as well. A
+param etric study is perform ed to evaluate the effect o f fouling (which is the deposition o f
+unwanted material on heat transfer equipment), atmospheric pressure and mass flow rate
+ratio on typical perform ance param eters such as effectiveness for rating calculations while
+volum e/surface area for design calculations. Also, a sensitivity analysis is carried out to
+evaluate the response o f the above parameters to various input variables such as inlet wetbulb
+temperature, inlet process fluid temperature and outlet water temperature. Secondlaw
+analyses based on exergy analyses are studied as well to investigate the variation in
+second law efficiency o f these heat exchangers under different operating conditions.
+Furthermore, the rate o f w ater evaporation under a w ide range o f operating conditions is
+also presented.

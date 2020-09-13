@@ -1,0 +1,11 @@
+In this thesis a design technique called iteratively reweighted least squares(IRLS) is
+used to design 1 D and 2 D IIR digital filters in the Lp norm sense. In this technique,
+by selecting the weights in each iteration based on the error in previous iterations,
+a solution to the Lp approximation problem is found by solving a weighted leastsquares
+problem. In order to successfully design the IIR digital filters using the IRLS
+technique a convergence control parameter is determined in a manner suitable for the
+IIR filter design problem. A comparison of various 1 D and 2 D IIR filters designed
+using the IRLS technique and the Davidon Fletcher Powell (DFP) unconstrained
+optimization technique is also made, and the relative computational complexity of
+the two techniques is discussed. Comparisons with some other recent techniques
+both for 1 D and 2 D IIR digital filters are also presented.

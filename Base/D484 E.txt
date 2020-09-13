@@ -1,0 +1,22 @@
+The ability of artificial intelligence systems to facilitate the generation of solutions
+for difficult problems in civil engineering that require symbolic reasoning and efficient
+manipulation of diverse knowledge has generated a considerable interest recently.
+The process of contaminant transport in the subsurface environment is a
+very complex problem, which can benefit from such system. Several sophisticated
+theoretical models have been developed to predict the process of solute transport in
+porous media. Unknown parameters, which are extremely difficult to determine in
+the laboratory, are introduced with each developed model creating an added difficulty.
+In this study the parameters of a complex contaminant transport model are related to
+a single parameter named the Equivalent Dispersion Coefficient (EDC). This study
+also presents the development and design of artificial neural network (ANN) model
+that is able to predict the EDC for a contaminant transport model. The work consists
+of several tasks starting with generation of data from, numerical simulations.
+Next the data is used to train the neural network models. Two learning algorithms,
+Back Propagation Algorithm and Levenberg Marquardt Algorithm are used to tram
+the neural network models on a specific range of data. Once the training is complete
+these models are validated using synthetic as well as experimental data. The trained
+models give the EDC values when it receives the dimension less parameter data as
+their input. The EDC is used in linear equilibrium advective despersive equation to
+predict solute concentrations. The results obtained from this new approach are in
+good agreement with the previous studies. In addition to this, the advantage of the
+current approach is the automated process of obtaining EDC values.

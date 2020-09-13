@@ -1,0 +1,18 @@
+The effects of diversity combining, coding, and equalization on the performance
+of digital microcellular mobile communication systems, operating
+over frequency selective fading channels, are studied using computer simulations.
+The presence of co channel interference and additive white Gaussian
+noise is assumed. The multiple access channel is statistically modelled
+by Rician distributed plus lognormally shadowed desired signal and several
+uncorrelated Rayleigh plus lognormally shadowed interfering signals, propagating
+according to dual path loss law with a turning point. The modulation
+schemes considered are BPSK, and DPSK. The channel is modeled by two
+beams with a relative delay between them. The performance is determined
+in terms of bit error rate (BER), and spectrum efficiency.
+It is shown from the computer simulations done on the system that with
+dual diversity combining and BPSK modulation the irreducible bit error
+rate (IBER), due to co channel interference and intersymbol interference
+(ISI), is reduced from 3.0 x 10 3 to 1.35 x 10 4. Also, with linear adaptive
+equalization and BPSK modulation, the IBER is reduced to 8.0 x 10 4. The
+use of Golay (23,12) code with BPSK modulation enhances the performance
+of the system by 23.8 dB coding gain at 3.0 x 10 3 BER.

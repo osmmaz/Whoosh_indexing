@@ -1,0 +1,21 @@
+In this thesis, optimal design of variable structure controllers applied to different power
+system dynamic problems is explored. Iterative heuristics algorithms namely: Particle
+Swarm optimization, Tabu Search algorithm, and Genetic Algorithms are utilized in the
+optimal design of the controllers. Two important power system problems (Load
+frequency control and Power system dynamic stability) are studied in this thesis. The
+proposed design of VSC was applied to single area, two areas, and three areas Load
+frequency control systems both with and without nonlinearities and to a single machine
+infinite bus bar system.
+The variable structure controller parameters are tuned optimally to minimize certain
+performance indices that reflect the objectives of the design. These objectives include
+both improved dynamic behavior and reduced chattering in the control signal. Scaling
+of the feedback gains in the VSC on convergence of the performance index or the
+square of the error in the signal further reduced the chattering while preserving the
+improved dynamic behavior of the system. Comparison with conventional design
+methods for both problems using the new design procedure is also included in the
+study. The study shows that the proposed optimal design procedure provides a simple
+systematic way of arriving at the settings of the VSC with improved dynamic behavior
+and reduced chattering. This method allows with ease the inclusion of nonlinearities
+into the studied systems to realize an optimally designed controller. The robustness of
+the proposed controller against system parameters variations had been studied. It has
+been found that the proposed controllers are very little sensitive to these variations.

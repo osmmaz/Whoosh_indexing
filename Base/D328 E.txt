@@ -1,0 +1,13 @@
+A cognitive architecture for artificial intelligence is proposed. The
+architecture is cognitive in the sense that fundamental cognitive hypotheses
+served as guidelines for its design. It is termed self structuring because o f its
+ability to autonomously extract and provide structure to what would
+otherwise be considered unorganized data. In addition, it is considered a
+connectionist machine in view o f its establishment on biological principles
+and its distributed storage of data. The architecture is unique in that it
+incorporates many o f the desirable features o f both symbolic and
+connectionist systems, while being entirely based on proven biological and
+psychological knowledge of the human brain, thereby providing a sound
+foundation for future development. The architecture is exemplified by the
+construction o f an artificial vision system based on the basic machine, and
+the scope for further enhancement and development is outlined.

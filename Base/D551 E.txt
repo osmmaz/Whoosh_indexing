@@ -1,0 +1,13 @@
+The effect o f viscosity on the thermal effectiveness and entropy generation o f parallel
+and counter flow heat exchangers was numerically investigated. The viscosity variations
+with temperature in addition to the viscous friction were considered in the analysis for
+different tube fluid inlet temperatures and different heat exchanger heat capacity rate
+ratios.
+The results show that viscosity causes significant deviations from the heat exchanger
+performance obtained using the assumption that the viscous effects are negligible. As the
+high viscosity fluid inlet temperature decreases, the effect o f viscosity becomes more
+significant. However, the effect o f viscosity becomes smaller as the heat capacity rate
+ratio decreases. It was found that an optimum heat exchanger size, at which the operation
+o f the heat exchanger becomes most effective, could be determined. The results show also
+that the effect o f viscosity on counter flow heat exchangers is smaller than its effect on
+parallel flow heat exchangers.

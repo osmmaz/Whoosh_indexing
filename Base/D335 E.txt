@@ -1,0 +1,22 @@
+The concept of green environment, security of oil supply, and the increased use of
+renewable energy resources (RES) in power grids are all factors that are increasing the
+focus on Electric Vehicles (EVs). The charging of these EVs can be a relatively large
+load in the distribution grid. If the charging is not managed properly the distribution grid
+can be affected negatively. Therefore, charging EVs without any negative impacts on the
+distribution grid is important for their successful integration in large numbers.
+This work is intended to develop a communication free i.e. an autonomous voltage
+feedback control structure, for EV charging. This control structure relies on the local
+voltage measurement at the point where EV is plugged in. It compares the system
+measured voltage at the point of charging with a predefined reference voltage. The EV
+charging is reduced as the system voltage approaches this reference. The reduced
+charging rate takes into account the EV battery state of charge (SOC) and the owner’s
+end of charge time (ECT) preference. The proposed control structure has been simulated
+on an eighteen bus distribution system. The performance of the control strategy has been
+tested under the presence of voltage control devices. A contingency analysis was also
+performed to ensure the system’s robustness. The simulation results show that this method can successfully reduce EV charging to eliminate system voltage violations that
+would otherwise be caused from EV charging while ensuring fairness among the various
+EVs. In addition, these results demonstrate the effectiveness of the proposed approach in
+flattening the distribution feeder’s load profile during periods of intense charging and
+robustness under certain contingencies. The proposed strategy is also tested on Real Time
+Digital Simulator (RTDS). A basic incentive program is also proposed for those EV
+owners who would participate in the proposed program.

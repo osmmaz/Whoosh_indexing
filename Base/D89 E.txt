@@ -1,0 +1,16 @@
+Multimedia applications require real time quality of service assurance. Such
+applications need a well understanding of the data network they ride on. The performance
+of the data network also needs to be closely monitored to know what impact the
+application has and whether or not the network is capable of carrying it. However, due to
+the fact that today’s data network runs many critical applications, data network engineers
+seek for a way to measure the impact of these applications before deploying them. This
+thesis will focus on VoIP as the multimedia application. We will assess the readiness of
+existing networks to support VoIP using an analytical simulator. Although there are some
+simulation tools that attempt to measure network readiness but there are no tools
+available that measure VoIP network readiness using mathematical analysis. Therefore
+the major contribution of this master thesis is to design and implement such a tool. We
+will also highlight the advantages of mathematical analysis and the drawbacks of
+simulation tools. Our tool will ask the user for the network topology of the current
+network and using delay and throughput analysis it will generate a report identifying the
+number of calls the network can support and the bottleneck. We will also compare our
+results with results obtained using a simulation tool such as OPNET.

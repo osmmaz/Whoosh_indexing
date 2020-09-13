@@ -1,0 +1,11 @@
+In the present study the cross sections of the following reactions have been caculated
+in the frame work of the impulse approximation:
+where X stands for H, He+1, Li+2, C+s, N+6, 0 + 7 and Fe+25. Though the impulse
+approximation was introduced as an improvement on the Bom approximation, it was
+found to be systematically worse for scattering of electrons off atoms. However, for
+electron capture total cross sections from hydrogenic stsyems by positrons, in the energy
+range for which the impulse approximation is valid, the impulse approximation seems
+to be better. In this thesis the calculation shows features in the differential cross
+sections which indicate that even if the impulse approximation proves worse than the
+Bom approximation for the total cross sections in these cases, the differential cross
+section may be better described by it.

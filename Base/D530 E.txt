@@ -1,0 +1,20 @@
+A 2 D radial compositional simulator was used to investigate the effect of
+liquid drop out on the productivity of a rich gas condensate reservoir. A seven layer
+reservoir model was constructed based on well logs and core analysis data. A two
+phase relative permeability model was used to generate the relative permeability
+curves for the oil and gas phases assuming the initial water saturation is immobile.
+The pore size distribution index required in the relative permeability model was
+calculated by finding the slope of the log log plot of the J function versus
+normalized water saturation obtained from the air displacing brine experiment.
+Major objective of this study includes identification of parameter controlling the
+productivity of the gas condensate well, evaluation of the effect of condensate dropout
+near the wellbore on well productivity, determination of optimum production
+rate and investigation of the extent of condensate banks in different layers. It was
+concluded that gas condensate well productivity is reduced as the critical condensate
+saturation increases. Gas production rate more than 40MMSCF/D offers no
+significant improvement on cumulative gas and condensate produced, Ninety one
+percent (91 ) reduction in gas flow productivity was observed for all production
+rates investigated. The percent liquid condensed near the wellbore in all layers
+ranged between 37 to 44 percent and there are noticeable changes in pressure
+distribution near the wellbore in all layers though it remains the same at a distance
+more than 100 ft away from the wellbore.

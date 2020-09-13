@@ -1,0 +1,13 @@
+Analytical treatment of random multiple access systems with finite users and finite
+buffers remains a very complex problem due to the interfering nature of the queues
+through the shared medium. A new generalized analysis technique for buffered multiple
+access systems, called tagged user analysis (TUA), was recently proposed. TUA
+approach simplifies the analysis of buffered multiple access systems by exploiting the
+redundancy in the system and treating each user as a queueing system in equilibrium.
+In this thesis, TUA has been successfully applied to systems operating in wireless
+channels where fading and signal path loss might considerably affect the system performance.
+The performance of Slotted ALOHA and CSMA protocols operating in
+a Rayleigh fading channel is analyzed. We also consider the effect of path loss and
+random spatial distribution of users on the system performance. It is shown that
+TUA analysis is not complicated by the complexity of the underlying channel. The
+simulations results axe also provided to compare with the analysis.

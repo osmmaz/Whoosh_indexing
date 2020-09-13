@@ -1,0 +1,43 @@
+The effects of surface radiation on convective heat transfer to a transparent gas
+flowing inside channels with non isothermal boundary conditions are investigated
+numerically. The introduction of radiative heat transfer, between axial locations on
+the duct walls and the inlet and exit areas, leads to a set of nonlinear integrodifferential
+equations. These equations replace the standard energy constraints
+boundary conditions on the convective field equations. A mathematical model has
+been developed to describe the flow and heat transfer in the entry region of the
+channels. This model has been derived and formulated in a general manner to describe
+forced, mixed and free convection between two parallel plates and in concentric
+annuli. An iterative marching technique is developed to solve numerically the
+resulting group of partial and integro differential equations.
+The obtained numerical solutions have been compared with their
+corresponding available experimental, numerical and analytical solutions (if any).
+These comparisons provided a mean of validation of the present scheme and its
+method of solution.
+The effect of surface radiation on the developing laminar forced convection
+flow between two plates is investigated. The effect of the controlling parameters on
+wall temperatures, fluid temperature profiles, and Nusslet number are illustrated. The
+values of the radiation number at which surface radiation can engender symmetric
+heating (and hence maximum average Nusslet number on the heated wall and
+maximum reduction in the maximum heated wall temperature are achieved) are
+obtained.
+The effects of surface radiation on the developing laminar forced convection
+flow in concentric annuli are numerically investigated. To conduct this investigation,
+four shape factors not available in the literature have been derived and validated. The
+effects of the controlling parameters on wall temperature and Nusslet number are
+illustrated.
+The effects of surface radiation on the developing laminar mixed convection
+flow between two vertical parallel plates are numerically investigated. The effect of
+the surface radiation on wall temperatures, fluid temperature profiles, location of the
+channel height at which the buoyancy forces balance the viscous forces, the location
+of the onset of pressure build up, the location of the onset of flow reversal, average
+friction factor, and Nusslet number are illustrated. The values of the emissivity at
+which surface radiation engenders minimum pumping power requirements are
+obtained.
+The effects of surface radiation on the developing laminar mixed convection
+flow in vertical concentric annuli are numerically investigated. The results reveal the
+significant effect of surface radiation on the velocity profiles, fluid pressure, friction
+factor, temperature profiles, walls temperatures, and Nusslet number.
+The radiation effect on the developing laminar natural convection flow
+between two parallel plates and in a vertical concentric annulus is numerically
+investigated. It was found that the maximum wall temperature decreases with the
+presence of surface radiation.

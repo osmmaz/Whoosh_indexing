@@ -1,0 +1,31 @@
+Cloud computing is a promising technology for the future of IT industry. Many
+organizations and companies are moving towards this technology. Cloud computing is a
+suitable solution for organizations and companies looking for saving money in IT and
+improving performance and availability. Cloud computing security is a big challenge for
+the provider of the cloud services and it is a big concern for the customers of these cloud
+services. Cloud computing has attractive features such as elasticity, auto scaling, and
+utility computing. These features could help the adopters maximize resource utilization
+and minimize their operating costs. However, if the attacker takes advantage of these
+features and launch a Distribute Denial of Service (DDoS) attack on the cloud computing
+environment, this attack could change to a new attack, namely Economic Denial of
+Sustainability (EDoS) attack. The DDoS attack will trigger the elasticity and auto scaling
+features on the cloud so the resources will grow according to the demand of the attack
+and due to the “pay as you go” model of the cloud, the adopters will be charged for the
+scaling of the resource until it reaches a point that it cannot sustain economically. The
+aim of this work is to study several existing mitigation techniques that prevent or mitigate
+the EDoS attack and state major drawbacks of the existing mitigation techniques. Then, a
+xiii
+new approach is proposed to mitigate the EDoS. This new mitigation technique takes into
+account most of the drawbacks for the existing mitigation techniques. The effectiveness
+of the proposed mitigation technique is evaluated using simulation. In addition, we
+conduct a comparison between our new approach and the EDoS Shield technique.
+The proposed technique is based on reactive mitigation schemes and it has three phases.
+In the first phase, we are monitoring the auto scaling feature and suspicion mode
+thresholds to detect if there is an EDoS attack. In the second phase, once an attack is
+detected, the cloud service will trigger the checking component by forwarding all
+requests to this component. This component is responsible for differentiating between
+legitimate users and automated attackers (Zombies). This component will differentiate
+the traffic by sending Graphic Turing Tests such as CAPTCHA to the request generator.
+In the third phase, the checking component will drop all traffic that cannot respond to the
+CAPTCHA. However, the checking component will forward all requests that pass the
+CAPTCHA validation to the cloud service.

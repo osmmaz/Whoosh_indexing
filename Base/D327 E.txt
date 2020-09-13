@@ -1,0 +1,23 @@
+The increasing use of Arabic in computers has led to the development of
+Arabic programming languages. D H A D is an Arabic programming language
+which falls into the class of structured languages such as Pascal. Porting the
+D H A D compiler to popular computers (such as the V A X family of computers)
+is needed to make the language available for Arabic software development,
+research, and education.
+The main objective of this research is to rewrite the code generator module
+of the D H A D compiler for the V A X computers. The final code generator is the
+module of the compiler that produces assembly language code from the
+intermediate file taken as input. The work included a study of the final coclc
+generator developed for a Z 80 based computer. The same algorithm for code
+generation was used with some modifications. Code generated for the
+operations on the various data structures (byte, word, integer, real, logical,
+string, records, arrays, pointers and files) supported by D H A D has been
+produced in V A X assembly language. Code for operations, including address
+preparation of operands, branching, I/O operations, standard and'user defined
+function and procedure call, definition and parameter preparation, has also been
+implemented in V A X assembly language. Run time support library routines
+were used for standard functions and procedures. In addition, some minor
+modifications of the other modules (lexical and syntax analyzers) of the compiler
+were imposed by the transportation of D H A D to the V AX. The final code
+generator was implemented using Pascal on the V A X computer. The size of the
+executable code of the code generation module was about 40 Kbytes.

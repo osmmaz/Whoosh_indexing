@@ -1,0 +1,11 @@
+In this work, the pre distortion of nonlinear power amplifiers (PAs) through the use of
+adaptive estimation and Particle Swarm Optimization (PSO) is investigated. After
+studying the techniques available in the literature and proposing the use of some
+techniques, it was found that adaptive filtering falls short of the desired performance
+targets and subsequently, PSO was used. Several variants of PSO were examined and to
+solve the dual problem of identifying the parameters of a nonlinear PA and estimating the
+dimensionality of its model, two new PSO algorithms are proposed: 0 l Penalized
+PSO ( 0 l  PSO) and 1 l ( 1 l  PSO) are proposed and studied. The
+simulations performed indicate that the proposed PSO algorithms produce an estimate of
+the model's dimension while maintaining comparable performance to the available PSO
+variants.

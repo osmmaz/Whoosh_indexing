@@ -1,0 +1,15 @@
+The use of microwave energy to heat ceramics at high temperatures has gained
+increasing interest because of its industrial applications. The technique saves both energy
+and time, and it improves the materials' properties. In this thesis, we have designed and
+tested more than 20 heaters which were made of SiC based composite materials that show
+a strong and fast microwave absorption in a kitchen microwave oven (2.45GHz, 1.5 KW).
+The tests were very promising as some heaters could be heated up to temperatures close to
+T= 1750°C in four minutes. The highest temperatures (1650°C and 1750°C) were obtained
+in the case of (90  SiC + 10  A1203) heater and (90  SiC + 10  V203) heater
+respectively. Different compositions were investigated and structural analyses of the
+samples before and after treatment were carried out by X ray Diffraction (XRD) and
+Scanning Electron Microscopy (SEM/EDS). The results showed that many oxide
+nanostructures were formed after microwave exposure along with new phases. Successful
+tests have been reported in this thesis about sintering alumina titania (70  AI2O3 +
+30 TiO2> at 1350°C for 5 minutes in a microwave oven and a conventional furnace. Many nanostructures of zinc oxide powder have been synthesized by evaporationoxidation
+of metallic zinc using microwave heaters within 1.5 minutes

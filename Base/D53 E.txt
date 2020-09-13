@@ -1,0 +1,9 @@
+The notion of pure subgroups was first introduced by Priifer in 1923. A subgroup G of a
+group A is said to be pure in A if the equation n x = g, where n e Z and g e G, is solvable
+in G whenever it is solvable in A. The notion of purity was extended to submodules by several
+authors (e.g. Cohn, Fuchs, and Walker), and has since become an extensively studied
+topic in module theory. In 1967, B. H. Maddox introduced absolutely pure modules. This
+notion was studied and developed by other authors, for example C. Megibben and B. Stenstrom.
+In this thesis we will present various properties of absolute purity, as well as some
+ring characterizations that use this notion. A generalization of absolute purity, due to Lee,
+will also be discussed.

@@ -1,0 +1,10 @@
+Code Division Multiple Access (CDMA) code tracking performance has been shown to
+depend on both the correlation properties o f the spreading codes and the actual pulse
+shape utilized. This work quantifies the impact o f pulse shaping on the performance o f
+the noncoherent delay lock loop used in code tracking in direct sequence spread
+spectrum systems. Several families o f pulses are considered. The effect o f pulse shaping
+is demonstrated in the presence o f multiple access interference. Optimization based on
+the use o f Prolate Spheroidal Wave Functions is carried out to determine optimal pulse
+shapes in terms o f minimum tracking jitter. The optimized pulse shapes are obtained and
+their performance compared to conventional pulse shapes. Finally, the implementation o f
+the digital tracking loop is carried out using a Digital Signal Processor (DSP).

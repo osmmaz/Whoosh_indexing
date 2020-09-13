@@ -1,0 +1,19 @@
+The use o f antenna arrays is one o f the promising schemes for reducing
+the effect o f multiple access interference in 3G systems. So, it is expected that
+the use o f 2 D RAKE receivers will improve capacity, coverage, and quality
+in W CDMA systems. However, the performance o f 2 D RAKE receivers is
+sensitive to the spatial correlations at the antenna array elements. The goal
+o f this thesis is to introduce the appropriate spatial models o f both typical
+urban and bad urban channels, calculate the resulting spatial correlations
+and then analyze the performance o f 2 D RAKE receivers in bad urban
+microcellular channels. Geometrically based modeling is used to derive the
+angle o f arrival statistics and then the temporal and spatial correlations at
+the BS are calculated using numerical integration schemes. The results show
+the differences in the spatial and temporal characteristics between TU and
+BU areas for both LOS and N LOS cases. The performance o f 2 D RAKE
+receivers in spatially correlated Nakagami faded bad urban channels is
+investigated by deriving the theoretical BER and running Monte Carlo
+simulations. The results show the significant gain in capacity o f 2 D RAKE
+receivers as compared to 1 D RAKE receivers and the effect o f the existence
+o f the LOS component on the spatial diversity gain as compared to N LOS
+case.

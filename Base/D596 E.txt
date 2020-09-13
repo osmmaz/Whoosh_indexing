@@ -1,0 +1,29 @@
+Functional Requirements Specification (FRS) is a software process activity that
+involves documenting the intended behavior of a system to be. Use case modeling is a
+common approach used in FRS for Object Oriented systems. Since use case modeling is
+performed early in a software development cycle, any defects in a use case model will
+propagate to subsequent development phases and artifacts. Therefore, it is crucial to
+produce high quality use case models, especially in use case driven approaches. Previous
+work on use case quality improvement performed manual refactoring on use case models.
+Use case models of large scale complex software systems usually contain thousands of
+use cases. For such use case models, manual refactoring will be prone to human errors,
+leading to new defects being injected into the models. In order to avoid this issue, a fully
+automated process for carrying out the refactorings is necessary. Another approach used
+in FRS is scenario modeling, which is performed in conjunction with use case modeling.
+Uses cases are described in natural language as scenarios, which are modeled in detail as
+UML activity and sequence diagrams. A large conceptual gap exists between use cases
+xxiv
+and UML design; consequently, developers may produce UML models that do not
+accurately represent the required behavior of a use case. The Use Case Map (UCM)
+scenario modeling notation aids in bridging this conceptual gap. However, to date, the
+UCM notation is not part of the UML modeling language. As such, there lacks research
+in the area of transforming UCMs into UML design models. Model transformation is an
+automated technique that can greatly improve several software development activities.
+This thesis presents an approach that leverages model transformation to execute use case
+model refactorings, and transform UCM scenario specifications into UML 2 activity
+diagram and sequence diagram notations. The proposed approach will present a case for
+software developers to embrace the notion of model transformation in the context of FRS.
+Furthermore, a fault based technique is proposed for thorough verification of model
+transformations. Case studies are presented for evaluating the effectiveness of the proposed
+approach. The results obtained show that model transformations can efficiently improve
+FRS by saving time and effort.

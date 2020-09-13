@@ -1,0 +1,27 @@
+A novel method of preparing the gas diffusion electrodes for fiiel cells is proposed which
+overcomes the problems of conventional 'Dry Method'. In this method, the catalyst is
+milled with a polymer binder and a slurry of the milled catalyst is made using a surfactant.
+This slurry is filtered on a filter paper to give a uniform filter cake. This is rolled with a
+metallic mesh which works as charge collector. The remaining traces o f the surfactant are
+washed off with boiling solvent to get the final electrode.
+To demonstrate, test and study the effectiveness of the method, Raney Ni catalyst and
+Polytetrafluoroethylene (PTFE) binder were used to make electrodes. These electrodes
+were used as anode in an alkaline fuel cell. The performance tests of galvanostatic
+polarization at 25, 45, 55, 65 and 75°C showed that the new electrodes performed better.
+Five parameters which may affect the performance, namely; PTFE content, milling time,
+cooling while milling, clearance between the calendars and the removal of the surfactant
+were considered in the experimental design. The PTFE content, milling time, their
+interaction and cooling were found significant using a partial factorial design ( 2 ^ ) . The
+performance of these electrodes were best at 8  PTFE and milling for 60 seconds while
+cooling was ON.
+The spherical grain model for the performance was modified with the assumptions that the
+electrode is made of spherical agglomerates of Raney metal and PTFE, flooded with
+electrolyte, while the gas is occupying the macropores. In addition to the analysis of the
+diffusion and reaction inside the grains in the spherical grain model, this model includes
+the resistance of gas diffusion into the macropores and a thin electrolyte film surrounding
+the grain. The original and modified models were compared with the experimental
+polarization data of hydrogen oxidation on a Ni/PTFE electrode in KOH. The newly
+developed model predicts the experimental data very well in all regions. This model was
+used to obtain exchange current density (i0), charge transfer coefficient(a) and activation
+energy (E) for the best electrode prepared by the filtration method. The values of these
+parameters at 25°C were 24.0x10 mA/cm^, 0.62 and 73.9 KJ/mol respectively.

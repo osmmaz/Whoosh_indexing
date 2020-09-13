@@ -1,0 +1,5 @@
+The object in this work is to .nd a stabilizing boundary control for a class of
+nonlinear parabolic PDE system by using a transformation (transmutation operator).
+We transform the original system into a new one whose stability has been proved. We
+shall work out a few examples to illustrate the boundary control of system exhibiting
+blow up in .nite time, thus showing the e¤ectiveness of the method.

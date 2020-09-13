@@ -1,0 +1,11 @@
+Bluetooth technology is a small, low cost, short range radio link between portable
+devices and network access point. It is operating in the 2.4 GH z band. Bluetooth
+receiver performs all the selectivity and blocking by an active on chip IF filter, requiring
+a sophisticated high order IF filter design. The quality o f the IF filters dominates the
+performance o f the overall receiver in terms o f distortion and adjacent/alternate
+channel rejection.
+The thesis investigates the realization o f CMOS bandpass filters for integrated Low IF
+Bluetooth receiver. Two different approaches based on voltage buffer and unity gain
+cells are investigated. The center frequency and bandwidth o f the filter are 3MHz and
+1MHz respectively. The proposed designs provide simplified, low power and small area
+solution.

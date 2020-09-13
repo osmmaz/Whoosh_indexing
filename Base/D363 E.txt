@@ -1,0 +1,6 @@
+Applications The jil gal current of type 2105 © has increased dramatically. Processing current signals has some advantages over processing
+Voltage signals in low voltage circuits and low power applications.
+
+Folding is a technique to reduce the number of comparisons used in a transitive digital converter of a flash type while maintaining speed
+The conversion is relatively good. In other words. Using a folding amplifier, the number of comparisons can be reduced in a transducer digital converter circuit
+Folding type.

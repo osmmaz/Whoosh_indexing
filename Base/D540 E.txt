@@ -1,0 +1,36 @@
+The inadequacy of metals and alloys in providing both strength and stiffness to a
+structure has led to the development of metal matrix composites (MMCs) where rigid
+ceramic reinforcements are embedded in ductile metal or alloy matrix. MMCs combine
+metallic properties i.e. ductility and toughness with ceramic characteristics i.e. high
+strength and modulus. These composites are extensively used in automobile and
+aerospace applications because of their attractive physical and mechanical properties.
+Further improvement of the properties of MMCs was possible using nano size
+reinforcement and/or matrix; this led to the development of metal matrix nanocomposites
+(MMNCs). However, there are challenges associated with processing nanocomposites
+with the desired properties. These challenges include uniform distribution/dispersion of
+the nano size reinforcement and grain growth of the matrix phase. Ball milling (BM), a
+powder metallurgy processing technique, which involves cold welding, fracturing and
+rewelding of powder particles, is being used to achieve a uniform distribution of the
+nanoreinforcement phase. Also, spark plasma sintering (SPS), a binder less process,
+which does not require a pre compaction step, has been shown to be effective nonexviii
+conventional sintering method for obtaining fully dense materials with preserved
+nanostructure. Although, few published works reported the synthesis of Al SiC
+nanocomposites using BM and SPS, the process was not fully investigated and effect of
+all critical sintering parameters i.e. compaction pressure, heating rate, sintering
+temperature, and sintering time on Al SiC nanocomposites properties was not fully
+analysed. Hence, the main objective of this research work is to study the effect of BM
+and SPS process parameters on the microstructure and properties of Al SiC metal matrix
+nanocomposites. Aluminium based nanocomposites containing 1, 5 and 10 wt  SiC were
+mechanically milled between 0 and 28 hours. Milling for 24 hours led to crystallite size
+reduction of the aluminium phase and homogeneous dispersion of the SiC
+nanoreinforcement which was maintained even after sintering. Spark plasma sintering
+experiments were carried out on the milled powders at a pressure from 20 to 50 MPa, and
+heating rate from 100 to 3000C/min. Maximum density and hardness were obtained at 50
+MPa and 2000C/min. These values were kept constant while temperature was varied from
+500 to 6000C and holding time from 5 to 15 min in the second phase of experiments
+where a sintering temperature of 6000C and a sintering time of 10 min. led to better
+densification and improved properties. A unique needle like structure that resulted in high
+strength was observed for composites sintered at 50 MPa and 10 min. Compression tests
+were carried on samples, which showed good combination between densification and
+properties, at compression rate of 1mm/min. Al  10 wt  SiC had the highest strength
+with a 200  increase above base material.

@@ -1,0 +1,19 @@
+The durability performance is the most important subject that distinguishes the
+good material characteristics from the bad ones, particularly under aggressive
+environmental conditions. Concrete cylinder pipes (CCP) consisting of steel rebar
+wrapped steel shell, lined with cement mortar inside and outside the pipes, are
+manufactured in Saudi Arabia to transport water and other fluids. They are used above
+and underneath the soil and are often subjected to chemical attack when exposed to
+aggressive environmental conditions.
+Durability of CCP is therefore a prime concern to users and producers. For
+protection, fiberglass resin coating (FRC) is used on the exterior surface of CCP.
+However, it cannot be applied on the joint, which creates a potential weakness, because
+of the necessity to make it flexible and easy to construct at site. The assembled joint
+typically consists of a Bell and Spigot system in which a steel plate is used covered by
+diaper wrapped lean cement mortar for protection. For the protection of steel plate at the joint, three different types of primer
+coatings: red oxide, zinc primer, and epoxy coating, were considered in this study. A
+qualitatively assessment of durability was carried out for the assembled joint using the
+three types of coatings to select the best performing one and the role of electrical
+resistance of fiberglass resin coating, mortar lining, and coating on steel plates, in the
+overall effective electrical resistance of main CCP section and assembled joint sections
+was also qualitatively assessed.

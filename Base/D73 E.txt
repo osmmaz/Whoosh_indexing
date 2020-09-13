@@ -1,0 +1,16 @@
+In this thesis work, various one dimensional and two dimensional bandgap structures
+are analyzed. In the one dimensional case, we analyzed a deep grating, symmetrically
+coupled deep grating and asymmetrically coupled deep grating structures.
+In the two dimensional case, we analyzed the presence of line defects and point
+defects as well as a U turn line defect. In all the above bandgap structures, we calculated
+the spectral response including modal reflectivity, modal transmissivity and
+the loss due to radiation. Due to the fact that, we need to analyze very different
+structures, an automated Method of Lines (MOL) program has been developed for
+this purpose. This automaticated user friendly computer program which accounts
+for arbitrary longitudinal discontinuities in a numerically efficient manner, is used
+in the thesis work. The MOL with improved features is also discussed in this thesis
+work. Improved implementation of the transverse second derivative operator and the
+Perfectly Matched Layer (PML) are discussed.
+In general, the spectral response of these structures give rise to interesting features
+such as the presence of transmission resonances within the bandgap, which
+make them potential candidates for use as compact wavelength filters.

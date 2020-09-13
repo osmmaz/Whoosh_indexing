@@ -1,0 +1,15 @@
+As a primary aim of this study, solution procedures have been developed for
+nonlinear analysis of Single M itre d B end s. An analysis of single mitred
+bends made of anisotropic material typical of metal matrix has also been
+considered. An assumed displacement finite element approach, based on the
+degenerate shell concept that incorporates bending extensional coupling and
+some measure of transverse shear deformation, is adopted . Attention has
+been devoted to achieving a computationally efficient mesh and an accurate
+numerical integration across the thickness of the single mitred bend.
+A special purpose computer program P L A M B S 7 has been developed.
+A number of problems have been analyzed and results compared with solutions
+elsewhere in the literature. The range of problems included elastic,
+elasto plastic, and elasto anisottopic single mitred bends under pressure or
+in plane bending. For the bending load, the effect of large deformation in
+relation to opening and closing moments on the elasto plastic response of the
+mitre model has been explored.

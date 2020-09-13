@@ -1,0 +1,21 @@
+Well test model identification and, subsequently, model parameters determination is
+more complex in horizontal wells as compared to vertical wells. This is due to the increase
+in number o f flow regimes occurring during a flow period and due to the fact that
+strong correlation exists between model parameters.
+This study presents a new approach fo r automatic model identification and computeraided
+well test interpretation in horizontal wells. The new approach is based on using
+neural network to (1) identify the well test interpretation model; (2) identify flow regimes;
+and (3) mark the position o f identified flow regions on the derivative plot o f well
+test data.
+This work consists o f first generating common model signatures using Ozkan and Ragavan
+analytical solutions fo r horizontal well in various reservoir and inner boundary
+conditions assuming laterally boundless reservoir. Next, these signatures are used to
+train neural networks fo r three identification stages, namely, model identification, flow
+regime identification, and position o f flow regime identification. Separate networks were
+trained, then tested and validated using synthetic as well as field data. Once the three
+identification stages are completed, specialized plots for data points falling into each
+flow regime are used to determine initial model parameters. Finally, non linear regression
+software was used to determine final model parameters.
+A comparative study was carried out using different network architectures and data
+preparation schemes. Modular approach with direct data utilization is found to be most
+suitable fo r field implementation o f our approach.

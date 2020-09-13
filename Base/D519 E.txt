@@ -1,0 +1,36 @@
+WC Co hard metal composites are widely used in cutting and drilling industry, due to
+their unique combination of properties such as wear , high thermal shock ; corrosionresistant
+and exhibiting high hardness and toughness values.
+Nano sized WC powder was prepared through planetary ball milling of as received
+micron sized WC powder for 72hrs. These hard carbides were further mixed with soft
+binding material, Cobalt in this case, and other desired additives through mechanical
+alloying, which results in homogeneous distribution of powders in the mixed
+composition. The resulted mixed powder composition was then consolidated under spark
+plasma sintering technique. Sintering and compositional parameters were varied during
+this study. The resulted sintered composites were characterized for their densification,
+Vickers hardness and fracture toughness. Micro structural characterization was done
+through FESEM and X rays diffraction.
+One of the key challenges for researchers in this area is the development of WC Co Nano
+composites by limiting their grain sizes to nanoscale, even after sintering. The
+development of finer dense microstructures is in addition to the expectations of
+improving their mechanical properties. The aim of this study is to offer an understanding
+to the possible fabrication of dense nanostructured hard metals composites and further
+effect on mechanical properties of these nanocomposites, by varying initial WC particle
+sizes and use of grain growth inhibitors, in retarding grain growth. The effect of grain
+growth was also studied in combination of changing amount of binding material and
+sintering temperature. Vanadium carbide and Chromium carbide as grain growth
+inhibitors have been studied in ranges of 0.2, 0.4, 0.6 and 0.8wgt , both individually and
+also in combination. In addition to individual and combined effect of these inhibitors,
+their effect was also monitored while varying amount cobalt and sintering temperature of
+these spark plasma sintered nano crystalline WC(10nm) Co cemented carbides, in each
+case. Grain sizes attained in each case and their respective mechanical and physical
+properties were analyzed and compared respectively. Characterization was carried out
+using (XRD)X ray diffraction, (FESEM)Field emission scanning electron microscope.
+Densification, hardness and fracture toughness were observed, measured and compared in
+each case to access any improvement in the mechanical properties.
+It was found that VC added samples were comparatively more active in controlling grain
+sizes, however resulted in comparatively lower densification of the resulted nano
+composite. Beside Cr3C2 added samples were found to result in comparatively higher
+hardness and fracture toughness of the material. Further combination of both inhibitors
+in a particular sample, rather than individual, was found to result with higher mechanical
+properties.

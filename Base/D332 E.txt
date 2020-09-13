@@ -1,0 +1,11 @@
+Biometric systems have gradually become an accepted mean for person identification and
+verification. Recently, person identification using iris features has received a lot of
+attention in both research and industry communities. This is mainly due to the unique
+characteristics and texture found in iris images. Most proposed iris recognition techniques
+are based on gray level representations. The aim of this research is to develop and
+investigate novel methods for the automatic recognition and matching of color iris images
+based on hypercomplex (Quaternion) representations. The performance of Quaternion
+image representation is compared with that of other representations, and a study of the
+results is conducted. The well known IrisCode algorithm, developed by John Daugman,
+is extended to the color domain. Furthermore, in the present research, hypercomplex
+processing and filtering of color iris images are defined.

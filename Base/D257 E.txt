@@ -1,0 +1,28 @@
+Permeability and lithofacies are very important in the computations of reservoir
+engineering. Permeability, or flow capacity, is the ability of porous rock to transmit fluid while
+lithofacies represent the physical properties of rocks and are important components of
+hydrocarbon reservoir description. There are many empirical approaches for predicting
+permeability and lithofacies; such as linear/non linear multiple regression or graphical
+techniques. Recently, researchers utilized artificial neural networks (ANNs) to achieve better
+predictions. These achievements of ANN open the door to both machine learning and soft
+computing techniques to play a major role in petroleum, oil, and gas industry. Unfortunately, the
+developed ANN model is bedeviled with several limitations especially in uncertain situations.
+Recently, Type 1 and Type 2 Fuzzy Logic Inference Systems have been introduced as novel
+computational intelligence approaches for both prediction and classification. They were
+successfully used in several areas of science and engineering, however, they have not been fully
+utilized in the oil and gas industry, particularly the type 2 FIS that was recently developed. To
+demonstrate the usefulness of the Type 1 and Type 2 Fuzzy Inference Systems (T1&T2 FIS)
+techniques in petroleum engineering area, we describe both their steps and their use for predicting
+Carbonate Lithofacies and Permeability from Well Logs.
+This work explores the capability of both Type 1 and Type 2 Fuzzy Inference Systems as
+novel approaches for predicting carbonate lithofacies and permeability from Well Logs. As
+expected, these new computational intelligence approaches overcome the weaknesses of the
+standard neural networks limitations. In addition, we carried out a comparative study to compare
+their performances with those of the conventional artificial neural network models and other
+popular techniques. Empirical results show that the performance of T1&T2 FIS novel approaches
+outperform most of the common existing approaches, particularly in the area of ability to handle
+data in uncertain situations, which are the common characteristics of well logs data. Finally, for
+the first time in the history of permeability prediction, a Type 2 fuzzy logic based model has been
+developed that will generate, not only the target forecast, but also prediction intervals without
+additional effort. We have developed smart simulation structure to attack such problem with realindustry
+data to prove our contribution

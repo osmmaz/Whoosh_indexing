@@ -1,0 +1,22 @@
+The effect of pH and various alcohol water mixtures on the electronic
+spectra and excited state dynamics of thymine, one of the DNA constituents, have
+been investigated. A mode locked Nd:YAG laser in combination with a cavitydumped
+synchronously pumped dye laser is used as a source o f excitation.
+Fluorescence decay and time resolved spectra were recorded with picosecond
+photon counting spectrometer. Steady state fluorescence spectra as well as
+ultraviolet absorption spectra were also recorded.
+Fluorescence spectra of thymine in aqueous solutions where thymine exists
+in the neutral form have been found to vary in shape as the excitation wavelength is
+increased. This change in shape is explained by the presence of another tautomer
+beside the predominant diketo tautomer o f thymine. This minor tautomer is
+believed to be 5 methyl 2 hydoxy 4(3H) pyrimidinone or the keto enol tautomer.
+Lifetime analysis o f fluorescence decays support this explanation where a
+biexponential decay with lifetimes of around 0.7 and 4 ns is observed for the
+neutral form of thymine. Time resolved spectra are in accordance with this
+explanation.
+Fluorescence lifetimes of thymine do not vary in methanol water and
+ethanol water mixtures. While the lifetime of the keto enol tautomer is found to
+vary with viscosities of the 1 propanol water mixtures. This is explained by
+solvent solvent and solute solvent interaction. According to the steady state and
+time resolved fluorescence spectra in the various alcohol water mixtures, thymine
+does not undergo a pKa shift in the excited state.

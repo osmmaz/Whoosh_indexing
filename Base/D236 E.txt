@@ -1,0 +1,12 @@
+Refactoring improves software quality by improving the design of existing code through
+changing its internal structure while preserving its behavior. Improving one quality
+attribute may affect negatively other quality attributes. A number of refactoring methods
+were proposed specifically for Aspect Oriented systems. Aspect oriented techniques are
+emerging to cope with the challenges of current software development and to address
+shortcomings of existing paradigms such as object oriented and component based
+software engineering. However, there are no guidelines to help Aspect Oriented software
+designer decide which refactoring methods to apply in order to optimize a software
+system with regard to certain design goals. In this thesis, we propose a classification of
+refactoring methods for Aspect Oriented systems based on their measurable effect on
+software quality attributes and then we empirically validate this classification using
+software applications.

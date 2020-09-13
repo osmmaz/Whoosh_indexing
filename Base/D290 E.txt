@@ -1,0 +1,10 @@
+Congestion management in transmission network utilizing STATCOM incorporation
+in transmission network is presented. Transmission congestion management problem
+is studied from different aspects, i.e. congestion relief, location marginal price
+reduction, congestion costs and cost recovery period are carried out. Genetic
+Algorithm as an intelligent optimization technique is considered to obtain the
+optimum STATCOM location and rating to be incorporated in the transmission grid.
+Comparisons with similar results reported in literature are demonstrated. The
+effectiveness of STATCOM installation in a congested transmission network to
+enhance power flow parameters and to maintain location marginal prices at
+acceptable levels is verified

@@ -1,0 +1,20 @@
+expanding the tube into the tubesheet. Tube rolling is the most popular form o f expansion.
+However, uniform pressure expansion has been often assumed in the studies o f the jo in t
+strength. The jo in t strength is influenced by many factors such as the method o f
+attachment, m aterial properties, geometry and dimensions. To sim plify the analysis,
+researchers have assum ed zero initial radial clearance and elastic perfectly plastic
+m aterial in the study o f the jo in t strength.
+In this thesis, fin ite elem ent analysis is conducted on axisymmetric, plane stress and plane
+strain models to investigate the effect o f initial radial clearance and tube strain hardening
+on the residual contact pressure between the tube and tubesheet hole after expanding the
+tube by applying uniform pressure. Results show that the radial clearance has a negative
+effect on the jo in t strength. The effect becomes more significant with increasing the level
+o f tube strain hardening. A practical equation to calculate the reduction factor due to the
+initial radial clearance and tube strain hardening, which could be used with the closedform
+solution o f the residual contact pressure available in the literature, is proposed
+O ther equations fo r calculating the tube’s inner and outer surfaces radial deformation,
+which are used to calculate the tube wall reduction and tube thinning, are also proposed
+The results obtained from the fin ite element analysis are compared with the
+experim entally measured results, which were conducted on roller expanded tubes into a
+nine holes square block. Because o f the low level o f tube strain hardening, experimental
+results show that the jo in t strength seems to be unaffected by the initial radial clearance.

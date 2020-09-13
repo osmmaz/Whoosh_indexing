@@ -1,0 +1,18 @@
+Interactive curve design in Computer Aided Geometric Design (CAGD) is typically
+accomplished through the manipulation of a control polygon. The methodology
+based on B spline type basis functions results in a curve that lies in the convex hull.
+Changes in the control polygon only effect the curve locally. This research is oriented
+towards the representation o f interpolatory curves and surfaces, using rational cubic
+splines. These interpolatory splines have been constructed through the D spline
+formulation. The method fo r evaluating the rational cubic B spline curve is suggested
+by a transformation to Bemstein Bezier form. The method uses the cubic by
+quadratic functions and for given control points constructs the intcipolatory spline
+method which enjoys all the geometric properties of B splines. Hence the spline representation
+is not a spline over spline form.
+The generation of interpolating spline curves and surfaces is a useful and powerful
+tool in CAGD. Various methods have been developed to control the shape of an
+interpolating curve for computer aided design applications. Some methods are better
+suited for controlling the tension of the curve on an interval, while others are better
+suited for controlling the tension at the individual control points. This work is
+oriented towards investigating C 2 like rational interjjolatory splines with point and
+interval tension. Shape controls are available to tighten the rational splines on intervals and/or at the interpolation points.

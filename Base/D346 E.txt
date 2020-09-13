@@ -1,0 +1,16 @@
+Many interconnection networks have been proposed in the literature, but none has
+wide ranging applicability. Hypercube networks are among the most commonly used
+interconnection network topologies. However, they have the disadvantages that link
+cost is exponential in network dimension and non constant node degree. Torus net 
+works have a fixed degree and low link cost, but a diameter which is linear in net 
+work size. Hierarchical interconnection networks provide a means to design networks
+which have low link cost, and which take advantage of the locality of communication
+existing in parallel applications. As network size increases, so does the probability
+of network failure. To safeguard against failure, spare nodes and/or links are in 
+corporated into the network. In this work. we design a hierarchical interconnection
+network which has the desirable properties of the hypercube and the torus networks.
+The performance of this network is evaluated, and a routing algorithm is proposed.
+Fault tolerance is incorporated into this network, and it 's performance is compared
+to that of some other networks. A reconfiguration strategy is proposed. and reliabil 
+ity evaluation is undertaken. A Fault. Tolerant routing algorithm is proposed for this
+architecture.

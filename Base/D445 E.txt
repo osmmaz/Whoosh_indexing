@@ -1,0 +1,17 @@
+In this work, an echo cancellation scheme using a variable step size Normalized Least
+Mean Square (VSS NLMS) adaptive algorithm is proposed. Many algorithms proposed
+in the literature for this application were not given much attention in real time
+applications due to their heavy complexities. The NLMS algorithm however, is given
+much attention because it has a good balance between performance and complexity.
+Conventional echo cancellers using a fixed step size algorithm, usually results in a
+trade off between residual error and speed of convergence. The variable step size
+NLMS algorithm presented in this work gives an improved performance, eliminating
+such trade off. The step size variation makes it possible for the algorithm to converge
+faster and at the same time, yielding a lower steady state error compared to the
+one obtained by the fixed step size case. Derivations and analysis of the VSS NLMS
+algorithm are presented and simulation results confirm the theoretical findings. The
+results indicate that the VSS NLMS algorithm outperforms the traditional NLMS
+algorithm both in terms of convergence and steady state error in case of low values
+of the step size initializations. However, when high values of the step size initializations
+are used, the VSS NLMS algorithm still converge to a lower steady state error
+than the traditional NLMS algorithm, but with same speed of convergence.

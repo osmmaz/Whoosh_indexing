@@ -1,0 +1,14 @@
+The behavior of laterally loaded pile groups can be studied easily in the laboratory on
+small scale model, saving a lot o f expenses, efforts and time. This research presents
+investigations on small scale closely spaced pile groups embedded in sandy soil in order
+to understand the behavior o f such model when subjected to lateral load. The
+experimental program consisted o f studying the behavior of twelve models by varying the
+following parameters: number o f piles, loading conditions (static or cyclic) and sand
+saturation conditions (dry or submerged). The static and cyclic loading were achieved by
+means of specially designed loading actuator. The cyclic loading represents the wave
+action exerted on offshore structures. Experimental bending moment and deflection along
+the pile length were compared with semi empirical ones. The behavior o f the small scale
+model was compared to full scale model which shows reasonable results. Experimental
+results have shown that the behavior o f pile groups was greatly influenced by the study
+parameters. Finally, the small scale model in laboratory can be used to study the behavior
+of laterally loaded closely spaced pile groups.

@@ -1,0 +1,12 @@
+The coupled bending and torsional vibration of a rotating tapered shaft based on
+Timoshenho beam theory is presented by means of the finite element technique. The shaft
+which is assumed to have. circular cross section and linear taper is discretized into a
+number of finite elements with ten degrees of freedom each. The equation of motion of the
+rotating tapered shaft finite element is derived using Lagrange equation. Explicit
+expressions for the finite element mass. stifliiess and gyroscopic matrices are derived by
+using consistent mass formulation. The shaft finite element is integrated into a procedure to
+calculate the natural fi'equecies of rotor bearing systems. The generalized eigenvalue
+problem is defined and numerical solutions are generated/or a wide range of whirl ratios,
+spin speeds and taper ratios. Comparisons are made with exact solutions and with
+numerical results available in the literature. The results display high accm'aqv when
+compared to other numerical results.

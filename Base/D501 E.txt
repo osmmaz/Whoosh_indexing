@@ -1,0 +1,17 @@
+Prepositional satisfiability (SAT) is one of the classical problem in computer science
+discipline. The importance of SAT comes from the fact that it was the first problem
+proven to be NP Complete which means that a large class of real world problems can be
+expressed in terms of a SAT instance. Many algorithms were proposed to solve this
+problem efficiently over the last decades and they can be categorized into two types:
+complete and incomplete algorithms. Complete algorithms can state whether the instance
+is satisfied (the answer is yes) giving the truth assignment or unsatisfied (the answer is
+no) indicating that it is impossible to find one. The incomplete algorithms can only give
+an answer of yes to satisfiable instances but cannot give an answer of no to unsatisfiable
+ones since their nature is to continuously search for a satisfying assignment until one is
+found. The thesis reviews the research work done in these two categories and give
+description to the major results achieved. It also proposes a new algorithm that falls in the
+first category and it differs from the ones in the literature in severals aspects. It does not
+do any backtracking during the searching process that usually consumes significant time
+as it is the case with other algorithms. The searching process is simple, easy to
+implement, and each step is determined instantly unlike other algorithms where decisions
+are made based on some heuristics or random decisions.

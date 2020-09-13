@@ -1,0 +1,10 @@
+The present work aims at the study of the buoyancy effects on entropy generation
+due to laminar mixed convection in vertical channels of different geometries. The
+geometries considered are namely: vertical channels between parallel plates, vertical
+circular tubes and vertical concentric annulus. Attention is devoted to investigating the
+optimization of the flow and heat transfer in such channels under the mixed convection
+condition via the minimization of the entropy generation. In this regard, the optimum
+values of the buoyancy parameter (Gr/Re)optjmum at which the entropy generation assumes
+its minimum have been obtained and presented for both fully developed and developing
+laminar mixed convection flow. Moreover, the effect of other operating parameters of
+relevant importance is also discussed and presented.

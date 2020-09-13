@@ -1,0 +1,10 @@
+M ost document collaborative systems enclose implied document flow
+models which are suitable only fo r their systems. Moreover, these systems can
+concentrate on their forem ost objectives if they utilizes generic document flow
+model. In this research, I have investigated the development o f a generic
+architecture fo r Document Flow model based on WebDAV protocol (DFWDAV),
+which are intended to overcome the limitations o f the specialized models.
+Moreover, this model can be utilized as an infrastructure fo r document systems.
+Keywords: Document Flow model based on WebDAV protocol (DFWDAV),
+Document Flow, Cooperative Systems, Office Automation, World Wide Web
+Distributed Authoring and Versioning (WebDAV) Protocol.

@@ -1,0 +1,9 @@
+In this thesis, a telerobotic system has been designed, to allow remote control of a
+robot arm existing in the college of computer science and engineering laboratories,
+over the college network and by using a master arm that has been built locally. The
+system is developed for situation or environment that are too dangerous or
+uncomfortable for the human operator to perform, to keep him away and in a safe
+place. The operator receives real time video streams from the robot side, and
+accordingly he performs his work. Vision based master arm, based on un calibrated
+stereovision to compute the three dimensional information of a geometric shape from
+multiple views, have also been proposed and implemented.

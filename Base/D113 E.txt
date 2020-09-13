@@ -1,0 +1,14 @@
+Effective utilization of fossil fuels for power generation depends to a great extent on the
+types of fuel and the capability of the steam generating equipment to control the emissions
+of air pollutants. The emitted pollutants are dispersed in the atmosphere resulting in
+deterioration of ambient air, thereby posing a threat to the environment. The work in this
+thesis involves estimation of the ground level concentrations of sulphur dioxide, nitrogen
+oxides and suspended particulate matter due to the firing of different types of fuels
+namely, Natural Gas (NG), Light Arabian Crude (LAC), and Heavy Arabian Crude
+(HAC). Air pollution emissions were estimated from three stacks in the study area.
+Emissions of the above air contaminants are estimated based on the application of
+appropriate US EPA AP 42 emission factors and the use of the US EPA approved air
+quality dispersion modeling system (CALPUFF). The predicted measurements of the air
+pollutants have been compared with the current air quality standards of Presidency of
+Meteorology and Environment (PME Standards) of the Kingdom of Saudi Arabia in order
+to find suitable mitigation measures to prevent any adverse effects on environment.

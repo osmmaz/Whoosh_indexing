@@ -1,0 +1,19 @@
+The current experimental study aims to examine the effects of using oxygenates as a
+replacement of lead additives in gasoline on performance and exhaust emissions of a
+typical SI engine. The tested oxygenates are MTBE, methanol, and ethanol. These
+oxygenates were blended with a base unleaded fuel in three ratios (10,15, and 20 vd. ).
+The engine maximum output, thermal efficiency, CO emissions, HC emissions, and
+NOx emissions were all evaluated at a variety of engine operating conditions using an
+engine dynamometer set up. The results of the oxygenated blends were compared to
+those of the base fuel and of a leaded fuel prepared by adding TEL to the base.
+When compared to the base and leaded fuels, the oxygenated blends improved the
+engine brake thermal efficiency. The leaded fuel performed better than the oxygenated
+blends in terms of the maximum output of the engine except in the case of 20 vol. 
+methanol and 15 vol.  ethanol blends. With respect to the base fuel, the addition of
+oxygenates decreased the CO emissions, decreased the HC emissions at most operating
+conditions, but generally increased the NOx emissions except for 10 vol.  ethanol blend.
+The emissions results for the leaded fuel were comparable to those of the base.
+The methanol blends performed better than the other oxygenated blends in terms of
+engine output and thermal efficiency. The MTBE blends were the best performers
+among the oxygenated blends in terms of HC emissions while the ethanol blends were
+the best performers in terms of CO and NOx emissions.

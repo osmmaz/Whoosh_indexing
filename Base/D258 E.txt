@@ -1,0 +1,19 @@
+Near surface diffractors are one of the problems in land seismic exploration. They
+can scatter the surface wave energy emanating from the seismic source and contaminate
+the signal received by seismic receivers. The scattered energy from the near surface
+diffractors manifests itself on seismic shot gathers as strong hyperbolic events, called
+diffractions, masking the weak reflected body waves. Diffractions present complications
+to most of surface waves suppression schemes, especially when they have been scattered
+by scatterers away from the line of receivers. Different methods have been tried to
+eliminate diffractions from seismic data e.g., geophone arrays, filtering, and inverse
+scattering of Rayleigh waves. Each of those methods has its own limitations. In this thesis
+processing algorithms to map near surface diffractors of surface waves and attenuate
+their diffracted energy in seismic shot gathers are presented. The mapping algorithm is
+based on semblance measurement and time offset relation while the attenuation algorithm
+is based on least mean square best fit of Ricker wavelet. The algorithms have been
+applied on synthetic data from two different models. The first model has three nearsurface
+diffractors while the second model has three clusters of near surface diffractors.
+Each cluster consists of three near surface diffractors, with distances between them
+varying form one cluster to another. The results of both algorithms were excellent in most
+of the cases. They only had problems when the separation between individual diffractors
+is below the expected wavelength of the surface wave.

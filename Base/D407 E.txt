@@ -1,0 +1,17 @@
+This thesis discusses the main causes of failure in the Construction industry in Saudi
+Arabia. A survey of 68 contractors from the entire Kingdom was undertaken. These
+contractors were classified by the Ministry of Housing and Public Works from grade one to
+four. The distribution of these contractors are as follows: 7 from grade one, 12 from grade
+two, 27 from group two, and 22 from group three.
+The survey included 34 different causes of failure and their degree of importance. The
+severity factors of these causes were measured by their level of importance and were
+ranked according to the severity index for group one together, group two, and group three,
+and a combination of all respondents. A computer statistical package (SAS) was used to
+analyze the data.
+A hypothesis that" grade one and two (group one), grade three (group two), and grade
+four (group three) generally agree on the ranking of severity indices" was tested and shown
+to hold true. It was concluded that lack of experience in the line of the work, neglect, poor
+estimation practices, bad decisions in regulating company's policy, and national slump in
+the economy are the most severe factors. Also, it was noted that grade three contractors
+give the most response, followed by grade four and then grade one and two. This reflects
+the true awareness of causes of failures among contractors.

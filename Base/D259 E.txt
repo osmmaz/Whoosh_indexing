@@ -1,0 +1,15 @@
+Cryogenic machining is gaining increasing acceptance in metal industries and is
+replacing the conventional machining processes to overcome the shortcomings o f the
+conventional coolants. Materials like aramid fibre reinforced composite are difficult to
+machine because o f the unique combination o f physical properties o f fibre and the matrix.
+The present study evaluates the machinability o f Kevlar™ 49 composite laminates at low
+temperatures using TiN coated HSS drill.
+The effects o f workpiece temperature and cutting conditions on machinability o f
+laminates were assessed using drilling thrust force, cutting torque, specific energy and
+hole quality. Both workpiece temperature and machining conditions were found to
+influence each o f maximum thrust force, maximum torque and specific cutting energy at
+different levels. Both drilling thrust and torque showed increasing trend with decrease in
+the workpiece temperature under all machining conditions. Drilled hole patterns o f the
+laminates obtained using optical technique showed less fibre protrusion and delamination
+at low temperatures compared to ambient. An improvement o f about 400  was observed
+when the workpiece temperature was reduced from 20“C to  120°C.

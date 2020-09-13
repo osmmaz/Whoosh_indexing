@@ -1,0 +1,23 @@
+The explicit finite difference scheme of DuFort Frankel
+type which was successfully applied in buoyant Jet analysis by
+previous investigators is now applied to solve partial differential
+equations of continuity, momentum, energy and salinity to
+simulate a warm, dense, highly salt laden Jet issuing from desalination
+plant outfall systems. Turbulent shear stress, heat
+flux, and component of mass flux term appearing in the governing
+equations are evaluated using an eddy viscosity model which
+includes effects such as intermittent turbulence near the edge of
+the Jet and buoyancy on mixing. The turbulent Prandtl and Schmidt
+numbers used to relate the turbulent exchange of momentum
+and scalar constituents are kept constant at 0.7 for all calculations
+reported.
+The following flow categories are considered: (1) The
+vertical dense Jet discharging into quiescent, uniform or stratified
+ambient, and (2) the dense Jet discharging horizontally or
+inclined to the horizontal into a uniform or stratified ambient.
+The predictions of Jet trajectory in the lower Froude number
+range agree favorably with the available experimental data.
+For higher densimetrie Froude numbers, significant deviation between
+predictions and experiments is observed. However, the experimental
+data is very limited and additional data is needed before any
+conclusive remarks can be made.

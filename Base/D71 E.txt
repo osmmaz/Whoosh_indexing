@@ -1,0 +1,18 @@
+The polarizers are important elements o f integrated optical circuits. In this research
+work, two types of metal clad TM pass polarizers, transmission mode polarizer
+and reflection mode polarizer, are studied. In the first type, the T M polarized waves
+are transmitted with low loss, while T E polarized wave are transmitted with very high
+loss. The second type of polarizer has corrugations in its structure. I t functions by
+reflecting T M waves with low loss, while the reflected TE polarized waves are highly
+attenuated. The reflection and transmission spectra o f the reflection mode polarizer
+are calculated fo r different high index buffer layer thicknesses, different number of
+grating periods, different groove depths and different length o f metal clad section.
+The Method o f Lines (MOL) with the Cascading and Doubling Algorithm is applied
+to model the multi layer Waveguide structure with periodic corrugations. Higherorder
+approximations of the second derivative (d2/ d x 2) operator with appropriate
+interface conditions are used. The Perfectly Matched Layer (PML) absorber is used
+to absorb the radiated fields due to the presence o f longitudinal discontinuities.
+Keywords: Optical Waveguides, Waveguide Gratings, Metal clad Waveguides,
+M ethod o f Lines (MOL), Higher Order Approximations, Perfectly M atched Layer
+(PM L), TM  Pass Polarizer, TE Pass Polarizer, Reflection Mode Polarizer, Transm
+ission Mode Polarizer.

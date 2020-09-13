@@ -1,0 +1,20 @@
+An electrochemical hydrogen permeation measurement system
+was designed, constructed and successfully used. The good agreement
+between the values of the diffusion coefficients for the hydrogen atoms
+in steel obtained by us and those obtained by other workers established
+the reliability of our system. A characteristic hump was observed in
+several hydrogen permeation curves. We propose that this hump is due
+to the trapping of hydrogen at sites other than voids and microvoids.
+This electrochemical system was adapted to study the
+effectiveness of diethanolamine (DEA), morpholine (MOR),
+triethanolamine (TEA), ethylenediamine (EDA), and hexamethylene
+diamine (HMDA) in inhibiting the entry of hydrogen atoms into steel.
+The diamines were found to be more effective than the monoamines,
+and a nonlinear relationship was observed between the increase of
+inhibition and the concentration of the amines studied.
+The inhibiting abilities of the monoamines were similar at the
+higher concentration limit (0.01 M) and followed the trend TEA > MOR
+> DEA at the low concentration limit (5 x 10'5M). For the diamines the
+inhibiting abilities were also similar at their high concentration limit
+(5 x 1 0 '3M) and followed the trend HMDA > EDA at the low
+concentration limit (5 x 10‘5M).

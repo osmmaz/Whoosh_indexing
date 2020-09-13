@@ -1,0 +1,14 @@
+Associative memory neural networks are used for error correction of linear block
+codes. The implementation of decoder based on neural networks does not require any
+special characteristics of codes (i.e.. Linearity, cyclic nature etc.) and can decode
+many different types of codes such as repetition, Hamming, BCH, R S and other
+codes.The concept of Hopfield model has been applied for error correction of linear
+block codes defined over GF(q) fields. All the codewords of length n are considered as
+stable states which are used to construct the weight matrix as defined in the Hopfield
+model. All the other possible words of length n are the unstable states. For a linear
+(n.k) code, the number of stable states are '2k and the possible number of unstable
+states (patterns) are 2 " 2k. The decoder would either map the unstable state to
+one of the stable states or indicates that an error has occurred. The error correction
+capability is the same as that of classical decoding methods, that is. only limited by
+the'minimum distance constraints. Error correction is applied for the codes having
+single and mxdtiple error correction capability

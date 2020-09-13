@@ -1,0 +1,9 @@
+In this study, the behavior of transmitted waves (electromagnetic and quantum) is
+studied in gain (amplifying) media using complex media characteristics representation.
+The time independent and time dependent wave equations (electromagnetic and
+Schrodinger), that show contradictory results for the behavior o f transmitted waves in
+gain media, are used to study the transmission comparatively. The contradiction between
+the results of the time independent and time dependent wave equations is studied and
+correlated to the resonance poles of the reflectance and transmittance. A first successful
+explanation for the paradoxical results of the time independent and time dependent wave
+equations is presented in this study.

@@ -1,0 +1,14 @@
+In Bus thesis, the idea o f integrating personal computers (PC’s) and d istal signal
+processing boards (DSP) to acquire and analyze the electrocardio^aphlc (ECG) sisals is
+achieved. The main part o f the thesis is concerned with acquiring data from the ECG
+leads. A hardware design which consists of the signal interfacing and conditioning is
+developed and implemented. Moreover, the hardware desigi is integrated with a software
+package that uses both high and low level languages for the acquisition and analysis of the
+signal. This is performed by using a digital signal processing board called DSP 32C A
+study about the heart as a physiological organ is performed too. Moreover, a survey of
+some methods analyzing the ECG signal and extracting its features is done. An
+investigation of applying these methods to our study is performed in order to get the values
+ofQ RS, PT, QT waves and the heart rate. In addition, a complete study of how the digital
+signal processing (DSP) board DSP 32C and its main CPU DSP32C chip is performed.
+Integrated with Assembly language of the DSP 32C board, C Ianguage is used as the main
+program m ing language on this board in order to acquire and analyze the ECG signals.

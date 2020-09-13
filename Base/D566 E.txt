@@ -1,0 +1,34 @@
+The traditional method of forecasting mode choice relies heavily on
+travel time and travel cost to explain traveller’s behavior. Although, these
+two variables are important in mode choice, they may be inadequate in
+representing people’s behavior. Transportation planners may need to
+consider people’s perceptions of travel mode in mode choice models to be
+able to produce reasonable forecasts. The primary objective of this research
+is to investigate the effect of incorporating mode perceptions into the
+modelling of mode choice process for intercity travel in Saudi Arabia. To
+achieve this objective first scales were developed and tested for the purpose
+of quantifying the perceptions of mode privacy, convenience, comfort and
+reliability using factor analysis through a pilot survey.
+For the purpose of testing the effects of mode perceptions,
+multinomial logit mode choice models were calibrated for business trips as
+well as social/recreational trips. The data required for calibrating the
+models was obtained through a survey of all major intercity corridors in the
+Kingdom considering air, bus and private auto modes. The perceptual
+scales were confirmed by subjecting the main survey data to factor analysis.
+The calibration process involved two stages. First, mode choice models
+were calibrated, excluding the perceptual variables and next, perceptual
+variables were incorporated into the previously developed models to study
+their effect.
+xi
+R ep rod uced with p erm ission of the copyright ow ner. Further reproduction prohibited w ithout perm ission.
+Among the four perceptual concepts used in the study, the perception
+of mode comfort was found to significantly affect the choice of the travellers
+for business as well as social/recreational trips. Perception of mode
+convenience was significant for business trips only.
+It was concluded from the study that the inclusion of these variables
+resulted in a statistically significant but marginal improvement in the
+explanation of the mode choice behavior. Because of the difficulty and cost
+in obtaining the mode perceptions, it is therefore, recommended not to
+included these variables in planning stages. However, they could be quite
+useful in identifying deficiencies of the intercity modes as perceived by
+travelers and therefore could help operators in improving their services.

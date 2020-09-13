@@ -1,0 +1,14 @@
+A Numerical study is performed examining turbulent separated flow and heat transfer
+characteristics in axisymmetric expanding ducts, with emphasis to the annular
+diffuser geometry. The method is based on the fully conserved control volume representation
+of fully elliptic Navier Stokes and Energy equations in body fitted orthogonal
+curvilinear coordinate system. Turbulence is simulated via the two equation (k t)
+model.
+The presented results consist of computed velocity and streamline distributions,
+the kinetic energy of turbulence, and local and average Nusselt number distributions.
+Systematic variations are made in the Reynolds number (6x l(P 6x 1(f) and the
+outer wall half angles (T 2(f, 9(f). The study was further extended to flows with
+a range (0.0 0.9) of inlet swirl. Comparison with available experimental data shows
+that the method with the utilized turbulence closure model and the discretization
+scheme reproduces the essential features of various diffuser heat transfer and fluid
+flow effects observed in the experiments.

@@ -1,0 +1,40 @@
+
+The telephony over IP (ToIP) is becoming a new trend in technology widely used
+nowadays in almost all business sectors. Its concepts rely on transiting the telephone
+communications through the IP network. Today, this technology is implemented inside a
+number of universities and research laboratories connected to the National
+telecommunications Network for Technology, Education and Research (RENATER) which is
+the French academic network.
+In order to interconnect the telephone systems already installed in these academic sites,
+an experimental testbed has been successfully implemented. This testbed is based on a call
+routing server using SIP protocol.
+After checking this testbed functions and preparing a state of the art on its technologies,
+a second step consisted to implement a phone call routing pilot service for the (RENATER)
+community. Based on this context, I achieved my internship graduation.
+The main objectives of my internship were:
+to study possible evolutions of the current testbed to deploy the pilot service
+to study and implement a solution for monitoring the current pilot service
+to study and implement a calling accounting system
+Securing the pilot service
+This report is the result of 4 months of the work I achieved inside the SIPA team (IP
+advanced services and prospective) of GIP RENATER.
+
+The telephony over IP (ToIP) is becoming a new trend in technology widely used
+nowadays in almost all business sectors. Its concepts rely on transiting the telephone
+communications through the IP network. Today, this technology is implemented inside a
+number of universities and research laboratories connected to the National
+telecommunications Network for Technology, Education and Research (RENATER) which is
+the French academic network.
+In order to interconnect the telephone systems already installed in these academic sites,
+an experimental testbed has been successfully implemented. This testbed is based on a call
+routing server using SIP protocol.
+After checking this testbed functions and preparing a state of the art on its technologies,
+a second step consisted to implement a phone call routing pilot service for the (RENATER)
+community. Based on this context, I achieved my internship graduation.
+The main objectives of my internship were:
+ to study possible evolutions of the current testbed to deploy the pilot service
+ to study and implement a solution for monitoring the current pilot service
+ to study and implement a calling accounting system
+ Securing the pilot service
+This report is the result of 4 months of the work I achieved inside the SIPA team (IP
+advanced services and prospective) of GIP RENATER.

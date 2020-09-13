@@ -1,0 +1,13 @@
+The performance of an upflow packed bed biofilm reactor was analyzed under
+single and multiple substrate utilization when subjected to various types of shock
+loads of feed concentration and temperature. The response of the reactor to
+sinusoidal and triangular perturbations of feed concentration and temperature was
+analyzed under single substrate limitation. The question of oxygen becoming the
+limiting substrate in the biofilm during organic oxidation was also addressed by
+developing a bi substrate model considering both oxygen and organics as the
+limiting substrate. The model was further extended to multiple substrate limiting
+conditions by considering simultaneous organic oxidation and nitrification
+reactions because of their obvious environmental significance. The performance of
+the reactor under multiple substrate limitation was analysed by subjecting it to
+four different types of shock loads of inlet feed concentration to determine
+whether the reactor will be able to maintain the reqired effluent quality.

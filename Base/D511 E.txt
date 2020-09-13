@@ -1,0 +1,19 @@
+In this study, a general transient model is developed for the biofiltration o f mixed volatile
+organic compounds. The model incorporates general mixing phenomena, oxygen limitation effects,
+adsorption phenomena and actual biodegradation reaction kinetics. Solutions are presented with
+and without the assumption o f pseudo steady state for the biofilm leading to approximate and
+general models, respectively. The models are solved and validated for the cases o f single VOCs
+and binary VOC mixtures. Dynamic analysis o f die model is performed and compared with
+experimental data from the literature. Significant improvement in the model prediction is observed
+in comparison to earlier simplified models. The general model is superior to the approximate
+model as it does not require any correlations and its predictions seem to be better than the
+approxim ate model. However, the general model is mathematically very complex and difficult to
+solve, contrary to the approximate model. A thorough sensitivity analysis shows that mixing in the
+gas phase is an important phenomenon which should not be neglected and that some parameters
+need to be accurately estimated. Theoretical analysis shows that the assumption o f excess oxygen
+availability is not a good one, specially at high inlet VOC concentration levels. The performance
+o f the biofilter was analyzed when subjected to perturbations o f various operational parameters.
+Transient behavior during shut down and restart up are also well predicted by the model and the
+transient period does not seem to be very long. Model predictions show that the biofilter is able to
+withstand extreme practical conditions such as random variations in the inlet concentration and gas
+flow rate.

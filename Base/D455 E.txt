@@ -1,0 +1,18 @@
+Historically, extensive research was conducted in the degradation of phenol using
+electrochemical oxidation process, which has recently achieved considerable success.
+However, the process has experienced some difficulties mainly due to the species present in
+raw water which hinder the degradation process.
+The main objectives of this study are to optimize the operational parameters and to
+investigate the effect of chemical species, present in raw water, on the degradation of phenol
+using electro chemical oxidation process. In this study, a lab scale experimental reactor was
+used to carry out the electrochemical oxidation of phenol.
+The results showed that at 75 ppm of phenol concentration, 45 mA/sq cm current density and
+6000 ppm electrolyte (sodium chloride) were found to be the optimum operation parameters.
+The parameters optimization realized in this study was the main reason behind the success
+achieved in the phenol removal and removal enhancement in the raw water. The results of
+this study confirmed that only two species, namely, sodium bicarbonate and magnesium
+chloride hinder the phenol degradation process. In order to enhance phenol removal, 1  of
+Hydrogen Peroxide was added. This enhancement is due to the possible effect of the Fenton’s
+reaction (AOP). This resulted in 25 minutes reduction in the process time. The findings of
+this study are expected to contribute to solving the phenol degradation problem and
+enhancing the environmental efforts of the removal of the industrial wastewater phenols.

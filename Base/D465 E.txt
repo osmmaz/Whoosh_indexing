@@ -1,0 +1,9 @@
+This study evaluates the effect of formation damage on horizontal well
+performance. A computer model in the FORTRAN language is developed in this study.
+The model describes the fluid flow interaction between the reservoir and the wellbore.
+taking into account the combined effect of inflow performance, wellbore friction and
+formation damage along the horizontal wellbore. Based on the model, the effect of
+important parameters on the horizontal well performance has been evaluated. These
+include various skin profiles with different degrees of damage, reservoir height and
+anisotropy and well length, diameter and open fraction. The results compare favorably
+with the work available in the literature.

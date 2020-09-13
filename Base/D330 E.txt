@@ -1,0 +1,17 @@
+As the Internet continues its explosive growth, the need for personalized searching tools to
+access the Internet is increasing since famous search engines are built to serve all users,
+independent of the needs of any individual user. In this thesis, we address the issue of
+personalization of Internet search. A system has been designed, fully implemented and named
+CAIA (Collaborative Autonomous Interface Agent). CAIA is developed to reside in the user’s
+machine not in the Internet to make all private information on his/her machine. CAIA
+supports communities of people in searching the Internet collaboratively by means of popular
+search engines. CAIA leams the user’s preferences either explicitly or implicitly from his/her
+browsing behavior. Those behaviors are based on a survey conducted earlier in this survey. It
+then stores them along with the Websites' information in a User Profile (UP). UP is
+containing all visited Websites' information and their relevant keywords. We mean by
+"relevant keywords" the keywords the user entered when s/he searches and the Websites'
+keywords gathered from their titles and summary. When the user enters new keywords to
+search for, CAIA will refine the user's query then it will start the search process. After that, it
+will display the search results and it will issue a process to monitor the user's behaviors on the
+search results. CAIA has been tested and the testing results shows a big improvement in the
+Internet Search using CAIA compared to famous search engines such as Google.

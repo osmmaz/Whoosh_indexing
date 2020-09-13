@@ -1,0 +1,15 @@
+A large and complex CO gas clean up system is usually required to bring down carbon
+monoxide content in reformate gas to acceptable levels for fuel cell application ( < 1 0
+ppm). Recently an electrochemical filter has been proposed promising to simplify the gas
+clean up. In this device, a pulsating potential is applied to a conventional PEMFC, the
+configuration results in preferential oxidation o f CO. The present work was undertaken to
+investigate the possibility of replacing the expensive Pt catalyst with non noble metal
+catalyst. It has been shown experimentally that CO adsorbs and electrooxidizes on
+Ni/Raney Ni catalyst akin to Pt catalyst.
+It has been found that CO present in the H2 gas gets adsorbed over the catalyst surface
+causing delay in hydrogen evolution reaction and prevents the Ni dissolution. The
+adsorbed CO was successfully removed by application of suitable anodic potential. It was
+observed that almost 100   CO removal takes place from the electrode surface. The
+amount of CO electrooxidized depends upon a number o f parameters such as CO
+exposure time, CO flow rate, CO concentration, scan rate and catalyst loading. The effect
+these parameters were investigated.

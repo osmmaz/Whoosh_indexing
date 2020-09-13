@@ -1,0 +1,10 @@
+The problem of detecting collision between moving rigid objects in three dimensional space is
+considered. Two efficient algorithms that use linear programming technique are developed for
+solving this problem. The algorithms can detect exactly all possible collisions for objects moving
+on a general path in Si3 with simultaneous translation and rotation. Computational experience
+with the developed algorithms is also presented.
+The potential field approach to the path planning problem is also considered. A new potential
+function that has the remarkable feature that it is free from any local minima in the free space
+for any number of obstacles in the work space is developed. Furthermore, a new approach to
+path optimization using an expanding sphere is also proposed. The new potential function is
+tested using a point mobile robot and smooth obstacles.

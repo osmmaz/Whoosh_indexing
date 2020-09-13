@@ -1,0 +1,18 @@
+The main objective of this study was to investigate the isolation and characterization of
+bacterial isolates from Aramco contaminated sandy soil site with crude oil. Two strains
+were isolated and characterized by sequencing the 16S rRNA gene, these strains are
+Psuedmonasxanthomonad sp. and Bacillus sp.
+The removal of total petroleum hydrocarbon using consortium of the two strains was
+investigated under 3 environmental factors, temperature, pH, and nutrient concentrations.
+The effect of nutrients on the removal of TPH was investigated using 10mM of
+Ammonium chloride, 10 mM Sodium nitrate and 10 mM Urea. Ammonium chloride show
+that it is the best nitrogen source for removal of TPH by bringing down the TPH to 44.5 
+followed by Urea 48  and Sodium nitrate 49.5 .
+The effect of three different concentrations of ammonium chloride on the removal of TPH
+was also investigated; these concentrations are 5, 10, and 20 mM. At 5 mM Ammonium
+chloride, TPH was gone down to 30  followed by 10 mM (48 ) and 20 mM (77.5 ). The effect of pH (5, 7, and 9) on the removal of TPH was investigated under 5mM
+ammonium chloride. At pH 7.0 the consortium of bacteria was the most efficient (TPH
+down to 55 ).
+The effect of temperature on the removal of TPH was also investigated. Temperatures used
+25, 35, and 45 0C. The best removal efficiency of TPH was at 35 0C (TPH down to 45 ), at
+25 0C the removal went down to 57  followed by 45 0C (TPH down to 72 ).

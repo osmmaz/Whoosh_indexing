@@ -1,0 +1,14 @@
+Tungsten oxide (WO3) was used as visible light active photocatalyst for the removal of
+methyl tertiary butyl ether (MTBE) from contaminated groundwater. Visible light driven
+WO3 nanostructured photocatalyst was synthesized using a hydrothermal method. For
+comparison of photocatalytic activity, commercial micron sized tungsten oxide was also
+used. The surface of photocatalysts was further modified with noble metals such as
+platinum (Pt) and ruthenium (Ru) and resulting activity of samples were compared. The
+experimental results indicated that the removal of MTBE could be achieved very fast in
+presence of Pt loaded nanostructured WO3 under visible light radiation (96 99  removal
+within 150 180 minutes). The Pt/WO3 nano composite showed much better
+photocatalytic removal of MTBE than Ru/WO3 and pure nanostructured and micronsized
+WO3. An attempt was also made to study the formation of by products during
+photocatalytic degradation of MTBE using GC MS. The study revealed that the
+degradation of MTBE proceeds essentially via formation of formic acid and 1, 1 
+dimethylethyl ester before its complete degradation.

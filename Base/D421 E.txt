@@ -1,0 +1,10 @@
+In this thesis, a number of simulator circuits synthesizing capacitors and inductors
+have been discussed. The programmable feature of the operational transconductance
+amplifiers (OTAs) has been exploited to advantage to make the simulator circuits
+voltage/current controlled and consequently controllable by the output of a digital
+to analog converter (DAC). This results in digitally programmable tuned circuits.
+The temperature sensitivity of the OTAs has been countered to make the overall circuit
+tempemture independent (independent of the Vt term), resulting in Digitally
+Programmable Temperature Independent Tuned (D iP TIT) circuits. The stability of
+some of these circuits has been discussed to show how non idealities of active elements
+play an important role in determining the performance of such circuits.

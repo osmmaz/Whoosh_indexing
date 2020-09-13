@@ -1,0 +1,40 @@
+Accurate determination of abandonment pressure, ultimate recovery factor, and the time to
+reach abandonment condition is very important to the upstream natural gas industry. For a
+given reservoir fluid, it is important to determine whether or not the abandonment pressure,
+ultimate recovery factor, and the time to reach abandonment condition depend on well
+type, drainage area size and shape, and reservoir rock properties such as horizontal
+permeability, vertical permeability, and formation thickness. Prior to this current research,
+it was commonly believed that the ultimate recovery factor at abandonment condition for
+these reservoirs should be very high. This research studied the effects of well parameters
+and reservoir properties on the performance of vertical wells, horizontal wells, and
+hydraulically fractured vertical wells in homogeneous and anisotropic volumetric dry gas
+and wet gas reservoirs. The effects of well parameters and reservoir properties on the
+abandonment pressure, the ultimate recovery factor, and the time to reach abandonment
+condition were investigated. The well parameters and reservoir properties that were
+investigated include horizontal permeability, formation thickness, vertical permeability,
+horizontal well penetration ratio, vertical to horizontal permeability ratio, horizontal well
+location with respect to the upper and lower no flow boundaries, hydraulic fracture
+penetration ratio, hydraulic fracture conductivity, drainage area size and shape, gas gravity,
+and porosity. For each case, the average reservoir pressure at the time of abandonment and
+xxvi
+the time to reach abandonment were determined by a minimum production rate below
+which it will not be economical to produce from the well. Performance of the horizontal
+well was compared with the performance of the un stimulated vertical well and with the
+hydraulically fractured vertical well. Guideline for the selection of the proper well type in
+a given reservoir is presented. The results and conclusions presented in this research have
+not been introduced into the petroleum engineering literature previously.
+Results indicate that horizontal permeability, formation thickness, well penetration ratio,
+drainage area size and shape, have significant effect on the performance of these three well
+types while gas gravity has negligible effect. The ratio of vertical permeability to
+horizontal permeability and the location of the horizontal well with respect to the upper and
+lower no flow boundaries have negligible effect on the performance of horizontal wells in
+dry gas and wet gas reservoirs. The value of porosity does not affect the ultimate recovery
+factor and the abandonment pressure but it affects the abandonment time.
+At low horizontal permeabilities, hydraulic fracture length has significant effect on the well
+performance while hydraulic fracture conductivity has no effect. As permeability increases
+to 1 md, both the hydraulic fracture length and conductivity affect the well performance.
+In general, at horizontal permeabilities of 1 md and lower, a hydraulic fracture of
+penetration ratio 0.2 performs almost the same as a horizontal well of penetration ratio 0.4.
+At high permeabilities, horizontal and vertical wells have the same ultimate recovery factor
+and abandonment pressure; however, horizontal wells perform better than vertical wells in
+terms of the abandonment time.

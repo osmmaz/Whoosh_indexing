@@ -1,0 +1,12 @@
+In this thesis, the second generation current conveyor (CCU) is used in realizing new
+active RC, active R and active C multiphase sinusoidal oscillators (MPSOs) and unity
+gain cell based universal filters. Also, taking advantage o f the parasitic resistance Rx
+which appears at the port X o f the CCII, a new programmable active C current mode
+universal filter is presented. In order to be compatible with integration requirements,
+these circuits use minimum number o f active and passive elements, enjoy independent
+control o f the critical circuit parameters, use grounded capacitors and enjoy low active
+and passive sensitivities. The effects o f parasitics, voltage and current tracking errors
+of the CCII, on the circuit parameters are discussed. Extending the use o f current
+conveyor to nonlinear applications is investigated and a simple current mode analog
+multiplier/divider circuit using only two CCCII is presented. Comparisons between all
+o f the proposed circuits and the previously published circuits are included.

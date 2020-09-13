@@ -1,0 +1,14 @@
+Research has shown that for many projects, up to 95  of the total project cost is spent on
+the execution of the construction phase. Hence, the costs incurred during this stage
+deserve special attention in terms of cost dynamics i.e., cost allocation in relation to time.
+Owners with numerous projects need to estimate the amount of money to be paid to
+contractors over the entire period of the project implementation. Due to the overlapping
+execution of these multiple projects, the owners are faced with the problem of estimating
+periodic payments as well as the entire budget to ensure that sufficient and timely funds
+are available for all their ventures. This write up reports on a study aimed at identifying
+good cash flow forecasting techniques for construction projects. The method reported
+here incorporates historical trend based data for projects with similar traits and provides
+an output that can be used by a decision maker to exercise his competent judgments
+based on the decision maker’s construction experience and knowledge. The approach is
+explored using financial information from an owner organization in Saudi Arabia
+executing numerous projects

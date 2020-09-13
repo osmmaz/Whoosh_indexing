@@ -1,0 +1,23 @@
+The thesis considers the sensitivity analysis of the Dynamic
+Economic Dispatch Problem. This involves the variation of the load demand
+and the cost coefficients of the objective function. The objective function to
+be minimized is considered to be the sum of the production cost functions of
+the thermal units (already committed) in all time intervals.
+The Dynamic Economic Dispatch problem is solved using a
+redispatch technique. The latter is formulated considering the load demand,
+unit limits, system spinning reserve requirement, security constraints of some
+of the transmission lines and power rate limits of the units. The redispatch
+technique linearizes the unit outputs about the base case static economic
+dispatch (SED). The SED solution is obtained using a Quadratic Programming
+algorithm in this thesis, although any conventional SED algorithm will be
+suitable. After that the dispatch problem is linearized about the optimum
+points obtained from the SED solution, a linear program (LP) is used to calculate the changes in the units output. The LP solution is combined with a
+parametric program (PP) in order to be able to carry out sensitivity analysis
+for the LP solution. In this case the LP solution provides dynamic information.
+A static optimum solution will become obsolete as soon as parameters of the
+LP model are changed.
+The major contribution of this thesis is the application of sensitivity
+analysis to the redispatch technique to solve the dynamic economic dispatch
+problem. The solution technique combines QP, LP and PP codes to solve the
+sensitivity analysis of the dynamic economic redispatch problem without the
+need for solving a set of different LP problems.

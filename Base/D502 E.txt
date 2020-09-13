@@ -1,0 +1,10 @@
+In this thesis, a new generic CMOS circuit for realizing different nonlinear functions
+from the same topology is presented. This circuit can be very useful in Neural
+Networks applications as it implements the main nonlinearities required by many
+types o f Neural Networks. With transistors operating in strong inversion the circuit
+can be digitally configured to realize any o f the following four functions: Gaussian
+(Radial Basis), Sigmoid and two piecewise linear functions   Triangular and Satlin.
+The circuit can approximate these functions with RRMS error less than 1 . It is
+shown that the center, width, peak amplitude and slope o f the dc transfer curve can be
+independently controlled. Simulation results using 0.18 CMOS process model
+parameters o f TSMC technology are included

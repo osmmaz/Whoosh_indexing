@@ -1,0 +1,6 @@
+The theme in this work is to find a stable control for heat spread equations
+When the propagation coefficient is dependent on time and distance using a transform
+Linear differential.
+This method is based on finding linear differential conversion that can be reversed and converted
+The original system via a stable system previously installed.
+In the latter examples simple examples have been shown to take advantage of this method.

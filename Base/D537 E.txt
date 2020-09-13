@@ -1,0 +1,18 @@
+Experimental investigation is carried out to study the heat transfer characteristics in
+a rectangular duct cooled by an array o f impinging jets. Air ejected from an array o f orifice
+jets is aimed at the heated target surface and exits from the radial outlets. The effect o f
+outflow orientation, feeding channel aspect ratios 5 <H/ d <9 and je t to target plate
+distance 4 < S / d <8 is investigated with a single array o f equally spaced orifice jets. The
+effect o f je t Reynolds number is also studied with the range fo r orifice plate 1 and 2 being
+5000 < Re j <10000 and fo r orifice plates 2, 3 and 4 being 9300 < Re} <18800. The effect o f
+orifice jet diameter on the heat transfer distribution is also studied with d = 0.5 and \cm.
+Results indicate that the outflow orientation causing crossflow effect significantly affects
+the Nusselt number distributions on the target surface. Local Nusselt number increases with
+an increase in je t Reynolds number over the entire impingement surface. Nusselt number is
+also significantly affected by the feeding channel aspect ratio H i d the jet to plate spacing
+S / d . The feeding channel aspect ratio H i d which gives the maximum heat transfer is
+obtained fo r all the orifice plates. Similarly the jet to plate distance S / d which gives
+maximum heat transfer compared to the other jet to plate distances is also found fo r all the
+orifice plates studied individually. The highest Nusselt numbers are obtained fo r the outflow
+orientation where the flow exits in both the directions. Correlations were developed for
+averaged Nusselt number as a function ofjet Reynolds number fo r all the orifice plates.

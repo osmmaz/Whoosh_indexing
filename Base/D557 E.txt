@@ -1,0 +1,18 @@
+Different FCC catalysts containing different Y zeolite unit cell sizes
+were prepared. The effect of unit cell size o f Y  zeolite on their cracking
+p erfo rm an ce h as been determ ined by X  ray d iffractio n , nitrogen
+adsorption, and VGO cracking reaction using a m icroactivity test unit.
+A cidity w as m easured by pyridine using tem perature program m ed
+desorption (TPD). Y zeolites with unit cell size in the range o f 24.21 24.6
+A were used as materials of FCC catalysts. The unit cell size was found to
+be the m ajor factor that controls the FCC catalysts activity and selectivity.
+The intrinsic activity was found to increase with unit cell size reaching a
+m axim um at around 24.36 A then to decrease w ith unit cell size. The
+isolated aluminum atoms (O NNN) were observed to have sim ilar behavior
+with the unit cell size. Consequently, only (O NNN) aluminum atoms in the
+zeolite are the active sites responsible for VGO cracking. Gasoline yield
+was found to be a strong function of the unit cell size. It increases with the
+unit cell size reaching a maximum and then decreasing. The decrease in
+gasoline yield was accom panied with large increm ent in coke yield and
+sm all increment in LPG yield. The increased coke yield with unit cell size
+can be attributed to the increased 1,2,3,4 NNN aluminum atoms.

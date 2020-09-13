@@ -1,0 +1,13 @@
+Cooperative multi input multi output (MIMO) schemes in wireless communication systems
+improve coverage, throughput, capacity, and quality of service. We propose to evaluate
+the performance of uplink cooperative MIMO using hopping over MIMO relays. Both simulations
+and analysis are performed to evaluate the proposed system in terms of several
+physical parameters such as distance, modulation type, number of relays, and number of
+hops.
+We derive the analytical error performance for virtual MIMO relaying schemes using
+the V BLAST amplify and forward scheme (AF) and detect split and forward scheme
+(DSF). The performance of the non orthogonal virtual MIMO systems for both nonorthogonal
+spacetime block code (STBC) and spatial multiplexing (SM) are studied.
+We introduce and analyze the performance of relayed spatial modulation, by deriving
+expression for the average capacity and the probability of symbol error rate. The main contribution of this thesis is to provide analytical tools to evaluate the performance of distributed
+and virtual MIMO relaying schemes, including V BLAST, STBC and spatial modulation.

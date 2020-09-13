@@ -1,0 +1,28 @@
+High Level Synthesis (HLS) refers to the process of translating a high level specification
+o f the behavior of a circuit into a structural design. The outcome is a net list of Register
+Transfer Level (RTL) components, such as ALUs, registers and multiplexers.
+Because of its complexity, HLS is broken into several steps, where a subset of the
+overall problem is solved in each step. The steps move the source specification into a
+target specification, through several intermediate forms.
+Existing HLS systems fall into two broad categories. The first category takes a hardware
+description language (HDL) as its source specification. Many structural biases are present
+in all existing HDLs. These biases lead to a restricted view of the design space. For
+the second category, a subset of some known high level programming language is used to
+describe the behavior of the intended design. The identification o f the subset to use is a
+problem by itself. Another problem is that the user must think within the boundary o f the
+subset.
+In this work we present a new approach to HLS, where the system takes its source
+specification in any high level programming language, without any restrictions. This is
+facilitated by the novel idea of  using the programming language compiler to produce the
+first intermediate form in the transformation process. This first intermediate form is the
+assembly language (AL). The use o f the high level language compiler serves two objectives.
+The first is the utilization of the optimization carried out by the compiler. The second is
+to avoid restricting the language to certain data types or control constructs.
+Due to its machine dependency and complexity, AL is transformed into another form ,
+which is machine independent and has simpler syntax and semantics. We refer to this
+form as P s e u d o A ssem b ly L a n g u a g e (PAL). PAL descriptions are used by the system
+components to produce the intended hardware in an RTL description language. AH PL is
+used as an R TL description language in the system.
+The major contributions of this work are the introduction o f this new methodology of
+tackling HLS problem and the introduction of a new heuristic scheduling algorithm based
+on the path based scheduling originally presented by R. Camposano in [21].

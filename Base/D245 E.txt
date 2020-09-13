@@ -1,0 +1,8 @@
+Chemometn'c optimization methodologies have been utilized for the
+development of quantitative methods of analysis of some drugs using flow
+injection (Fl) techniques. Super modified simplex procedures together with
+statistical design techniques have been used for optimization and modeling of
+response surface. The sequential optimization has validated the flow injection
+methods proposed with excellent reproducibility, high sensitivity, and a wide
+dynamic range. A sampling frequency of not less than 120 h'1 was obtained for all
+methods developed.

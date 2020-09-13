@@ -1,0 +1,13 @@
+In this thesis, we investigate both the coupling and filtering characteristics of a
+Wavelength Selective Directional Coupler with air grooves. The structure consists of two
+parallel and identical coupled slab waveguides with periodic air grooves in the space
+separating them. The spectral response of the structure is investigated by calculating the
+modal reflectivity and transmissivity. Optical power is launched in one of the four ports
+of this structure, and the output modal power at the remaining three ports as well as the
+reflected power at the input port is calculated. The influence of the length, width and the
+number of periodic air grooves on the coupling and filtering characteristics of the
+structure are highlighted.
+The Method of Lines is used in the analysis of this device. The cascading and
+doubling approach is utilized for this purpose. A three point non uniform mesh is used in
+the MOL. In addition, a perfectly matched layer (PML) is incorporated into the MOL to
+absorb the radiated field.

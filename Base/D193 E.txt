@@ -1,0 +1,12 @@
+Memories, being an important part of most digital systems, should be properly tested. The
+testing time of these memories is a major concern since its cost constitutes a large
+percentage of the total cost. Histogrammer memory chips (HRAMs) are commonly used
+in digital image processing and also widely used for on line sorting of data in nuclear
+physics experiments and in medical imaging systems.
+This research investigates the testability problem of a histogrammer memory chip
+(HRAM) being designed at KFUPM. A general fault model for the HRAM is adopted and
+new design for testability features are identified. Efficient O(Vn) test procedures for both
+the memory array and decoders of the HRAM are described (n is the number of memory
+cells). The testability features area overhead is only 0(log n) as compared to 0(V «) for
+previous approaches. Random Built In Self Test (BIST) implementation of the array and
+decoder test algorithms is described in detail.

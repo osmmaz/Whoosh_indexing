@@ -1,0 +1,26 @@
+Stainless steel rods are coated by ultra thin polyelectrolyte multilayers. Multilayer
+systems are prepared using the method o f layer by layer self assembly. This method
+involves alternating exposure o f a charged substrate to solutions o f positive and negative
+polyelectrolytes, respectively, with rinse step in between to remove any extra material
+that is loosely bound to the surface.
+Cationic polyallylamine hydrochloride (PAH) is used with anionic polystyrene sulfonate
+(PSS), polystyrene sulfonate co maleic acid (PSS co MA) and polyacrylic acid (PAA) in
+order to investigate the effect o f changing the acidic strength o f the anionic
+polyelectrolyte on the corrosion protection performance. Cationic
+polydiallyldimethylammonium chloride (PDADMAC) is used with anionic sulfonated
+polyetherether ketone (SPEEK) with three different ion exchange capacities to investigate
+the effect o f changing the level o f ionic charge o f the polyelectrolytes on the corrosion
+properties. We investigated the corrosion properties o f 316 stainless steel wires coated
+with PEMs o f hydrophobically modified cationic PDADMAC and anionic PSS. The
+effect of hydrophobic modification o f polyelectrolytes on the corrosion properties of the
+coated rods is investigated using poly(diallyldimethylammonium chloride codiallyldodecylammonium
+chloride) (PDADMAC co DADDAC) and  poly(diallyldimethylammonium chloride co diallyloctadecylammonium chloride)
+(PDADMAC co DAODAC). (PDADMAC co DADDAC) contained 3, 6 and 9.8
+mole  o f the hydrophobic comonomer diallyldodecylammonium chloride, while
+(PDADMAC co DAODAC) contained 3.6, 7.7, 10 and 15.6 mole  of
+diallyloctadecylammonium chloride.
+By applying different corrosion tests to the coated rods, the effects of hydrophobic
+modification o f polyelectrolyte and other different parameters on the corrosion is
+investigated.
+The corrosion rates o f the coated rods with different number o f layers are always less
+than that o f the uncoated samples.

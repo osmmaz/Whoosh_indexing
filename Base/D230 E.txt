@@ -1,0 +1,19 @@
+The study of charge independence and charge symmetry on
+the *Sq N N scattering lengths provides a test of charge
+dependent effects of nuclear forces. All possible known
+contributions to the scattering lengths are considered to
+account for the experimental discrepancies. This problem
+was broken into two parts, the first considering the
+direct electromagnetic and the second the indirect
+electromagnetic effects. The effect on the charge
+symmetry breaking correction due to the isospin breaking
+part of the QCD Hamiltonian, determined by the up down
+current quark mass difference, on the difference of
+scattering lengths for charge symmetry is determined.
+This is done by first calculating the effect of QCD on the
+pion nucleon coupling constants via isospin mixing, giving
+rise to CSB one pion exchange (OPEP) and two pion exchange
+(TPEP) potentials. The importance of CSB TPEP is
+emphasized. The eta nucleon coupling constant appears to
+be constrained by experimental values of CS to be very
+small.

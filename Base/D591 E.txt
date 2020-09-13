@@ -1,0 +1,22 @@
+XML has emerged as a new standard for information representation and exchange on
+the Internet. Nowadays, the number of applications using XML data is increasing
+rapidly. As a result, it is important to develop efficient algorithms to query XML data.
+XML documents have nested structure. Thus, querying XML documents require values
+search and structure search. Evaluating structural relationship between XML elements is
+a core operation for XML query processing. Thus efficient support for structural
+relationship is the key to efficient implementations of XML queries.
+In this work, new XML storage system is proposed to support the structural relationship
+among XML elements efficiently. The proposed XML storage system stores XML data
+as simple paths by using multidimensional space structure.
+Based on this storage system, we proposed two XML query processing algorithms
+namely Path_MD and Twig_MD algorithms. Path_MD uses multidimensional space
+structure to answer simple path queries efficiently without involving structural join
+operations. Twig_MD algorithm is proposed to process twig queries. Twig_MD
+xi
+algorithm reduces the number of joins by processing twig queries as joins of simple path
+queries.
+The proposed algorithms are implemented and tested against holistic query processing
+algorithms, which are among the best XML join based query processing algorithms.
+The experimental results showed that our proposed algorithm outperform Holistic query
+processing algorithms in terms of number of disk accesses and CPU time needed to
+answer a query.

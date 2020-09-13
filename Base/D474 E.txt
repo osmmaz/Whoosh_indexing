@@ -1,0 +1,12 @@
+The air conditioning and refrigeration systems in the KSA consume more than 60  
+of the electrical energy consumption of the building sector. Most of the used systems are
+of the vapor compression type. Using solar energy to power such systems will save a
+large amount of electrical energy that can be utilized by the production sectors such as
+the industry. Hence, the focus of the proposed thesis topic is to develop a continuously
+operating fully solar  powered absorption refrigeration system that can provide a 24 hour
+service of refrigeration and/or air conditioning. The development will include an in depth
+review of the design and operation of the conventional and solar assisted absorption
+refrigeration systems, analysis of refrigerant absorbent solutions for solar powered
+systems, coming up with new alternative designs, detailed thermodynamic analysis of
+some of the new alternative designs, selection of the most suitable alternative design and
+finally preparation of the working drawings for a model of the selected design.

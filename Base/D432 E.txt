@@ -1,0 +1,25 @@
+This study is focused to evaluate performance o f three types o f commercially
+available GFRP bars after they are subjected to accelerated aggressive exposure
+conditions such as alkaline environment, alkaline + sabkha environment, alkaline +
+seawater environment, thermal variation and outdoor environment fo r stand alone bars
+and bars in concrete beams. It also includes comparison and correlation between the
+changes in tensile strength, compressive strength and water absorption properties o f
+three types o f GFRP bars. An attempt had also been made to predict strength and service
+life o f GFRP bars. Lastly the effective cover thickness required fo r GFRP bars in
+concrete structures when subjected to different levels o f thermal loads are determined.
+The work includes a thorough literature review on durability o f GFRP bars,
+extensive exposure set up, monitoring o f results up to one year fo r stand alone bars and
+two years fo r concrete beam. Finally strength and service life was predicted. The
+experimental results showed that the three commercially available GFRP bars though
+have glass as common material but have different durability performance. This can be
+attributed mainly to the difference in resin type, manufacturing process and surface
+treatment. The Fulcrum GFRP type demonstrated best performance followed by C bar
+and then Aslan 100 in all aspects o f tension behavior under the different exposure
+conditions. It is confirmed from experimental results that Alkaline is the most basic
+deteriorating environment fo r GFRP bars which caused damaged up to 65  in Aslan
+100.
+The service life was predicted using Time Shift Factor method and Ficks first law
+was used to determine strength prediction. It was found that FULCRUM needs
+approximately 25 years to have only 10  reduction in its tensile strength. From the
+concrete cover experiments, it was evident that a minimum concrete cover o f three times
+diameter fo r any GFRP bar is required to avoid cracking under thermal loads.

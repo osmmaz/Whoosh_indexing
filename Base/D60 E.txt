@@ -1,0 +1,14 @@
+Time varying behavior offading channels can cause severe degradations o f the system’s
+performance. Coding and Diversity are found to be efficient techniques to improve the
+performance o f faded systems. Typically, diversity channels are used to provide the
+receiver replicas o f transmitted signal. In this thesis, we will utilize the available
+diversity channels by incorporating forward error correction coding in an adaptive way
+in order to minimize the bit error rate o f the system. Minimization o f the overall error
+probability will be considered to determine the optimum code rate to be used over each
+channel based on its quality, subject to the constraint o f fixed overall throughput rate.
+Both BCH and RS coding with hard decision decoding will be considered for the
+purpose o f forward error correction. The performance o f this system over Rayleigh and
+Nakagami m fading channel models will be studied by means o f computer simulation,
+and by numerical calculations whenever possible. The effect o f channel correlation and
+the impact o f outdated channel state information on the performance o f the system will
+be also investigated.

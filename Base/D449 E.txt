@@ -1,0 +1,24 @@
+The long term performance o f a hydraulically fractured layered rich gas condensate
+reservoir was predicted utilizing an actual reseri’oir flu id and a compositional simulator.
+The physical system modeled in the work assumed that the fractured well w as situated at the
+center o f a layered reservoir consisting o f a square drainage region. The predicted results
+show that hydraulic fracturing was effective in reducing the effect o f condensate blockage on
+productivity index (PI). It increased the P I up to 3.6 times, below the dew point pressure,
+after 10 years as compared to P I value o f non fractured well. This effect resulted in an
+increase o f 60  cumulative gas production and 43  cumulative condensate production. In
+both the fractured and non fractured cases, there was a sudden drop in P I because o f
+condensate blockage right after the dew point pressure was reached. The hydraulic
+fracturing delayed the condensate saturation build up as compared to the non fractured case
+because o f delaying the onset o f dew point pressure. F or both the non fractured and
+fractured cases, condensate started accumulating around the wellbore and the fracture,
+respectively, below the dew point pressure and decreased with respect to distance fo r a fix e d
+time. Also, in general, condensate saturation increased with respect to time fo r a fix e d
+distance through out the reservoir fo r all low and high perm eability layers until it reached
+certain maximum value. At early times, condensate was fo u n d to build up to higher values in
+the high permeability layers. The increase in dimensionless fracture conductivity improved
+the long term performance o f gas condensate reservoir but the effect was pronounced fo r a
+longer fracture. The increase in fracture length improved the long term performance o f a gas
+condensate reservoir but the effect was much pronounced f o r a highly conductive fracture.
+The increase in initial maximum flo w rate improved the long term performance, up to a
+certain value o f flow rate, above that the improvement was not significant. Formation crossflo
+w improved, appreciably, the production performance o f a gas condensate reservoir.

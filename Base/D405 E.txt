@@ -1,0 +1,17 @@
+Prosody has been widely used in many speech related applications including speaker
+and word recognition, emotion and accent identification, topic and sentence segmentation,
+and text to speech applications. An im portant application we investigated, is
+th at of identifying question sentences in Arabic monologue lectures. Languages other
+than Arabic have received a lot of attention in this regard. We approached this problem
+by first segmenting the sentences from the continuous speech using intensity and
+duration features. Prosodic features are then extracted from each sentence. These features
+are used as input to decision trees to classify each sentence into either Question
+or Non Question sentence.
+Our results suggest th at questions are redundantly marked in natural Arabic
+speech and automatically extracted prosodic features can make significant contribution in question identification. We classified Questions with an accuracy of 77.43 .
+Feature specific analysis further reveals that energy and fundamental frequency (FO)
+features are mainly responsible for discriminating between question and non question
+sentences. We found that Bayes Network performed better than SVM, MLP and
+Decision Trees on our dataset. Removal of correlated features through Correlations
+Based Feature Selection (CFS) produced more efficient and accurate results than the
+complete feature set.

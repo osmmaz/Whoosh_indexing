@@ -1,0 +1,21 @@
+In this thesis the design and VLSI implementation of a highly reconfigurable
+Dataflow RISC Array processor (DF RISC A) is presented. This array processor
+possesses all the features of static and dynamic dataflow models. It can execute
+arbitrary algorithms (both recursive and regular), in static and dynamic manner. In
+order to increase the speed and reduce VLSI chip area, a RISC methodology has been
+adopted.
+Each processing element can execute 25 instructions. In order to facilitate maximum
+communication between PEs, each PE can communicate with its 8 immediate
+neighbors using the boundary registers/ports, while it can communicate with the nonneighbor
+PEs and the host using the communication network and the host bus which
+runs between two alternate rows of PEs. This results in tighter coupling and faster
+communication among processing elements. Since the topology can be reconfigurable,
+it is possible to implement any dataflow graph on this processor array.
+A ‘Global Network Controller’ takes care of the communication between PEs and
+host. It generates control signals for data transfer between host and PE. A PE
+can communicate with the host only through this communication controller. This
+network controller is used to interface the processor array with the parallel port of
+a Personal Computer.
+The processor has been modeled at behavioral level in VHDL, and gate level im plementation
+has been done using OASIS Logic3 Silicon compiler. Each processing
+element requires 4261 CMOS gates with an urea of 7512 x 8081 p m 2.

@@ -1,0 +1,14 @@
+This thesis presents a structured methodology to
+help contractors working in the Kingdom of Saudi Arabia
+to make their bid/no bid decision on a rational basis.
+Literature was reviewed and thirty seven factors that
+affect the contractors bid/no bid decision were found.
+The Analytic Hierarchy Process (AHP) was used as a
+decision support model. Computer software named Expert
+Choice, based on the AHP and the bid/no bid decision
+factors, was used to develop and solve the bid/no bid
+decision model. A real life example was used to
+demonstrate the application of the model and to help one
+of the major contractors in the eastern province to
+ensure the rationality of his decision to bid for a
+project in the Riyadh area.

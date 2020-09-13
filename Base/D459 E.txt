@@ -1,0 +1,16 @@
+This study is an experimental evaluation of the effect of molecular
+oxygen on the adsorptive capacity o f granular activated carbon (GAC) at
+bench scale. Adsorption isotherm studies were perform ed for phenol and ocresol
+under room temperature (23°C) and controlled neutral pH. Standard
+bottle point technique was used for three identical sets o f bottles with
+m odifications. A new procedure for obtaining the isotherm, denoted as oxic
+procedure, is introduced where molecular oxygen is purged in one bottle
+set. The second set, denoted as anoxic, include purging nitrogen gas for
+excluding the oxygen. The last set dose not include any purging and only
+the standard procedure, aerobic, is used.
+Experimental results show that the presence of molecular oxygen
+increases the adsorptive capacity of GAC up to 167  for phenol and 141 
+for o cresol. These results were signified statistically using SAS program.
+It is experimentally proved that the biological activity was not responsible
+for the increased adsorptive capacity o f GAC for phenol and o cresol.
+Therefore, a chemical reaction is responsible for this increase.

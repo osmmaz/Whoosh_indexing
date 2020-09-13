@@ -1,0 +1,13 @@
+Due to the huge number of distribution transformers yearly consumed and installed in
+the utility networks, it is always required and targeted to build transformers with the
+most economical cost. Achieving the guaranteed characteristics of transformers is an
+important factor that should be considered. It is well know that the transformer design
+task is time consuming. In this thesis a successful attempt for designing distribution
+transformers up to 34.5 kV and 1500 kVA using optimization techniques is presented.
+Two optimization techniques to obtain the optimal design of distribution transformers
+are proposed. Nonlinear programming (NL) algorithm is the first technique while the
+second one is Genetic Algorithms (GA). The transformer design mathematical
+formulation is explained in a systematic way for the conventional type of distribution
+transformers. Optimization methodologies and implementation results are presented.
+Results show the effectiveness of the proposed mathematical formulation of the transformer design problem and the reduction of total cost when compared to
+conventional designs

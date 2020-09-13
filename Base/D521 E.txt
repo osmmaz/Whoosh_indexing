@@ -1,0 +1,17 @@
+Experimental studies such as electrochemical polarization measurements, weight loss,
+open circuit potential and elevated temperature closed loop techniques were used to
+investigate the effect of heat treatment on the corrosion resistance of Aluminum
+metal matrix composite Al6013 20SiC(P) in 3.5 wt.  NaCl solution and Arabian
+Gulf water, at temperatures ranging from 30°C to 130°C under controlled variable
+velocities.
+It was shown that alloy Al60l3 20SiC(P) in T4 temper (age hardened) showed
+maximum resistance to corrosion. Studies on the variation of open circuit potential
+of alloy Al6013 20SiC(P) in T4 ternper with time, showed thut the potential o f the
+alloy shifted to more noble values compared to alloy in O ternper and F form. A
+strong tendency for an oxide film formation on alloy in T4 temper was therefore
+suggested. Pitting was the most, predominant form of localized corrosion attack,
+observed on the alloy. It occurred at. metal rnatrix/SiC interface, and there was no
+evidence of attack on SiC particles. The pitting resistance of the alloy in general
+decreased on increasing the temperature from 30°C to 130°C. The alloy in T4 temper
+also showed a maximum resistance to pitting at elevated temperatures, compared to
+O temper and F form.

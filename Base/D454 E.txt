@@ -1,0 +1,20 @@
+This study was conducted to investigate the effect of curing methods on properties of
+plain and blended cement concretes. Curing of concrete is very essential for its strength
+gain and durability performance. Traditionally, concrete is cured by water ponding.
+However, the membrane forming curing compounds are also utilized for this purpose.
+Though several studies have been conducted on the curing methods in general, the
+performance of curing compounds, particularly under hot weather conditions, has not
+been adequately evaluated.
+Two groups of plain and blended cement concrete specimens were cast. In the first group,
+plain, silica fume, superpozz, and fly ash cement concrete specimens were cured at 25 °C.
+In the second group, plain and silica fume concrete specimens were cured at 40 °C.
+The concrete specimens in both groups were cured as follows: 1  By covering them with
+wet burlap, 2  By applying two types of curing compounds. The effect of curing methods
+was assessed by measuring plastic and drying shrinkage, compressive strength, pulse
+velocity, and water retention.
+The two curing compounds investigated were efficient in moisture retention and
+decreasing plastic and drying shrinkage strain. Although there was a reduction in the
+compressive strength and pulse velocity, this was marginal. The curing compounds
+performed well even under 40 °C. However, the performance of acrylic based curing
+compound was better than that of water based curing compound. Therefore, it is
+recommended to apply acrylic based curing compound.

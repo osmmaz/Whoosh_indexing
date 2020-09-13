@@ -1,0 +1,22 @@
+Code division multiple access (CDMA) technology has been chosen fo r the air interface
+o f the next generation (3G) wireless communication systems. However, CDMA based
+systems are subject to the multiple access interference (MAI) which degrades the
+performance o f the existing systems (e.g. IS 95). Among all techniques proposed to
+combat MAI, multiuser detection (MUD) is the most effective one, and it has been widely
+studied fo r the last fifteen years. Unfortunately, the optimum MUD detector based on
+exhaustive search is extremely complex fo r practical implementations with today’s
+technologies. Thus, the focus o f most o f the researches in MUD detection was to fin d
+suboptimal algorithms that provide reliable performance and insure polynomial
+complexity. However, there still a large gap between the performance o f the suboptimal
+detectors and that o f the optimal one.
+Since the MUD problem can be considered as a quadratic optimization problem with
+binary or integer constraints; consequently, many advanced methods in binary quadratic programming, either heuristic or exact methods, can be applied to efficiently
+approximate the optimal multiuser detector performance.
+In this thesis work, new detection algorithms fo r MUD, based on heuristic algorithms,
+have been developed. The memetic algorithm, the particle swarms optimization algorithm,
+and the combination o f tabu search algorithm with local search algorithm were used to
+develop new detection structures that fairly approximate the performances o f the optimal
+MUD detector with a considerably reduced implementation/computational complexity.
+Moreover, other existing heuristic based detectors are studied fo r comparison purposes.
+The performances o f these detectors are compared to those o f the conventional detector,
+the decorrelating detector, and the branch and bound based optimal detector.

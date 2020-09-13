@@ -1,0 +1,20 @@
+Multimedia distribution over the Internet has emerged as a popular
+application. However, delivering multimedia content poses many non trivial
+challenges such as fulfilling Quality o f Service (QoS) requirements. This
+thesis focuses on how to improve QoS o f multimedia traffic over Enterprise
+Data Networks (EDNs) using Multiprotocol Label Switching (MPLS). The
+reason fo r choosing MPLS is its support fo r traffic engineering (TE) and
+QoS provisioning. A novel content aware congestion control algorithm is
+designed, implemented and tested. The proposed scheme enables the MPLS
+router to discard packets with less important content when there is
+congestion in the network. By employing such content aware congestion
+control, the overall quality o f multimedia content is not significantly affected,
+enabling graceful degradation o f quality using a Wavelet based compression
+technique. The proposed scheme is modeled and simulated using the J Sim
+network simulator and implemented in an extended public domain Linuxbased
+MPLS router. Simulation and measurement based testing shows that
+the proposed scheme maintains low delay, low jitter, and packet loss o f
+multimedia traffic, even under high network congestion when compared with
+standard MPLS and IP QoS architecture   DiffServ. This thesis contributes a
+novel scheme to the existing MPLS architecture to improve QoS o f Wavelet
+based compressed multimedia data.

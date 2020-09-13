@@ -1,0 +1,9 @@
+Linear Matrix Inequalities (LMI) based digital filter design algorithms are developed and
+applied to the FIR (one dimensional) optimal filter design problem and FIR (one
+dimensional) power spectrum estimation problem. The IIR (one dimensional) LMI based
+digital filter design and IIR (one dimensional) power spectrum estimation problems are
+formulated as linear objective optimization problems with LMI constraints and solved
+using an alternative scheme to overcome the non linearity optimization formulation. In
+addition, the LMI based formulation o f the filter design problem is applied to general
+approximation/model reduction problems (SISO). The solutions obtained by solving
+several examples show better results as compared with the traditional design methods.

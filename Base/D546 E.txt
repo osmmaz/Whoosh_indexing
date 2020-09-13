@@ -1,0 +1,19 @@
+Ion transport membrane (ITM) based reactor is one of the developing technologies for
+carbon dioxide capture and sequestration which integrates air separation and fuel
+conversion. These ITM reactors use mixed conducting oxygen permeable ceramic
+membranes which can simultaneously transport both oxygen ions and electrons without
+the requirement of an external circuit. However, the oxygen permeability of these
+membranes is relatively low which still hinders their use in industrial applications. One of
+the potential materials for oxygen permeability is the La2NiO4 (LNO), which is known
+for its high temperature stability.
+In this study, LNO powders were synthesized by sol gel method from nitrate solutions.
+These powders were compacted to obtain LNO membranes and characterized using Xray
+diffraction (XRD) and scanning electron microscopy (SEM). A gas permeation
+system was built for the oxygen flux measurement. This system was connected to a gas
+chromatograph for quantitative analysis. Thick membranes (1mm) were used for
+permeability measurements at temperature of 700°C.
+The oxygen permeability of the LNO membrane was measured with different ratios of
+oxygen and nitrogen in the feed gas. The permeability increased with the increase in
+xiii
+oxygen concentration on the feed side. The oxygen permeability was also tested with
+respect to temperature and the flux was found to increase with increasing temperature. A

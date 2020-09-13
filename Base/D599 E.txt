@@ -1,0 +1,29 @@
+Polypyrrole (PPy) can be synthesized by either chemical or electrochemical methods.
+Electrochemical methods (electropolymerization) usually give higher PPy conductivity
+than the chemical methods. However, the electropolymerization of pyrrole on oxidizable
+metals such as mild steel is difficult because the metallic electrode undergoes strong
+dissolution before oxidation potential o f the monomer (pyrrole) is reached. Recently, a
+few electrochemical methods have been proposed to polymerize pyrrole on various steel
+substrate successfully. In this work, these methods are evaluated to select the best one,
+from the corrosion protection point o f view. Subsequently, a parametric study was
+undertaken on the selected method to study the effect o f electropolymerization
+parameters namely; applied current density, electrolyte pH and temperature.
+Among the tested methods, a method that uses oxalic acid as electrolyte showed the most
+adherent deposition o f polypyrrole on mild steel. The parametric study on this method
+shows that increasing the current density can enhance the deposition but the surface
+becomes rough. The time needed for passivating the steel surface (induction time)
+decreases with increased applied current density while the electropolymerization
+potential increases with current density.
+The induction time increases as the pH increases up to 7.0 while it is minimum at pH 8.5.
+The electropolymerization potential for the neutral or alkaline solution is much higher
+than that for acidic solution. The temperature has negative effects on the deposition in
+both acidic and neutral medium. On the other hand, it has positive effects on the
+deposition for the alkaline solution. The induction time does not change much as the
+temperature elevates except at neutral solution in which the induction time is increasing
+with temperature.
+Oscillation in potential were observed at temperature higher than 25 °C in acidic media.
+Occurance and nature o f the oscillation depend on current density, pH and temperature.
+This phenomenon is explained by two reactions cometing each other, namely, corrosion
+reaction and the oxidation reaction for formation o f polypyrrole. Apparently, corrosion
+reaction dominates at high temperature for acidic and neutral solution while the
+deposition reaction is favored as the temperature increases for alkaline solution.

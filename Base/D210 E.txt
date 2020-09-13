@@ -1,0 +1,19 @@
+In this thesis report, I investigate the Ce/W oxidesordered mesoporous carbon (OMC)
+support modification effect on PtPd based electrocatalyststowards formic acid oxidation
+reaction (FAOR). Oxides modified ordered mesoporous carbon (Oxide OMC) support
+was prepared by hard template method. While PtPd bimetallic catalysts were synthesized
+using borohydride reduction method with different ratio of Pt and Pd metals.
+Physical properties of CeO2/WO3 OMC supports and catalyst samples were characterized
+by TEM, XRD, SEM, EDX, N2 adsorption/desorption isotherm and TGA. Both SEM&
+XRD analysis shows that modified support based PtPd catalysts exhibit uniform metal
+dispersion and increasing Pt to Pd ratio enhances crystal size reduction of metals.
+Whereas, Pt and Pd particle size reduction also verifies by TEM analysis.Surface
+properties of prepared catalyst samples were analyzed by BET and BJH pore size
+analysis. BET explains the higher surface area and smaller pore diameter for support
+modified samples. TGA analysis showed the support stability and oxidation temperature
+around 420 470°C.
+Electrochemical analysis such as CV, CA, CO stripping voltammograms and H2
+adsorption/desorption analysis were employed to evaluate the electro oxidation activity of
+electrocatalysts. CV results confirmed that modified support CeO2 OMC and WO3 
+OMCbased Pd catalyst exhibited much higher anodic oxidation current activity and
+stability than that of unmodified supported electrocatalysts.

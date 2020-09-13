@@ -1,0 +1,18 @@
+Recently the polyacrylamide chromium(III) gel system has been used as a
+flow control agent to improve the water oil ratio(WOR) in water flooding operations
+and wells plagued by water conning. Gel divert the movements of water from high
+permeability thin zones and fractures to the bypassed regions leading to improved
+sweep effeciency.
+As temperature increases gelation time becomes shorter limiting the
+application of the gel at high temperature. In this study an evaluation of the
+effectiveness of sodium lactate in delaying the gelation time at different temperatures
+was investigated. The gel viscosity at different temperatures, times and shear rates
+was measured. The plugging effeciency of the gel was studied by injecting the gel
+solution through sandstone and limestone cores.
+Results obtained showed that sodium lactate was effective in prolonging the
+gelation time from hours to days depending on its concentration. The gel was found
+to be stable during the period of study. The gel viscosity increased with time and
+increased if the temperature was increased. The gel viscosity decreased if shear rate
+was increased. The permeability of the cores was reduced to less than 1.0   of its
+original value. The results obtained could be used as a guide in the design of water
+shutoff treatments for field application.

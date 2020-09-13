@@ -1,0 +1,20 @@
+Arabic and Islamic related manuscripts represent a rich source of knowledge
+that has been highly underutilized. M any Islamic manuscripts and scriptures, of
+great historical values, are still shelved in various national libraries and universities
+in Saudi Arabia (across the Arab and Muslim worlds). These precious historical
+artifacts are yet to be typeset and published in book form. Although there are some
+Islamic manuscripts which are present in digital form , they are generally not indexed
+fo r retrieval purposes. Given the vast content o f these manuscripts, it is utm ost
+desirable to develop indexing and retrieval system. There are various approaches
+proposed fo r content based retrieval o f images, videos, and audios using low level,
+intermediate level or high level features. Our m ain focus in this thesis is to propose
+a framework of retrieval and indexing fo r hand written Islamic manuscripts which
+are stored in the form of document images.
+Computer aided retrieval and indexing system fo r document images is proposed and
+implemented. Some preprocessing steps are first implemented to process document
+images such as binarization, noise filtering and segmentation in order to enhance
+the quality of document images. Second a set of features is extracted from user
+identified words fo r sim ilarity matching purposes. Finally employing the concept of
+a word book, the manuscript is indexed fo r later efficient retrieval. The prototype
+system has been implemented and thoroughly tested fo r performance and found to be
+able to retrieve sim ilar words stored in database.

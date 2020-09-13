@@ -1,0 +1,18 @@
+Analysis of well test data from multilayered reservoirs can be quite complicated, especially
+when one considers the possibility of cross flow between the layers. Moreover, when one or
+more of the layers are naturally fractured, another degree of complexity is added. The
+permeability of the different layers, as well as the properties of the natural fractures can result
+in pressure and pressure derivative behavior that is quite different from the behavior of a single
+layer reservoir. Natural fracture parameters such as the storativity ratio, and the
+interporosity flow parameter, may have a significant effect on the pressure buildup
+behavior, especially when both layers are fractured.
+In this study, a numerical approach is used to investigate the effect of permeability variation, as
+well as the storativity ratio and the interporosity flow parameter, on the pressure transient
+behavior of two layered reservoirs, where one layer is homogeneous, while the other layer is
+naturally fractured. Alternatively, both layers could be naturally fractured with different
+fracture density.
+Results from this study show that the variation of the fractured layer parameters,  and ,
+revealed different pressure behavior responses, and in some cases, the response is seen only
+when the well is shut in for a very long period. Short shut in tests of the well may lead to the
+wrong estimates of the parameters for each layer, which may affect the understanding of the
+whole system.

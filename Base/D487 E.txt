@@ -1,0 +1,7 @@
+Analysis of trace level contaminants in complex matrices, such as food, often requires
+an extensive sample preparation prior to instrumental analysis. The typical steps
+involved in the sample preparation include sampling/homogenisation, extraction,
+clean up and pre concentration followed by the final analysis. In this context, we
+developed two simple analytical methods for the determination of organophosphorus
+pesticides (OPPs) and biogenic amines (BAs) in food matrices using two simple
+extraction techniques.

@@ -1,0 +1,17 @@
+The extensive use of modem nonlinear power electronic devices and nonlinear loads has
+made the problem of harmonic distortion more challenging to researchers and utility
+engineers. Estimation of these serious harmonic interferences is necessary for the analysis
+and design of modem equipment and for the system security. The need for the effective
+elimination of such unwanted frequency components becomes essential in power system
+planning, analysis, and operation.
+The work proposed in this thesis is two folds. In the first part, different frequency
+components of a distorted signal have been estimated. Different estimation algorithms
+were used and tested over standard signals with different frequency components present.
+The robustness of the algorithms was tested in the context o f additive noise, for different
+noise levels, corresponding to different signal to noise ratios (SNR).
+In the second part of the thesis, two new filtering schemes for harmonic elimination are
+proposed. These techniques have been studied for different types of practical signals
+reported in the literature. The robustness of the schemes has been tested in context with
+the additive noise of different SNRs. Apart from the simulation o f these techniques, the
+prototype implementations on a small voltage scale are also presented and evaluated
+based upon the criteria of robustness, accuracy, and reliability.

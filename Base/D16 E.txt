@@ -1,0 +1,9 @@
+The subject of this thesis is to study the local mapping properties of the class of
+harmonic mappings given by
+f ( z ) = h(z) + g(z)
+where
+h(z) = azn+fc_1 + 6zn a, and
+g{z) = czn+fc_1 + dzn~x
+where n and k are positive integers with n > 1. Here we describe and classify the
+critical points of / . Then we study the behaviour of / at its different kinds of
+critical points. Finally we describe a surface structure property for / .

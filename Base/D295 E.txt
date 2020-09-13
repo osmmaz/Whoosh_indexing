@@ -1,0 +1,10 @@
+The problem of combined conduction with natural convection heat transfer in
+vertical concentric annuli has been investigated numerically using an implicit finitedifference
+scheme. Both the transient and steady state heat transfer have been considered
+in this investigation. The effects of the three main controlling parameters, namely,
+modified Grashof Number (Gr*), thermal conductivity ratio (KR) and thermal diffusivity
+ratio ( c x r ) have been presented over wide ranges of these parameters. The study showed
+that K r and a R have prominent effects on the flow characteristics as well as on the heat
+transfer. Moreover, at the values of KR =100 and a R =1000 the conduction effect on the
+heat transfer becomes negligible and for such values the results of the conventional case
+can be used with an acceptable accuracy.

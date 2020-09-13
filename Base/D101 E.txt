@@ -1,0 +1,6 @@
+"This thesis includes a discussion of possible applications of random matrix theory in wireless communication domains
+Treatment of seismic signals. This study includes the development of the law of proportionality of the random variable with a limit
+Based on the characteristic function of the random variable. Depending on this development, the ideal scheduler was suggested
+Which increases the protection line capacity of 57 and 81
+Reduce the amount of complex calculations.
+

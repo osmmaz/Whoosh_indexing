@@ -1,0 +1,14 @@
+Drilling fluid property changes due to elevated temperature and aging
+time frequently cause problems in drilling deep wells. A laboratory
+investigation of the effect of high temperature ( 4 9 0 °F ) and long aging time
+(30 days) on water base drilling fluid properties is made with Fann Model 70
+HTHP Viscometer and Baroid Roller Oven.
+The results show a decrease in viscosity, yield point and gel strength with
+the increase in temperature. Shear stress for a particular temperature
+increases with the increase in shear rate, but shear stress a t a given shear rate
+decreases with the increase in temperature. Viscosity, yield point and gel
+strength at a given temperature increase with aging time and aging effects are
+diminishing with the increase in aging time. Shear stress at a given shear rate
+increases with aging time and aging effects decrease with the increase in aging
+time. Finally, the value of the exponent of power law index n is calculated
+and found to be always less than unity.

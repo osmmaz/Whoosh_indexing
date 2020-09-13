@@ -1,0 +1,16 @@
+Ethylene Polymerization was done to form Polyethylene nano composite with Nano 
+Aluminum Nitride and Nano Silicon Nitride using zirconocene catalysts. Activity results
+show that catalyst activity is maximum at 15 mg nano Ceramic fillers in both cases.
+Differential Scanning Calorimeter (DSC) results show that percentage crystallanity was
+also marginally higher at this amount of filler in case of Nano Aluminum Nitride,
+However in case of Nano silicon Nitride crystallanity decreases slightly with increase in
+amount of filler. Results were also confirmed by performing WAXD (Wide Angle X ray
+Diffraction). Thermal behavior of polyethylene nano composites (0, 15, 30, and 45) mg
+was studied by Differential Scanning Calorimeter (DSC) and Thermal Gravimetric
+Analyzer (TGA). Morphology of the component with 15 mg AlN is more fibrous as
+compared that with 0 mg AlN and higher filler loading as shown by SEM images. In case
+of SiN morphology of the component with (15, 30) mg SiN is more fibrous as compared
+that with control and higher filler loading as shown by SEM images. Micro calorimeter
+(MC) results showed decrease in combustibility in polyethylene nano composites as the
+filler loading increases. In another part of thesis blending of these nano fillers were also done with LDPE (Low Density Polyethylene) and effect on thermal properties was
+observed with different characterizing equipments like DSC and Micro calorimeter (MC).

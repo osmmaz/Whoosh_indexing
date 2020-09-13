@@ -1,0 +1,17 @@
+Dramatic advances in electronic and computer technology have led to the advent
+of what has been termed as the information age. These days, information
+is readily available through electronic and networked media in colossal quantities
+and on an enormous variety of subjects. This information explosion has
+resulted in a great demand fo r efficient and effective means fo r organizing
+and indexing the data, so that we may retrieve useful information when it
+is required. One such area is that of document indexing. Researchers have
+long advanced this subject, especially fo r the English language. Very little has
+been done on Arabic. In this thesis, we are concerned with indexing Arabic
+text. In the literature we found that most of the work done in Arabic information
+retrieval is based on the concept of stemming and many algorithms
+or approaches are proposed. In this thesis, we are concerned with retrieval of
+information based on semantic o f the words. So, we developed a system for
+the Arabic document retrieval based on the idea of Latent Semantic Indexing.
+Latent semantic indexing does not require a lot of rules or root derivation
+algorithms. In addition, results show that latent semantic indexing performs
+well with respect to precision and recall.

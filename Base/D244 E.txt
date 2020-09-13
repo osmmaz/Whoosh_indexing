@@ -1,0 +1,16 @@
+of concrete structures due to the corrosion o f reinforcement is the major
+problem o f durability in the Gulf countries. It is necessary to study the diffusion of
+chloride ions in concrete, to determine the time for the onset o f corrosion in concrete
+structures. This research was aimed at determining the diffusion coefficients for chloride
+ions in Type V Sulphate Resisting Cement concrete made from local materials, using two
+approaches: (a) Sustained chloride exposure test, assuming the applicability o f Fick’s laws
+of diffusion for the transport o f chloride ions, and (b) Gas diffusion tests which have ne\ er
+been applied to concrete before.
+The results indicate that the effective diffusion coefficients (De) for chloride ions in
+concrete is dependent on the water cement ratio, cement content and exposure conditions,
+but are independent of the exposure chloride concentrations. From a non linear regression
+analysis o f the test results, De is expressed in terms of w/c ratio and cement content. The
+gas diffusion test appears to be a promising rapid technique for evaluating De for chloride
+ion in concrete. It is also observed that under idealized conditions, the solution to Fick’s
+second law for the appropriate boundary conditions can be used to reasonably predict the
+time to initiation of corrosion.

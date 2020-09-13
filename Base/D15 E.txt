@@ -1,0 +1,16 @@
+The Quran is di erent from all the books we know, it is the sacred book of Muslims, it
+includes a massive amount of knowledge in all  elds of life, it is the reference of several
+religious documents. The editing of these documents requires a very sharp veri cation and
+validation of Quranic verses, since inappropriate recitation or editing are unacceptable,
+any mistake could change the meaning of the Quranic verse.
+To date, no software or application have been developed or even proposed in this sense,
+hence its real necessity. The aim of our project is to realize a religious text editor that
+provides quick search, the authenticity of information sources and transmissions security.
+This project is part of a major computerisation project of the Quran within the centerIT
+Research Center for the Holly Quran and its Sciences (NOOR) in Saudi Arabia.
+The expected results of our solution in addition to the features o ered by the ordinary text
+editors, are: adding options to the Quranic text such as quick search, text veri cation,
+validation, suggestion of Quranic verses and the possibility of treating known  le formats
+(Word, PDF) and implementing web services to allow other platform to use our editor
+services. All this, ensuring data transmission security and the authenticity of the treated
+resources.

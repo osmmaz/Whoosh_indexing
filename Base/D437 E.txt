@@ -1,0 +1,16 @@
+In recent years, a compelling need has arisen to understand the effects of distributed
+information structures on estimation and filtering. In this thesis, distributed Kalman filtering
+has been on focus with various perspectives. Firstly, a bibliographical review on
+distributed Kalman filtering (DKF) is provided. A classification of different approaches
+and methods involved to DKF has been elaborated, followed by the applications of DKF
+are also discussed and explained separately. A comparison of different approaches is
+briefly carried out. Focuses on the contemporary research are also addressed with
+emphasis on the practical application of the techniques. An exhaustive list of publications,
+linked directly or indirectly to DKF in the open literature, is compiled to provide
+an overall picture of different developing aspects of this area. Secondly, an approximate distributed estimation within distributed networked control
+formalism has been proposed. This is made possible by using Bayesian based
+forward backward (FB) system with generalized versions of Kalman filter. The analytical
+treatment is presented for cases with complete, incomplete or no prior information
+with bounds and then followed by estimation fusion for all three cases. The proposed
+scheme is validated on a rotational drive based electro hydraulic system and the ensuing
+results ensured the effectiveness of the scheme underpinning it.

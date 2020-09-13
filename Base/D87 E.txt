@@ -1,0 +1,13 @@
+In this thesis an acceleration potential (source)
+is used to investigate the effect of force distribution on
+the generation and decay of the bow shock waves due to delta wings
+with straight and curved leading edges in a supersonic flow
+field. Formulas for the bow shock strength are derived for an
+observer perpendicular below the wing and for the lateral
+direction as well.
+It is concluded that the equivalent body of revolution
+is valid throughout the supersonic far flow field. The decay
+of the shock waves is predicted for the observer in the plane
+vertical to the wing.
+Also the position of the characteristics is corrected
+up to first order.

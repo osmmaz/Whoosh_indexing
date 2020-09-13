@@ -1,0 +1,22 @@
+Pure, binary and ternary equilibrium adsorption data o f methane, ethane
+ethylene, nitrogen and carbon dioxide on both SR 115 and ETS 10 zeolites
+are reported up to 1000 kPa pressure and a temperature range o f 280 425 K.
+Ten pure models namely Toth, Unilan, Radke Prausnitz, Mathews Weber,
+Volmer, Virial with two and three constants, Freundlich, Langmuir 
+Freundlich, and the Loading Ratio Correlation are successfully applied to
+model the pure data using unconstrained and constrained optimization
+techniques. Henry's constant values and limiting heat of adsorption are
+extracted from the Virial three constant model and are compared to the values
+obtained from other models.
+The ideal adsorbed solution theory in conjunction with the pure isotherms
+of Toth, Unilan and Virial three constant is used to model the multicomponent
+data. The fit of this model to these data is satisfactory except for the data of
+the binary system nitrogen carbon dioxide on SR 115 zeolite. The latter poor
+fit may be attributed to adsorption of carbon dioxide on the binder.
+Values of the relative adsorptivity calculated from the data and the LAST
+fits of the data show that the separation of methane from ethylene is feasible
+on both adsorbents; but it is best on ETS 10 zeolite. Also, the separation of methane from ethane, and ethane from ethylene is feasible on ETS 10
+particularly at low temperature. The separation of ethane from ethylene is not
+possible on SR 115 zeolite at any conditions. However, the separation of
+methane from the ternary mixture methane ethane ethylene is possible on
+both types of zeolites at any conditions.

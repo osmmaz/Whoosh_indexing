@@ -1,0 +1,15 @@
+Diabetes is one of the most widely spread diseases in the world nowadays. It can be classified
+into either Type 1, in which there is almost no insulin production, or Type 2, in which there is
+insulin production but it is not enough. In order to treat this disease, the researchers are trying to
+understand the system of glucose insulin system and to describe its dynamics by using several
+mathematical models. Ordinary differential equations, integral differential equations, partial
+differential equations , delay differential equations, and stochastic models are the five main types
+of most mathematical models. In order to automate insulin delivery to diabetes patients, various
+control techniques are implemented which can be classified as model  independent ( such as
+optimal control )and non model independent (such as run to run control). The literature shows the
+possibility of automating insulin delivery for diabetes patients. However, no method is fully
+successful due to the complexity of this process, and the number and types of factors involved.
+In the present study we are using a two time delay model. In terms of control, we are using linear
+matrix inequality tools (LMI) in formulating the control technique which will stabilize the plant
+(patient) and force it to follow the desired pattern or desired model. The new control technique is
+simulated on the selected model, and the results are promising to be implementation in reality

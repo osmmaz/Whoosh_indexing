@@ -1,0 +1,34 @@
+A high pressure reactor system for studying catalytic
+hydroprocessing reactions was constructed and tested. The
+autoclave was used as a liquid phase batch slurry reactor
+for investigating the individual and simultaneous effects
+of hydrogen sulfide, ammonia and water on the kinetics of
+catalytic hydrogenation of propylbenzene. Experiments
+were carried out at 330, 350 and 375 °C under a hydrogen
+pressure of 1000 psig. with NiMo/A^O^ commercial
+hydrotreating catalyst. The catalyst was used either in
+oxide form or after presulfiding it in the laboratory.
+The partial pressures of hydrogen sulfide, ammonia and
+water was kept at about 100 mm Hg. each (for the
+experiments in which their presence was needed). About 1
+wt  of propylbenzene was taken in n hexadecane. Liquid
+samples were analysed by Gas Chromatography.
+Propylcyclohexane was the only product of propylbenzene
+hydrogenation. The hydrogenation of propylbenzene over
+both oxide and sulfided catalysts was observed to follow
+pseudo first order kinetics in propylbenzene under all
+conditions studied. Results showed that due to the
+presence of hydrogen sulfide, the hydrogenation rate was
+reduced by 10 15  . Filling of sulfur anion vacancies is
+postulated as the cause for this effect. In the presence
+R ep ro d u ced with permission of the copyright owner. Further reproduction prohibited without permission.
+of hydrogen sulfide and ammonia, the rate was inhibited by
+44.7  at 330 °C, 42.8  at 350 °C and 36.4  at 375 °C.
+This increase in inhibition is due to the competitive
+adsorption of highly basic ammonia on the acidic sites.
+Addition of water to hydrogen sulfide and ammonia does not
+influence the rate of hydrogenation. Comparision of oxide
+and sulfided forms of NiMo/A^Oj catalyst showed that the
+hydrogenation activity enhances by 20 25 times due to
+sulfiding. All apparent activation energies were found to
+be in the range of 17 21 kcal/gmol.

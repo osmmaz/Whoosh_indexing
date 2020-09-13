@@ -1,0 +1,19 @@
+Digit serial online arithmetic schemes are highly attractive since they allow suc 
+cessive processes to be computed in an overlapping manner. This results in high
+throughput operation with simple communication interface and reduced area over 
+head. Decimal Arithmetic has an increasing importance and need specially in float 
+ing point operations. IEEE 854 2008 standard for decimal floating point operations
+was approved in June 2008. Since then, decimal arithmetic attracts researchers
+attention. In floating point operations, decimal arithmetic is more accurate over
+binary arithmetic. Simple floating point numbers (like 0.1, 0.2, and 0.3) need an
+infinite precision in binary while they can be represented accurately in decimal.
+Many programing languages (like Java, C/C++, COBOL, and others) provide dec 
+imal floating point support that occupies around 50 90  of their processing time.
+A extensive study of decimal addition and multiplication algorithms is conducted
+and presented in this thesis. This study shows that there has been no reported
+algorithms or hardware implementations for an online decimal multiplication unit
+to date.
+In this thesis, a design of online decimal multiplier is proposed. The design has
+two different architectures. The performance of the proposed design with both ar 
+chitectures is studied and compared. Both architectures are modeled using VHDL
+and synthesized for area and delay optimization.

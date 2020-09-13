@@ -1,0 +1,13 @@
+Bandwidth and power resources available in wireless networks represent scarce
+resources. The ad hoc on demand routing protocols require route discovery process to
+establish routes to the destination as the requirement arises. The flooding method
+overloads the network with the route discovery packets, which results in many
+retransmissions. This leads to inefficient utilization o f the available bandwidth. This can
+be overcome by the localizing the query flood between the source and the destination. A
+power efficient technique for selecting the next hop is developed.
+A bandwidth efficient protocol called B GRID protocol is developed. This protocol is
+based on the location aware GRID routing protocol. A GRID based route prediction
+technique, which predicts the number o f hops in a route is also developed. These
+protocols are also studied under channel fading and the performance parameters are
+analyzed. Analysis is carried out to find the throughput o f the network under fading
+channels

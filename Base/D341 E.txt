@@ -1,0 +1,13 @@
+The non linear structure o f neural networks makes it very suitable fo r channel
+equalization, especially when the channel is heavily distorted. In this thesis we
+investigate the performance o f three different Neural Network based Decision Feedback
+Equalization schemes with and without Lattice filler. The lattice structures arc well
+known fo r their fa st convergence and insensitivity to the eigen value spread o f the
+channel autocorrelation matrix. First, the performance o f Radial Basis Function network
+trained through simple Least Mean Square algorithm is investigated fo r Decision
+Feedback Equalization. Second, the Multi Layer Perceptron trained through Recursive
+Least Squares algorithm is used fo r DFE and its performance is investigated. Finally, the
+hybrid neural network based structure is proposed fo r on line training o f DFE.
+These proposed schemes are investigated by means o f computer simulations and results
+are presented fo r static and time varying channels in the form o f Learning Curves and Bit
+Error Rate fo r different equalizer configurations.

@@ -1,0 +1,8 @@
+In this thesis, we derive the acoustic pressure formulations for the two layer model
+with the sea bottom of smooth irregular shape. We also discuss the two layer model
+with the non horizontal seabed and the depth dependent wavenumber for the more
+general boundary conditions at the seabed. We also derive the mode coupling coefficients
+for the same model using the modified mode coupling technique and also the
+reciprocity principle. We also consider the stochastic model arising from the irregular
+surface and bottom of the ocean and the volume and surface scattering coefficients
+are obtained in this case for a random wavenumber.

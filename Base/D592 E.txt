@@ -1,0 +1,23 @@
+In hot climates, the building envelope plays a crucial role in determining the building
+thermal and energy performance. Windows in particular play an important role in
+determining space cooling loads and also for the integration of artificial lighting and
+daylighting that can result in a significant energy reduction. Conventional windows while
+providing daylighting do not have any control over solar heat gain and visual discomfort
+resulting from glare. On the other hand, smart windows can be automatically tuned to
+control the glare level and consequently the amount of daylight and heat passing through
+the window. The objective of the study is to investigate the impact of smart window
+design on energy and visual performance in office buildings under hot climatic
+conditions.
+To achieve the objective, the energy simulation program DesignBuilder was used to
+model a theoretical office building with conventional glass windows like clear, tinted and
+low e. Low e windows with daylight integration were found to be the most effective
+conventional glazing for reducing the building energy consumption. While automated
+venetian blinds as interior shading with solar controller reduced the building energy
+consumption by 16 . Three control techniques namely daylight, glare and solar are
+assessed and were used for altering the properties of smart windows. The analysis shows
+that replacing low e windows with Electrochromic (EC) smart windows with daylight
+control resulted in the reduction of building energy consumption by 23 , but without
+satisfying the visual comfort. EC windows with glare control reduced the overall building
+energy consumption by 17 , satisfying the visual comfort. EC window with solar
+controller reduced the building energy consumption by 20 , and satisfying the visual
+comfort.

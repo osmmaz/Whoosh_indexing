@@ -1,0 +1,16 @@
+This research aims to solve the problem of intersection traffic flow prediction along with
+the determination of time of day (TOD) break points for a pre timed or actuated
+intersection. This study investigated mainly three artificial intelligence based models
+namely group method of data handling (GMDH) model, adaptive neuro fuzzy inference
+system (ANFIS) model and type 2 fuzzy logic (FL) model to predict intersection traffic
+flow considering spatial and temporal characteristics. It is observed that that fuzzy cmeans
+(FCM) clustering algorithm based ANFIS models and type 2 FL models
+outperform other considered models for two approaches of the considered intersection.
+Based on the obtained performance measures, it can be concluded that all the considered
+models are valid and promising for predicting traffic flow. This study also proposes a
+novel methodology in which time variable and Z score of the approach traffic counts are
+used as the prospective features for determining TOD breakpoints instead of relying on
+the judgmental approach. The obtained results solve the problem of frequent changes of
+TODs. At the end, this study proposes a hybrid AI model consists of AIM, ANFIS, type 
+2 and artificial neural network (ANN) for predicting freeway traffic flow for the local
+freeway condition of Saudi Arabia.

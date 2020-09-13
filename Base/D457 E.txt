@@ -1,0 +1,24 @@
+Under hot weather concreting, the primary cause of shorter service life of concrete
+structure is cracking. Cracking of concrete is noted in many structures of the Arabian
+Gulf where the environmental condition is characterized as hot weather. It could initiate a
+number of detrimental processes that are known to be harmful to the long term concrete
+performance. High concrete temperature at the time of placement is one of the reasons of
+concrete degradation, especially under hot and arid environments. The cause of concrete
+deterioration is also ascribed to the high differential between the fresh concrete
+temperature and the ambient temperature.
+To overcome the adverse effects of hot weather and to produce good quality concrete,
+many local building regulatory authorities and international codes of practice including
+the Saudi building code limit the maximum allowable fresh concrete temperature to
+35C. However, there is no data to validate this limit. Further, the applicability of this
+limit to blended cement concretes needs to be evaluated.
+This study was carried out to evaluate the effect of water to cement ratio, casting
+temperature and curing regimes on the compressive and split tensile strength, pulse
+velocity, depth of water penetration and plastic and drying shrinkage strain of plain and
+blended cement concretes. The blended cements studied were fly ash (FA), very fine fly
+ash (VFFA), silica fume (SF), ground granulated blast furnace slag (GGBFS) and natural
+pozzolan (NP) and used at the following replacements: at 30, 10, 7, 70 and 20,
+respectively, by weight of plain cement. The plain and blended cement concrete
+specimens were cast at temperatures of 25, 32, 38 or 45C and cured under moist
+condition, covering with wet burlap or applying a curing compound. Plain concrete
+specimens were prepared with a wc ratio of 0.3, 0.4 or 0.45 while blended cement
+concretes were prepared with a constant water to cementitious materials ratio of 0.4.

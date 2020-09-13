@@ -1,0 +1,10 @@
+Image processing has been receiving extensive atten tio n in recent years because o f its
+potential applications to a num ber o f fields. Video, Audio, and Im ages produce vast
+am ount o f data which requires a tremendous am ount o f m em ory fo r its storage, and
+could not possibly be faithfully transm itted due to channel bandwidth lim itation. The
+only solution is to compress the data involved. S ix new algorithm s are proposed
+fo r the data compression problem. Comparisons are m ade w ith an im plem ented
+Discrete Cosine Transform (DCT) based compression method. One o f the algorithms
+is modified and applied to a speech signal. The perform ance and evaluation o f these
+new algorithms are addressed based on fidelity criteria, and im plem ented examples
+are given.

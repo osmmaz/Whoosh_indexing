@@ -1,0 +1,15 @@
+Cooling towers are used to reject heat from water to the atmospheric air by means o f heat
+and mass transfer. Since some o f the water, which is in direct contact with air, is
+evaporated in the air the process is also known as evaporative cooling. The thermal
+analysis o f wet cooling tower has received considerable attention in recent years. The
+effect o f fill packing system on the performance o f cooling tower has been the major
+consideration o f many researches. In the present numerical study, the analysis o f the
+thermal performance o f cooling tower is carried out for different types of the fill packing
+available in the literature as well as from different manufacturers. Also, a comparison is
+made for the thermal characteristics o f a cooling tower when a different type o f fill
+packing system is used. In this regard, an experimental data for a small cooling tower
+having a capacity of 20 gal/min is used to validate the numerical results. It is found that
+the simulation results are within ± 1 . 2   o f the experimental values. In addition to the
+above investigation on fill packing system, a sensitivity analysis on the thermal
+characteristics o f cooling tower is also presented with respect to the important parameters
+such as inlet water temperature, wet bulb temperature, tower characteristics, etc.

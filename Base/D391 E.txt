@@ -1,0 +1,21 @@
+Network planning in mobile telephony entails planning o f the supporting, switching,
+signalling and interconnection networks. This is a particularly complex process,
+partly because of the numerous intervening factors and partly because there are variable
+environmental conditions which m ust be taken into account in order to provide
+the user with a specified quality of service at any time. Given the intrinsic complexity
+of the problem and the high volume of information that has to be handled,
+network planning should be supported by good network design applications.
+The problem of assigning cells to switches in cellular mobile network is considered
+fo r this work. First, we review the process of the cellular mobile network planning,
+the specific problem of cell to switch assignment, and few well known methods that
+have been proposed so far. Then, we suggest a simple form ulation fo r the problem.
+It should be noted that the cell to switch assignment problem is an N P(N on Polynomial
+time) hard problem since the problem falls under the category o f the Quadratic
+Assignm ent Problem (Q AP) which is a proven N P hard problem. A s such, no determ
+inistic algorithms which can find an optimal solution fo r the above problem in
+polynomial time exist. Thus we solve this problem using iterative heuristics to provide
+solutions based on different heuristics and compare them with existing methods.
+These methods are completely innovative form ulation o f the problem and involve application
+of evolutionary computing fo r this complex problem that may be extended to
+solution of similar problems in V LSI design, distributed computing and m any other
+applications.

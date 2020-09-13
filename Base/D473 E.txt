@@ -1,0 +1,10 @@
+Congestion control is of critical importance for the proper functioning of ATM networks.
+The congestion control issue is difficult because of the large bandwidth delay product of
+ATM networks.
+In this thesis, a statistical approach of congestion control in ATM networks has been proposed.
+The statistical scheme operates differently from the previous congestion control
+schemes. It takes into account the statistical nature of the sources when reacting to congestion.
+It uses hypothesistesting to minimize the number of feedback throttle down signals.
+Extensive experimentation has been carried out to relate the cause of congestion to
+the statistical nature of the traffic sources. The performance of the the proposed statistical
+scheme is measured through extensive simulation studies.

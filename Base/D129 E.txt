@@ -1,0 +1,19 @@
+This work describes the results of a chromatographic study of sorption equilibria and
+kinetics of nitrogen and oxygen in carbon molecular sieves. The temperature dependence of
+the experimental equilibrium constants and micropore dijfusivity is correlated by the Van't
+Hoff and Arrhenius equations respectively.
+A single column pressure swing adsorption (P S A ) unit has been designed and
+constructed to study the separation of air on carbon molecular sieves ( C M S), 4A and 5A
+zeolites. The effect of various operating parameters on the performance o f the unit is
+reported. The results from the analysis o f PSA air separation on CM S show that a fairly
+high purity nitrogen product ( > 98   ) can be easily obtained. Experimental studies of
+PSA air separation on 5A zcolitc reveal that efficient separation can be achieved to yield a
+oxygen product containing 4 5   residual nitrogen. In case of 4A zeoIitc using oxygen as
+purge the results show that a product containing 88   oxygen can be obtained. If
+nitrogen is used as purge, for the production o f nitrogen on 4A zcolite a product
+concentration containing 0.8  oxygen can be achieved. It iras observed that an increase
+in purge to feed ratio, L /v „ ratio and desorption time increase the product purity. On the
+other hand pressure ratio and cycle time shows some optimum values for all three systems.
+The theoretical model o f Farooq and Ruthven [6 9 ] h t x s used after minor modification
+to predict the results for air separation on carbon molecular sieve. The model predictions
+agree reasonably well with the experimental data.

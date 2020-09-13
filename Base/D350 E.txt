@@ -1,0 +1,20 @@
+The title of this thesis is" Design &Fabrication of two Seated Aircraft with an
+Advanced Rotating Leading Edge Wing", this gives almost a good description of the
+work has been done. In this research, the moving surface boundary layer control
+(MSBC) concept was investigated and implemented. An experimental model was
+constructed and tested in wind tunnel to determine the aerodynamic characteristics
+using the leading edge moving surface of modified semi symmetric airfoil
+NACA1214. The moving surface is provided by a high speed rotating cylinder, which
+replaces the leading edge of the airfoil. The angle of attack, the cylinder surfaces
+velocity ratio Uc/U, and the flap deflection angle effects on the lift and drag
+coefficients and the stall angle of attack were investigated. This new technology was
+applied to a 2 seat light sport aircraft that is designed and built in the Aerospace
+Engineering Department at KFUPM. The project team is led by the aerospace
+department chairman Dr. Ahmed Z. AL Garni and Dr. Wael G. Abdelrahman and
+includes graduate and under graduate student. The wing was modified to include a
+rotating cylinder along the leading edge of the flap portion.
+This produced very promising results such as the increase of the maximum lift
+coefficient at Uc/U=3 by 82  when flaps up and 111  when flaps down at 40° and
+stall was delayed by 8degrees in both cases. The laboratory results also showed that
+the effective range of the leading edge rotating cylinder is at low angles of attack
+which reduce the need for higher angles of attack for STOL aircraft

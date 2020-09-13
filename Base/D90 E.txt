@@ -1,0 +1,18 @@
+Component Based System (CBS) development is increasingly becoming popular for
+software development. Using components in developing software systems can have a
+potential benefits such as decrease development cost, increase software productivity,
+reliability, as well as improve the quality of the final products. But can also involve a
+series of limitations. However, black box nature of components introduces unique
+challenge at the integration phase of a CBS. It is well known that there is a correlation
+between the number of faults found in software and its complexity. Components
+complexity measures have been used to identify possible faults in individual components
+and subsequently perform a risk assessment of the system. The aim of this work is to
+empirically investigate the usefulness of structure complexity measures to improve
+Component Base (CB) integration testing (glue code) in terms of defect detection
+effectiveness and effort. We ran three controlled experiments with students from King
+Fahd University of Petroleum and Minerals, to evaluate the effectiveness of structure
+complexity measures in CB integration testing (glue code testing). Experiments results
+indicate that the adoption of structure complexity measures led to a significant better
+detecting of the faults during CB integration testing without requiring a significant
+additional effort. Finally, subject experience doesn't have any effect on the defect
+detection effectiveness.

@@ -1,0 +1,18 @@
+synthesized using hydrothermal methods. The Si/Al ratio o f ZSM 5 and Theta 1 was
+50, whereas the composition o f the MCM 41 was varied from SiOa/AkOs ratio o f 4.7
+to a ratio o f 20.5. The samples were characterized by powder x ray diffraction, ICPAES,
+and magic angle solid state nuclear magnetic resonance.
+The n hexane cracking activities o f the samples were determined using a fixed bed
+system in a micro reactor system. The catalytic activity o f the MCM 41 was
+extremely low compared with the microporus molecular sieves, possibly due to the
+low acid strength o f the catalytic sites. The most active catalyst for hexane cracking
+was ZSM 5 due to the extensive bimolecular cracking activity in the channel
+intersections. In case o f the Theta 1, most o f the activity was via mono molecular
+protolytic cracking mechanism because o f the 1 D channel system provided by the
+structure o f this molecular sieve. The two main parameters that affected the activity
+and the mechanism involved were the catalyst structure and the cracking temperature.
+In spacious pore structure and at relatively low temperature, bimoluclar cracking was
+favored.
+The cracking activity o f ZSM 5 and Theta 1 are far higher than that o f the MCM 41
+mesoporous materials, because o f the strong interaction o f the reactants with the
+surface o f the channel system due to the “nest effect".

@@ -1,0 +1,13 @@
+In this research work, the spectral response and output coupling loss of a Multilayer
+Anti Resonant Reflecting Optical Waveguide (ARRO W ) are analyzed. The
+multi layer A R R O W waveguide is used for enhancing the evanescent field in lowindex
+media. The fraction of the fundamental TE like mode power in the low index
+material is used as a measure of the evanescent field enhancement. Abo the sensitivity
+of the multi layer A R R O W waveguide is analyzed. The whole analysis is
+done using air as the low index superstrate. The proposed structure can be used as
+an integrated mechano optical waveguide on /o ff switch. MOL with higher order approximation
+has been applied to find the modal profile and propagation constants of
+the eigen modes of the basic A R R O W and multi layer ARROW' waveguide. Output
+coupling problems, which involves the analysis of single and double discontinuity, are
+analyzed using the MOL. The Perfectly Matched Layer (PML) absorber is used to
+absorb the radiated fields from these discontinuities.

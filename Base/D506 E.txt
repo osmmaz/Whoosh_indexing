@@ -1,0 +1,19 @@
+A new technology for mercury removal from liquid hydrocarbon is of prime
+importance. Mercury has been considered as a priority hazardous material, due
+to its adverse effects on human health, industries and the environment.
+Industrially the mercury metal corrosion effect on gas processing plant systems,
+particularly the aluminum heat exchangers, is well known and has caused failures
+over the past several decades. The other issue with mercury is that even at low
+ppb level, this substance is poisonous to precious catalysts used in petrochemical
+industrial plants to convert gas and other petroleum based products to chemicals.
+Several technologies have been implemented to reduce mercury content below 1
+ppb in hydrocarbon streams such as gas and light naphtha. However, no
+technology is available yet to remove mercury from the whole gas condensate or
+from the crude oil. The removal of mercury from liquid hydrocarbon is a very
+challenging task as this depends on stream composition, the forms of mercury
+contents and the water content. This work introduces a new novel sorbents where
+carbon nanotubes, nanofibers, activated carbon, fly ash and their modified forms
+with certain metals for the removal of mercury from whole gas condensate. Up to
+92  of mercury removal was achieved using these new sorbents. These
+sorbents are potentially scalable to remove mercury from liquid hydrocarbons
+under the actual field conditions.

@@ -1,0 +1,22 @@
+The heat gain through a building envelope contributes significantly to the total heat gain
+or cooling load for buildings. Buildings in the KSA consume more than 72  of electric
+energy produced. Most of this consumption is used by mechanical cooling and electric
+heating to provide thermal comfort. Studies show that the energy use in the future
+buildings in the KSA could be reduced by as mush as 20  compared to the existing
+available designs if proper code is implemented. Many efforts are currently under way to
+develop the first national Saudi Building Code. The overall thermal transfer value
+(OTTV) is used as a measure of average heat gain across the building envelope of airconditioned
+buildings. The OTTV is considered as a thermal performance index for
+building envelopes and has been used as mandatory requirements in standard for building
+envelope design.
+The overall objective of this study is to contribute to the ongoing efforts for developing a
+building code in the KSA by developing overall thermal transfer value (OTTV) equations
+for building envelope in the hot and humid climate of the Eastern Province of Saudi
+Arabia represented by Dhahran. In order to achieve the objective, the thermal
+performance of the envelope of a generic commercial building (hotel) was investigated
+using VisualDOE 4.0 simulation program. The overall thermal transfer value (OTTV)
+equations for the cooling season that runs through the months of April to October have
+been developed. Five overall thermal transfer value equations have been developed for
+each month, one for each orientation and the fifth equation for the whole building. These
+equations can be used by building code to control the heat gain through the building
+envelope.

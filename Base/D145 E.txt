@@ -1,0 +1,26 @@
+It is recognized that strength of concrete in
+structures is different than strength of control specimens,
+therefore an increased demand for more precise and more
+practical methods of in situ assessment of concrete quality
+had led to the development of a large variety of techniques
+to evaluate concrete properties, such as strength,
+durability and quality control.
+Pullout testing of concrete is one of these techniques
+which divides into two basic categories; the first one has
+an insert which is cast into the concrete (lok test), the
+other has an insert fixed into a hole drilled into the
+hardened concrete (capo test). The purpose of this study is to verify the accuracy and
+reliability of lok test and capo test methods for estimation
+of in situ compressive strength of concrete made with
+commonly used local materials, and to develop the necessary
+calibration curves between pullout force and standard
+compressive strength for various types of aggregates, cement
+contents and water cement ratios.
+Based on a regression analysis of the generated data,
+effects of the previous variables on the behavior of
+strength have been studied and the calibration curves
+developed.
+The proposed models have been verified for their
+reliability by comparing predicted strength with the actual
+strength.
+MASTER

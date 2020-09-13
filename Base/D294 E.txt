@@ -1,0 +1,18 @@
+Conjugate laminar fi'ee convection heat transfer in vertical eccentric annuli is
+numerically investigated. Heat transfer parameters such as temperature, heat flux and
+bulk m can temperature have been numerically o btained f or a fluid of Prandtl n umber,
+Pr=0.7 in the eccentric annulus at dt’fl'erent values of eccentricity, radius ratio, wall
+thickness and conductivity ratio. In addition to these parameters, the efi'ect of conductivigr
+ratio, eccentricity, wall thickness and radius ratio on channel height, required to induce
+specific/low rate, has also been investigated. The analysis has been carried out for two
+difl'erent pairs of thermal boundary conditions. One pair of boundary conditions
+comprises of one wall kept isothermal at inlet fluid temperature while the other wall
+heated isothermally whereas the other pair of boundary conditions consists of one wall
+kept adiabatic while the other wall heated isothermally. Furthermore, results of the
+present study are utilisedfir the first pair of boundary conditions to establish the limits.
+namely the critical values, for solid fluid conductivity ratio, above which, and wall
+thickness, below which, the conjugate eflect can be neglected for various eccentricity and
+radius ratio values. Also. jbr the second pair of boundary conditions, the optimum values
+ofsoIid fluid conductivity ratio and wall thickness. giving the maximum induced flow rate
+for a given channel height, have been obtained for various radius ratio and eccentricigr
+values.

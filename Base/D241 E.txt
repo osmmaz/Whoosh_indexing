@@ -1,0 +1,13 @@
+Code synchronisation is as an attempt to synchronise the receiver clock to the transmitter clock. The process of acquiring
+the timing information of the transmitted spread spectrum signal is essential to the implementation of any form of spread
+spectrum technique. The overall system performance is dictated by the code acquisition subsystem since other subsystems
+rely on a successful code Acquisition
+In C D M A systems, the signal to inteference plus noise ratio at the receiver depends on the chip pulse shape used in
+spreading the user signals. The peformance of the acquisition system was extended using the Improved Gaussian
+approximation which gives a better account of the e ffect of interference on the CDM A system.
+The threshold should be set above the noise level, thus an estimate of this figure is required by the detector. Under stable
+channel conditions the threshold can be fixed but in dynamic channel conditions, where interference is present, adaptive
+threshold schemes should be used. It is necessary to design an acquisition threshold with its value being set according the
+effective SIN R . A modified threshold setting system is proposed for the Hybrid search scheme. A modified threshold
+setting scheme was proposed for the Hybrid Search scheme.
+Implementation of the algorithms was also carried out on a Texas TMS320C6713.

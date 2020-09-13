@@ -1,0 +1,11 @@
+Distributed control system comprises many nodes (i.e., controllers, sensors, and
+actuators), which are interconnected with communication networks. The control
+networks in industry have evolved from dedicated communication links to distributed
+communication links over shared data networks. Typically, the control and
+communication systems in a distributed networked industrial system are based on
+periodic sampling. This may result in excessive use of communication and computational
+resources causing high network traffic. The increased network traffic
+can cause delay, packet drop, and network congestion problems which affect the
+performance and stability of control loops over the network. This thesis proposes
+an event based solution to reduce the network traffic and to avoid the delay, and
+packet drop in the context of distributed networked control systems.

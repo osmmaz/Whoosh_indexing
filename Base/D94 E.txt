@@ -1,0 +1,15 @@
+
+The acceleration o f the product to market cycle o f VLSI based technology products
+dictates continuously refining design and implementation methodologies. Circuit
+partitioning is a physical design problem in which a given circuit is divided into segments
+meeting some constraints and objectives. The circuit partitioning problem is NP hard;
+that means fo r this class o f problems no algorithm o f polynomial complexity could be
+found. In this thesis work, a biologically inspired heuristic (ant colony) is used to solve
+such problem. The ant colony implemented is closely rooted at the biological and
+behavioral model o f the real social insects. It is a non deterministic heuristic and could
+be used as both constructive and iterative. The solution uses many ants o f simple nature
+and limited memory requirements. The intelligence o f this heuristic is not portrayed by
+individual ants, but rather is expressed by the colony as a whole. Careful presentation o f
+the problem to the ant colony model facilitates the close biological solution derivation.
+The solutions obtained by this heuristic produced good result compared to those o f other
+established heuristics.

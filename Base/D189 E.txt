@@ -1,0 +1,17 @@
+In this work, a comparison study was done between different samples of activated
+carbon (AC) and multi walled carbon nanotubes (MWCNT) for bromate (BrO3
+ )
+removal from water. MWCNT samples were prepared in KFUPM laboratories
+through specific procedures, and then all these samples were fully characterized by
+SEM, FTIR, EDS and TGA to ensure the required composition. The results showed
+that AC and MWCNTs have good capability to remove bromate from water through
+an adsorption/reduction mechanism on adsorbent surface. AC Raw and AC 0.2  Ag
+results showed the highest adsorption capacities 0.4860 mg/g and 1.1930 mg/g,
+respectively at pH 7.5. CNT Raw and CNT 1  Fe showed also good adsorption
+capacities 0.3220 mg/g and 0.3460 mg/g, respectively at pH 7.5. Bromate removal
+mechanism is considered to be through reduction process when activated carbon is
+used. However, in case of CNT samples the mechanism is mainly adsorption. The
+adsorption capacity of AC is better than that of CNT for the tested samples.
+Adsorption capacity increases if the pH of the solution and the adsorbent dosage
+decrease. The presence of co anions also decreases the adsorption capacities of both
+AC and CNT.

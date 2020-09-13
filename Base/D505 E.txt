@@ -1,0 +1,26 @@
+Deterioration and damage of reinforced concrete structures due to reinforcement corrosion is
+a widely reported subject in the literature. The rate of reinforcement corrosion is one of the
+essential factors required for assessing the extent of damage in a corroded reinforced concrete
+member and also for predicting its residual service life. The rate of reinforcement corrosion is
+generally evaluated by the linear polarization resistance technique. However, the available
+commercial equipment do not predict the rate of reinforcement corrosion due to the high
+resistive medium of concrete. Thus there is a need to develop a reliable setup to measure
+reinforcement corrosion in concrete. The objective of this study was to develop a reliable
+and simple set up and procedure for determining the rate of reinforcement corrosion utilizing
+the linear polarization resistance method.
+Reinforced concrete specimens 500 × 500 × 80 mm with three 12 mm diameter steel bars
+were prepared. The steel bars in the concrete slabs were corroded to varying degree by the
+impressed current method. Corrosion current density (Icorr) was measured using the developed
+setup and two commercial equipment and the results were compared with the gravimetric
+weight loss.
+The corrosion current density determined using the developed setup and other two
+commercial equipment without Ohmic drop compensation compared very well with the
+gravimetric weight loss. However, the best trend was noted in the data obtained from the
+developed setup. A good correlation was noted between the corrosion current density values
+determined with the developed setup with Ohmic drop compensation and the gravimetric
+weight loss. However, the correlation between the corrosion current density measured using
+the commercial equipment with Ohmic drop was poor indicating that the commercial
+equipment are not able to measure the corrosion rate with Ohmic drop compensation. These
+results indicate the usefulness of the developed setup in both types of measurements, namely
+with and without Ohmic compensation. A good correlation was noted between the moisture
+content, electrical resistivity and corrosion current density.

@@ -1,0 +1,21 @@
+Large funds are expended on domestic water supply projects; however,
+lack of appropriate conceptual cost estimating techniques causes difficulties
+such as project delays and cost overruns. This thesis presents a structured and
+systematic procedure for the implementation of a Computerized Conceptual
+Cost Estimating System (CCES) for Domestic Water Supply Projects. CCES
+has been designed to produce cost estimates at the conceptual stage when only
+a little information is available about the project.
+The research began with the identification of the factors influencing the
+costs of pipeline, reservoir, and pumping station projects. Next, historical cost
+data of commissioned projects were gathered from tender documents and
+subsequent regression analysis was carried out. The regression analysis was
+computer based which facilitated a "what if' analysis during the model
+creation course and helped examine the adequacy of the cost factors.
+Moreover, the adequacies of the cost models were checked and found to comply with the standards of the American Society of Cost Engineers. Finally,
+the cost models were integrated into a user friendly application software.
+This thesis demonstrated that a well thought out integration among the
+science of cost estimation, statistical analysis, and computer technology
+enhances the practices of cost estimating. Although the research focused on the
+Sultanate of Oman as a case study, the methodology set forth is relevant to the
+construction and water industries in general, particularly in the Arabian Gulf
+countries.

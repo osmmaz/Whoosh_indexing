@@ -1,0 +1,24 @@
+A bolted joint is a typical connection that is widely used in machine
+assemblies, construction of structural components etc. Owing to the easy replacement
+and installation, bolted joints are very popular. Bolted joint analysis involves many
+variables like bolt size, diameter, member thickness, number of members, loading
+condition, number of bolts and their different arrangements. Due to all these factors
+the analysis is complex. Researchers have used different approaches like analytical,
+experimental and numerical techniques. The analytical method requires solution of
+ordinary and partial differential equations, which are not easily obtainable in actual
+engineering problems. Experimental work requires more resources and time and it is
+difficult to reproduce in case of any mistake. Because of these facts the use of
+numerical methods is more practical and time saving. Numerical models can be altered
+with ease and non linear behavior can be included if necessary.
+In the present work finite element software ANSYS is used to perform a threedimensional
+analysis of a single bolt joint. Finite element modeling (FEM) o f the joint
+is discussed with boundary conditions in shear and tensile type of loading. Non linear
+effects are included by introduction of contact elements at the interfacing surfaces. The
+results are reported for different loads due to the applied displacements o f 0.06 mm,
+0.08 mm and 0.1 mm, different clearances o f 0.01 mm, 0.05 mm and 0.5 mm, different
+pretension o f 500 N, 9000 N and 30000 N and different coefficient of friction o f 0.1,
+0.2 and 0.3. The same three dimensional model is extended further to four bolts to see
+the effect of layout on the displacement pattern and stress distribution under shear type
+loading. Experimental verification is done for the credibility of numerical results. A
+tool in form of geometrical parameters to compare different layouts in terms of critical
+bolt is also developed.

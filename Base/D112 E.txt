@@ -1,0 +1,24 @@
+One of the major objectives of the petroleum industry is to obtain an accurate
+estimate of initial hydrocarbon in place before investing in development and production.
+Porosity, permeability and fluid saturation are the key variables for characterizing a
+reservoir in order to estimate the volume of hydrocarbons and their flow patterns to
+optimize the production of a field. Many empirical equations are available to transform
+well log data to predict these properties. Recently, researchers utilized artificial neural
+networks (ANNs), particularly feed forward back propagation neural networks (FFNN),
+to develop more accurate predictions. The success of FFNN opens the door to both
+machine learning and soft computing techniques to play a major role in the petroleum,
+oil, and gas industries. Unfortunately, the developed FFNN correlations have some
+drawbacks, and as a result several improvements have been proposed.This thesis investigated the suitability of some of the recently proposed advances
+in neural networks technique including, functional networks (FN), cascaded correlation
+neural networks, polynomial networks, and general regression neural networks for
+predicting porosity and water saturation from well logs. Since there is no fully developed
+software for functional networks, we described both the steps and procedures in
+developing functional networks to predict these properties. We also compared the
+performance of these techniques with standard FFNN as well as the empirical correlation
+models. Generally, the results show that the performance of General Regression neural
+networks, Functional networks and Cascaded Correlation networks outperform that of
+standard neural networks. In addition, General Regression Neural networks are more
+robust while Functional networks are easier and quicker to train with no over fitting
+problem, and more importantly we have more insight into the coefficients of the network.
+Therefore, we believe that the use of these better techniques will be valuable for
+Petroleum Engineering scientists.

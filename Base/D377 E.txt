@@ -1,0 +1,9 @@
+In the present work a design methodology is developed to protect brittle ceramic materials
+from failure during drawing operations. Analytical and Finite Element techniques
+are employed to study straight taper and contoured dies respectively. Variation
+of shrink fit pressure is studied by systematically varying some important process parameters.
+It is found that area reduction and exit wire velocity significantly affect
+shrink fit pressure. Effect of radial thickness is significant only fo r small thicknesses.
+Semi die angle and die length have almost no effect on shrink fit pressure. A comparison
+between the analytical and Finite Element approach shows that the analytical
+approach produces good results for small reductions and die angles

@@ -1,0 +1,17 @@
+Effective control and monitoring o f a process requires sufficient information on the
+state o f the process, which is uniquely specified by the process state variables. In
+practice, online measurements o f all o f the variables o f a process are rarely available,
+and in such cases, reliable information on the immeasurable state variables is obtained
+by using the state estimator. This work presents the design, implementation and
+application o f linear state estimators, which can infer the column composition from the
+temperature measurements or other process states in a reactive distillation process.
+The accuracy o f the developed estimators is checked by comparing the estimated
+states to the actual states as predicted by the process model o f a reactive distillation
+system. The robustness and reliability o f the linear state estimators are demonstrated
+against erroneous initial conditions, the measurement noise and plant moclel mismatch.
+The estimator based control system is developed and implemented on a reactive
+distillation process. The control performance o f the system that relies on the estimator is
+examined and compared to that o f the system which takes direct measurement from the
+process model using online perfect analyzer. It is found that a robust linear state
+estimator can be successfully designed and implemented on the feedback control o f
+reactive distillation system.

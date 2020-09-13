@@ -1,0 +1,17 @@
+Planning and reasoning have been a m ajor area of research in Artificial Intelligence
+(AI). Case based planning (CBP) is one of the knowledge based planning
+technique, which develops new plans by using its past experience instead o f planning
+from scratch. CBP caches the solutions to planning problems in a case base and
+provides methods fo r retrieving those solutions, whose problem descriptions are sim ilar
+to a new given problem. The task of retrieving sim ilar cases (problem solution
+pairs) becomes difficult when the environment is imprecise and uncertain, this makes
+the whole CBP process complex. In this work, we propose a sim ilarity metric fo r
+retrieval step o f CBP under imperfect environment. For capturing the imprecise inform
+ation, we use fuzzy predicates to represent the initial and goal states o f a case
+and a new problem. The sim ilarity between a problem and a case, computed by fuzzy
+predicate based sim ilarity m etric (FDSM ), is dynamic i.e. sim ilarity may change
+after problem solving episodes have been completed. This is because of weights assigned
+to the predicates of a case and a new problem predicates. These weights are
+updated/learned on the basis o f a feedback from plan repairer. In this work, fo r
+simulation purpose, a fuzzy plan replay system is developed fo r computing the plan
+repair effort.

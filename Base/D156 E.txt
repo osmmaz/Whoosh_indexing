@@ -1,0 +1,5 @@
+In this thesis we investigate asymptotic behavior of solutions of some viscoelastic
+problems in bounded domains and establish some stability results for the problems.
+In this regard, we establish exponential, polynomial and general decay rate results.
+The decay results are established in the absence, as well as in the presence of a
+source term.

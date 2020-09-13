@@ -1,0 +1,24 @@
+Classification in the emerging field of Bioinformatics is a challenging task because
+the information about different diseases is either insufficient or lacking in authenticity as
+data is collected from different types of medical equipment. Also the limitation of human
+expertise in manual diagnoses leads to incorrect diagnoses. Moreover, the information
+gathered from various sources is subject to imprecision and uncertainty. Researchers
+utilized Artificial Neural Networks, Support Vector Machine and Bayesian Networks to
+achieve better classification, but the developed models are bedeviled by several
+limitations especially in uncertain situations. Recently, Type 1 and Type 2 Fuzzy Logic
+Systems (FLS) have been introduced as novel computational intelligence approaches for
+both prediction and classification. However Type 2 and other FLS have not been fully
+utilized in the bioinformatics and medical science. This thesis presents a Type 2 FLSbased
+classification framework for multivariate data to diagnose different types of
+diseases, which is capable of handling imprecision and uncertainty. As expected, this new
+computational intelligence approach overcomes the weaknesses of existing classifiers,
+particularly in the ability to handle data in uncertain situations such as uncertainty due to
+the existence of various types of noise, inconsistent expert opinions, ignorance and
+laziness. The classification accuracy and performance of the proposed framework are
+measured by using University of California, Irvine (UCI) well known medical datasets.
+The classification is performed on the basis of the nature of the inputs (e.g., singleton or
+non singleton) and on whether uncertainty is present or absent. Empirical results have
+shown that the proposed FLS classification framework outperforms earlier implemented
+models with better classification accuracy among all existing classifiers. In addition, we
+conducted empirical studies on this classifier regarding the impact of various parameters
+of the proposed framework such as training algorithms and defuzzification methods.

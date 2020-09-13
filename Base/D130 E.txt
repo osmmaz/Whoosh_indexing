@@ -1,0 +1,15 @@
+The purpose o f this thesis is to demonstrate an all optical reflectivity
+m odulator that utilize surface piasmon resonance. The configuration
+o f the structure is the well known Kretschmann configuration. It
+consists o f a thin metallic layer deposited on the base of a high index
+prism. A region o f saturable nonlinear medium exists under the
+metallic layer. A TM polarized light (light to be modulated) is
+incident into the structure from the prism side and the m odulating light
+is incidence into the structure from the bottom . It was assumed that
+only the modulating beam affects the nonlinear medium. Relationship
+between the intensity o f the lower beam and the reflectivity was studied.
+In addition, the effect o f changing the angle of incidence o f the upper
+beam on the reflectivity was investigated. Furtherm ore, the effect of
+increasing the saturation level on the modulation was investigated. The
+applicability of the self consistent approach for TM  polarized waves was
+also discussed.

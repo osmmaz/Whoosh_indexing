@@ -1,0 +1,18 @@
+In this MS Thesis, electrochemical reduction of carbon dioxide has been studied on high
+surface area multi walled carbon nano tubes (MWCNT) supported nickel oxide and tin
+oxide catalysts. Both the nickel and tin oxides catalysts were synthesized by direct
+impregnation method with different loading of metal content to get 10  , 20  , 30   and
+40   metal oxide loaded on the support. The prepared catalysts were characterized using
+XRD and SEM EDX determining the crystalline size, surface morphology, dispersion
+and metal oxide content on the support. Both XRD and SEM analysis shows that
+increase in the metal oxide content results in the poor dispersion due to agglomeration of
+the metal crystals. Electrochemical evaluation of the catalysts was carried out in a half
+cell (H cell) and in an electrochemical reactor for carbon dioxide reduction. Linear
+sweep voltammetry (LSV) and chronoamperometry (CA) techniques were employed to
+study the electrochemical behavior of the catalysts. Half cell reaction setup was used to
+identify the optimum loading of the catalyst among the prepared sample. Based on LSV
+and CA for the carbon dioxide reduction process it was found that with the 20  
+NiO/MWCNT and 20   SnO2/MWCNT catalysts optimum reaction rate. The selected
+catalyst, 20   NiO/ MWCNT was further evaluated in the electrochemical reactor. The
+products obtained were mainly CO and H2. The maximum faradaic efficiency obtained
+with 20   NiO /MWCNT was at a potential of  1.7 V vs. NHE.

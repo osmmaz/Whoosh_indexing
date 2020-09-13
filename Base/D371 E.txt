@@ -1,0 +1,8 @@
+This thesis proposes an approach for computing coupling metrics from object
+oriented UML models stored in XMI format. The coupling metrics are
+computed from the package, class and sequence diagrams in the UML
+model. A metric tool is developed for extracting the design level information
+and computing the metrics. Our experimental results are discussed and
+compared with results from source level metrics. Results show that design
+level coupling metrics are consistent with those computed from the source
+code.

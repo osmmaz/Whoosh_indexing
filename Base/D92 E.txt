@@ -1,0 +1,16 @@
+The current power grid is outdated and overwhelmed by the increase in demand
+for power. The advent of the smart grid presents a new paradigm that will solve
+this problem and also provide several unique functionalities to the consumers. The
+smart grid is envisioned to be a completely automated infrastructure that will re 
+quire little or no human intervention. This will be made possible due to the in 
+tegration of latest information and communications technologies (ICT) into the
+power grid. The various sensors installed in the smart grid will have the capa 
+bility to report back information related to power consumption, billing and other
+significant readings. However, this integration of technology also raises several
+concerns about the cyber protection of the smart grid. The security challenges
+presented by the smart grid are unique and cannot be overcome with existing so 
+xi
+lutions. This work presents a novel intrusion detection technique for the smart
+grid infrastructure that is capable of detecting malicious activity at different lev 
+els of the smart grid hierarchy. In addition signatures of anomalous smart grid
+behaviors are formulated to improve detection rate.

@@ -1,0 +1,11 @@
+Power divider circuits are used in radio/microwave frequency applications to split an
+input signal over two or more output signals with equal or unequal amplitude or phase.
+Effective design of power dividers is crucial to minimize the dimensions and losses of
+microwave systems, such as antenna feeders, especially for large phased array antennas.
+Wilkinson and Gysel are among the popular power dividers and are often implemented
+using microstrip circuits to achieve minimal insertion loss, high isolation between output
+ports and exceptional phase and amplitude balance. But to use them in recent multilayer
+devices such as laminated multi chip modules, vertical transitions are needed to
+distribute the input and output ports in different layers. However, the use of these
+transitions increases the insertion loss of the power divider and limits the operational
+bandwidth.

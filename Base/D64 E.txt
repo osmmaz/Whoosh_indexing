@@ -1,0 +1,22 @@
+Permanent magnet synchronous generator (PMSG) wind generators gained popularity
+over other variable speed devices because of their advantages in terms of simple rotor
+design, lack of slip rings, no necessity for external excitation, higher efficiency, etc.
+Though it performs satisfactorily under normal conditions, it is sensitive to sudden wind
+gusts and also extremely low grid voltage conditions. This research considers
+superconducting magnetic energy storage (SMES) control to improve the dynamic
+performance of the PMSG system.
+A dynamic model of the PMSG system with an SMES controller connected at the
+inverter terminal is presented. The SMES controller strategy with variations of real power
+and terminal voltage as the input has been derived. The performance of the controller
+depends on the values of the controller gains and time constants when large excursions
+are experienced by the system. An online adaptive strategy employing radial basis
+function neural network (RBFNN) for updating the parameters of the SMES controller
+has been presented. The nominal weights of the RBFNN have been created by presenting
+the neural network from a large input output data set. The training data was created
+through an improved particle swarm (IPSO) optimization technique.The proposed adaptive RBFNN SMES control strategy was tested on the PMSG wind
+system for various disturbances like large torque pulses, wind gust and severe low
+voltage conditions on the grid. It is observed that the SMES controller can damp the
+power system oscillations effectively and restore normal operating conditions in
+reasonable time. A proper selection of the weighting matrix obtained through IPSO and
+radial basis function neural network helped adaptive algorithm to find the parameters
+very fast.

@@ -1,0 +1,19 @@
+This thesis focuses on production, inventory, warranty and quality control problem
+from both producer’s and consumer’s point of view. The purpose of this thesis is
+twofold. First, models for the producers which integrate lot sizing, warranty and
+quality improvement through preventive maintenance are developed. Second, integrated
+inventory and quality assurance models for the consumer are developed.
+In the first part, joint lot sizing and warranty models with and without preventive
+maintenance are developed for an imperfect production process. The process starts
+in in control state then shifts at a random point in time to out of control state and
+starts producing more fraction of nonconforming items. The time to shift follows
+a general distribution. Effects of preventive maintenance on quality and warranty
+costs are investigated. In the second part, consumer’s inventory and quality assurance
+decisions through inspection are integrated in a single model. Models for both
+deterministic and stochastic demand are considered. It is assumed that the lot fraction
+nonconforming is a random variable following a beta distribution. Constraints
+on consumer and producer’s risks are included to generate fair plans for both parties.
+Numerical examples are presented and sensitivity analysis is conducted to investigate
+different aspects and features of the proposed models. It is shown through
+numerical examples that the joint policies always result in a better solution then
+separate once.

@@ -1,0 +1,10 @@
+In this dissertation, the design of configurable analog blocks for field programmable
+analog arrays is presented. The configurable blocks are capable of performing
+integration, differentiation, amplification, log, and anti log functions. The realization of
+these functions depends on differential continuous time current mode translinear loop
+techniques. To maintain high frequency operation, programmability and configurability
+o f the blocks are achieved by modifying the block’s bias conditions digitally. The
+analog signal processing part of the blocks is designed using BJTs. To get compatibility
+with digital, the controlling parts of the blocks are designed using CMOS. Simulation
+results for the presented circuits and for examples of analog signal processing systems
+formed using them are also introduced.

@@ -1,0 +1,33 @@
+The present work aims at a study o f Attitude tracking and control o f a rigid spacecraft
+model. The plant (spacecraft model) is a sixth order nonlinear multi input multi output
+system. The plant is stabilized using state feed back. The stability o f the closed loop is
+assured using Routh Hurwitz criterion and a Lyapunov function. The step response o f the
+closed loop is used to design two PID controllers using standard classical techniques
+(Ziegler Nichols and Cohen Coon). Two adaptive control structures are proposed for the
+spacecraft model such that the output o f the spacecraft model follows the desired input
+(attitude trajectory). The first structure is Feed forward learning based adaptive control
+structure. Attitude tracking is established using this structure by incorporating an
+adaptive filter with the PID controller using normalized least mean square adaptation
+algorithm. The second structure is an Internal Model Control (IMC) based adaptive
+structure. The IMC structure consists o f an explicit model o f the plant along with the
+feed forward PID controller. The model o f the plant is computed using normalized least
+mean square adaptation algorithm. The adaptive control structures are independent o f
+the plant parameters and do not require a priori knowledge o f the spacecraft inertiamatrix. The overall closed loop is such that the controllers design depends on the output
+o f the plant. Computer simulation results are done to illustrate the effectiveness o f the
+proposed control structures and showed good control and tracking characteristics.
+Finally an experiment is performed to illustrate the idea o f attitude control in
+satellites. A Cube Sat model is designed and is shown to track a light source
+demonstrating the idea o f attitude tracking. The light source represents the sun’s light in
+space. The objective o f this work is to detect the location o f the sun and rotate the Cube 
+Sat towards the sun’s position, so that maximum solar power can be utilized. Stepper
+Motor is used to drive the Cube Sat, which receives signal from a light sensing device.
+The system is designed such that, when the light source moves the Cube Sat also moves
+towards the light source’s direction. When the required face is positioned towards the
+Sun, the supply to the motor is disconnected. The total system, including Stepper motor
+that drives the Cube Sat, operates at 12V DC. For the demonstration purpose 12V DC is
+derived from a power supply kit. In this project work LDR (light dependent resistor) is
+used as a light sensing device. They are used for detecting the direction o f Sunlight. The
+motion o f the motor is bi directional acquiring the nearest possible path to the sun. To
+serve this purpose a second LDR is used which changes the direction o f the stepper
+motor when it senses light. The complete setup is stand alone and the setup photos
+illustrate the work carried out.

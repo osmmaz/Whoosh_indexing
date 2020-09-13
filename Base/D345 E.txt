@@ -1,0 +1,15 @@
+Deployment of Triple Play services over IP networks has been on the increase across the
+world particularly in North America, Europe, and Asia/Pacific. Triple play services
+provide voice, data, and multimedia services as those of streamed audio, video, and
+IPTV. Network engineers and designers of these existing IP networks are faced with
+numerous challenges with regards to assessing the readiness by gauging the capacity of
+existing IP networks to support triple play services. In this research work, we present an
+analytical and simulation approach to deploy triple play services. The capacity of a
+network is gauged in terms of determining the maximum number of voice calls and
+audio/video streaming sessions that can be sustained while satisfying QoS requirements
+of all Triple Play services, and at the same time leaving adequate capacity for future
+growth of the data network. We apply our approach with numerous scenarios on a
+typical modern medium scale hospitality network. In particular, we consider the
+deployment of SIP based VoIP, IP Unicast of audio/video streaming VoD, and IPMulticast
+AV IPTV. Our analysis is based on the principles of queuing theory, and our
+simulation is based on using OPNET

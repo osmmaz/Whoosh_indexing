@@ -1,0 +1,11 @@
+The objective o f this thesis is to investigate the composite generation and transmission
+planning model in a competitive environment. This study includes the traditional power
+system planning models and applications. The generation and transmission planning
+models under deregulation recently reported in the literature are discussed. New
+generation and transmission planning model under deregulation is formulated as an
+optimization problem. The branch and bound (B&B) algorithm is employed to search for
+optimal solution o f the new optimization problem. In addition, this study presents a
+comparison between the traditional planning model and the new deregulation planning
+model. The models are simulated and tested under different power networks and the
+simulation results presented a considerable investments cost saving using the new
+deregulation planning model.

@@ -1,0 +1,16 @@
+Two fundam ental techniques o f fonts representation are bitmap and outline. The
+outline fon ts are produced from a gray level image obtained by scanning the original
+characters drawn on paper. Contour points are obtained from the gray level
+image and significant points are determined from contour points. Splines are approximated/
+interpolated to these significant points.
+In traditional fo n t design systems, the user specifies significant points by some
+interactive device (e.g. mouse). The system then generates a curve whose shape
+depends on specified points and mathematical model of the curve. There are several
+drawbacks of this method. The user has to be fam iliar with the underlying mathematical
+model of the system in order to use it properly. Human intervention and
+changing set of points many times makes this method slow. Accuracy up to desired
+tolerance lim it is difficult to achieve.
+We proposed an efficient font design method that automate the process of font
+design by finding m inim al number o f significant points , removing noise from contour,
+fitting cubic Bezier to significant points and Optimizing the closeness o f fit between
+original digitized curve and our parametric curve.

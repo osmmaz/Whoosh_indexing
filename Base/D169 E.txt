@@ -1,0 +1,12 @@
+Designing complex digital systems from hardware description languages (HDL)
+models has been in vogue in the last decade.
+The task of translating an HDL description to silicon can be divided into two
+stages. The first stage consists of the translation of the language model to an
+intermediate logic level description (hardware compilation), and the second stage is
+the translation of logic level description to VLSI layouts (physical design).
+Physical design consists of tasks such as logic assignment, placement of layout
+cells, global routing, and detailed routing, etc. In this work, we address the physical
+design stage. Efficient algorithms were selected, modified where needed, and
+implemented for the different tasks of the physical design stage.
+The proposed work will enable a complete automation of VLSI layouts from
+hardware description models

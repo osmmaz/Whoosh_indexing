@@ -1,0 +1,15 @@
+In this research, an artificial intelligence (AI) model has been created to estimate the
+production rate of each layer in a multi layered gas reservoir using static properties such as
+those obtained from well logging, in addition to dynamic properties such as pressure. This
+approach will be helpful in several reservoir engineering applications, such as
+understanding layers’ depletion, or targeting specific layers for workover. It could also be
+used for PLT analysis where the measured PLT values are compared to the expected values
+and a variance analysis could be performed.
+Data were collected from more than 100 wells in a certain reservoir spanning over four
+fields. They were combined in related input variables and fed to the AI model for learning
+purposes. To compare different AI methods, the data were fed to 5 methods, namely ANFIS,
+MLP, RBF, SVM, and GRNN, and results were optimized for each method.
+Between the tested AI methods, SVM and GRNN performed best as shown by a low mean
+absolute percentage error and a very high correlation coefficient. This research shows
+promising use for AI methods in estimating production rate from each layer in a multilayered
+gas reservoir.

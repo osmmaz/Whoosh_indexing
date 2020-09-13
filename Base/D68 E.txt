@@ -1,0 +1,15 @@
+Determination of hydrocarbon saturation is the vital parameter in oil reserve calculation
+processes. Archie’s formula is the water saturation model for the determination of
+hydrocarbon saturation. In carbonate rocks, Archie’s parameters become more sensitive
+to pore system distribution and lithofacies properties. Consequently more attention must
+be paid to the accuracy of Archie’s parameters in carbonate rocks. Uncertainty in these
+parameters will lead to non acceptable errors in the water saturation values.
+In this study three techniques are presented to determine Archie’s parameters using
+carbonate core samples. These techniques are; conventional technique, CAPE technique
+and 3D technique. The objective of this study is to calculate and analysis the Archie’s
+parameters in order to get the accurate water saturation. Water saturation profiles, using
+Archie’s parameters determined by the three techniques, have been produced for the
+studied section in the well. These profiles have shown a significant difference in water
+saturation values. This difference could be mainly attributed to the uncertainty level for
+Archie’s parameters from each technique. Error analysis of these methods has been applied to adopt the suitable determination technique to better evaluation of Archie’s
+parameters.

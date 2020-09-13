@@ -1,0 +1,20 @@
+Many researches have been conducted regarding the degradation of p Cresol using
+electrochemical oxidation process, and that method has recently achieved considerable success.
+This is mainly due to its higher removal efficiency and lower cost compared to other treatment
+methods. However, the process has experienced some difficulties, mainly due performance of
+the electrode material used in the process. The main objective of this study is to investigate the
+degradation of p Cresol in industrial wastewater by electrochemical process, using 4 types of
+electrodes (stainless steel, aluminum. Graphite and diamond), synthetic industrial wastewater
+was used on this study with deionized water as a base solvent. In final stage raw water used as
+base solvent of the synthetic wastewater to study the effect of the electrodes material on the
+process (one experiment for each electrode). And finally the polarization effect of the
+electrodes on the process was studied. A lab scale experimental reactor was used to carry out
+the electrochemical oxidation of p Cresol. The results showed that 20 mA/sq cm was found to
+be the optimum current realized in this Study, There were considerable difference among the
+electrodes in their effectiveness And performance, It was found that the highest removal of p 
+Cresol was achieved by Diamond, graphite, followed by stainless steel while aluminum
+electrode doesn’t show Any removal. The optimum polarity time is 30 seconds, in addition
+polarization increases the removal percentage, and reduces time of treatment. It was found that
+the commercial aluminum electrodes is not suitable to remove p Cresol. The findings of this
+study are expected to contribute in solving the p Cresol degradation problem and enhancing the
+environmental efforts to remove p Cresol from the Industrial wastewater.

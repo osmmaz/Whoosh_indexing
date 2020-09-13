@@ -1,0 +1,18 @@
+Laser heating finds wide application in industry due to its precision of operation and
+local treatment. Since the laser machining is involved in complex physical processes,
+the modeling of laser induced heating gives insight into the physical processes involved.
+Moreover, model studies reduce experimental cost and provided parametric data for
+heating optimization.
+Laser non conduction limited heating is involved with phase change processes, i.e.
+melting and subsequent evaporation. Depending upon the laser pulse intensity and
+the profile, partial melting or partial evaporation can take place in the substrate
+material irradiated by a laser beam. The region where partied phase change occur
+can be identified as a mushy zone in the substrate material. When modeling the
+non conduction heating process, mushy zone should be taken into account. In the
+present study, pulse laser heating o f metallic substrate is considered. The governing
+equations of heat transport pertinent to conduction and phase change processes are
+presented. Since, the heating model is involved with a two dimensional axisymmetric
+heating, analytical solution to the problem is almost impossible; consequently, a
+numerical scheme employing a control volume approach is introduced to solve the
+governing equations o f heat transfer. The thermal stress fields in the region irradiated
+by a laser beam is modeled and transient behavior of stresses are obtained.

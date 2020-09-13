@@ -1,0 +1,12 @@
+This thesis presents a new production scheme to produce high water cut wells from
+mature oil fields called Cyclic Production Scheme. This scheme is applied as a first field
+trail in the world in one of Saudi Aramco mature oil fields. The field trial under Cyclic
+Production Scheme is illustrated thoroughly in this paper.
+A conceptual simulation model using ECLIPSE is built to assess reservoir performance
+under the Cyclic Production Scheme. Three simulation models are considered:
+Homogenous, Layered and Heterogeneous. The simulation results show commonly the
+advantages of Cyclic Production Scheme over regular production as follows:
+1. Significant reduction in cumulative water production up to 50 .
+2. Slight improvement in cumulative oil production up to 5 .
+3. Slight reduction in cumulative water injection up to 6 .
+4. Small increase in average reservoir pressure by about 70 psi.

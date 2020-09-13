@@ -1,0 +1,23 @@
+The synthesis of high silica medium acid MFI zeolites in the laboratory was
+successfully achieved by using the rapid crystallization method. These zeolites with
+medium acidic strengths are good catalysts for the MTBE synthesis. The synthesized
+samples were characterized by FTIR, X ray diffraction technique and thermal
+analysis. It was found that these catalysts are 100  crystalline. The catalyst to 1 M
+NH4NO3 solution ratio of lg: 150 ml, a temperature of 80 °C and a duration of 1 hour
+were found as optimum conditions for ion exchanging process. The modification of
+the commercial Y zeolite by impregnation with barium oxide was successful.
+However, the modification of the same catalyst by dealumination requires more
+investigation in the range of 0.1 0.5 M HC1. Characterization of some commercial,
+synthesized and modified zeolite catalysts in terms of their acidity was accomplished
+using: (1) TPD of ammonia, (2) FTIR of adsorbed pyridine and (3) XPS of adsorbed
+pyridine. It was found that the TPD of ammonia is the most versatile technique in
+investigating the acidic properties of the different catalysts employed in this study.
+Three different cells were designed and used for conducting the FTIR study
+efficiently. The catalytic performance for the MTBE synthesis over some selected
+catalysts was evaluated. The reaction of isobutene and methanol to produce MTBE
+was carried over commercial HY zeolite, Ba modified HY zeolite, commercial Tisilicalite,
+commercial HZSM 5 and laboratory synthesized high silica MFI zeolites.
+The MTBE reaction was studied in a fixed bed tubular reaction system. Experiments
+were carried out under atmospheric pressure at various temperatures, space velocity
+of 32 h r 1 and methanol to isobutene ratio of 2. The temperature was optimized to
+100 °C with the highest percent yield of MTBE.

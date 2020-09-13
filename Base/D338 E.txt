@@ -1,0 +1,11 @@
+A decentralized model following approach to design a suboptimal
+controller for large Interconnected dynamical systems Is considered. The
+system is assumed to be subjected to an input disturbance. Interactions
+betw een subsystems are represented by a reduced order model. Gain
+param eters of the decentralized controller are independent of the initial
+conditions.
+A modified decentralized model following controller is also
+developed and compared w ith the previous approach through an illustrative
+example. The im plem entation of the developed controller is simpler than the
+first approach. The resulting controller can be easily implemented using
+microprocessors.

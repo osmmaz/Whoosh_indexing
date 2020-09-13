@@ -1,0 +1,19 @@
+In this research work we developed a highly sensitive analytical Laser Induced Breakdown
+Spectrometer to detect toxic elements in commercially available cosmetic products. These
+products are frequently used by many all over the world, therefore there is an increasing demand
+to determine concentration levels of toxic elements present in them because they cause
+dangerous diseases and most of them are highly carcinogenic and life threatening. Laser Induced
+Breakdown Spectroscopy (LIBS) was applied for spectroscopic analysis of cosmetic products
+such as tooth paste, synthetic hair dye, kohl eyeliners and talcum powder samples. These
+samples were purchased from the local market within the kingdom of Saudi Arabia. The LIBS
+method is based on spectroscopic analysis of plasma resulting from the interaction of a high
+power pulsed laser radiations with a sample medium. In order to improve the sensitivity of the
+spectrometer, the dependence of the LIBS signal intensity and plasma parameters such as
+temperature (T) and electron density (ne) on gate/time delay, laser fluence and wavelength of the
+excitation source for plasma generated under ambient conditions were studied. During this work
+Nd: YAG lasers having 266nm, 532 nm and 1064 nm wavelengths operating in Q switch mode
+were used as the excitation sources in combination with a spectrograph having a gated ICCD
+camera. Boltzmann plots and stark broadening for the recorded spectral lines were used to estimate the plasma temperature and electron density respectively. Temporal evolution of the
+plasma temperature and electron density showed a t 2 dependence. On the other hand plasma
+temperature and electron density increased with increase in laser fluence but leveled off at higher
+fluencies.

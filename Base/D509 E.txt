@@ -1,0 +1,17 @@
+Flow injection analysis is based on the injection of a liquid sample into a moving, non
+segmented, continuous barrier stream of a suitable liquid. The injected sample forms a
+zone transported toward a detector that continuously records a physical parameter such as
+absorbance, electrode potential. The system consists of a pump to propel carrier stream
+through a tube of certain length and diameter, an injection port from where the welldefined
+volume of a sample is injected into a carrier stream. A reactor in which the sample
+zone disperses and reacts with carrier stream a detector that senses forming species and a
+recorder.
+The detector is the heart of the system that gives the analytical signals related to the
+concentration. Among them the optical detectors especially spectrophotometric ones are
+the most commonly used. However for the spectrophotometric detectors, the detection is
+limited to the formation of colored complexes. Although electrochemical detectors are
+also widely used it is first time that differential electrolytic potentiometric detector was
+introduced in flow injection analysis.
+The purpose of this work is to check the applicability of the polarized solid electrodes as
+detectors in the flow injection analysis and to investigate the parameters that are involved
+such as flow rate, current etc, in several types of reaction systems

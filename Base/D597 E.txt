@@ -1,0 +1,10 @@
+Algorithm based fault tolerance has been proposed as a technique to detect incorrect
+computations in multiprocessor systems. In algorithm based fault tolerance, processors
+produce data elements that are checked by concurrent error detection mechanisms. Error
+detecting codes are designed to detect errors with a degree of detectability left to the end
+user. In this thesis, v/e propose new 3 ED (3 Error Correcting) codes that are more efficient
+than the 3 ED codes currently available in the literature. We also study lower bounds for
+t ED codes, and propose a general f ED codes construction. In addition, we introduce a
+new family of codes: single error locating / double error detecting (1 EL/2 ED) codes, for
+which a general construction is proposed. The proposed codes are compared with codes
+found by computer search to verify optimality.

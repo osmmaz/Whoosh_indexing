@@ -1,0 +1,16 @@
+The variation in the composition with the depth in hydrocarbon reservoirs has
+been observed by technologists in oil industry. This variation, in several cases,
+was a result of gravity forces. The concentration of the lighter components tend
+to be more towards the top of the reservoir and the concentration of the heavier
+components tend to be more towards the bottom of the reservoir. Several
+authors suggested some algorithms to predict this variation. These algorithms
+were used as a tool to investigate reservoir continuity and determine the gas oil
+contact (GOC) depth.
+In this study, the technique of compositional gradient calculations is used in a
+real field data for one of the Saudi gas condensate reservoirs to address the
+reservoir continuity and investigate the possibility of having a GOC in the
+reservoir. The study showed that the reservoir is not continuous and there is no
+GOC in the reservoir. Also the results were supported by reservoir geology 3 0
+seismic that showed faults in the area of interest. The findings of this study are
+essential for the development of such reservoir since a gas cycling project will
+be needed to maximize the condensate recovery.

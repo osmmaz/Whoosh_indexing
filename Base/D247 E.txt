@@ -1,0 +1,12 @@
+In the past two decades, model predictive control (MPC) technology has gained its
+industrial position in refinery and petrochemical industries and is beginning to attract
+interest from other process industries. Model development remains by far the most
+critical and time consuming step in implementing industrial MPC. Conventionally,
+models are identified through a series o f single variable open loop step tests. Overtime
+these models change due to a number o f reasons such as change in operating
+conditions, instability o f the process, drift in process and environmental conditions.
+This causes control performance problems. For this reason, multivariable closed loop
+identification is proposed for MPC. Identification techniques based on autoregressive
+moving average (ARMA), state space and neural network models are investigated.
+These techniques are tested through computer simulations and ultimately on field data
+from an industrial process. Direct Identification method is employed for this purpose.

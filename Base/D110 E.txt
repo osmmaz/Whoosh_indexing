@@ -1,0 +1,20 @@
+Galois fields are used in innnamns applications like Recd Solomon (RS) codes, digital
+signal processing (DSP) (rad cryptology. Thera is a need for efficient multiplication
+and division methods that can be cushy realised on VLSI chips. Massey and Omura
+have recently developed a new multiplication (dgorithm for Galois fields based on the
+normal basis representation. A new bit serial modified Massey Omnra multijdier is
+developed in this thesis to compute multiplications over GF{2'“) In contrast to the
+existing multipliers, this new multiplier requires the 'minimum chip area. A serial in
+senal ont. systolic array is presented for performing element inversion with standard
+basis represented. The architecture is highly regular, modular and nearest 'neighbour
+connected.
+Furthenn.orc. a systolic architecture for an R S encoder, bused, on Cauchy representation
+of generator matrix of the code, is presented, consisting of r + 1 cells,
+where r is the redundancy of the code. This encoder is systematic, does not require
+any feedback or other glolxd sigmds. Its cells are of low complexity and it. is easily
+reconfigurable for variable redundancy and changes in the choice of the generator
+polynomial of the code, the architecture is suitable for very high speed, applications.
+Finally, a systolic array of an RS decoder, is presented. Systolic array architectures
+are derived for the various steps including syndrome calculation, key equation
+solution and error evaluation. The inr/riovcmcufs over existing systolic implementations
+are discusst/l.

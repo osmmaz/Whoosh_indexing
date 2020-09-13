@@ -1,0 +1,19 @@
+Complexity of IC design test at nanom eter scale integration has increased tremendously.
+Scan based design test strategy is the m ost widely used solution to achieve
+the high level of fault coverage desired fo r such complex designs, in particular for
+the SoC based design paradigm. However, test data volume, test application time
+and power consumption have increased proportionately with integration scale and so
+has, ultimately, the cost of test. Scan based test alone does not offer much fo r these
+problems. Test data compression techniques have been increasingly used recently to
+cope with this problem. This work proposes an effective reconfigurable broadcast scan
+compression scheme that employs partitioning and relaxation based test vector decomposition.
+Given a constraint on the number of tester channels, the technique
+classifies the test set into acceptable and bottleneck vectors. Bottleneck vectors are
+then decomposed into a set of vectors that meet the given constraint. The acceptable
+and decomposed test vectors are partitioned into the smallest number of partitions
+while satisfying the tester channels constraint to reduce the decompressor area. Thus,
+the technique by construction satisfies a given tester channels constraint at the expense
+of increased test vector count and number of partitions, offering a tradeoff between
+test compression, test application time and test decompression circuitry area.
+Experimental results demonstrate that the proposed technique achieves significantly
+higher test volume reductions in comparison to other test compression techniques.

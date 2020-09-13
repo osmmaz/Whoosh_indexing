@@ -1,0 +1,22 @@
+Multiwalled carbon nanotubes (CNTs) have been used with polymers from date of
+their inception to make composites having remarkable properties and materials. In
+this work, the nanocomposites were prepared by blending the CNTs with high density
+polyethylene (HDPE) using brabender mixing machine at various loadings (1 wt , 3
+wt , and 5 wt ). The blending was repeated for the surfactants (CNTs/COOH,
+CNTs/C18, and CNTs/PHENOL). The surface morphology of CNTs and their
+functional groups were characterized using Fourier Transform Infrared (FTIR) and
+Scanning Electron Microscopy (SEM). A significant improvement on mechanical
+properties of HDPE/CNTs nanocomposites were observed by increasing the loading
+of raw and functionalized CNTs. From thermal analysis study, it was found that the
+melting and crystallization temperatures of the composites are slightly affected by the
+addition of raw and functionalized CNTs. However, clear enhancements on the
+degree of crystallization of the nanocompopsites by adding 1 wt  of CNTs while
+further increase in the amounts of raw and functionalized CNTs caused a clear
+reduction in the degree of crystallization. From rheological characterization, the
+complex viscosity was lowered at 1wt  loading and increased with addition of
+xv
+raw and functionalized CNTs. Likewise, the storage modulus (G') was found to be
+increased in all the nanocomposites with the increasing in the CNTs contents. The
+corresponding increase in the loss moduli (G'') in all HDPE nanocomposites is much
+lower than for the storage moduli and there is no evidence for the formation of a
+plateau.

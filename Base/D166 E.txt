@@ -1,0 +1,20 @@
+First arrival auto picking has become very important, especially with the increase of
+acquired field data. Coppens (1985) proposed to use the energy ratios over receiver
+or offset gathers, rather than trace amplitude in the shot gather, in order to pick the
+first arrival times.
+Seismic data must be subjected to preconditioning processing to minimize noise and
+to stabilize the first arrival for picking. Narrow band pass filtering and amplitude
+balancing are needed to precondition the seismic data.
+In this thesis, I establish a new method for estimating the first arrival time. This
+method outputs three values from the energy ratio curve: Max., Min., and threshold
+percentage from the Max. toward the Min. The threshold percentage depends on the
+noise prior to the first arrival because the slope of the energy ratio curve is affected
+by the noise.
+The result of manual picking shows problems in the stack caused by picking the
+wrong refractors. In noisy areas, manual picking could easily mislead the processor
+because of mixing the first arrival with other arrivals.
+The auto picking method shows encouraging results over the tested area. The three
+steps for auto picking of the first arrival are the following: converting the amplitude to
+energy ratios, auto editing, and posting the picks into the shot gathers for quality
+control. A Voxel geo package was used to manually pick the first arrival. Another
+software package called the GLI static refraction package was also used.

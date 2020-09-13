@@ -1,0 +1,25 @@
+Acetylene hydrogenation and formation of coke deposits were investigated on a
+gold catalyst supported on  gold supported on alumina magnisia mixed oxide
+xviii
+The catalytic activity and selectivity towards ethylene and other products were
+investigated at different reaction temperatures. Acetylene hydrogenation was investigated
+in the presence and absence of ethylene in stream. It is investigated that the adsorption of
+the triple bond is preferred over the double bond and during selective catalytic (SCR) of
+C2H2 the two hydrocarbons do not compete for the same adsorption sites. The deactivation
+of catalysts was studied by temperature programmed oxidation (TPO). Higher content of
+coke over  catalyst was investigated in contrast to the other catalysts in
+which the basisity of magnesia alumina supports could have played an important role in
+inhibiting the acidic carbon formation by possessing smaller number and or weaker acid
+sites. Metallic gold nanoparticles supported on Al2O3 and magnesia alumina mixed
+oxide, with different magnesia content have been prepared by sol gel method and
+characterized by different techniques (inductive coupled plasma mass spectroscopy (ICPMS),
+XRD, BET surface area analysis, transmission electron microscopy (TEM), CO2 and
+NH3 temperature programmed desorption (TPD), H2 temperature programmed reduction
+(TPR) and FTIR of adsorbed CO2). Such systems were found to produce catalysts with
+controllable acidity, varying from catalyst possessing large density of acidic and low
+density of basic sites, others with acidic and basic sites of equal strength and density, and
+others with large basic and low acid sites densities, respectively. The catalytic assessment
+of the generated acidity was carried out using 2 propanol decomposition as a test reaction.
+The results obtained indicate that the presence of magnesia and reduced gold
+nanopartilces has imparted the catalysts, 
+with significant base catalytic properties.

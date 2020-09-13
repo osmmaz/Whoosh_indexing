@@ -1,0 +1,14 @@
+Plant wide oscillation assessment is one of the key research areas in process
+control plants. Performance monitoring and control can impact huge economical benefits
+to the industry as the competition and automation advances more. This work presents a
+methodology for detection and diagnosis of plant wide oscillations. The proposed
+methodology is based on routine operating data and detects the problematic control loops
+by improved spectral factorization based on Genetic Algorithm (GA) search technique.
+The advantage of proposed GA based factorization lies in its ability to search the solution
+space globally. The proposed technique (GA based factorization), along with existing
+techniques (Independent Component Analysis and Non negative Matrix Factorization),
+are tested on two industrial case studies. Performance comparison of GA based
+factorization with that of ICA and NMF verifies the improved and efficient results of the
+proposed method for plant wide oscillation detection. Higher order statistics (HOS) is
+used to identify the reasons behind the poor performance of the loops detected as root
+causes of plant wide oscillations.

@@ -1,0 +1,21 @@
+In this thesis, we address the problem of automatic processing of Arabic handwritten
+checks. We proposed techniques for automatic extraction of courtesy and legal amounts
+and Arabic handwritten digits and courtesy amount recognition. Real data from
+CENPARMI Arabic check database is used. For automatic extraction of courtesy and
+legal amount fields, we used image dilation, horizontal and vertical projections, and
+image registration. We achieved extraction rates of 100  and more than 91  for
+courtesy and legal amounts, respectively. More emphasis is given to Arabic handwritten
+digits recognition. Novel structural features that are based on the structure of Arabic
+digits are proposed for automatic recognition of Arabic (Indian) bank check digits. In
+addition, a rule based classifier is implemented. Support Vector Machine (SVM),
+LogitBoost, and RandomForest classifiers are used in this work. Classifiers’ fusion with
+majority voting is used with and without the rule based classifier. Recognition rates of
+98.95  and 99.08  are achieved using fusion of the statistical classifiers alone and with
+the rule based classifier, respectively. The achieved recognition rates outperform the
+published work using the same database. The experimental results indicate the
+effectiveness of the structural features and the rule based classifier for recognizing
+Arabic digits. The proposed technique for automatic recognition of courtesy amounts has
+four main phases: preprocessing, delimiters detection, commas detection, and digits recognition. Through experimentations, the proposed technique has demonstrated
+promising performance. In addition, the proposed technique can be further extended. To
+the best of our knowledge, our work is the first to tackle this problem on the given
+database.

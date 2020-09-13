@@ -1,0 +1,9 @@
+Automated recognition o f sign language greatly facilitates communication with deaf and
+non vocal people. It is also important for the development o f human machine interface.
+This thesis proposes a system for automatically recognizing Arabic Sign Language using
+an instrumented glove as an interfacing device and the support vector machine algorithm
+as a classification algorithm. The instrumented glove used is the PowerGlove, which is
+chosen for its availability and low cost. The support vector machine algorithm is chosen
+because it is a relatively new approach to machine learning and because it has many
+attractive features compared to competing approaches. Promising results were obtained
+using the approach presented by this thesis.

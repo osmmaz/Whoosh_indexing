@@ -1,0 +1,25 @@
+A computer program for simulating 3 D room ventilation problems is
+described and employed to predict the mean air temperatures and velocities for a
+number of realistic supply air inlet and outlet locations. The program,
+TEACH 3D, solves the steady state conservation equations of mass, momentum
+and thermal energy using a finite difference scheme, based on the control volume
+approach. Due to the nature of turbulence, encountered in this research, the k  e
+turbulence model was selected to transform the open form of the governing conservation
+equations to closed form. The SIMPLE scheme was employed in the numerical
+code to handle the velocity pressure link. The flow field predicted by the
+numerical code are supported by experimental measurements done by others.
+To decide on the effect the geometrical locations of the inlet and outlet has on
+comfort, the computed results are translated into PMV indices over the entire
+j occupied zone of the room. The PPD is also employed to render judgement on the
+iI human thermal comfort response, such that if the PPD is less than 20 , then comfort
+is claimed to be attained. In addition to varying the inlet and outlet locations,
+the supply air temperature and velocity has also been varied for a particular
+! arrangement in an attempt to achieve thermal comfort.
+i
+I Out of the four different arrangements of supply and exhaust ports investii
+gated here, the one having the inlet on the floor near the West side wall and the
+I
+| outlet on the ceiling near the East side wall satisfied occupancy thermal comfort.
+! While the arrangement least achieving thermal comfort of the occupants is the one
+| having the inlet on the ceiling near the West wall and the outlet on the East wall
+| adjacent to the floor.

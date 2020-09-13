@@ -1,0 +1,14 @@
+An entropy constrained reflected residual vector quantization (EC RRVQ) design
+algorithm is introduced as an alternative to entropy constrained residual vector quantization
+(EC RVQ) and used to design codebooks for image coding. EC RRVQ is able
+to realize a more ordered or less random codebook, that offers two advantages. The
+first is that an ordered codebook have lowe outptrt entropy while the second has to do
+with simplifying the search procedure used to find the best codeword. The idea discussed
+in this work is to introduce EC RRVQ as a new baseline quantization scheme
+with single path search and improved rate distortion performance, which if joined
+with other transform, and subband coding methods will result in a competitive design.
+Because of single path search, the EC RRVQ has the potential to be a serious
+contender in the list of large block vector quantization implementation algorithms.
+Experimental results indicate that good image reproduction quality can be accomplished
+at relatively low bit rates. The performance of 16 x 16 EC RRVQ at 0.2 bpp
+is 29 dB as compared to 28.39 dB for EC RVQ with same dimensions and bit rate.

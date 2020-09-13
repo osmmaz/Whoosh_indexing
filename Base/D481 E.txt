@@ -1,0 +1,18 @@
+Ground Penetrating Radar (GPR) is considered as one of the advanced Non Destructive
+Testing (NDT) methods with many applications. In this method, electromagnetic wave is
+transmitted into materials’ surfaces then the reflected signals are interpreted to know the
+materials properties and their internal content. However, one of the limiting factors of the
+GPR usefulness is the difficulty associated with received signals interpretation. For GPR
+system to be effective, there is a need to understand the contribution of different materials
+properties on the EM wave propagation to extract reliable information from the received
+signals. The interpretation errors can be minimized once a reliable GPR simulation
+system with precise materials models is used.
+In this thesis, we develop an advanced GPR simulation system using the general
+polarization FDTD ADE algorithm. The developed algorithm is capable of simulating
+two and three dimensional GPR signal propagation through lossy, electric and/or
+magnetic dispersive or non dispersive materials. The developed algorithm was validated
+against previous developed algorithm and analytical solution with excellent agreement.
+Several cases for different dispersive systems with recent material models were
+presented.The extracted simulation results were processed using Time Frequency
+analysis. General characteristics features have been identified for different wet soil
+moisture percentages.

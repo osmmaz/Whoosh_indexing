@@ -1,0 +1,19 @@
+The thesis discusses the effects of faulty design and construction factors on
+maintenance. A survey o f 90 construction and maintenance contractors, 30
+designers and 20 owners was conducted.
+The survey included 67 different faulty factors and their degree o f
+importance. The severity factors o f these factors were measured by their level o f
+importance and were ranked according to the severity index for the combination o f
+all respondents, contractors, consultants and owners.
+The severity o f the faulty factors were analyzed statistically using the SAS
+mainframe computer package. These defect factors were obtained from interviews
+and discussions with contractors, consultants and owners.
+The research includes a hypothesis that "contractors, consultants and
+owners generally agree on the ranking of severity indices" which was tested and
+shown to hold true. It was concluded that Inadequate Structural Design ,
+Unqualified Staff , Wrong Selection of Material, and Non Compliance with
+Specification, are the most severe factors. Also, it was noted that contractors gave
+the most actual responses, followed by consultants then the owner. This reflects
+their true involvement and awareness of faulty factors that increase maintenance.
+Finally, in order to minimize maintenance defects and expenditure, a set o f
+recommendations are made and topics for future research are suggested.

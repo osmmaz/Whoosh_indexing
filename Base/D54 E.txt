@@ -1,0 +1,14 @@
+Adaptive equalizers are used in most modem communication systems to compensate
+for channel distortion in order to achieve reliable data transmission. Quite a steady
+research in this field has been made in the literature for over the last four decades
+and still remain a subject of ongoing investigation. This thesis present adaptive
+equalization scheme using a new power of two quantizer algorithm. The new algorithm,
+which is non mean square based, provides a simplification to least mean
+fourth (LMF) algorithm and also addresses the non optimal performance problem of
+power of two quantizer based least mean square (LMS) algorithm when used in non 
+Gaussian environment. From the moment based analysis of the LMF algorithm,
+we outline the basic idea behind the development of this new algorithm as well as
+the necessary assumptions and identifiable conditions required for its convergence
+behaviour. Derivations of pertinent parameters and the convergence analysis of the
+new algorithm are presented and the result of simulation carried out verifies the theoretical
+predictions.

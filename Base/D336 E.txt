@@ -1,0 +1,15 @@
+Thinly laminated formations, composed of sand shale sequences, refer to beds of
+thickness that are below the vertical resolution of standard formation evaluation log
+measurements. These thinly bedded formations could be significant hydrocarbon
+reservoirs particularly in turbidite or fluvial depositional environments, which are usually
+showing mixture of fine and coarse grains.
+Standard formation evaluation methods using conventional logs (Gamma ray formation
+resistivity Neutron and Density) in the thinly bedded formations overestimate the volume
+of clay (VCL) and underestimate porosity and hydrocarbon saturations.
+Advanced analyses are required to fully characterize and evaluate the property of thin
+beds and to obtain improved hydrocarbon estimations. Such analyses are provided by the
+Laminated Sand Analysis (LSA) techniques that use data including Wireline Nuclear
+Magnetic Resonance (NMR), Resistivity Borehole Images and Triaxial resistivity logs.
+In the Thesis I worked out two case studies, in fluvial and turbidite environments, in
+order to better evaluate thinly bedded intervals within clastic reservoirs. I applied LSA techniques in these two case studies in which the formation evaluation was computed and
+compared with the standard formation evaluation using conventional logs.

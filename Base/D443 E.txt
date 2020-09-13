@@ -1,0 +1,21 @@
+Laminated composite plates are important elements in different structural applications
+due to their high strength to weight ratio. They are exposed to several types o f loading
+such as fluid loading. This type o f loading can be widely found in nuclear reactors and
+marine structures. Other type o f loading is the one in which the load is moving. The
+moving load might be a conventional vehicle, a loading airplane, or a tram. Studying the
+combined effects o f the two types o f loading is o f great importance in order to fin d critical
+values o f load velocity leading to significant vibrations, which subsequently lead to some
+annoying or maybe failure problems. In the present work, Liquid loaded laminated
+composite plates are investigated imder stationary and moving loads. Dispersion curves
+are calculated under different liquid loading conditions. Transient normal displacements
+are computed fo r 3, 6, and 12 ply laminated plates at three different locations along three
+main directions, namely, OP, 45° and 90° direction. In addition, Group velocities are
+compared along these directions. For comparison purposes, the response is simulated for
+an isotropic plate at three different locations. Effect o f liquid loading on these responses
+and group velocities is studied. For a single moving load, critical velocities o f the load
+are computed fo r isotropic and laminated plates under different conditions. For double
+moving loads, effects o f phase difference between loads and velocity o f the loads on the
+maximum displacement o f both isotropic and laminated plates are investigated. A higher
+order approximate solution in conjunction with Fourier transforms technique is used to
+model the dynamic behavior o f the plate. This solution is based on the plate bending
+theory, which includes the effects o f transverse shear and rotary inertia

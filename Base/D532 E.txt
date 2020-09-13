@@ -1,0 +1,19 @@
+Coreflooding experiments were performed to stud y the effect of
+injected water sa lin ity on oil recovery. The experiments were conducted
+at a tem perature of 90"C and a net overburden pressure of 1500 psi
+using Berea sandstone core samples and Arabian L ig h t crude oil.
+D iffe re n t concentrations o f NaCI Brines (5500 200,000 m g /l), treated sea
+w ater, Wasia water, and 100,000 (m g/i) synth etic A rab D water were
+used as displacement flu id s .
+As a result of this study , it was found th a t oil recovery increases
+as the injected water s a lin ity increases up to 100,000 (m g /l) .
+Increasing the sa lin ity beyond 100,000 (m g/l) did not give a sign ifica nt
+increase in oil recovery. The increase in oil recovery was found to be
+supported by a decrease in the I FT as a function of water sa lin ity up
+to 100,000 (m g /l), where th e I FT started to increase s lig h tly beyond
+th is s a lin ity . The realtive perm eability ratio (K ro /K rw ) was found to
+increase as the injected w ater sa lin ity increases.
+The Com patibility tests conducted showed th a t when connate Arab D
+water was mixed w ith sea w ater at 90"C , calcium sulphate precipitated.
+However, analysis of the coreflooding effluents did not show any
+incom patibility problems due to injection o f Wasia, and sea waters .

@@ -1,0 +1,34 @@
+The conventional practice of petroleum industry is to formulate oil based mud system
+using No. 2 diesel as the base oil. However, their high toxicity level made them
+unsustainable for using in many environmentally sensitive offshore and onshore locations
+globally. The recent environmental legislation and control restriction of the usages of oilbased
+mud become more stringent in many parts of the world in general, and the
+Kingdom of Saudi Arabia in particular. For instance, a set of regulations called the
+Corporate Regulations for Offshore Drilling Operations in Saudi Arabia established by
+the Royal Decree No. M/9 of November 18, 1987, stipulates that all oil based drilling
+fluids that are designated as toxic fluids, and cuttings must be hauled back to an
+approved onshore disposal site, and that cuttings from oil based mud should be cleaned
+using the best practical technology and then be discharged as close as possible to the sea
+floor. In addition, a recent study shows that the cost to haul a barrel of drilling waste is
+USD 40, and cost of cleaning one pound of oil soaked cuttings is USD 25. Therefore,
+implementation of these regulations will make the overall drilling cost skyrocket. As a
+result synthetic solvent based mud systems are being used in the oil industry for drilling.
+However, these mud systems are not only toxic, but also very expensive too. Hence, the
+development of a sustainable drilling fluid from natural, biodegradable, environmentally
+friendly oils which satisfies both technical and environmental criteria becomes inevitable.
+This study is an account of the development of two mud systems: An oil based mud
+system and a synthetic solvent based mud system. Complete mud check conducted on
+them and a comparison between their properties made. Results of measured parameters
+such as dial readings, plastic viscosity (PV), yield point (YP), Gel strength, high temperature and high pressure (HTHP) filtration loss, electrical stability, and base oil
+ASTM specification tests show that the developed non toxic OBM meets the requirement
+and compares favorably with the synthetic based mud currently being used in offshore
+location in Saudi Arabian waters. This research will have a positive environmental
+impact on the petroleum industry’s current practices which will eventually make a strong
+position of Saudi Arabia globally. The development of an oil based mud from canola oil
+had been carried out using standard additives. Canola oil was chosen for use because it is
+environmentally friendly, non toxic (belonging to a group of oils collectively called
+GRAS), and meets the standard specifications required of any oil to be used as a base oil
+for the formulation of an oil based mud. Laboratory results indicate that canola oil can be
+used as base oil for OBM formulation. Formulated canola oil based OBM also compared
+favorably with a synthetic OBM system in terms of rheology, stability, quantity of
+additives used, and level of toxicity. 

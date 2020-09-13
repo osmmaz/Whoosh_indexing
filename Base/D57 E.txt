@@ -1,0 +1,10 @@
+The Internal Model Control (IMC) structure is composed o f the explicit model o f the
+plant and a stable feed forward controller. The major task for the IMC design is to fin d a
+precise model o f the plant. In this work, Takagi Sugeno fuzzy modeling is used to
+approximate nonlinear systems. Modeling by linearization is employed at certain
+operating points and separate local linear models are obtained. The Takagi Sugeno fuzzy
+model is constructed to fuzzily switch among the local linear models. In order to obtain a
+more precise model, a normalized least mean square algorithm is added in parallel to the
+fuzzy model to adaptively quantify for the model mismatch. An adaptive inverse control
+concept using adaptive finite impulse response (FIR) filters has been used to implement
+the feedforward controller part o f the IMC structure.

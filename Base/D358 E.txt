@@ -1,0 +1,12 @@
+Graphics modeling is an essential part of computer graphics that plays a vital
+role in many applications. Existing graphics modeling systems don’t offer sufficient
+flexibility to the end user (the designer) at different levels of abstraction. Our
+goal is to design a graphics modeling system that raises the level of interaction to
+the application level. To achieve this goal, we developed various techniques that
+enhance the modeling process. The object orientation methodology was adopted
+and incorporated with a hierarchical modeling scheme that supports bottom up
+construction and top down decomposition. The modeling process was enhanced
+further by supporting the manipulation of constraints on object attributes which
+automates satisfying system requirements. Based on these techniques, a 3D graphics
+modeling system was designed. A subset of the design was implemented on the
+NeXTStep platform to help in testing and developing the introduced techniques.

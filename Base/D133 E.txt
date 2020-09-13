@@ -1,0 +1,11 @@
+Reputation assessment is particularly needed in peer to peer systems because peers
+can have conflicting interests and their autonomy is amplified by the inherent decentralization
+of the environment. However, the lack of centralization makes it more
+difficult to perform reputation assessment. Existing reputation systems tackle the
+reputation assessment process in an ad hoc manner. In this thesis, we propose a reputation
+assessment process and use it to classify the existing reputation systems. The
+process consists of three main components, namely, recommendation retrieval, recommender
+filtering, and recommendation evaluation. We present performance metrics
+for the components in the process and conduct simulation experiments to evaluate
+different techniques of reputation assessment in predicting the reputation of a target
+peer while minimizing the overhead cost.

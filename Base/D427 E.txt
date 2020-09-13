@@ -1,0 +1,12 @@
+In CDMA systems fine synchronization of the incoming and local spread spectrum signals
+is crucial for overall system performance. The Delay Lock Loop (DLL) has been
+traditionally used to achieve this. In the present study two different DLL architectures are
+considered: the non coherent DLL and the RAKE like combining DLL. An extensive
+study of DLL performance using analytical techniques is undertaken. The analysis takes
+into account realistic channel conditions such as multipath fading and multiple access
+interference. Quadrature phase spreading is considered in accordance with current
+3G/UMTS standards. The statistics for the residual tracking error are obtained for various
+channel conditions such as low and high SNRs, Rayleigh and Rician fading models, and
+for various levels of multiple user interference. Finally, the analysis is applied to
+positioning scenarios in a cellular network, where the accuracy of the signal time of arrival
+(ToA) measurements between the Mobile and Base Stations plays a fundamental role.

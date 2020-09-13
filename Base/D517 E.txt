@@ -1,0 +1,9 @@
+The Euclidean Traveling Salesman Problem (E TSP) is one of the important NPcomplete
+problems that has many applications in real life. In this thesis, we propose an
+Enhanced Convex Elastic Net technique that combines an adaptive type neural network
+model and an iterative algorithm for solving E TSP. The main advantage of this
+technique is that it can be implemented in parallel architecture which is potentially faster
+than sequential architecture. The simulation results performed have shown that the
+proposed technique yields a sub optimal solution that compares favorably with several
+known techniques such as Guilty Net, Hopfield and Tank Model, Elastic Net, and
+Simulated Annealing.

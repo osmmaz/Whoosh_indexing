@@ -1,0 +1,19 @@
+A lloy 800H T is a heat resistance m aterial that is used in high temperature industrial
+applications such as steam/hydrocarbon reforming and ethylene plant tubes. Long
+time exposure under these sendee conditions cause the alloy to undergo
+m icrostructural changes. The alloy, in fact, is subjected to an in sendce aging
+process. These in service m icrostructural changes, thus, among other effects, are
+expected to have a pronounced effect on the fatigue strength o f this alloy. This study
+explores the effect o f the aging treatment on the fatigue strength o f alloy 800 HT. Insendce
+aging induced m icrostructural changes are simulated by pre aging the alloy
+specimens p rio r to fatigue testing. This study has revealed that the inter granular and
+intra granular precipitates, form ed during the aging treatment, have a significant
+effect on the fatigue resistance o f the alloy.
+High temperature aging is observed to promote the form ation o f coarse grain
+boundary, twin boundary as well as intra granular Mz.iCf, type precipitates. These
+precipitate particles were also observed to reduce the alloy fatigue strength by
+prom oting the fatigue crack initiation and propagation. Compared to the temperature
+effect, the aging time is observed to be not as effective in influencing the material
+fatigue strength. M icrostructural examinations have also revealed that fatigue cracks
+were predominantly trans gratudar in the crack initiation and propagation regions,
+and with rough surfaces f o r the high temperature aged specimens.

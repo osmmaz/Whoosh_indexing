@@ -1,0 +1,15 @@
+With the increasing accessibility of high performance computing power to engineers
+in the recent years, we need methods to utilize this power to help in the generation
+of optimal industrial designs. For this purpose, a constructal algorithm has been
+implemented. Constructal theory is a new way of searching for the optimum geometry
+of a flow system. The constructal principle says that the form of a system is a
+result of a struggle for better performance amongst the existence of constraints on
+the system. Different systems need different constructal configuration searches based
+on their performance objectives and constraints. In this work, the numerical optimization
+method called the Coordinate Search Method has been made use of in order
+to perform the constructal configuration search to find the optimal heat conducting
+channel design on a disc. This work serves as the first step in the development of
+a General Constructal Designer Tool where the input to the tool will be the description
+of the flow system and the tool will find the optimal flow configurations for the
+system. This interdisciplinary work makes use of the Coordinate Search Method,
+Constructal Theory, and Heat Transfer concepts.

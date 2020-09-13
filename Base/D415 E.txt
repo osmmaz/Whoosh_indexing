@@ -1,0 +1,17 @@
+Zero length column (ZLC) method is used to determine the intracrystalline diffusivity of
+aromatics in NaY and HZSM5 zeolite crystals and in NaY FCC catalyst pellets. The
+equilibrium region of investigation is nonlinear and the slope of the long time asymptotic
+solution of the nonlinear ZLC model is used to analyze the diffusivity data.
+Diffusivity of 1,3,5 tri isopropyl benzene is greater than 1,3 di isopropyl benzene. The
+desorption curve of 1,3,5 tri isopropyl benzene contains a kink indicating that this
+molecule is possibly cracking into isomers of di isopropyl benzene and propylene. The
+measured desorption diffusivity of 1,3,5 tri isopropyl benzene reactant mixture is
+hypothesized to be the nonlinear co diffusion of isomers of di isopropyl benzene and
+propylene. In pellets diffusion of 1,3 di isopropyl benzene and 1,3,5 tri isopropyl
+benzene is micropore controlled. Diffusivity of 1,3 di isopropyl benzene and 1,3,5 triisopropyl
+benzene in alumina particles is also examined. The alumina particle system has a log normal distribution, equilibrium is nonlinear, and diffusion appears to be macropore
+controlled.
+Diffusivity of xylene isomers in HZSM 5 is also accomplished. The measured and
+reported literature diffusivity values are analyzed assuming a positive concentration
+dependence of diffusion. This results in a satisfactory explanation of much of the
+literature data when extrapolated to a zero loading basis.

@@ -1,0 +1,18 @@
+Adding corrosion inhibitors has been found to be one of the most effective methods in
+preventing corrosion. The corrosion inhibitors are chemical compounds that are added to
+the system to reduce the corrosion rate. The inhibition efficiencies of three novel organic than at flowing conditions but inhibitor (c) showed better inhibition efficiency at flowing
+conditions. Among the three inhibitors, inhibitor (a) showed the best inhibition efficiency
+for all the tested speeds and concentrations. The adsorption of the three inhibitors under
+static and flowing conditions obeyed Langmuir's isotherm for all flow speeds and
+inhibitor concentrations.
+corrosion inhibitors in IN HC1 were evaluated and investigated under static and flowing
+conditions by using a modified rotating disk apparatus. The three new corrosion
+inhibitors were synthesized at the Chemistry Department at King Fahd University of
+Petroleum & Minerals, Saudi Arabia. The effects of flow speeds and concentration of the
+inhibitors on inhibition performance were studied through electrochemical measurements
+including Tafel Plots and Linear Polarization techniques.
+The peak value phenomenon for Inhibitors (a), (b) and (c) were exhibited at inhibitor
+concentration of 100, 25, 25 ppm respectively at static condition. However, at flowing
+conditions the optimum concentration of inhibitor (b) was shifted to 50 ppm while
+increasing the flow speed did not affect the optimum concentrations for the other two
+inhibitors. Inhibitors (a) and (b) showed better inhibition efficiencies at static condition

@@ -1,0 +1,29 @@
+Duplex stainless steels have approximately equal volume fractions of austenite
+and ferrite phases. These alloys are becoming widely used in the oil and gas industry,
+particularly in offshore structures and flowlines, due to their excellent combination of
+mechanical properties and superior resistance to chloride stress corrosion cracking
+when compared to the widely used austenitic stainless grades.
+The present study was aimed to investigate fatigue crack growth resistance of
+duplex stainless steel in a corrosive aqueous solution and to examine the effect of
+chromate inhibition thereof. Fatigue crack growth rates of Zeron 100 duplex stainless
+steel were measured at a stress ratio of 0.1 in three different environments: air, pure
+3.5  NaCl, and chromate (NaaCrCL) containing 3.5  NaCl solution at 1 Hz frequency
+under constant amplitude fatigue loading. Two specimen orientations were considered
+TL and LT. Fatigue crack growth rates in 3.5  NaCl were higher than those in air
+throughout the range of AK tested with greater environmental enhancement in TL
+orientation. Fracture surface examination revealed ductile fracture at low AK and
+ductile fatigue striations at high AK in air for both orientations. At low AK values in
+3.5  NaCl, austenite exhibited ductile fracture while ferrite showed brittle features. At
+high AK values, however, brittle striations in ferrite and ductile striations in austenite
+were observed. Enhancement in fatigue crack growth rates in 3.5  NaCl was attributed
+to hydrogen embrittlement of ferrite phase.
+The effect of inhibition on corrosion fatigue of duplex stainless steel was
+studied at 0.02M and 0.2M chromate concentrations. Inhibition of 3.5  NaCl with
+0.02M chromate reduced corrosion fatigue crack growth rates up to a specific value of
+AK, above which crack growth rates approached those in the uninhibited solution.
+Chromate concentration of 0.2M demonstrated effective inhibition throughout the
+tested range of AK. Scratch tests at constant open circuit potential were performed to
+characterize the effect of chromate concentration on repassivation kinetics of the duplex
+alloy. Chromate inhibition effectiveness during corrosion fatigue was proposed to
+correlate with repassivation kinetics and the crack tip strain rate for a given chloride
+concentration.

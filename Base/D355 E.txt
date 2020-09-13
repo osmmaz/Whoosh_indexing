@@ -1,0 +1,14 @@
+A high performance fault tolerant Asynchronous Transfer Mode (ATM) switching
+fabric architecture called Binary Tree Banyan Network (BTBN) is proposed. It is
+based on two interconnected parallel banyan networks in a binary tree form. Many
+ATM switching fabric architectures are proposed in the literature; however, few of
+them consider both the throughput performance measure and fault tolerance feature in
+the design. Compared to known and recent switching fabric architectures, BTBN has
+demonstrated very low cell loss probability and high throughput under normal
+operation and in the presence o f faulty switching element conditions. In addition, any
+multistage interconnection networks (MIN) such as OMEGA, Delta, Baseline, and any
+topologically equivalent networks can be used in the BTBN switching fabric. BTBN
+requires less transmission latency than the simple baseline network, delivers all input
+cells in the right sequence using simple and distributed self routing algorithm, and
+does not have jitter or Head Of Line (HOL) problems. In addition, BTBN is modular,
+scalable, and can be recursively expanded easily.

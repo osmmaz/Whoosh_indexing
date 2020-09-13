@@ -1,0 +1,22 @@
+This study deals with energy and exergy analyses of crude oil distillation plants. In
+these plants, high degree of irreversibilities (exergy losses) occur. These losses cannot
+be identified by the first law of thermodynamics (energy analysis) only as it is a
+measure of quantity only whereas the second law of thermodynamics (exergy
+analysis) is a measure of quality as well as quantity. Exergy analysis appears to be a
+potential tool to determine the losses. In refinery distillation plants, there are many
+components of interest to be analyzed thermodynamically, e.g. the crude oil heating
+furnace, the distillation column and a network of heat exchangers. The previous
+literature works were mainly concerned with the yield percentage of the distillation
+plant and to some extent the energy efficiency, no detailed work was done using
+exergy analysis. In this study, crude oil distillation plants are modeled and analyzed
+thermodynamically with the aid of simulation software (SimSci/PRO II) to determine
+the energy efficiency, exergy efficiency and irreversibility rate of the individual
+components and the overall system. Effects of temperature profile and pressure profile
+of the distillation columns on the efficiencies and irreversibility rates are illustrated.
+Also, effect of modifying the conventional crude oil distillation plant is studied. Those
+modifications are pump back circuits instead of pump around circuits, adding reboiler
+to the distillation column and two stage distillation columns. Results showed that
+operating conditions are the optimum conditions yielding the highest efficiencies and
+lowest irreversibility rates. Modifying the conventional model lead to an increase up
+to 58  for the system overall efficiency and decreases down to 40  system overall
+irreversibilities.

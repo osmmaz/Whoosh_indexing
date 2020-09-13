@@ -1,0 +1,26 @@
+Pure and Multicomponet equilibrium date are reported for Linde 5A,
+13X and S 115 adsorbents at pressures up to 250 psia and in the
+temperature range of 275 to 350°K. The intrinsic Henry constants are
+extracted from the data using viri@ql isotherm techniques. The pure
+component data are modelled by four simple isotherm (LRC, Toth, Mathews
+and Weber, Jaroniec) and one statistical thermodynamic isotherm
+(Ruthven). The multicomponent form of Ruthven's isotherm is developed,
+and used to model SA and 13X data. The multicomponent Toth model is used
+to model the S 115 data.
+
+For the 5A pellets, the Toth model fits the data for all four
+components. The Ruthven model is best for methane, ethane and propane.
+The four simple isotherms (LRC, Toth, Mathews and Weber, Jaroniec) fit the data for silicalite (S 115) but the Ruthven model is not applicable.
+Only isotherms of methane and propane have been measured for 13X
+zeolite. All models fit the methane data but the propane data is not
+well fitted by any models. Toth, Mathews and Weber and Ruthven model are
+the best.
+
+Binary, ternary and quaternary data sare reported at 300°K and at 50
+and 95 psia. For the SA and 13X pellets these dats are analysed and
+modelled with the multicomponent form of Ruthven's model and the fit is
+reasonable with intrinsic Henry constant for SA and mith optimized Henry
+constant for 13X pellets. The multicomponent Toth model is used to fit
+the multicomponent data for the silicalite pellets and the fit is
+reasonable. Considering equilibrium only the separation of methane is
+greater in silicalite than in 1734 þÍÊý in 5A pellets.

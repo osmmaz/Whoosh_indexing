@@ -1,0 +1,12 @@
+Characterizing the distribution of the sum of lognormal random variables (RVs) is
+still an open issue; it appears in a variety of fields and has been the target objective of
+many papers. In wireless communications, it arises in analyzing the total power received
+from several interfering sources. Recent advances in this field allow for the efficient
+computations of the distribution of a low number of individual RV components or for low
+value of the decibel spread corresponding to the individual RV. This work attempts to
+explore methods that are more efficient and easier in evaluating the distribution function
+for the sum of lognormal RVs. Previous research works in the area of wireless codexiii
+division multiple access (CDMA) data networks have shown that the cell site traffic
+power can be modeled as the sum of RVs that are very similar to lognormal RVs. This
+work also aims to apply the developed computation to the problem of characterizing the
+cell site power for CDMA system.

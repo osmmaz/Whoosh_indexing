@@ -1,0 +1,7 @@
+In this thesis, the flow of fluid and the transfer of temperature varies with time around and inside
+Fluid ball using numerical differences method
+This study is based on the theory of the adjacent layer and the equations of fluid flow were separated from equations
+Heat transfer by determining the values of the velocity and temperature variables at the surface of the ball. Two programs have been designed
+One analyzes the flow of fluid and the transfer of heat around the ball and the other by the analysis inside the ball. it's done
+Use the first program results such as speed and temperature change around the surface of the ball over time as data
+Of the other program

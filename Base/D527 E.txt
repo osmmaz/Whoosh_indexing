@@ -1,0 +1,25 @@
+Poly (ethylene terephthalate) is a semi crystalline polymer, which has applications in
+both semi crystalline and amorphous forms. It is being used extensively in preparing
+molded products. Different processing parameters like pressure and temperature directly
+affect the degree o f crystallinity and the microstructure developed during molding. These
+parameters in turn affect the performance o f the end product.
+In this research work, effect of mold temperature on microhardness and tensile
+properties o f PET, in the temperature range o f 130°C to 204°C, was determined. This
+range was selected based on crystal growth studies and the time required for complete
+crystallization at different crystallization temperatures. It was found that mold
+temperature has appreciable effect on microhardness and tensile properties.
+Microhardness increases linearly with mold temperature. This increase was attributed to
+the increase in crystallinity o f samples and also to the development o f thicker and more
+stable lamellar structure. It was found that most o f the tensile properties correlate well
+with mold temperature. Tensile elastic modulus (ET) and Yield strain (sy) increase with
+mold temperature, Yield stress ( a y) tends to stabilize at 160°C and then increases. Strain
+at break ( 8b ) decreases linearly with mold temperature, whereas, Stress at break ( Ob )
+remained constant at a value of 45 MPa within the mold temperature range of 130°C to
+204°C. In general, most o f the properties were found to correlate well with the
+crystallinity o f the samples, suggesting that crystallinity is one o f the main factors
+influencing the mechanical behavior o f PET, other factors being crystal size and crystal
+thickness. Microhardness o f the PET at different mold temperatures was correlated with
+tensile properties. Linear correlations between microhardness and tensile properties were
+obtained. These correlations are expected to help the PET industry, where they can be
+used to estimate the mechanical properties by simply measuring the hardness o f the
+product.

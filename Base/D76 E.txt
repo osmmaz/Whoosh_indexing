@@ -1,0 +1,24 @@
+Gelled polymers are being applied increasingly as a
+reservoir flow control agent to improve the water to oil
+ratio in water flooding. Having so much data and so many
+methods available in the literature, it is difficult to
+explicitly judge the effect of various parameters on the
+gelation process. Therefore, a mathematical approach for
+determining the relative importance of each parameter and to
+derive the empirical relation between process variables is
+needed. Specifically, the present study examines the effect
+of four parameters on the gelation process. These are the
+polymer type, the initial polymer concentration and redox
+concentration, and the temperature.
+A factorial analysis was carried out to identify the
+influence of each factor on gelation time. Power relation
+was then employed to develop the empirical relation between
+the gelation time and the affecting parameters. To achieve
+this goal, the data available in the literature were studied
+and relevant tables were produced for the factors and their
+responses. Statistical analysis was carried out to identify
+the most affecting parameters, multiple regression analysis
+was employed to relate the gelation time to the affecting
+parameters, and dimensional analysis method was introduced
+to develop the power relations, which were then, utilized
+for the optimization process.

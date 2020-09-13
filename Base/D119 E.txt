@@ -1,0 +1,30 @@
+In this thesis, we have conducted research on off line automatic recognition of
+Arabic handwritten text. Automatic recognition of Arabic handwritten text has many
+applications, like forms processing, postal address and zip code recognition, etc.
+Recognition performance of Arabic handwritten text lags far behind compared to Latin
+and Chinese scripts. Cursive nature of Arabic script, overlapping characters and ligatures,
+presence and variability of dots/diacritics, lack of benchmarking databases are among the
+reasons that make Arabic handwriting recognition a challenging task.
+Research on Arabic handwriting recognition has mainly focused on the
+recognition of isolated characters, numerals and words. Few works have been reported on
+the recognition of Arabic handwritten text. Moreover, statistical methods (like Hidden
+Markov Models (HMM), Neural Networks, etc.) have been more common in the reported
+results on Arabic handwriting recognition. Structural methods have remained largely
+unexplored in this regard. In addition, some recent multi classifier based systems have
+tried to integrate both statistical and structural techniques. We present several novel techniques for different phases of Arabic handwriting
+recognition using a structural approach. We present three segmentation algorithms:
+segmentation of a page into lines, a line into words/sub words and a word into
+characters/graphemes. In addition, we introduce polygonal approximation based
+representation and modeling of Arabic text. The recognition system is based on a
+proposed dissimilarity measure. Polygon based modeling of text, prototype selection
+using set medians, lexicon reduction using dot descriptors etc. are some of the
+techniques that are applied to Arabic handwriting recognition for the first time. These
+techniques are applied to Arabic handwritten isolated characters, digits, words and text
+recognition. Hence, this thesis addresses the lack of research in structural methods for
+Arabic handwriting recognition. In addition, the presented techniques may provide
+alternate sources of information to be utilized in multi classifiers systems.
+The proposed techniques are applied to different databases. We have obtained
+competitive results compared to the state of the art performance in statistical approaches
+and have surpassed the results based on structural techniques. In addition, the proposed
+techniques can be further extended. Moreover, we believe that several avenues of
+research in Arabic handwriting recognition have been initiated in this thesis.

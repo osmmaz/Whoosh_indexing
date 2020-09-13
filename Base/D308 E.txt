@@ -1,0 +1,9 @@
+This work studies optimized controls which minimize the heat load at the stagnation
+point of an ascending hypersonic flight vehicle. Two types of control schemes are
+studied, namely, a polynomial type feedback controller and a neural controller. To
+validate the results obtained a comparison is made with previous analytical and numerical
+studies. Different cases are then studied by considering the specific impulse
+of the SCRAM Jet engine as a constant or varying with Mach no. The effect of
+variation of initial and final attitudes is also studied. The results show that the minimized
+heat load is in the range o/300 — 3o0kJ/cm 2 in general. It is also observed
+that the proposed neural controller performs well.

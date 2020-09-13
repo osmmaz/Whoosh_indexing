@@ -1,0 +1,13 @@
+Narrow bandfilters are important elements o f integrated optical circuit. Resonant
+cavities imbedded between two identical parallel waveguides result in compact narrow
+band Add/Drop filter. In this thesis work, such add/drop filters are analyzed using the
+Method o f Lines (MOL). Add/drop filter with square, circular and elliptical cavities are
+investigated. The spectral response o f the four port filter and the power loss spectrum are
+obtained. The MOL using the Layer by Layer Algorithm is applied to model the add/drop
+filters. In addition, the MOL with improved features is presented in this work. This
+included improved implementation o f the transverse second derivative operator and the
+incorporation o f a Perfectly Matched layer (PML).
+Calculated results show that the Add/drop filter with an embedded circular cavity give
+much better spectral response when compared to the square and elliptical cavities.
+Almost complete optical power drop from the bus to one o f the receiver ports can be
+achieved in the circular cavity case.

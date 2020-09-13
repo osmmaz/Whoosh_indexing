@@ -1,0 +1,21 @@
+This thesis is concerned with the corona phenomenon on single  and multi phase
+AC power transmission lines. Corona is a partial breakdown that occurs when the
+conductor surface field exceeds the breakdown strength of the air. The discharge results
+in production of positive and negative space charges which are constrained to the near
+vicinity of the conductor because of the periodic reversal of the electric field. The
+objective of this thesis is to calculate the corona power loss associated with high voltage
+AC power transmission lines. The charge simulation technique is used to analyze the
+ionized field in corona problems. The locations of the simulation charges represent
+singularity points for which two approaches were proposed to calculate the potential and
+field there. Calculations at singularity points were checked by solving the corona problem
+in parallel plates, coaxial cylinders, monopolar line with single conductor, monopolar
+line with bundle 2 conductor, and homopolar line arrangements. The calculation of
+corona power loss on AC transmission lines includes single  and three phase lines as
+well as the future six phase lines. The onset voltages have been calculated for the first
+time in corona loss calculations based on the physics of gas discharge and by using
+empirical formulae for the onset electric field. The emission of ions is assumed to take
+place when the magnitude of the charge simulating the conductor and the ionization zone
+charges exceeds an onset value based on a pre defined onset field value for both positive
+and negative half cycles. The ground level electric field has been investigated to help
+in studying the environmental impact of AC lines. The results obtained in this thesis
+agreed satisfactorily with those reported earlier.

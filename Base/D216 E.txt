@@ -1,0 +1,16 @@
+With the rapid growth of digital communication in recent years, the need for high of channel estimation in wireless OFDM systems, which tracks the multipath fading
+channel by using the LMS algorithm. OFDM systems are highly sensitive to
+frequency offsets, and one main reason for drifts in carrier frequencies is channel
+phase. We will also propose an adaptive scheme for channel phase compensation.
+speed data transmission is increased. Moreover, future wireless systems are expected
+to support a wide range of services which includes video, data and voice. OFDM
+is a promising candidate for achieving high data rates in mobile environment, due
+to its resistance to ISI, which is a common problem, found in high speed data communication.
+In OFDM, modulation may be differential or coherent. When using
+differential modulation there is no need for a channel estimate but its performance
+is inferior than the coherent system. Coherent modulation requires the channel estimation
+which gives better performance but with relatively more complex receiver
+structure. Pilot Symbol Assisted Modulation is used to achieve reliable channel estimates
+by transmitting pilots along with data symbols. In this thesis, we will analyze
+different pilot patterns in terms of BER and propose a new scheme for transmitting
+pilot symbols in wireless OFDM systems. We will also propose an adaptive scheme

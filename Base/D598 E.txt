@@ -1,0 +1,20 @@
+Corrosion of reinforcing steel, mainly caused by chloride ions, is the number one
+durability problem faced by the construction industry. There is a desire to develop a nondestructive
+concrete corrosion monitor to determine the concentration of chloride ions in
+concrete. The Prompt Gamma Neutron Activation Analysis (PGNAA) technique offers a
+prompt, non destructive, in situ technique to detect the elemental composition of concrete.
+Therefore, a PGNAA setup will be designed and tested to detect prompt gamma rays
+reflected from concrete specimens. Monte Carlo calculations will be carried out to
+determine the optimum size of the neutron moderator, sample and detector shielding.
+The chloride concentration was measured in chloride contaminated FA, BFS and SPZ
+cement concrete specimens at 6.11, 5.72 and 2.86+3.10 MeV chlorine prompt gamma
+rays. In spite of interference between gamma rays from chlorine and calcium, an excellent
+agreement was observed between the experimental and theoretical yield of 6.11, 5.72 and
+2.86+3.10 MeV chlorine prompt gamma rays. This shows the successful application of
+the portable neutron generator for evaluating the chloride contamination in the field.
+A good correlation was noted between the gamma ray yield at 5.72 and 6.11 MeV.
+Consequently, the chloride concentration can be determined from these relations:
+Chloride (wt. ) = 5.72 MeV Gamma Ray Counts / 3839
+Chloride (wt. ) = 6.11 MeV Gamma Ray Counts / 5293
+However, the equation with 6.11 MeV is preferred as it has higher intensity and can detect
+low concentrations of chloride.

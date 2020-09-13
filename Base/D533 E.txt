@@ -1,0 +1,20 @@
+Particulate reinforced metal matrix composites (MMC) have been used in several
+applications where high mechanical performance and other related properties are
+paramount requirements. High specific modulus, low thermal expansion coefficient, good
+wear resistance, low density and low cost are the major attractive characteristics of this
+class of materials in aerospace, automobile and construction industries. Localized
+corrosion, in these alloys, is usually insidious and may lead to catastrophic service
+failures. This can only be minimized by incorporating corrosion control at the design
+stage and by modifying the processing routes.
+The corrosion behavior of four different types of aluminum alloy was studied.
+Two of these alloys (F3K.20S and F3S.20S) are reinforced with 20  by vol. SiC while
+the remaining two samples (F3S.OOS, and F3K.00S) are not reinforced. Weight loss,
+potentiodynamic and cyclic polarization techniques were used to study their corrosion
+behavior in 3.5 wt NaCl solution. Micro analytical studies such as optical micrography,
+scanning electron micrography (SEM), X ray diffraction, X ray fluorescence (XRF) were
+utilized to analyze the role o f intermetallic phases in both corroded and non corroded
+samples o f these mentioned alloys.
+The results showed that un re inforced alloys have higher corrosion resistance as
+compared to their reinforced counterparts. Pits observed in all the alloys show different
+shapes and structures. Some intermetallic phases in the reinforced alloys were suspected
+to have contributed to the formation of localized corrosion.

@@ -1,0 +1,17 @@
+The chloride and sulfate content in concrete significantly influences its durability. The
+concentration of these two ions is normally determined by chemical analysis. However,
+these procedures are exhaustive and time consuming. Therefore, there is a need to
+develop a non destructive and quick test to assess the chloride and sulfate concentration
+in concrete. The laser induced breakdown spectroscopy (LIBS) is a rapidly developing
+technique, which allows the measurement of almost all elements on the surface of
+solids, liquids or gases.
+The objective of this study was to assess the possibility of utilizing LIBS for evaluating
+the chloride and sulfate concentration in concrete. To achieve this objective, cement
+paste specimens with Type I, Type V, silica fume (7 ) and fly ash (30 ) were prepared
+with varying concentrations of chloride and sulfate salts. The specimens were tested
+using the LIBS technique and the chloride and sulfate concentration was assessed from
+a calibration curve prepared with known concentrations of these salts. The chloride and
+sulfate concentration evaluated using LIBS was compared with that obtained by
+Inductive Couple Plasma (ICP).
+Results of this investigation indicated that the LIBS technique was very successful in
+assessing the chloride and sulfate concentration in concrete.

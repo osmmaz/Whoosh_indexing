@@ -1,0 +1,22 @@
+The design and fabrication of a wide band programmable microwave feed network
+is proposed. The design architecture is composed of four main stages, switching,
+phase shifting, ampli cation/attenuation and control. The proposed feed network
+is designed to cover a wide band from 2.5 to 6 GHz over two separate branches, one
+covers from 2.5 to 3 GHz and the other covers from 3 to 6 GHz. Digitally controlled
+phase shifters are used to control the phase. A digital control unit is used to provide
+the required control signals for all the feed network stages. Digitally controlled
+wide band variable gain ampli ers are used to set the appropriate amplitude to the
+signal in both paths.
+The feed network is simulated and fabricated on an FR 4 substrate with thick 
+ness of 0:8mm. Good matching between simulation and measurement results is  achieved.The measured amplitude resolution was 0.5 dB with an error of less than
++0.22/ 0.12 dB. The measured phase resolution was approximately 5.625  with
+an error of less than  1 . This value of phase resolution can achieve a scanning
+beam resolution of 1:8  for a linear antenna array. Also, the sidelobe levels can
+be controlled by amplitude tapering functionality of the proposed network. The
+proposed network is a generic two path design that can be used as a standalone
+network to feed any kind of array system. The size of the two path feed network
+was 110   63   0:8mm3.
+Since the feed network needs a kind of combiner circuit to combine all the outputs
+from the network to the input of a transceiver, a compact size 12 port microwave
+combiner with phase compensation is designed and fabricated. The combiner cov 
+ers the band from 2.3 to 3 GHz. Its size was 78:5   61   0:8mm3.

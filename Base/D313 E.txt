@@ -1,0 +1,14 @@
+This study casts light on the heal transfer in asymmetrically healed packed ducts
+in which a constant heat flux is supplied from the lop while the other walls are insulated.
+Two different ducts with aspect ratio W/H o f 8 and 4 respectively have been used. Two
+different types o f packing have been used. The first one is the expanded polystyrene
+sphere in three different sizes while the second one is the polyvinyl chloride Raschig ring
+in two different sizes. Both air and wall temperatures were measured at various positions
+fo r different air flow rates and different heat fluxes. This was done fo r both empty and
+packed ducts.
+This study presents both experimental and numerical analysis fo r the steady stale
+case. The effect o f both type and size ofpacking in addition to the aspect ratio o f the duct
+on the heat transfer coefficient has been studied. A comparison between the measured
+and predicted values o f air temperatures is shown. This study gives a correlation fo r
+Nusselt number that can he used for 96 < Re,,< 5755 and 4.5 < dLJdp < 9 and duct to
+separation ratio L/H= 16.

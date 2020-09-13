@@ -1,0 +1,31 @@
+Presence of high concentrations of inorganic pollutants in phenolic wastewater effluents from refinery
+and petrochemical industries renders improper discharge of such wastewaters liable to leading to
+detrimental environmental consequences and also posing greater challenge for effective phenol
+oxidation and overall decontamination process. This dissertation thoroughly addressed such issues
+considering electrochemical oxidation of phenol in simulated petrochemical wastewaters containing
+NH4
++, CN  and S2  in different single, binary, ternary and quaternary mix matrixes using Boron Doped
+Diamond (BDD) anodes.
+Statistical experimental design was employed to model and optimize the experimental operating
+conditions through Response Surface Methodology (RSM) modeling technique. Phenol, TOC and
+COD decay profiles excellently fitted experimentally verified second order quadratic models having
+all investigated influencing parameters statistically significant. The overall decontamination process
+was mainly kinetically controlled process dominated by heterogeneous and irreversible direct
+oxidation reactions on the BDD anode surface mainly mediated by electro generated OH with mass
+transfer effects as the rate limiting step. At pH < pKa of phenol, oxidation of phenol was effectively
+achieved regardless of phenol initial concentration, while at pH > the pKa and low phenol
+concentration, accumulation of intermediary byproducts and polymerization hindered phenol
+oxidation.
+Erroneous predictions of phenol oxidation kinetics from existing COD evolution based models due to
+presence of the inorganic species were corrected with modified models based on TOC decay data.
+With the exception of NH4
++ ions, the degradation kinetics for phenol as well as the inorganic species
+in the different mix matrixes were consistently pseudo first order kinetics with the kinetic and
+hydrodynamic constants for phenol, TOC and COD been reduced mainly as result of decline in the
+BDD anodes’ activities. Comprehensive analyses of oxidation byproducts suggested that the
+mechanism for phenol oxidation was primarily initiated by speciation of the phenol molecules that led
+to the generation of aromatic intermediates via hydroxylation which were further oxidized and
+converted to short chain aliphatic acids before finally converting to CO2. Presence of the inorganic
+species didn’t hamper the phenol oxidation ability of the BDD anode, though reaching steady state of
+complete decontamination was significantly delayed according to the inorganic species presence in
+solution.

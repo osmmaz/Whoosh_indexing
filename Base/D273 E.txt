@@ -1,0 +1,18 @@
+Numerical simulation of flow past airfoils is important in ike aerodynamic design
+of aircraft wings and turbomachinery components. These lifting devices often attain
+optimum performance at the condition of onset of separation. Therefore separation
+phenomena must be included if the analysis is aimed at practical applications.
+Consequently, in the present study, numerical simulation of steady flow in a linear
+cascade of NACA 0012 airfoils is accomplished using a numerical scheme employing
+control volume approach. The flow field is determined by solving two dimensional
+incompressible Navier Stokes equations while the effects of turbulence are accounted
+for by the k e model. Separation point at the airfoil surface is predicted at high angles
+of attack. Pressure, lift and drag coefficients are computed and the results are
+compared with the predictions of isolated single NACA 0012 airfoil. The study is extended
+to include the effects of stagger angle of the cascade and rotating boundaries
+of the isolated airfoil on the flow characterstics. It is found that increase in solidity
+and/or stagger angle increases the angle of attack at which separation occurs and
+pressure, lift and drag coefficients are highly influenced by the angle of attack and
+the solidity ratios. For the case of airfoil leading edge rotation a reduction in the
+wake size is predicted at high angle o f attack. For this case an increase in the lift
+and a decrease in the drag coefficient is also predicted.

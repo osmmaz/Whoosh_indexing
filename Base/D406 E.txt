@@ -1,0 +1,14 @@
+Fluid Catalytic Cracking (FCC) is still the major process that deals with converting the
+heavy portion of the crude oil into high value hydrocarbons. A considerable amount of
+the global production of light olefins (Ethylene and Propylene) is produced through this
+process. In this study, the effect of modifying the formulation of catalyst used in FCC
+will be investigated at fixed temperature and different catalyst to oil ratios. Different
+additives will be used from different families namely; MOR, Beta, ZSM 11, Ferrierite,
+MCM, ZSM 5. Samples with different Silica/Alumina ratios will be tested as well as
+desilicated versions. Different metals will be impregnated on different samples and
+composites of different zeolites will be prepared and investigated.
+The base catalyst of study will be a commercialized equilibrium catalyst (Ecat) obtained
+from Japan and the gasoil feed will be PR VGO retrieved from industry. Bench scale
+reactor will be used in this study, fixed bed reactor (MAT). Different techniques will be
+used to characterize the catalysts. Activation Energies will be calculated for the best
+olefins producing catalysts.

@@ -1,0 +1,32 @@
+The impact of brine salinity and ion composition on oil recovery for carbonate reservoirs
+has been an area of research in recent years. This was motivated by the additional oil
+recovery that was recovered by low salinity and ionic modifications in sandstone and
+chalk reservoirs and to some extent in carbonate reservoirs. Wettability alteration to
+more water wet conditions has been proposed as the mechanism leading to the additional
+oil recovery.
+This study presents a fundamental experimental study to confirm wettability alteration
+and identify the potential determining ions in the injected brines leading to the alteration
+of wettability of calcite and carbonate rocks and to understand rock/fluids interactions in
+the presence of polar compounds in the oil.
+In this study, a systematic investigation was carried out by first establishing a well
+defined initial wettability conditions using short and long chain carboxylic acids
+dissolved in toluene with a total acid number (TAN) of 2. This was followed by subjecting
+the calcite and carbonates rock samples to Arabian Gulf Seawater and diluted Arabian
+Gulf seawater having different ion compositions to identify their impacts on wettability
+alteration to more water wet conditions. This study focuses on identifying the roles of SO4
+2 , Ca2+ and Mg2+ in the injected brines with different ratios on wettability alteration.
+The contact angle method was used to evaluate the wettability.
+The results of this study showed that the long chain fatty acid (Stearic Acid) strongly
+adsorbs onto the calcite surface from the oil phase compared to the short chain
+(Heptanoic Acid) as confirmed by the measured contact angles. Twice dilution of Arabian
+Gulf seawater has been found to be a less effecient EOR fluid for wettability alteration as
+compared to Arabian Gulf seawater. This was confirmed by the changes in the measured
+contact angles toward more water wet for Heptanoic Acid /Calcite, Stearic Acid/Calcite
+and Stearic Acid/Carbonate systems treated with seawater and twice diluted Arabian
+Gulf seawater with different concentrations of SO4
+2 , Ca2+ and Mg2+ in it. Significant
+wettability alteration was observed for the twice diluted Arabian Gulf seawater with
+higher concentrations of SO4
+2  and Mg2+. The results are supported by ionic analysis of
+the brines and mineralogical rock analysis using XRD and rock surface characterizations
+using SEM after treatment with the different brines used.

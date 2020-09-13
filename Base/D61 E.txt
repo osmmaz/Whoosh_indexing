@@ -1,0 +1,15 @@
+Software development effort prediction is one of the most critical activities
+in managing software projects. Algorithmic effort prediction models, which
+have dominated the software engineering community, are limited by their
+inability to cope with uncertainties and imprecision surrounding software
+projects early in the development life cycle. More recently, attention has
+turned to a variety of machine learning methods, and soft computing in
+particular to predict software development effort. There are evidences that
+soft computing has been able to address some of the problems associated
+with previous models. However, there is no common ground for assessing
+and comparing these soft computing based prediction techniques. This thesis
+presents an evaluation scheme for soft computing based effort prediction
+techniques. We present a critical survey of the state of the art application of
+soft computing in development effort prediction. Based on the survey results,
+we propose and implement a transparent and adaptive fuzzy logic framework
+for effort prediction.

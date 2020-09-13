@@ -1,0 +1,14 @@
+The goal o f substation maintenance scheduling is to ensure that all substation equipment
+will function properly when called upon to operate or during its normal operation. All o f
+the diagnostic testing and maintenance work, necessary to achieve this goal, must be
+performed in as efficient manner as possible.
+Two proposed methods for automatic scheduling o f outage tasks for substations system
+maintenance using Tabu Search and Genetic Algorithms were studied. These methods
+investigated the implementation o f the proposed techniques for solving the maintenancescheduling
+problem, which consist o f two combinatorial problems, work starting date and
+network configuration which is found without violating the power flow constraints. These
+advanced tools are a way to support maintenance schedulers and planners through
+automatic scheduling to reach the optimal system reliability. The methods performances
+were tested and checked through 5 Bus and IEEE 25 Bus Systems. The results showed
+that these methods are reliable and practical for the maintenance scheduling problem o f
+substations system.

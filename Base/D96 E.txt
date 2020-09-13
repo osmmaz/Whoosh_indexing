@@ -1,0 +1,12 @@
+This project was designed at laboratory scale to study the influence of using
+three commercial enzymes as a bioremediation tool to treat/ recover ground
+water from EDC and Oil. The project designed at the laboratory to simulate the
+real environmental condition of ground water at semi aquifer geological
+structure. The objective of using enzymes is to increase the bioremediation
+process to treat ground water from EDC and oil by increasing the activities of
+the microorganisms which exist in the natural water. EDC and oil contaminate
+ground water as results of leaching through soil due the industrial accidents
+which were recorded during the previous 30 years. Due to the low Solubility of
+EDC in water (0.869 g/100 ml at 20 C) and its high density, it dominated in the
+low layers of water and stay for long time before it treated naturally. On the
+other hand, oil take also long time for natural remediation.

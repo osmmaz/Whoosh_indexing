@@ -1,0 +1,17 @@
+In this thesis, mathematical modeling of Atom Transfer Radical Copolymerization
+(ATRcP) was done in batch and semi batch reactors. In addition we modeled the
+diffusion effects on ATRcP. The formation of Gradient polymers, a new genre of
+copolymers, was also studied. Continuous reactors were also simulated for this novel
+polymerization process.
+The model was used to predict monomer conversion, average molecular weight,
+polydispersity index, and copolymer composition as a function of polymerization time
+and/or conversion. The model was also used to predict the distribution of molecular
+weight, chemical composition, and comonomer sequence length at any polymerization
+time or comonomer conversion. The simulations were helpful in predicting comonomer
+composition drift and in designing products with specific chemical composition
+distributions and comonomer sequence lengths
+Dynamic Monte Carlo simulation was used in mathematical modeling and analysis.
+The Gillespie’s algorithm was used for dynamic Monte Carlo simulation. Here, a control
+volume is chosen and then the experimental rates of reactions were transformed into
+stochastic rates. The probability of a reaction taking place was calculated to model the
+elementary reaction taking place within the reactor.

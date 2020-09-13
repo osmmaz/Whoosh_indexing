@@ -1,0 +1,25 @@
+The complexity of state space based methods for analysis of finite user finite
+buffer (FU FB) random multiple access systems increases exponentially with buffer
+size and number of users. The presence of multipath frequency selective fading
+channel further adds to the complexity, making the analysis practically intractable.
+An approximate analysis technique called tagged user analysis (TUA) has been
+used to analyze the performance parameters of such systems over multipath and
+frequency selective fading channels for FU FB systems. In TUA, the steady state
+system performance is evaluated from the analysis of a single user. Moreover, the
+state flow graph of TUA has just four states; thus reducing the complexity of the
+analysis. Simulation results confirm the validity of the TUA analysis.
+The mathematical expressions for the pdf of the received signal impaired by interference signal power are developed. These results are used to find the prob 
+ability that the transmission by the tagged user will be successful in presence of
+interference. Random multiple access MAC protocols including S ALOHA, the
+IEEE 802.11 DCF and EDCF based on CSMA/CA have been analysed. The
+analysis is presented for realistic scenarios with a) a multipath frequency selec 
+tive channel between the users/stations (STAs) and the access point (AP), b) an
+unsaturated system having finite population of STAs, each having a finite buffer
+capacity, c) a ring/bell shaped spatial distribution for the STAs, d) the basic and
+ready to send/clear to send (RTS/CTS) access mechanisms for IEEE 802.11 dis 
+tributed coordination function (DCF) and enhanced DCF (EDCF), e) homoge 
+neous/heterogeneous groups of STAs.
+Finally, the performance analysis of WLAN system using IEEE 802.11 EDCF
+as the access protocol with multiple parallel channels for transmission is presented.
+Different channel selection schemes and channel configurations have been used in
+the analysis and the results are presented.

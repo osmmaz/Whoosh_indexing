@@ -1,0 +1,21 @@
+A single phase two dimensional mathematical model was used to predict the performance
+o f a gas well intersected by two perpendicular vertical fractures . The fractures half lengths
+( Xj andyj.) were assumed to extend equally on both sides o f the wellbore . The fractures were
+assumed to have either infinite or finite conductivities . The analysis o f the simulated
+drawdown tests at constant flow rate showed that the transient flow behavior o f a gas well
+intersected by finite conductivities ( Fa < 500) perpendicular fractures does not exhibit
+neither the bilinear flow behavior nor the formation linear flow behavior when y^f Xj is greater
+than zero . Instead it showed that the log log plot o f pD versus tDxf presented slopes higher
+than the characteristic slopes o f the bilinear and linear flow periods . On the other hand when
+the fractures conductivities were equal to or greater than 500, the formation linear flow period
+was observed . The square root method was used to determine the fracture half length from
+the formation linear flow period and found to give a fracture half length that is equal to the
+sum o f the fracture half lengths (jy +  »y)  A t early times and for fracture conductivities up to
+0.2a , the pressure drops, pD , calculated for the cases where y^ I x^are greater than zero were
+lower than those for single fracture (jy / Xj.~ 0 .0 ). But , as the fractmre conductivity
+increased the calculated pressure drops were found to increase to values higher than those fo r
+the single fracture cases after some time. This time was found to be a function o f fracture
+conductivity where it decreased as the fracture conductivity increased . The results when
+plotted as a function o f pD versus l o g for both infinite and finite conductivities
+perpendicular vertical fractures gave , for large tDxf, a I. 151 slope straight line . Hence,
+semilogarithmic pressure analysis methods can be applied.

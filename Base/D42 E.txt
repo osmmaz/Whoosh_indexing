@@ -1,0 +1,10 @@
+Thermal energy transport in thin single dielectric film as well as in dielectric dielectric
+and dielectric metal, two film assemblies are considered. A modified form of the transient,
+one dimensional Boltzmann Transport Equation namely, the Equation of Phonon
+Radiative Transport is employed to model the transport process in the dielectric films.
+Modified Two Equation model is used to describe heat transfer in the metal film. Effect of
+Thermal Boundary Resistance is incorporated for the case of dielectric metal films. To
+solve the relevant equations Finite Difference Method is employed. The study is also
+extended to include the investigation of the effect of a high power, short pulse laser
+heating of the metal substrate. Transfer Matrix method is used to calculate the laser
+radiation absorption in the dielectric film.

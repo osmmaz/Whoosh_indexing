@@ -1,0 +1,22 @@
+Parkinson's disease (PD) is the second most common neurodegenerative disorder after
+Alzheimer's disease. It is caused by a progressive loss of dopaminergic neurons in the substantia
+nigra (SN) region of the brain. The most prominent symptoms of PD are resting tremors, rigidity,
+bradykinesia, and postural instability. A major pathological hallmark of the disease is the
+accumulation of Lewy Bodies (LBs) and Lewy Neurites (LNs), protein rich inclusions that
+deposit in the neurons. These inclusions are mainly composed of alpha synuclein , a small
+protein with a propensity to aggregate. Evidence from genetic, biochemical and pathological
+studies suggest that the aggregation of   syn plays a key role in the pathogenesis of PD and
+related disorders, such as dementia with Lewy Bodies (DLB) and multiple system atrophy
+(MSA), collectively termed synucleinopathies. Till date, the diagnosis of PD primarily depends
+on the clinical criteria, however, this approach has some limitations since the neurodegeneration
+starts several years before. This necessitates the development of reliable biomarkers that can
+allow early diagnosis of PD, preferably at the preclinical stage. Accumulative evidence suggests
+that majority of   syn from LBs in the brains of PD patients is found to be phosphorylated at
+Serine 129, thus highlighting the importance of phosphorylated   syn at S129 (pS129   syn) as a
+potential biomarker for PD. For this reason, we developed mouse monoclonal antibody (mAb)
+specific for pS129   syn and another mAb specific for non phosphorylated form of   syn at
+S129 (nonpS129   syn). To our knowledge, this is the first study that reports the generation of
+an antibody specific for nonpS129 a syn. In this study, we describe the production and thorough
+characterization of these two antibodies, highlighting that our antibodies represent useful tools
+for research, good candidates for biomarkers development, and even immunotherapy for PD and
+related disorders.

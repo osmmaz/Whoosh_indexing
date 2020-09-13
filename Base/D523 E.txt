@@ -1,0 +1,30 @@
+Calcareous sediments are commonly used, in the eastern region o f Saudi Arabia, as base
+and subbase material for roads and runways. The construction materials are produced from
+crushers in which materials with different qualities and particle sizes are mixed together and
+the final product is intended to have a certain gradation. The produced materials have acute
+water sensitivity. In addition to the upnormal behavior o f the calcareous base course materials
+under the prevailing environmental and loading conditions, the adequacy o f use o f
+conventional testing procedures for strength determination o f these materials is questionable.
+This is caused by the poor correlation between the laboratory and the field results, as a result
+o f discarding the oversize particles for the laboratory’ samples.
+In this research program, the effect o f gradation and testing procedures on the load
+canying capacity o f calcareous sediments (marls) was studied. This was achieved by
+performing a testing program using the CBR. Unconfined Compressive Strength and Clegg
+Hammer tests. Three different gradations for tw'o different marls were used in the study. In
+addition, a large size compaction and CBR testing setup was used to study the effect o f
+oversize particles on the CBR and CIV values. Furthermore, the applicability o f the common
+oversize correction methods was investigated.
+The results clearly showed that soil gradation has a Temarkable effect on the UCS values
+while its effect on the CBR and CIV results was not that significant. In addition, the maximum
+panicle size, which was included in the specimens, was found to have great significance on
+the CBR values. Furthermore, the maximum dry density and the optimum moisture content
+values were found to be independent o f soil gradation. The mold confinement was found to
+have a significant effect on the CBR values. About 100  increase occurred on the CBR values
+as a result o f mold confinement. In addition, CBR values greater than 200  w'ere found to
+have questionable practicality.
+After implementing the oversize correction methods for the selected marls, it was
+observed that all equations approximated the dry' density o f the entire material and produced
+density values close to those obtained using the large mold, w'ith less than 2  tolerances.
+However, the AASHTO 1 and ASTM correction equations gave underestimated and
+overestimated values, respectively. While AASHTO 2 equation and scalp and replace methods
+gave accurate results.

@@ -1,0 +1,26 @@
+The Chemical Vapor Deposition (CVD) parameters were studied to selectively
+synthesize Carbon Nano Tubes (CNT’s). Experimental runs using Vertical
+Chemical Vapor Deposition (CVD) reactor were performed at a fixed reaction time
+of one hour and different operating temperatures (700 1000 Co), hydrogen flow
+rates (100 3000 mL/mint) and P xylene flow rates (5 40 mL/hr). Ferrocene [Fe
+(C5H5)2] catalyst was used in the process in the form of powder which is mixed and
+dissolved with P xylene (C8H10) at a ratio of 1  of Fe (50 mL solvent, 1.6 g
+Ferrocene) to the hydrocarbon. The P xylene as the source of the hydrocarbon was
+cracked by hydrogen while argon gas was used to flush the CVD reactor to prevent
+oxidation of the catalytic metal at the reaction temperatures. Effects of the various
+operating parameters on the yield and quality of CNT’s such as temperature and
+the flow rates of hydrocarbon and hydrogen are presented in this study. The
+effects of the different reaction conditions on the CNT’s yield and various
+dimensions of the CNTs formed were also investigated. A design of experiment package was used for the generation and evaluation of statistical experimental
+designs. A 3k statistical factorial design approach was adopted to develop the
+mathematical models in order to study and optimize the operating conditions.
+Multiple Linear Regression (MLR) was used to fit the mathematical models. The
+morphologies of the CNTs were characterized and examined by Scanning Electron
+Microscopy (SEM) at different growth temperatures for the surface morphology of
+the samples and Thermal Gravity Analyzer (TGA) was used to analyze purity of
+CNT’s. A design of experiment optimizer was used to find the optimum
+conditions for the yield and quality of CNT’s where optimum yield was found to
+be at a temperature of 892 Co and H2 flow rate of 1497 mL/mint with P xylene rate
+of 5 mL/hr. However, to control quality, higher H2 flow rate (3000 mL/mint) need
+to be considered to improve average diameters and aspect ratios of the produced
+CNT’s.

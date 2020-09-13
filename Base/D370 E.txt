@@ -1,0 +1,10 @@
+A major problem in many public address systems of large halls is the poor perception
+of message due to multiple reflections   echoes   in the hall. The general
+approach to this problem is to identify the characteristics of the echo path and
+then generate an echo replica which cancels out the real echo signed.
+In this thesis, a novel structured FIR equalizer is proposed for the cancellation
+process. It requires less taps than the existing equalizers and operates directly on
+the dominant echoes to generate an efficient echo replica. Extensive simulation
+studies are carried out for evaluating the performance of the proposed acoustic echo
+canceller. The new approach considerably improves the computational complexity
+and enables possible implementations on commercial DSP boards.

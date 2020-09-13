@@ -1,0 +1,22 @@
+The objectives of this work are to measure the binary adsorption equilibrium
+data of propane and n butane on 5A and 13X zeolites, and to
+model th e behavior of this system. This will provide a basis fo r the
+choice of the best conditions fo r separation of these gases by zeolites.
+Data of pure component sorption of propane and n butane on 5A and
+13X zeolites fo r tem peratures of 348, 423 and 498 K is reported. Binary
+sorption data fo r these two components at the same temperatures are
+also reported fo r total pressures of 66.7 and 106.7 kPa .T h e pure component
+data is modelled using the Schirmer et a l., Ruthven, vacancy
+solution and viria l models. In general the Schirmer et al. model gives
+the best fit. The form of the virial model used here presents the pure
+component data in generalized form .
+The binary data is found to be approxim ately ideal . The selectivity
+coefficient fo r propane, which is the reciprocal of the relative volatility
+, is found to be in the range of 0 .0 8 to 0.40 fo r the temperatures
+and pressures studied. The separation increases with decreasing
+tem perature and shows a slight increase with decreasing pressure. The
+5A zeolites gives a smaller selectivity coefficient and hence larger separation
+than the 13X zeolite. However the difference between the selectivities
+coefficients fo r the two zeolites is small. The binary data is modelled using the Schirmer et a l., Ruthven et a l., vacancy solution
+and I AST binary models. In general the Schirmer et al. and the ideal
+adsorption solution theory (IA S T ) models give the best f it

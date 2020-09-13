@@ -1,0 +1,25 @@
+The reduction o f a commercial Ni/yAl20 3 catalyst was carried oat at temperature
+ranged from 250 to 500 °C and for duration from 2 to 16 hours. The effects o f reduction
+conditions on the activity and selectivity of Ni/yAI20 3 were studied for a methanation
+reaction in a gradientless Berty reactor. These effects were used to determine optimal
+reduction conditions o f the catalyst. The optimal reduction conditions are: temperature
+30(TC, duration 8 hrs, space velocity 3000 h r 1, and heating rate o f bed 5°C/min.
+The reaction rates were measured by injecting a feed containing H2 (26 m ol  ), CO
+(6.7 mol ), and the balance being nitrogen. The product stream contained
+II2, N2, CO, CH4, and small amounts of C 0 2 gas. The operating temperature and
+pressure of the reaction were kept constant at 350 °C, and 30 psig, respectively. The flow
+rate o f the feed was kept constant at 600 ml/min and 10 gm. o f catalyst was charged for
+each run.
+The. catalyst used was a commercial NifyAl20 3 (C13 4 04) containing 20  Ni
+supported on yAl20 3 ; manufactured by UCI (United Catalyst Inc.) and supplied by
+SA M AD Fertilizer Co. Al Jubail, Saudi Arabia.
+The effects o f speed o f impeller on the rate of methanation were studied and it was
+found that mass transfer limitations disappeared at a speed of 786 rpm.
+The effects o f space time, H^CO ratio, and pressure on the activity and selectivity of
+the catalyst were studied. It is found that by increasing the space time, the activity
+decreases while selectivity to CH4 formation increases from 90 to 96 . Use of higher
+II2I CO ratio (3.0 6.5) improves selectivity up to 98  ^ but decreases the rate of
+methanation. Lower H J CO ratio (3.0 I.0) increases rate of CO conversion but
+decreases both the selectivity and the rate of CH4 production. Reaction pressure
+apparently has an insignificant effect on the activity of catalyst. However, improvement in
+the selectivity is observed.

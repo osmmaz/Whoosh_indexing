@@ -1,0 +1,18 @@
+The objectives of this thesis were, 1)  to investigate and evaluate the challenges that
+influence the successful implementation of building management system (BMS) during
+the design, installation and operation and maintenance stages of projects, 2)  to utilize the
+methodology of the Group Analytic Hierarchy Process (G AHP) model for developing a
+conceptual model for prioritizing the influential challenges that impact the successful
+implementation of BMS, 3)  to carry out case studies to validate the problems that face
+achieving full potential of BMS, and 4)  to develop a plan of action to facilitate the
+identified challenges. Thirty two challenges which influence the process of implementing
+the BMS were identified. These challenges were evaluated through distributing a five
+likert questionnaire survey to A/E, construction firms and facility managers form the
+Eastern Province of Saudi Arabia. (G AHP) model was utilized to prioritize the identified
+32 challenges through reflecting the opinion of six experts in BMS. Eight case studies in
+the Eastern Province were conducted to validate the developed model. Finally, literature
+review and interviews were carried out to develop a proposed plan of actions to facilitate
+the identified challenges. This study has the potential to increase awareness among
+buildings owners and people in the building industry in Saudi Arabia about the
+challenges that influence the successful implementation of the BMS during the life cycle
+of office building projects.

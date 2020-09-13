@@ -1,0 +1,14 @@
+Recently, biometric systems have attracted the attention of both academic and industrial
+communities. Advances in hardware and software technologies have paved the way to
+such growing interest. Nowadays, efficient and cost effective biometric solutions are
+continuously emerging. Fingerprint based biometric systems have pioneered the
+commercial applications. Face and iris traits have been proven to be reliable candidates.
+Until recently, face recognition research literally followed the research undertaken in the
+field of fingerprint recognition which is inherently gray scale. In this research, efforts are
+restricted to the investigation of subspace representations in the color domain. The
+concept of principal component analysis (PCA) implemented via singular value
+decomposition (SVD) is carried over into the hypercomplex (i.e., quaternionic) to define
+quaternionic PCA (Q PCA) where color faces are compactly represented. Unlike the
+existing approaches for handling the color information, the proposed research implicitly
+accounts for the correlation that exists between the color components (i.e., red, green and
+blue components).

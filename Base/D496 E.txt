@@ -1,0 +1,14 @@
+A field prototype multiphase m eter has been designed, constructed,
+installed at a rem ote onshore oil field site and successfully trial tested. The
+multiphase m etering set up is based on the Coriolis principle to measure
+the oil, water, and gas. The intent of testing die set up was to confirm the
+unit's ability, in a remote unmanned location, to sufficiently separate the
+gas and liquid phases in a small conditioner pipe, m easure the rate of each
+phase and determ ine the water cut.
+Thirty direct comparison tests w ith the conventional test trap were
+conducted at two pressure ranges of 250 300 psig and 550 600 psig to test
+the effect of different gas void fractions which ranged up to 88 . The unit
+was successfully evaluated at liquid rates up to 7.2 MBD. Variance in
+liquid rates w ith the conventional test trap were less than 10 . The
+designed set up gave good gas reading for gas rates above 1.5 MMSCFD,
+at lower gas rates the set up measured slightly low.

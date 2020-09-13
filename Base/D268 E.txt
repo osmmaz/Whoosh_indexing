@@ -1,0 +1,10 @@
+Detecting anomalous tra c on the Internet has remained an issue of concern
+for the community of security researchers over the years. The advances in the
+area of computing performance, in terms of processing power and storage, have
+fostered their ability to host resource intensive intelligent algorithms, to detect
+intrusive activity, in a timely manner. As part of this thesis, we study and analyze
+the performance of two such machine learning algorithms, namely, Average
+One Dependency Estimators (AODE) and Abductive networks (GMDH), when
+implemented as part of an intrusion detection system, to detect anomalies on a
+dataset of Internet tra c activity. The simulation results obtained for the two
+approaches are compared and analyzed based on several performance metrics.

@@ -1,0 +1,23 @@
+Macromolecules that possess charges as well as hydrophobes along with or pendent to
+the polymer backbone are one o f the most important classes ofpolyelectrolytes, which are
+often termed as ‘amphiphilic polyelectrolytes’ or ‘hydrophobically modified
+polyelectrolytes ’. Recently, amphiphilic polyelectrolytes are potentially used in variety o f
+commercial applications, such as associative thickeners, rheology modifiers, polymerbased
+surfactants and flocculants, emulsifiers and solubilizers. In aqueous solution,
+amphiphilic polyelectrolytes exhibit self assembling phenomena, analogous to
+conventional surfactant micelles, driven by the balance between electrostatic repulsion
+and hydrophobic interactions. Novel hydrophobically modified polyelectrolytes based on
+quaternary ammonium salt and sulfur dioxide have been synthesized. Characterization o f
+this novel class o f amphiphilic polyelectrolytes has been performed by (1) static (SLS) and
+quasielastic (QELS) light scattering experiment, (2) Rheological properties measurement,
+(3) Fluorescent spectroscopy, and (4) surface tension measurement. These techniques
+emphasize the hydrophobic association (intermolecular) phenomena, flow properties,
+formation o f hydrophobic microdomain and surface activity o f this novel polymer.
+Currently, iron based coagulants or polymer based flocculants are preferred in water
+treatment over the conventional aluminum based coagulants, which have been recently
+linked to Alzheim er’s disease. In water treatment, polymer based coagulants such as
+cationic polyelectrolytes are used in two distinct ways, as coagulant aids and as primary
+coagulants. This study evaluates the use o f the synthesized amphiphilic polyelectrolyte as
+a primary coagulant in groundwater/wastewater treatment. It is interesting observed that
+appreciably low polyelectrolyte dose (0.3 ppm) is required fo r NO M removal from
+contaminated water.

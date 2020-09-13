@@ -1,0 +1,7 @@
+Dynamic equivalents are reduced order differential equation models
+of the dynamic characteristics of a power system. The reduced order model is
+formed by lumping together group of power plant units (coherent group) which
+tends to swing together for a given perturbation. Bach power plant unit is
+represented as constituted by a synchronous machine, an excitation system, a
+turbine. a governor and a boiler models. The equivalent units are made up of
+similar models.

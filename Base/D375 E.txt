@@ -1,0 +1,9 @@
+A solution to the problem of designing a linear phase, Nyquist d ata transmission
+filter with rapidly decaying impulse response beyond the main lobe is attempted.
+Based on a recent contribution [l], the proposed technique utilizes its filter model
+to maximize the ratio of the energy within a specific time duration to the total
+energy under the full bandwidth. The denominator of the transfer functions is the
+linear phase polynomial and the design involves the determination of the numerator
+coefficients to meet the required specifications. The signal shapes thus obtained are
+useful in combating intersymbol interference and are almost immune to jitte r effects
+at the receiver

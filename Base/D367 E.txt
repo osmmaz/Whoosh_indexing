@@ -1,0 +1,21 @@
+Telerobotics is a multidisciplinary area that aims at extending eye hand motion
+co ordination through a distance using real time wired or wireless computer networks.
+It uses a master arm to describe hand motion, slave arm to reproduce hand motion,
+and stereo vision, haptic and force feedback to extend human depth perception and
+senses. Some of the telerobotic applications are operating in deep space, underwater,
+nano and micro scales, carrying out surgery inside the patient body, etc. One of the
+most critical problems of such system is the communication delay that often causes
+teleoperation instability. In this work, an Augmented Reality (AR) based telerobotic
+system is proposed that allows developing and validating a teleoperation plan by
+superimposing some virtual objects onto the real video image of the workspace. The
+plan substitutes frequent low level interactions between the user and the remote site
+by sending only the finalized data and thus, reduces real time network interactions. It
+also increases the task safety. To develop the system, a serial six DOF 3D graphical
+arm is designed based on its geometric model. Then, accurate camera calibration and
+registration methods are used to superimpose the graphical arm onto the video image.
+Motion activation algorithms are developed and a Graphical User Interface (GUI) is
+designed to facilitate the task simulation. DirectZD of Microsoft D irectX 9 is used
+as graphics A P I that exploits hardware acceleration for graphics rendition through
+Hardware Abstraction layer (HAL). The overall system is designed using Microsoft
+.N E T framework with Visual C # .N E T programming and tested on a stereovision
+system operating over a L A N with a PUMA 560 robot. The system performed well with improved accuracy and refresh rate of graphics on the output screen.

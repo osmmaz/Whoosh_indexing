@@ -1,0 +1,30 @@
+The primary aim of this dissertation was to prepare catalysts of Co(II) and their
+use in polymerization reactions. For this purpose, dioxime complexes of Co(U) have
+been synthesized and characterized by elemental and spectroscopic techniques. This new
+class of metal chelates was found to act as Chain Transfer Agent (CTA) for controlled
+polymerization of Methyl methacrylate (MMA), Butyl methacrylate (BMA) and Styrene.
+By using [Co(afdo 2 H.BF2 )2 ] and [Co(dmg 2 H.BF2 )2 ], (afdo = a furil glyoxime and dmg
+= dimethyl glyoxime) complexes as Chain Transfer Agents low molecular weight of the
+PMMA, PBMA and PSTY were obtained. It has been noted that [Co(afdo 2 H.BF2 )2 ]
+catalyst acts as less efficient CTA as compared to [Co(dmg 2 H.BF2 )2 ] catalyst for the
+polymerization of Methyl methacrylate. However, this is more efficient for
+polymerization of BMA. We have also investigated the effect of [Co(afdo 2 H.BF2 )2 ]
+catalyst at 60, 70 and 80 °C for polymerization of styrene and it was noted that efficiency
+of the catalyst decreased at higher temperature. The efficiency of a chain transfer agent is
+reflected by chain transfer constant (Cs) value, which was calculated from the slope of
+Mayo plot. The Cs value for Pulsed Laser Polymerization (PLP) of MMA using
+[Co(afdo 2 H.BF2 )2 ] as CTA was found to be around 2500, while for PLP of MMA, with
+[Co(dmg 2 H.BF2 )2 ] catalyst was about 13,400. We believe that for PLP of MMA
+electronic factors are dominant and for the PLP of BMA probably steric effects are
+dominant. It has been noted that polydispersity index (PDI) value for PLP of MMA with
+[Co(afdo 2 H.BF2 )2 ] catalyst is less than 1 .5, which probably indicates living free radical
+polymerization. We have also successfully determined various kinetic parameters such
+as activation energy for degree of polymerization (Em), activation energy for propagation
+reactions (Ep) and transfer rate constant (ktr’s) for polymerization of Styrene and MMA at
+higher temperatures.
+We have also investigated the effect of [Rh(afdo 2 H.BF2 )2 ]Cl and Wilkinson’s
+catalyst [RhP(Ph)3 Cl] on the polymerization MMA. Both these catalysts were found to
+promote the polymerization process. For all the polymerization studies either Benzoyl
+Peroxide or 2,2’ Azobis (2 methylpropionitrile) [AIBN] were used as initiators.
+Excimer Laser (308 nm input at 10 Hz) was used as a laser source for Pulsed Laser
+Polymerization.

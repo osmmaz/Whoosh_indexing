@@ -1,0 +1,21 @@
+Differential Electrolytic Potentiometry has been applied successfully as
+a detector for Sequential Injection Analysis combined with flow injection system, this
+method was utilized in different types of ion combination and charge transfer
+reactions. The developed methods was used for the determination of cyanide in real
+water samples using two silver amalgam electrodes, with high selectivity and the
+method was compared with the standard methods. Cyanide was also determined by
+sequential injection analysis method using spectrophotometric detection.
+The DEP detection system was applied for sequential injection determination of
+Lansoprazole, Pantoprazole, Procainamide hydrochloride and ascorbic acid using
+platinum working electrodes, the method was applied for real samples and it was
+compared with the standard methods. For all the studied systems the variables that
+affect the signals were investigated using the univariate method of optimization, those
+variables include reagent solution concentration, flow rate, volumes, current density
+and delay time.
+The developed methods are rapid, simple, less costly and precise compared to other
+methods. Cinoxacin antibiotic was determined using simple titrimetric method based
+on DEP detection, using antimony electrodes. Lansoprazole and Pantoprazole were
+also determined using kinetic spectrophotometric method based by their oxidation
+reaction with Potassium permanganate. For the first time DEP was coupled with
+HPLC as a potential detector and it was applied for the determination of Ascorbic
+acid in real samples successfully.

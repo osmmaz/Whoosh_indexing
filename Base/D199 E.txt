@@ -1,0 +1,29 @@
+The unstable growth of mostly car based transportation system of Saudi Arabia
+has led to noticeable urban traffic congestion which has emerged as a potential problem
+in all large metropolitan cities in recent years. Therefore, proper understanding of the
+unique traffic behavior in this region in order to improve traffic signal operation and
+proper travel management is inevitable. Simulation modeling is an increasingly popular
+and effective tool for analyzing transportation problems with the least cost. Recent
+advancements in computer technology have led to the development of high fidelity
+microscopic simulation models which is safer, less expensive and faster than field
+implementation and testing. Testing road designs and traffic control systems, analysis of
+intelligent transportation systems, evaluating traffic management schemes and
+calibrating adaptive control systems are important applications of microscopic models.
+Whilst the models are useful to the profession, they must be calibrated and validated
+before they can be used to provide realistic results.
+The main objective of this study is to calibrate and validate the microscopic traffic
+simulation model PARAMICS to the traffic conditions in some selected urban arterials in
+the city of Al Khobar, Saudi Arabia. PARAMICS is one of the few comprehensive
+microscopic traffic simulators covering a wide range of traffic situations including traffic
+and transit on urban roads and motorways. To achieve this main objective several default
+values of the parameters such as driver familiarity, aggressiveness, mean target headway
+and mean reaction time were modified to mimic the field conditions. An important step
+of model calibration was to develop an Origin Destination (OD) matrix that represents
+the turning volume count at the intersections. The results with modified values of selected
+parameters showed satisfactory results between the models simulated Measure of
+Effectiveness (MOE's) and the field observed MOE's. In order to use the calibrated model
+regionally, the model was validated on a different network chosen in Al Khobar city
+using a different data set. The result in validating the calibrated model was successful in
+terms of pre set target criteria within an acceptable range. Later, using TRANSYT 7F
+and SYNCHRO signal plans of the new network were optimized and used in
+PARAMICS for further analysis.

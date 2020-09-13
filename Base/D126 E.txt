@@ -1,0 +1,18 @@
+This study deals with quantitative detection o f factors affecting volumetric uncertainty
+in Jauf reservoir in Saudi Arabia. The Devonian clastic Jauf reservoir is complex,
+pinched out, highly faulted, and stratigraphic trap, limited by an erosional truncation
+due to a regional Pre Unayzah Unconformity (PUU). The Jauf Formation was
+developed in a tidally influenced sequence o f shallow marine to fluvial sandstones.
+Latest technology for geological modeling allowed the construction of a sophisticated
+model, integrating various types o f data. This complex geological model incorporates
+a set of faults and an erosional unconformity surface, explicitly determined from
+seismic, and facies interpreted from core and log evaluation. A special study was
+conducted to explain the factors o f volumetric uncertainty. Structural uncertainties,
+affecting both the unconformity and faulted blocks, were studied to explain the
+volume of the reservoir. Additional sensitivity analysis was performed for facies,
+porosity and gas water contact to evaluate the normalized volumetric uncertainty.
+Uncertainty analysis was made to identify the number o f uncertain attributes. The
+simulation models were built through the derivative tree o f ten different scenarios with hundreds of realizations using critical geological factors such as facies, porosity,
+structural and fluid contacts. The study showed that, using currently available data,
+the major factors affecting the uncertainty are the erosional unconformity surface
+(PUU), and the facies distribution.

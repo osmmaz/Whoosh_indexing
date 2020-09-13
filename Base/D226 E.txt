@@ -1,0 +1,19 @@
+Mineral Fillers are commonly used in plastics to enhance the performance and reduce the
+cost of plastic resins. Uniform distribution of these fillers through the polymer matrix is
+one of the main considerations to achieve the desirable properties of composites. Oil Fly
+Ash (OFA) was used in this research project as filler in Low density Polyethylene
+(LDPE) and its effect on different properties was investigated. OFA was obtained as a
+by product from the combustion of fuel in power plants, is cheap filler as compared to the
+other traditional fillers. Surface modification or functionalization of OFA by acid
+treatment was one of the main goals of this study. It is believed that the surface
+modification is an effective technique to achieve good dispersion of filler into the
+polymer matrix and hence final properties of polymer composites may be enhanced.
+Different parameters were used for OFA functionalization followed by optimization of
+these parameters. Fourier transforms infrared spectroscopy, Scanning Electron
+Microscopy/Energy dispersive spectroscopy and X ray Diffraction crystallography of
+OFA was undertaken before and after the modification to observe the effect of surface
+modification. Also, the Polyethylene grafted Maleic Anhydride (PE g MA) was used to
+investigate the attraction of Maleic group with and without the functionalization of fillers.
+The effect of OFA on the rheological, morphological, mechanical and thermal properties
+was investigated. Different weight fractions of OFA were used in order to investigate the
+effect of filler content in the polymer matrix.

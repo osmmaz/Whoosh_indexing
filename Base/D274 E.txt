@@ -1,0 +1,29 @@
+This study aims at development of a computational model and experimental study
+of moisture diffusion and shrinkage in cementitious repair materials to evaluate
+the suitability of a cementitious repair mortar for shrinkage performance. Timedependent
+moisture loss in a cementitious repair material was modeled using moisture
+diffusion theory. The problem of moisture diffusion is highly non linear with the
+diffusixrity Ke depending on the moisture content C. Two finite element codes MSTDIFF1
+and MSTDIFF2 have been developed which handle one  and two dimensional
+moisture diffusion through cementitious materials, respectively. The relationship between
+the diffusivity Ke and moisture content C , required for the prediction of moisture
+loss, was established using experimental data of changes in moisture content C
+at different depths from the drying surface for different drying times. Free shrinkage
+strains c,/, in the repair material were determined experimentally and related to the
+moisture loss M . The relationship established between free shrinkage strains esh and
+moisture loss M can be used to determine the free shrinkage strains for different
+values of moisture loss in the repair material.
+Free shrinkage strains eth were fed into a finite element based stress analysis
+program STRSRSYS developed to predict the shrinkage stresses in the repair overlay/
+substrate concrete system. The suitability of a cementitious repair material for
+shrinkage performance was evaluated by comparing the stresses developed in the repair
+material with the permissible maximum stresses. The results of this study show
+that use of a moisture dependent diffusivity K c simulates the problem of moisture
+diffusion through the material more accurately. Free shrinkage strains were noted
+not to vary linearly with moisture loss, rendering the practice of solving directly
+the shrinkage diffusion equation questionable. The commercial repair material used
+yielded high free shrinkage strains resulting in high tensile and shear stresses. The
+ultimate free shrinkage strain of the repair material had the most significant effect
+on the level of induced stresses in the repair overlay/substrate concrete system. The
+restraint provided by the concrete substrate as well as the elastic modulus of the
+repair material had a significant effect on the level of induced stresses

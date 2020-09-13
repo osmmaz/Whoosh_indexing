@@ -1,0 +1,11 @@
+With the growing trend o f computer graphics application in various fields such as,
+Automobile industry, Aeronautical engineering, Ships designing, Mechanical
+instrumentation, Animation, Fonts designing etc, it is desirable to have mathematical
+representation o f physical objects in curve and/or surface formulation.
+A lot o f research is done in order to acquire an optimized curve designing scheme. The
+curves which are robust and easy to control and compute are o f more interest. O f all the
+possibilities in curve designing, the cubic functions are the most powerful as they can be
+used to define space curves and curves with inflections. More over these junctions are
+easy and efficient in computation. The ideas such as end point interpolation, detection o f
+characteristic points, least square approximation, recursive subdivision and
+parameterization can be used fo r curve fitting.

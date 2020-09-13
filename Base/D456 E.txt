@@ -1,0 +1,26 @@
+Lighting systems are known to be the major consumer of energy in buildings
+regardless of prevailing climates. Energy efficiency in a lighting system can be achieved
+mainly through the minimization of two variables: the lighting power density and the
+artificial lighting use. System use can be reduced by the effective integration of daylight
+with artificial lighting, because daylighting can reduce not only energy consumption but
+also the lighting internal loads and thus the cooling loads.
+The effective integration of the artificial lighting system with daylight occurs when
+artificial lighting can be controlled as a function of daylighting levels reaching the
+working surfaces. Large window areas allow more daylight into a space, but they may
+also allow excessive heat gain or loss, which increases the cooling or heating load and
+consequently the energy consumption. Designing a window for a space in which there is
+a balance between daylight provision and solar thermal load would lead to minimum
+energy consumption in the space.
+The main objective of this research is to investigate the energy performance for office
+buildings due to the integration of daylight and artificial lighting. A base case office
+building was developed by using the common practice in the Dhahran area. The energy
+simulation program VisualDOE was used to evaluate the impact of daylight integration
+on office building energy performance. The results showed a reduction of about 35  of
+lighting energy consumption and 13  of total energy consumption. The building cooling
+load was also reduced, which resulted in a smaller air conditioning system. A parametric
+analysis was conducted to find the impact of different window design parameters,
+including window area, height and glazing types, on building energy performance. A
+design tool in the form of a set of graphs and tables was then developed to assist in
+energy efficient window design through integration of daylight and artificial lighting for
+various window to wall ratios (WWRs), heights and glazing types for principal zone
+orientations in office buildings.

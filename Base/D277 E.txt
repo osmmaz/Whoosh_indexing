@@ -1,0 +1,31 @@
+The thesis addresses the problem of channel estimation in Impluse Radio Ultra 
+Wideband (IR UWB) communication system. The IR UWB communications utilize
+low duty cycle pulses to transmit data over the wireless channel. The transmitted
+energy is distributed over a large number of multipath components (MPCs).
+At the receiver, these MPCs need to be estimated accurately to capture sufficient
+energy for successful communications. In our work, the IEEE 802.15.4a channel
+model is used where the channel is assumed to be Linear Time Invariant (LTI)
+and thus the problem of channel estimation becomes the estimation of the sparse
+channel taps and their delays. Since, the bandwidth of the signal is very large
+and the Nyquist rate sampling (  16 GHz.) is impractical therefore we estimate
+the channel taps from the subsampled versions of the received signal profile. The transmitted pulse shape considered is the second derivative of the Gaussian pulse.
+We decompose the channel estimation problem into two parts: (i) estimation of
+the channel support, followed by, (ii) estimation of the support co efficients (channel
+amplitudes). We exploting the signal sparsity and reduce the search space for
+the channel support by using three different methods: Genetic Algorithm, Correlation
+and Compressive Sensing. In the classical estimation approach we develop
+Low Complexity Maximum Likelihood (LCML) estiamtor by leveraging the underlying
+structure of the problem. In the Bayesian framework, first we estimate the
+decomposed channel by incorporating the a priori multipath arrival time statistics
+for three different cases of amplitude statistics, namely (i) non Gaussian, (ii)
+non Gaussian with known second order statistics from the IEEE model, and (iii)
+Gaussian. Second, we jointly estimate the channel support and co efficients by
+deveopling an Approximate Minimum Mean Square Error Estimator (AMMSE).
+We leverage the structure to reduce the computational complexity and propose a
+Low Complexity MMSE (LCMMSE) channel estimator. The performance of the
+various methods in terms of the Normalized Root Mean Square Error (NRMSE)
+in estimation of MPC arrival times and energy capture were compared in the prescence
+of AWGN. The novel low complexity estimators, namely LCML, AMMSE
+and LCMMSE, presented in the thesis outperform other conventional UWB channel
+estimators. Furthermore, the computational complexity is much less as compared
+to that of Compressive Sensing, ML and MMSE estimators.

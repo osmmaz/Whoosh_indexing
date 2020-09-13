@@ -1,0 +1,24 @@
+Direct Sequence Spread Spectrum (D S/SS) systems offer several attractive features
+which motivates growing research on code synchronization (involves both Code Acquisition
+and Tracking) for SS systems as result of the crucial role that it plays in
+operation of SS systems. This thesis introduces a modified adaptive filter structure
+for Code Acquisition which is different from the one proposed earlier.
+A n adaptive filter (AF) is used to carry the function of code acquisition. The taps
+of the filter contains the results of the sum of a block o f chips. These contents are
+then compared with the similar summation of the locally generated sequence. The
+filter coefficients are adjusted towards their optimum value by using the Least Mean 
+Square (XM Sj algorithm and the filter tap weights are used to estimate the delay
+offset between the incoming SS signal and a locally generated P N sequence by m inimizing
+the mean square error M SE between the received and the locally generated
+sequences. This new method first locates the region or the cell in which the correct
+phase lies and then the phase itself is acquired by zeroing onto the chip within the
+cell identified.
+The analysis of the system is done in A W G N environment for single user and theoretical
+and simulation results are presented which shows that the system performance
+is quite significant for low SN R conditions.
+It is also shown that our modified scheme is robust to fading (frequency selective and
+flat rayleigh fading) for low SN R environment. The adaptive nature of the system
+is exploited to acquire and track the strongest received path.
+Moreover, it has been shown that the proposed acquisition scheme significantly outperforms
+conventional Matched Filter based acquisition schemes in the presence of
+Multiple Access Interference (M AI).

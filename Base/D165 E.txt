@@ -1,0 +1,13 @@
+The importance of automatic classification between speech signals and music signals
+has evolved as a research topic over recent years. The need to classify audio
+into categories such as speech or music is an important aspect of many multimedia
+document retrieval systems. Several approaches have been previously used to discriminate
+between speech and music data. In this thesis, we propose the use of the
+mean and variance of the discrete wavelet transform, variance of mel frequency cepstral
+coefficients, R M S of lowpass signal, and difference of maximum and m inim um
+of zero crossings in addition to other features that have been used previously fo r audio
+classification. We have used Multi Layer Perceptron (M LP) Neural Networks,
+Radial basis Functions (RBF) Neural Networks, and Hidden Markov Model (HMM)
+as classifiers. We have also proposed an algorithm to improve the classification accuracy
+when M LP is applied on audio samples of longer durations. Our experiments
+have shown encouraging results that indicate the viability o f our approach.

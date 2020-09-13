@@ -1,0 +1,27 @@
+Benzene, Toluene and Xylene (BTX) compounds are the main constituents o f gasoline
+and their presence in groundwater is common because o f hydrocarbon spill and leakage o f
+storage tanks. These compounds are relatively highly soluble and mobile in the subsurface
+and are toxic even at very low concentrations. Bioremediation is the most widely used
+technique among all the currently employed methods for treating BTX contaminated soil
+and groundwater. Various factors affecting bioremediation, such as dissolved oxygen,
+nutrient, temperature, pH, etc. have been well studied in the laboratory soil columns and
+microcosms. The effect o f soil permeability (as groundwater velocity) has been
+investigated in this study using a pilot scale sand tank model. The effect o f dissolved
+oxygen (DO) and contaminant concentration are also included in the study. Numerical
+models have been developed using finite difference and orthogonal collocation to simulate
+one dimensional transport with time dependent pore water velocity. The modeling process
+includes sorption given by linear isotherm and biodegradation given by a variety o f
+kinetics such as first order, zero order, Monod, Michalis Menten, Haldane and many other
+inhibitory and non inhibitory kinetics. A variety o f initial and boundary conditions such as
+Dirichlet's, Neuman's, mixed, decaying, etc. have been modeled. Three models (first order
+and/or zero order, non growth associated Monod, and Monod) have been inverted using a
+Gauss Marquardt Levenberg algorithm to assess the transport parameter, such as
+retardation constant (R), first order rate constant (p.) and zero order rate constant (y). A
+3(22) factorial experiment has been conducted to study three factors, groundwater
+velocity, BTX concentration and dissolved oxygen (DO). Observed concentration data
+collected from the sand tank model have been used for estimating the transport
+parameters. The data has been found to fit well to first order/zero order as well as to
+Monod model. Groundwater velocity has been found to be the most significant factor
+governing the rate o f biodegradation (determined from the first order rate constant) o f
+BTX compounds. Dissolved oxygen and BTX concentration have also been found to be
+significant factors.

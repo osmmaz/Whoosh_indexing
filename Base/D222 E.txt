@@ -1,0 +1,20 @@
+ZSM 5 zeolites precursors were synthesized by hydrothermal crystallization
+method from aluminosilicate gels in the presence of organic templates:   tetrapropyl
+ammonium bromide, and diethanolamine at temperatures o f 175°C under autogeneous
+pressure. The materials were characterized by powder X ray diffraction, Infrared
+spectroscopy, and benzene adsorption. The course of crystallization was followed by
+examining the X ray diffraction pattern o f the calcined samples and the optical density
+ratio o f the bands at 550cm'1 and 450cm'1 in the mid IR region o f the structure spectra as a
+function of crystallization time. For a well crystalline material, the optical density ratio is
+0.70; this ratio was found to be less if amorphous silica is present in zeolite.
+The catalytic activity o f the samples has been evaluated for the » hexane cracking
+in tubular fixed bed reactor at the temperature range o f 300°C to 500°C. The Cracking
+Mechanism Ratio (CMR) calculated reveals that the n hexane cracking reaction over the
+catalyst tested proceeds predominantly via protolytic route and catalytic activity o f the
+TPABr mediated samples increases with crystallinity. Apparent activation energies are
+remarkably similar in spite o f differences in relative level o f activity.
+The X ray, IR and n hexane cracking activity data suggests that these zeolite
+precursors are microcrystalline solid material in amorphous matrix with structures similar
+to that o f ZSM 5. The infrared spectroscopy results were correlated with other structural
+data obtained by X ray diffraction, adsorption measurements, and also with the results of
+catalytic test.

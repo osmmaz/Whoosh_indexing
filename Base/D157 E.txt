@@ -1,0 +1,15 @@
+This research is about investigating a new attack idea on anonymous communication
+systems, in particular Tor network. Tor is an open source anonymity network that helps
+users defends against a form of network surveillance that threatens personal privacy,
+confidential business activities and relationships. Tor is currently the state of the art in
+low latency anonymity systems and is the largest deployed anonymity network ever.
+Since its first deployment in the late 2003, several vulnerabilities have been discovered
+and several attacks have been reported. At the same time, the design of Tor went
+through several modifications and improvements driven by the discovered
+vulnerabilities and the reported attacks. This research moves in the same direction as it
+investigates a relevant attack idea that would constitute a major threat to Tor clients. The
+attack aims to push the client to use specific exit policies (unpopular ports) for its traffic.
+This way, the path selection algorithm of Tor is manipulated to select among a small
+number of Tor relays from which the attacker controls an important fraction. The attack
+is successful if both the entry and exit nodes selected by the client happen to be
+compromised.

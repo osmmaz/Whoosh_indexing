@@ -1,0 +1,19 @@
+Most of the existing correlations for estimating gas viscosity were developed in
+mid 60's and 70's of the last century. Limited number of data was used to develop
+them and their accuracies are questionable. Predicting accurate gas viscosity is
+extremely important in the oil and gas industry as it has a major impact on
+reservoir recovery, fluid flow, deliverability, and well storage.
+In this study, a new correlation has been introduced. This correlation is simpler,
+features higher accuracy, and uses fewer coefficients compared with the existing
+correlations. Its application covers a wider range of gas specific gravity without
+jeopardizing the accuracy of the correlation. Another model was built using
+Artificial Neural Networks, ANN in order to compare its results with thus from
+proposed correlation. The results were found to be accurate enough and thus new
+proposed correlation is considered acceptable and eliminates the requirement to
+research more complicated models.
+The existing correlations were studied and analyzed using the same, large set of
+measured data used for this study. Most of these correlations suffered from high
+ranges of error and thus were optimized using the linear and non linear regressions.
+New set of coefficients for these correlations are suggested for which the accuracy
+has significantly improved. In spite of such an improvement, the new correlation
+and new ANN model outperform the existing correlations

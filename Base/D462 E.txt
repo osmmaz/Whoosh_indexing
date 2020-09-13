@@ -1,0 +1,14 @@
+During the long term exposure of through Glass fiber reinforced plastic (GFRP)
+pipes, material degradation is expected to occur in the matrix, fiber, and the fiber matrix
+interfacial regions. The degradation rate may be constant or increase/decrease with time
+and can be gradual and abrupt. Changes in the degradation mechanisms may also occur
+during the course of long term exposure. All of these issues raise serious concerns
+regarding the long term durability of the GFRP pipes and constitute problems that
+require solutions before extensive use of the GFRP pipes in applications such as oil/gas
+gathering and transportation networks.
+In this study the effect of a variant natural and accelerated exposure conditions
+hydrostatic burst and low velocity impact tests on the 150 mm diameter GFRP pipes have
+been investigated. An in house hydrostatic burst testing system and an instrumented
+impact tester were used for the testing. Pipe specimens of 150 mm internal diameter, 6
+mm thickness and 1000 mm long were used for burst tests where as, for impact tests pipe
+sections of 160 mm length were used. Pipes were exposed to selected environments

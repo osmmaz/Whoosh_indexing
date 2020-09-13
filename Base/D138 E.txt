@@ -1,0 +1,17 @@
+This research work is related to the modeling o f integrated optical waveguides,
+waveguide discontinuities and gratings using the Method o f Lines (MoL). The basic
+three point central difference approximation o f the d2/d x 2 operator used in the MoL
+is extended to five point and seven point approximations with appropriate interface
+conditions fo r the E and H fields. This gives us improved numerical accuracy and
+reduced matrix size. It is applied to find the modal field and effective indices of the
+T E and TM Modes in different multi layer optical waveguides. Single and multiple
+waveguide discontinuity problems are solved using the MoL. The Perfectly Matched
+Layer (PML) absorber is used to absorb the radiated fields from discontinuities. The
+MoL is applied to periodic waveguide gratings and their reflection and transmission
+spectra are calculated. A fast and stable Cascading and Doubling Algorithm is used
+to model long gratings having thousands of periods. The MoL is applied to model
+a multi layer A R R O W structure. Periodic corrugations are introduced on the top
+surface of A R R O W fo r possible optical filtering applications. The reflection and
+transmission spectra of the resulting A R R O W Grating are calculated fo r different
+amount of loss in the A R R O W with different number of grating periods and different
+groove depths.

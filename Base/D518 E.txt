@@ -1,0 +1,26 @@
+Since nowadays polymers are being used increasingly for load bearing industrial
+applications, understanding the fatigue process in these materials is very necessary and
+essential. For application o f linear elastic fracture mechanics (LEFM) to polymers, it is
+necessary to recognize potential pitfalls caused by their viscoelastic behavior, i.e. stressstrain
+dependence on time (or frequency) and temperature. Due to their viscoelastic
+nature, the fatigue crack propagation (FCP) behavior o f most polymers is sensitive to test
+variables such as cyclic frequency and temperature. In this study, Fatigue crack
+propagation in Cholorinated polyvinyl chloride (CPVC) pipefittings and high density
+polyethylene (HDPE) pipes are investigated over the frequency and temperature ranges
+o f O.l lOHz and  10 70°C, respectively. Monotonic tests are also performed on both
+materials for different temperatures, and their result shows decrease in yield stress with
+increase in temperature.
+FCP tests were conducted on single edged notched specimens (SEN), prepared
+from CPVC pipefittings and HDPE pipes. A servo controlled electro hydraulic materials
+testing system was used for the fatigue testing. Crack growth was monitored optically by
+using the long distance traveling microscope with video camera system. The crack
+growth rate (da/dN) and stress intensity factor (AK) gave satisfactory correlation at all
+temperatures and frequencies. The fatigue crack growth resistance was found to increase
+with increasing frequency, and decrease with increasing temperature. Crazing was found
+to be the dominant fatigue mechanism, especially at (50° C and 70° C), while shear
+yielding was the dominant mechanism at ( 10°, 0° and 23° C). The da/dN AK master
+curves for CPVC and HDPE were developed for different frequencies based on the
+modified mechanical properties at different temperatures. Microscopic examination o f the
+fracture surfaces is also performed. Comparison o f the fatigue surfaces obtained at
+different temperatures and frequencies gives useful information on the fatigue fracture
+mechanisms operative at these temperatures and frequencies.

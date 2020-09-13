@@ -1,0 +1,10 @@
+The use of the pulse pulse method has been used to calculate the very cohesive rock permeability in recent times
+For ease and speed compared to conventional methods. Numerous studies have been conducted on the development of this method
+And their uses in calculating the permeability of rocks very coherent but most of these studies did not include the use of this method
+In the calculation of the permeability of rocks containing a crack.
+The aim of this study is to develop a mathematical model to solve the problem of intermittent fluid flow
+For compression during its operation at the full rock samples of the diameter containing the crack. Based on the results of the model
+The athlete has been created an approximate device for the pulse pulses experiments on the full rock samples containing diameter
+On a crack. The results can also be analyzed by preparing a computer program that can calculate the profanity of rocks containing
+Based on the results of empirical measurements of pulse pulses using linear regression. It has also been introduced
+In this study, a technique was used to estimate the permeability of rocks containing a crack of stress pulse tests.

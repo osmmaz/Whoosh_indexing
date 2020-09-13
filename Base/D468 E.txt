@@ -1,0 +1,21 @@
+Differential Electrolytic Potentiometric detector system is used in Flow Injection Analysis
+for the determination of Cyanides, Residual Chlorine and different types of Acid Base
+reactions. The method is rapid, simple, less costly and precise compared to other
+techniques.The technique of direct current differential electrolytic potentiometry (dc DEP)
+consists of polarizing two identical electrodes with a heavily stabilized current and
+measuring the potential difference (AE) between them during the course of the reaction. It
+is almost the first time that this type of detector is used in Flow Injection Analysis.
+Univariate method was applied for the optimization of necessary parameters including
+the current density, coil length and the flow rate. It was observed that when small current
+densities were employed, the polarized electrode exhibited a sluggish response, hence the
+resulting signal was relatively small. The height of this signal was improved on
+increasing the current density but there are some limitations which do not allow to
+increase the current densities above 20pA.cm'1. The residence time of the sample is found
+to be inversely related to the flow rate and the coil length upto certain limit. The
+calibration curve obtained on these optimized parameters having good correlation
+coefficient between 0.975 to 0.999.
+The main objective of this research is to develop an analytical technique, which is fast,
+accurate, having minimum interference with other substances, by using simple, portable
+and inexpensive apparatus, especially for the detection of those substances which are of
+some environmental interest like chlorine and cyanides and Alhamdolillah it has been
+achieved.

@@ -1,0 +1,16 @@
+Computer Aided Instruction (CAI) is the process of teaching by computer. Computerbased
+educational systems are valuable tools to improve learning. It is thus worth
+endowing programming environments with educational capabilities to help students learn
+programming. Computer Programming is a typical introductory computer science course
+that is offered to all science and engineering students in an academic environment. The
+amount of attention traditionally paid to the syntax of a programming language in the first
+course is excessive, and ought to be replaced with a more balanced introduction to the
+discipline. Program development process has three distinct phases: understand the
+problem, design the solution, and code the program. Much of the creativity in
+programming is concentrated in designing the solution rather than implementing it in a
+selected language. We have developed a model, called Computer Aided Programming
+Education (CAPE), that supports the program development process. CAPE consists of
+problem definition and algorithm construction modules. Algorithm construction module is
+currently supported with a facility to map an algorithm(s) into FORTRAN or Pascal code.
+CAPE motivates students to study the algorithmic problems operationally and provides a
+mechanism for rapid prototyping in various programming languages.

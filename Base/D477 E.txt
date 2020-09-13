@@ -1,0 +1,17 @@
+Disputes are common in the construction industry. Several methods exist for dispute
+resolution between the parties of the contract ranging from informal negotiation to legal
+litigation. This study addresses various dispute resolution methods and their advantages
+and disadvantages. Relative importance of factors considered in selecting a dispute
+resolution method along with the preferred method is determined by conducting a survey
+with twenty one (21) large contractors, twenty seven (27) eminent consultants and twenty
+two (22) owners (project managers representing owner organizations) in the Eastern
+Province of Saudi Arabia. The top most influencing factors identified were obtaining
+fairness, contract obligations, bindingness of the decision, cost of the process and type of
+dispute (majorVninor). Another objective of this research was to develop an AHP
+(Analytical hierarchy process) based model for the systematic selection of appropriate
+dispute resolution method using the preferences of factors provided by the end user. An
+AHP model was developed based on the results of the questionnaire survey as well as
+survey of the literature. Application of the model was Discussed via a hypothetical
+example utilizing the AHP based software, Expert Choice. This model will serve as a
+tool in selection of the appropriate dispute resolution methods for the Construction
+Industry.

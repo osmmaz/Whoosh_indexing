@@ -1,0 +1,17 @@
+Characterization and treatability studies on a bench scale were carried out for
+the petrochemical wastewater of saudi petrochemical company (SADAF) at Al 
+Jubail, Saudi Arabia. During wastewater quality survey, hourly samples were
+collected from the phosphate stream and the final effluent of the plant. The results
+of the analysis indicate that the wastewaters are low in organic content but
+variable in concentrations. The average total organic carbon for the phosphate
+stream and the final effluent were 73 mg/L and 65 mg/L, respectively.
+Batch scale granular activated carbon adsorption studies conducted on
+phosphate stream wastewater indicated that low values of initial pH and
+temperatures are favorable for adsorption. A nonadsorbable portion of organics
+was found to be ubiquitious to this specific wastewater. Bench scale ozonation
+studies were also conducted by varying the experimental conditions such as,
+detention time, gas flowrate, initial pH and temperature. The maximum reduction
+in terms of total organic carbon was 32.5 percent at a pH of 11.4 and temperature
+of 60°C. The experimental data fitted well to a first order equation. Furthermore,
+the combined ozone/activated carbon was found to remove upto 81 percent of
+total organic carbon from the phosphate stream wastewater.

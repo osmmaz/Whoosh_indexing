@@ -1,0 +1,12 @@
+Real time applications of neural networks demand high performance systems. Neural
+networks may be naturally represented by macro dataflow graphs. Dataflow
+machines therefore offer suitable platforms for simulation of these networks. In this
+thesis, the hardware requirements for neural computing are first discussed. The
+rationale of dataflow approach to neural computing is presented. A new neural
+dataflow processor architecture based on argument fetching •principles is proposed.
+The proposed architectural model is static and flexible to exploit different levels of
+parallelism offered by neural networks through the use of software pipelining. The
+architecture is studied by extensive simulations using some neural network examples
+with various parameters. Back propagation and Hopfield networks are transformed
+into dataflow graphs in order to execute on the machine. The simulation shows good
+performance results.

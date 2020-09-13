@@ -1,0 +1,15 @@
+The objective of this research is to develop a specialized construction price index that reflects
+the change in the price of school buildings in Saudi Arabia.
+This study was limited to school projects which are built for the MOE in Saudi Arabia.
+Elementary, intermediate and secondary school projects were considered in this study. The
+geographic coverage was limited to the main educational areas in Saudi Arabia, namely: Riyadh,
+Jeddah, and Eastern Province. Data was collected from the MOE in Riyadh for 114 school
+projects selected randomly.
+In this research, there are 36 items that have been selected from the common models as being
+representative in cost and regularly used. The item weights have been considered as the average of
+the base year quantities in the three areas. The year 1990 has been taken as the base year for the
+RSPPI and SPPI. The Laspeyres method has been used to calculate the RSPPI and the SPPI. The
+quantities and prices of 36 items of RSPPI and the SPPI were extracted from the BOQ's of the 114
+projects. This data has then been used to develop the RSPPI and the SPPI.
+Four indexes are developed in this research namely: the RSPPI for Riyadh, the RSPPI for
+Jeddah, the RSPPI for Eastern Province and the SPPI for Saudi Arabia.

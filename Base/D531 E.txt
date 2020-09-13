@@ -1,0 +1,30 @@
+The aim of this work is to give more insight about the performance of Adaptive
+Filters. Studying this performance will help researchers to understand the in
+u 
+ences that will a ect this. This work can be divided into two parts as follows :
+In the  rst part, we used the majorization theory as a mathematical tool to study
+the e ect of the input correlation scenarios on the performance of adaptive  lters.
+With this, we provide a mechanism to assess their performance. Also, with ma 
+jorization theory, vector comparison is carried out and their order is preserved
+through Schur's functions. Each correlation scenario can be totally described by
+the eigenvalues of the covariance matrix Ru. Thus, a comparison between these
+scenarios can be done and a comparison between the responses of adaptive  lters
+to these scenarios can also be done. In the second part, a new approach for study 
+ing the steady state performance of the Recursive Least Square (RLS) adaptive
+xii
+ lter for a circularly correlated Gaussian input. The mean square analysis of the
+RLS  lter in the steady state relies on the moment of the random variable kuik2
+Pi ,
+where ui is input to the RLS  lter and Pi is the estimate of the inverse of input
+covariance matrix. Earlier approaches evaluate this moment by assuming that ui
+and Pi are independent which could result in negative value of the steady state
+Excess Mean Square Error (EMSE). In this work, we avoid this assumption and
+derive a closed from expression for this moment. This derivation is based on
+ nding the cumulative distribution function (CDF) of the random variable of the
+form 1
+
++jjujj2
+D
+, where u is correlated circular Gaussian input and D is a diagonal
+matrix. As a result, we obtain more accurate estimate of the EMSE of the RLS
+algorithm.

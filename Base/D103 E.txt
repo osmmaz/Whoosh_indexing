@@ -1,0 +1,18 @@
+Time frequency analysis, including wavelet transforms, is one of the new and powerful tools
+in the important field of structural health monitoring using vibration analysis. Commonly used signal
+analysis techniques, based on spectral approaches such as the Fast Fourier Transform (FFT), are
+powerful in diagnosing a variety of vibration related problems in rotating machinery. Although these
+techniques provide powerful diagnostic tools in stationary conditions (steady mode), they fail to do so
+in several practical cases involving non stationary data (transient mode), which could result either
+from fast operational conditions, such as the fast start up of an electrical motor, or from the presence
+of a fault causing a discontinuity in the vibration signal being monitored.
+Although the short time Fourier transform (STFT) dose provide the classical FFT with a
+capability of retrieving some time information through its use of windowing, it remains incapable of
+inquiring the FFT's frequency resolution beyond what the window used can offer, especially for
+localized (transient) signals.
+This thesis addresses the problem of detecting impulsive faults in turbo machinery using a
+novel approach combining three powerful signal processing tools: the wavelet packet transform,
+continuous wavelet transform and maxima lines in wavelet domain. The test used in this thesis
+consists of a lab grade experimental setup of vibration analysis. Related and critical issue such as the
+selection of mother wavelet is also addressed. Finally the results are very encouraging in that the
+targeted impulsive faults have been accurately and effectively detected.

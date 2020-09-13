@@ -1,0 +1,22 @@
+This research discusses the delay in public water and sewage construction
+projects in Saudi Arabia. It studies frequency, extent, and importance of causes
+of delay in such projects. Sixty causes were identified and classified by source
+into 6 groups.
+A field survey was conducted through a structured questionnaire including
+23 contractors, 12 consultant engineers, and 10 water & sewage authorities in
+the Eastern Province and Riyadh Province. Frequency and extent of delay were
+determined. SAS was used to analyze the data to present statistical measures and
+to calculate the importance index and ranking of the causes for each individual
+party and as an aggregate (standard) importance.
+A hypothesis that the parties generally agree on the importance ranking of
+the causes of delay was tested. It was concluded that the contractor disagrees
+with the consultant and the owner in the importance ranking of the causes.
+The research concluded that the delay occurred frequently in such projects,
+specially in medium and large size projects, and that the extent of delay is
+severe, specially in small projects. The study concluded that there are many
+important causes of delay related mainly to owner involvement, contractor
+performance, and the early planning and design of the project. Among these
+important causes are financial problems, changes in the design and scope of the
+projects, delay in making decisions and gaining approvals by the owner,
+difficulties in obtaining work permits, and coordination and communication
+problems.

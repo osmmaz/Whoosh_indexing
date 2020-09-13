@@ -1,0 +1,4 @@
+In this thesis, we consider partial di erential equations with a small parameter.
+By employing di erent approximate Lie symmetry approaches we attempt to  nd
+solutions to such equations. We compare these di erent approaches and discuss
+advantages of using one over the other.

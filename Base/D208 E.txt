@@ -1,0 +1,20 @@
+Low molecular weight poly(acrylates and methacrylates) are extensively used as macromonomers
+in the syntheses o f block and graft copolymers, and in the formulation o f “high solids” paints and
+coatings. Molecular weight control is commonly achieved by using thiols. However, thiols impart
+undesirable properties such as color, odor and toxicity to the finished products. More recently, the
+use of cobalt (II) oximes has proved to be efficient in achieving molecular weight control. This
+new class o f compounds works at parts per million levels. It also eliminates the problems
+encountered with conventional molecular weight regulators. This study involved the synthesis and
+characterization o f cobalt alphafurildioxime {Co(ct fdo 2H)2(BF2)2.2H2 0 }, and its use as a
+potential catalytic chain transfer agent (CCTA) in the bulk free radical homo  and copolymerization
+of some methacrylates and styrene monomers. Azobis(isobutyronitile), AH3N was
+used as initiator. Elemental analysis and UV visible technique were used to characterize the
+CCTA. Molecular weight o f the resulting polymers was studied by dilute solution viscometry
+(DSV) and gel permeation chromatography (GPC). Catalytic chain transfer constant (Cs) values
+were evaluated using the Mayo equation. The effects o f the chain transfer agent on polydispersity
+index (PDI) and monomer conversion were also investigated. Molecular weights obtained from
+both DSV and GPC and were found to decrease with increasing concentration o f the CCTA. Cs
+values evaluated were comparable in magnitude to those reported in the literature. The samples
+had a relatively narrow polydispersity in the range o f 1.5 to 2.0. Monomer conversion was found
+to decrease with increasing concentration o f the CCTA. This has been attributed to retardation in
+rate of certain processes.

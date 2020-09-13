@@ -1,0 +1,17 @@
+Mobile communication systems are usually maligned by the presence
+of Doppler frequencies as there exists a relative motion between the
+transmitter and the receiver. Modulation schemes that have potential
+immunity to frequency offsets have been a topic of interest since the development
+of mobile technology. Double differential phase shift keying
+(DDPSK) is one among such schemes and has the advantage of being simple.
+In this thesis, DDPSK is analyzed over fading channels taking into
+effect the presence of frequency offsets, as fading and Doppler frequencies
+characterize a mobile channel.
+Though the scheme is simple, analysis show that the performance of
+DDPSK is poor when compared to the conventional differential phase
+shift keying (DPSK). In order to overcome this shortcoming, a receiver
+structure has been proposed in the present work. By utilizing the proposed
+receiver model, it has been found that the probability of error
+obtained is less than that of the conventional DPSK.
+All analytical results showed good agreement with the Monte Carlo
+simulations.

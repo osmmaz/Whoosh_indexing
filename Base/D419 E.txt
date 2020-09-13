@@ -1,0 +1,6 @@
+Late Miocene Early Pliocene Hofuf outcrop is located in the eastern province. The aims
+of this study are to determine the depositional environment, to build surface outcrop
+models (facies and porosity models) using sedimentology, image the subsurface through
+the Ground Penetrating Radar to detect the reflectors and image the face of the outcrop
+via terrestrial laser scanning (LIDAR) and integrate it with ground penetrating radar data
+to track these layers detected by the radar on LIDAR’s image.

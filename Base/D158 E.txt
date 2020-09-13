@@ -1,0 +1,15 @@
+The IPv6 protocol is the next generation IP protocol that addresses many of the shortcomings in
+the present IPv4 protocol. Some of the enhancements in the IPv6 over IPv4 are increased
+address space, mandatory security and provision of stateless auto configuration, a technique by
+which a new node forms its own address without the assistance of DHCP server or manual
+configuration by a network administrator. While the stateless auto configuration approach
+allows instant plugging in of a node, guarantees immediate communication with other nodes and
+eliminates the costs of procuring and maintaining DHCP servers, it however opens up ways for
+malicious nodes in the network to disallow many upcoming nodes from initialising their network
+interfaces, a form of denial of service. In this thesis, we propose two techniques to allow
+upcoming nodes in an IPv6 network to ascertain, in distributed fashion, the uniqueness of their
+respective network identifiers. The first scheme uses a P2P trust verification approach for
+identifying a rogue node. The second scheme is based on information hiding. Our proposed
+schemes do not rely on centralized verification servers, and they prove to provide high assurance
+to new nodes intending to join the network, with minimal overhead, as illustrated through our
+simulations and analysis.

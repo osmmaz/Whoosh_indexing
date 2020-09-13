@@ -1,0 +1,19 @@
+Liquid desiccants are widely used fo r dehumidification o f air. In order to analyze
+the performance of the system using desiccant technology, the thermophysical
+properties of desiccants are essential. In particular, the vapor pressure o f the liquid
+desiccant is one of the important properties in dehumidification. Classical thermodynamic
+approach is used to predict the vapor pressure of lithium chloride at different
+concentrations. Simple mixing rules are then used to predict the vapor pressure,
+density and viscosity of the desiccant mixture namely calcium chloride and lithium
+chloride.
+Drying of petroleum transmission pipelines involves passing of dehumidified air
+with a certain initial water vapor concentration until the air attains saturation level.
+For this drying problem, the governing equations are derived and solved analytically
+as well as numerically with appropriate boundary conditions for the variation of dry
+air concentration and the drying time.
+Liquid desiccant used for dehumidification has to be reconcentrated for reuse. Instead
+of using thermal energy, a method is proposed in this thesis to use mechanical
+energy for regeneration. Osmotic pressure required to regenerate the weak desiccant
+for a given concentration is predicted. Correlations for predicting the pressure required
+for regenerating the weak desiccant are also developed for different operating
+parameters.

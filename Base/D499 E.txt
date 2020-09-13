@@ -1,0 +1,26 @@
+Priority intersections form a major element in road networks since significant
+portions of traffic accidents and delays occur at them. Nevertheless, there is lack in
+studies directed to evaluate the performance of these junctions and to understand driver
+behavior at them. Previous research has acknowledged that priority junctions can be
+studied within the context of driver gap acceptance behavior and has raised the
+importance of incorporating driver, vehicle, and trip attributes in gap acceptance studies
+related to these junctions. However, limited effort has been directed to this subject. The
+quantitative effects of driver, vehicle, and trip attributes were not evaluated and the
+reported results in literature about the effects of other typical traffic attributes are
+inconsistent.
+In this study Binomial Logit Behavioral Models are developed for diver gap
+acceptance at priority intersections. The study has investigated the effect of the main
+driver, vehicle, trip, gap, and traffic attributes on driver gap acceptance behavior at Tintersections.
+Left turns form major road and right and left turns from minor road are
+considered. Data needed to calibrate the models were collected using field administered
+questionnaires and video cameras. More than thirty models are reported and discussed in
+the study. Along with the basic traffic and delay attributes such as the gap size, the speed
+of the approaching vehicle, the total delay imposed on the driver at minor road, and the
+traffic volume at minor road the driver, trip, and vehicle attributes such as driver age, sex,
+and accident experience, trip duration, and vehicle occupancy were found to be significant
+factors in explaining driver gap acceptance behavior. The study has also concluded that
+binary choice models other than the binomial Logit could provide an adequate framework
+for modeling driver gap acceptance process.
+The results of gap acceptance analysis are applicable to different traffic engineering
+fields. As an example, the study has demonstrated the applicability of the calibrated
+models to identify sight distance requirements at priority intersections.

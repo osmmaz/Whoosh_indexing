@@ -1,0 +1,13 @@
+Genetic algorithms have been applied fo r null steering to control grating lobes in
+scanned arrays. Element position perturbations and complex weight variations are
+the two techniques used for null steering. The use of genetic algorithm for null
+steering provides grating lobe control at the specified directions. Further control of
+the grating lobe has been achieved by the appropriate choice of the element pattern
+of finite length dipoles. Results presented for both uniform and non uniform arrays,
+using the GA based control as well as control based on element pattern synthesis
+show that when these techniques are combined, good radiation patterns are obtained.
+This research has also shown that by controlling grating lobes, the directivity and
+the useful scanning range of the array increases. Null steering to control grating
+lobes does not affect the main beam. It is thus concluded from this research that the
+genetic algorithm can be an effective tool for designing scanned arrays with controlled
+grating lobes.

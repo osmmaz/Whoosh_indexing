@@ -1,0 +1,29 @@
+This study was conducted to investigate the effect of relatively high temperatures
+(25 to 70 °C) and chloride and sulfate contamination on the reinforcement corrosion in
+ordinary portland cement (OPC) and blended cement concretes. To achieve the
+objectives of this research study, more than 500 concrete specimens were cast and
+tested. The effect of temperature and chloride and sulfate contamination on the
+compressive strength, porosity, electrical resistivity, alkalinity, water soluble chloride
+and sulfate concentration, and corrosion of reinforcing steel was evaluated.
+Results indicated that both the temperature and chloride sulfate contamination
+influence the compressive strength of OPC and blended cement concrete specimens.
+The compressive strength in OPC and blended cement concrete specimens was
+observed to decrease with increasing exposure temperature. Addition of chloride and
+chloride plus sulfate ions resulted in a decrease in the strength of OPC specimens,
+while an increase in the strength of the blended cement concrete specimens was
+indicated due to the addition of these salts. The cumulative pore volume in the OPC
+paste specimens was observed to increase with increasing exposure temperature. This
+trend was also observed in blended cements.
+The C l'/O H ' ratio was also observed to increase with the exposure temperature.
+The effect of temperature on C l'/O H " ratio was more pronounced for exposure
+temperatures of more than 40 °C.
+The reinforcement corrosion activity, as measured by the corrosion current density
+on steel, in both the OPC and blended cement concrete specimens was observed to be
+higher in specimens contaminated with both chloride and sulfate salts as against those
+contaminated with only chloride salts. This indicates that the presence of both chloride
+and sulfate ions increases the rate of corrosion. At 70 °C exposure temperature, and
+chloride sulfate contamination, the performance of all the blended cements investigated,
+except ASTM C 618 Class C fly ash, was not better than that of plain cements. This
+indicates that the technological benefit of using supplementary cementing materials like
+fly ash, silica fume and blast furnace slag can be utilized only when the chloride and/or
+sulfate contamination contributed by the mix constituents are minimized.

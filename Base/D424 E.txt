@@ -1,0 +1,10 @@
+The differential cross section o f 14N (d,a)I2C reaction has been calculated at 0.9, 1.0,
+1.04, 1.1 and 1.2 MeV deuteron energies using Distorted Wave Born Approximation
+theory. The calculations w ere carried out using finite range approximation for one
+step process. In l4N (d ,a)l2C reaction, it was assumed that a deuteron cluster from l4N
+nucleus is picked up by incident deuteron to form an alpha particle. T he calculated
+differential cross section at 1.0, 1.04 and 1.1 MeV have good agreement with
+experimental differential cross section. However at 0.9 and 1.2 M eV deuteron
+energies the agreement is poor at some angles. This suggests that at 0.9 and 1.2 MeV
+deuteron energies contribution from other reaction channels such as heavy particle
+pick up and knock out should be considered.

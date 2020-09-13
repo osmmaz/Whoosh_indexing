@@ -1,0 +1,35 @@
+Electrochemical reduction of carbon dioxide (ERC) is an elegant method to abate global
+warming by chemically fixing a major green house gas (GHG), carbon dioxide (CO2).
+Major synthesis products include economically attractive chemicals like methanol, formic
+acid methane and ethylene etc. Various aspects of ERC, like thermodynamics, kinetics
+and mechanism (s), have been extensively studied in past two decades in both aqoues and
+non aqueous medium. The process requires an efficient catalyst and energy because very
+CO2 being a very stable molecule and its slow electroreduction kinetics. Moreover,
+reduction products strongly depend on electro catalyst and electrical potentials used. In
+both aqueous and non aqueous environments, even at higher over potentials, the yield and
+selectivity towards desired products is still relatively low. The major bottle neck is
+believed to be the low solubility of carbon dioxide in electrolyte and slow kinetics
+leading to low current density and high overpotential at which this reaction proceeds.
+Moreover, typically, ERC proceeds concomitantly with hydrogen evolution which, in
+turn, further limits the overall efficiency of the process.
+Focus of this work was on the development of nano electrocatalysts and a gas phase
+reactor system for ERC. In this work, in the first part copper, ruthenium, palladium and
+xx
+iron supported on carbon nanotubes (CNTs) were synthesized by incipient impregnation
+and deposition precipitation method. The synthesized catalysts were characterized for
+their morphology and structure by XRD, SEM, TEM, BET and XPS. The results shows
+that the above mentioned metals in the nano scale were successfully mounted on the
+support. These catalysts were tested in a half cell to quick evaluation of their
+electrocatalytic activity and then membrane electrode assembly (MEA) was made using
+the optimum catalyst to further test their activity in a continuous solid polymer electrolyte
+(SPE) reactor.
+The second part involved the synthesis of titanium oxide nanotubes (TNTs) and its
+utilization as catalyst support. Copper, ruthenium, palladium and iron supported on TNT
+catalysts were prepared. These catalysts were characterized for their morphology and
+structure. Electro catalytic activities are evaluated in a half cell as well as in H type
+Pyrex cell by linear sweep voltammetry (LSV) and chronoamperometry methods (CA).
+The products were analyzed by gas chromatography equipped with flame ionization
+detector (FID) and thermal conductivity detector (TCD). Then the optimum catalyst was
+used to prepare MEA using nafion as proton conducting membrane to test the optimum
+catalyst in a continuous SPE reactor under varied process parameters. Methanol,
+methane, and ethylene were detected as major products.

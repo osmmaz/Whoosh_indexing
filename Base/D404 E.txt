@@ -1,0 +1,19 @@
+Till the present, electric utilities are facing the problem o f high impedance fault (HIF)
+detection on electric overhead distribution feeders. These faults often occur when a bare
+conductor breaks and falls to ground through a high impedance current path. Most HIFs
+draw little current, which makes them difficult to detect by conventional overcurrent
+relays. When such faults are not detected, they create a public hazard and threaten the
+lives of people. The desire to improve public safety has been the primary motivator for the
+development o f HIF detectors.
+Detection techniques based on Artificial Neural Network (ANN) have shown a good
+capability of detecting HIFs. In this thesis, a multi layer feed forward ANN, is designed
+and trained with the Scaled Conjugate Gradient (TRAINSCG) algorithm to analyze the
+current and voltage waveforms at the substation 13.8 kV bus and indicate whether the
+feeder is faulty or not. In addition, the ANN can locate the faulty section of the feeder,
+identity the faulty phase, and most importantly differentiate between faults and fault like
+events, such as normal load switching, with a high degree of accuracy.
+The Electromagnetic Transients Program (EMTP) is used to simulate the distribution
+feeder and generate the training cases for the ANN, which is developed and trained using
+the “ Neural Network Toolbox for MATLAB® ”. The feeder parameters are selected to
+represent a typical overhead feeder in the distribution network of the Saudi Electricity
+Company Eastern Region Branch (SEC ERB)

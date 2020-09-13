@@ -1,0 +1,25 @@
+Rapid and accurate in situ measurement of soil properties is still a challenge facing the
+construction industry and there is a need for new and advanced devices and methods.
+Dynamic cone penetration test (DCPT) is an effective device used for field quality
+assessment of soils. DCPT was used to predict the engineering properties of sand in which
+it is difficult to obtain undisturbed sand samples. Furthermore, it is very difficult to
+perform the conventional density tests, such as the sand replacement (sand cone) method,
+especially when loose or submerged sandy soil is encountered.
+This study was aimed to evaluate the effect of dry density, silt content and water level on
+the shear strength and penetration resistance using DCPT for sands. The soil sample was
+brought from a site near King Fahd University of Petroleum & Minerals and classified as
+poorly graded sand (SP) according to USCS. DCPTs were performed on sand samples
+with different silt content (1 , 4  and 8 ) and different relative densities (40 , 60 
+and 90 ) where it was compacted in a large scale mold (1600 mm in diameter and 1500
+mm height). Test results indicated that the increase in the dry density and silt content
+increased the penetration resistance which means a decrease in the dynamic cone
+penetration index (DCPI). Further, the results showed that variations in water table level
+had a significant effect on DCPT results. In addition, the effective stress of sand was
+changed due to pore water pressure in which the penetration resistance revealed out a
+significant influence on the stiffness of sand. Regressions were developed to correlate the
+various parameters.
+In addition to the laboratory testing, a comprehensive field testing program conducted in
+Al Jubail and Rass Al Khair was utilized to validate laboratory testing and evaluate the
+potential use of the DCPT to assess the compaction during the construction of backfill.
+DCPT has proven to be an effective tool in the assessment of compaction and density of
+sand backfill, in the field.

@@ -1,0 +1,16 @@
+Finite time thermodynamic models which simulate the working o f actual vapor com pression
+refrigeration systems are developed. The characteristic performance curves
+o f the refrigeration systems that include simple vapor compression system , m echanical
+subcooling and two stage system s are presented in terms o f the coefficient of
+performance (C O P ) and cooling capacity o f the system ( Q eVap)  Using the data obtained
+from the thermodynamic models, performance curves of the system s are obtained.
+The resulting relationship between the C O P and Qcvap is explained in light
+o f various irreversible losses o f the system. These losses are due to fin ite rate o f
+heat transfer in the heat exchangers and the non isentropic compression and expansion
+in the compressor(s) and expansion valve(s) o f the systems, respectively. The
+thermodynaic models are also used fo r predicting an optim um distribution o f the total
+heat exchanger area between the individual heat exchangers o f the system s. The
+results obtained from the thermodynamic models are also compared with an actual
+performance o f a simple vapor compression system. I t is found that the perform ance
+characteristics predicted by the thermodynamic model is very close (w ithin f_2 )
+than that shown by actual experimental results.

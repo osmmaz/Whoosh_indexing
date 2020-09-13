@@ -1,0 +1,24 @@
+radiating patches are universally accepted as popular antenna structures due to
+their versatile feeding techniques, light weight and conformable nature. However,
+this class of single element antennas are inherently narrow bandwidth devices
+with low efficiency.
+The aim of this study is to design a microstrip patch antenna with dual frequency
+response and improved impedance bandwidth. Among many available techniques,
+stacked patch configuration is selected to introduce dual frequency response and
+the substrate parameters are manipulated to enhance the impedance bandwidth.
+Coaxial probe feeding technique is selected to excite the proposed stacked circular
+patch antenna based on an air dielectric composite substrate. Professional
+software is used to simulate and optimize the antenna response. The designed
+antenna exhibited dual frequency response with a wider bandwidth associated
+with the 2nd resonance. To achieve widening impedance bandwidth of the 1st
+resonance, aperture coupled feed mechanism is used with a near resonant aperture.
+Simulated antenna response was optimized to achieve desired results. Since
+aperture coupled feeding technique is more feasible to implement an array
+configuration, it is used to excite a two element linear array of stacked patch
+antennas. Computational facilities (PC RAM) limited the investigation of larger
+array dimensions.
+The fabrication of the optimized antenna structure is carried out using Protomate
+PCB plotter. An HP network analyser is used to measure the scattering parameters
+(|Sn| in dB) of the designed antennas. The antenna measurement system, available
+in the antenna lab, is used to experimentally observe the radiation characteristics
+of these antennas. The measured data are used to corroborate the simulated results.

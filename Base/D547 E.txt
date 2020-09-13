@@ -1,0 +1,7 @@
+The concepts cyclic purity and total purity for modules are defined by Simmons over
+commutative domains. In this work equational approaches are used to generalise these
+concepts and related results to modules over arbitrary rings. It is shown here that single
+splitness and single compactness as defined by Azumaya, coincide with these generalised
+versions o f cyclic purity and total purity. Among other results, rings all o f whose modules
+are totally pure are characterized, and coflatness is used to characterize rings over which
+every totally pure module is injective.

@@ -1,0 +1,20 @@
+The Saudi Government encourages pre college education and allocates a generous part of
+its budget every year for enhancing its quality and for making it available for all citizens.
+The Ministry of Education implements the governmental policy towards educations and
+builds hundreds of schools every year. In order to build these schools, the Ministry of
+Education has to prepare the needed budget and submit it to the Ministry of Finance for its
+approval. The submitted budget has to be accurate enough to prevent problems associated
+with underestimation or overestimation of the project cost, such as cancellation of the
+project at an intermediate stage or building the project below the desired standards. So, in
+order to help the Ministry of Education to prepare a reliable cost estimate for its school
+projects and achieve its predetermined plans, this research was conducted. In this research,
+an identification and evaluation of the budget estimating method currently used by the
+Ministry of Education were carried out.
+This evaluation process revealed major strengths and weaknesses of the system. In order to
+upgrade such a system, mathematical models were developed. These mathematical models
+were designed to produce the budget estimate at the conceptual stage when only little
+information are available about the project. The predictability of the developed models was
+checked and found to produce better estimates than those produced by the current
+estimating method used by the Ministry of Education. Moreover, the outputs of the
+developed mathematical models were checked and found to comply with the accuracy range
+recommended by the American Association of Cost Engineers (AACE).

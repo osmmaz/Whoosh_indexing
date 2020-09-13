@@ -1,0 +1,18 @@
+The application of pulse decay method has been extended from linear
+core plugs to full diameter whole cores. A mathematical model, which
+incorporates the slippage effects, has been developed to solve the problem of
+transverse, unsteady compressible fluid flow through whole cores.
+Experimental set up has also been constructed for performing pulse decay
+experiments on whole cores. A numerical model adopting a curvilinear grid
+has been developed to solve the governing non linear flow equation. Based
+on this numerical solution, a data analysis computer program has also been
+developed which calculates the permeability and Klinkenberg factor from
+measured pulse decay experimental data using non linear regression
+technique. Pulse decay experiments were conducted on sandstone samples
+under the conditions where the data were influenced by gas slippage effects,
+using gas as the pore fluid. A technique has also been presented for the
+estimation of permeability and Klinkenberg factor from multiple pressure
+pulse decay tests. The obtained results are compared with the conventional
+steady state values. The proposed method is much faster and easier to
+perform as compared to the conventional steady state method and can also
+help detect core heterogeneity.

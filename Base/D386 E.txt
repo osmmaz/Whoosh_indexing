@@ -1,0 +1,11 @@
+This thesis discusses the design of a variable gain transimpedance preamplifier with high
+sensitivity, high gain, large bandwidth and wide dynamic range. Different preamplifier
+configurations are evaluated and compared. The Automatic Gain Control (AGC) concept
+is introduced. Also, the design of feedback based AGC for transimpedance preamplifier
+is provided. The common base front end transimpedance preamplifier is studied in
+depth. Solutions are proposed and simulated to solve a DC instability of this preamplifier
+against the change in the feedback resistance. An optimized variable gain
+transimpedance preamplifier with common base input stage is proposed. The usage of
+Current Conveyor (CC) as a transimpedance preamplifier is investigated. A
+programmable CC based transimpedance preamplifier is proposed. Finally, an AGC for
+CC based programmable transimpedance preamplifier is also proposed

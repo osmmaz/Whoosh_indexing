@@ -1,0 +1,22 @@
+The interaction o f antiarthritic drug aurothiom alate (Autm)n with thiourea,
+selenourea, imidazoildine 2 selone, SCN* and SeCN* in aqueous solution has been studied
+using l3C NMR spectroscopy. It has been observed that the thiourea forms a 1:1 complex
+with (Autm)n, SCN ' causes an increase in the polym erization o f (A utm )n, while,
+selenourea, imidazolidine 2 seIone and SeCN' cause redox reactions with (Autm)n to form
+metallic gold, metallic selenium and thiomalic disulfide.
+The characterization of polymeric gold(I)captopril (Aucap)n has been carried out
+using viscosity and electronic, mass, 13C and ^ N NMR spectroscopies. It was observed
+that the degree o f polymerization in (Aucap)n is much higher than that o f (Autm)n. Mass
+spectroscopy has shown two characteristic routes o f fragmentation. It has been observed
+that (Aucap)n also forms 1:1 complex with thiourea, while it undergo a redox reaction with
+selenourea and SeCN' to produce metallic gold, metallic selenium and captopril disulfide.
+The ligand scrambling reaction of R3 PA u13C 15N complexes to form [(R3 P)2 Au]+
+and [Au(13C l5N)2 ]' species has been studied using 13C, 15N and 31P NMR spectroscopy
+in a series of complexes. We have reported U ^ lp .n c ), 2J(31p_13q and 3J(31p.
+15n) coupling constants in these complexes and have observed various trends in them with
+respect to basicity of phosphine ligands. The free energy o f activation in these complexes is
+also measured using 3 !p NMR band shape analysis.
+The antisymbiotic trans effect in a series o f R3 PA uS13C 15N complexes has been
+studied using infrared, I3C, I5N and 3IP NMR spectroscopies. It has been observed that
+unlike R3 PA ul3C 15N complexes, the R3 PA uS13C 15N complexes do not undergo ligand
+scrambling reactions.

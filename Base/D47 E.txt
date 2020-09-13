@@ -1,0 +1,17 @@
+Free electrons in metals can strongly interact with light to form Surface Plasmon Polaritons
+(SPPs). The resulting electromagnetic waves are confined within sub wavelength dimensions
+and can propagate along the metal interface. These waves can potentially be used in many
+areas such as sensing, imaging, energy and optoelectronics. To efficiently utilize SPP
+propagation, their relatively short propagation length has to be enhanced. Also, methods of
+SPP modulation have to be devised. Efficient optical modulation of SPPs will pave the way
+for great advances in all optical switching and miniaturization of on chip circuits. It will also
+unlock the tremendous potential of nano scale propagation of SPPs for the possibility to
+make efficient sensors to be applied in fields such as medicine and drug delivery. The aim of
+this thesis is to survey the existing methods for SPP modulation and to investigate novel
+engineering approaches to achieve efficient SPP modulation. The theoretical approach used
+in the investigations is based on a numerical model recently developed using Finite
+Difference Time Domain (FDTD) method. Various prototypes that can modulate SPP have
+been simulated through the use of Chalcogenide (ChG) glass and noble metals. It was found
+that the designed prototypes when pumped with varying input intensity signals were capable
+of modulating SPPs by activating the nonlinear behaviour of ChG glass, thus paving the way
+for fabrication of active devices.

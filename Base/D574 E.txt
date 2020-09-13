@@ -1,0 +1,12 @@
+Advances in the semi conductor process and design technology have paved th e way
+for system on chips (SoCs). Traditional IC design in which every circuit is designed
+from scratch and reuse is lim ited only to standard cell libraries is more and more replaced
+by the SoC design methodology. However, this new design m ethodology has
+its own challenges. A m ajor challenge is to reduce the increasing volume of test data.
+Basically, there are two approaches: compression and compaction. In this thesis, the
+problems of static com paction and test vector reordering for com binational circuits
+are investigated. A new class of static com paction algorithm s referred to as test
+vector decomposition (T V D ) is introduced. Two new static com paction algorithm s
+based on TVD are proposed. Besides, the use of the critical path tracing algorithm
+as a fault sim ulator in test vector reordering procedures is proposed. Experim ental
+results are provided to dem onstrate the efficiency and effectiveness of our algorithm s.

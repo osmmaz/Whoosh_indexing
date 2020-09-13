@@ -1,0 +1,17 @@
+A static synchronous compensator (STATCOM) is a shunt connected FACTS device,
+which is capable o f enhancing the power system damping by exchanging reactive power
+with the system. In this thesis, robust STATCOM controls have been investigated fo r
+power system damping improvement. Non linear and linear models o f a single machine
+infinite bus (SMIB) system as well as multimachine systems installed with STATCOM
+have been derived. The method o f multiplicative uncertainty has been employed in the
+robust design to model the variations o f the operating points. A graphical method termed
+as loop shaping is used to select a suitable open loop transfer function from which the
+robust controller is constructed. Improvement in the graphical method is proposed by
+embedding a computational technique called the particle swarm optimization (PSO) in
+the original loop shaping method. The high order multimachine models have been
+simplified fo r control design through model reduction techniques. Linear and non linear
+models o f both single machine as well as multimachine system have been simulated
+including the PSO embedded robust controllers. A four machine test system is used to test
+controllers considering small as well as large disturbances including three phase
+symmetrical faults. Results indicate that the proposed robust design provides extremely
+good damping over a wide range o f operating conditions.

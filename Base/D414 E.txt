@@ -1,0 +1,21 @@
+This thesis provides a model for concrete cost estimating in small residential buildings, and
+a structure for maintaining a cost data base for the same. The model is a formalized
+procedure to determine the main cost parameters.
+To achieve this target, the thesis studies the inter relationship between the different
+physical elements, or assemblies, of the concrete structure, such as footings and columns,
+and the different basic items which the direct cost o f concrete consists of, these items are
+namely: the form work, the reinforcing, and the concrete itself. The study covers the two
+main cost segments of each of these items, these are material, and manpower.
+This study was conducted by:
+1  Personal interviews with professionals in the local construction industry, i.e., project
+managers, site engineers, contractors, designers, and even the concerned construction
+trades foremen and leadsmen.
+2  Reviewing the specifications, standards, codes, methods and practices governing the
+local construction industry, and the materials in use.The model itself consists of a number of mathematical expressions or formulas, that
+describe and quantify the relationship between the structure element or assembly, and the
+cost of the item basic components. Furthermore these formulas has been formed in a shape
+of tables to be filled by the cost estimator in a systematic and quick way to conclude the
+required cost.
+The study took into consideration the different job conditions, and the possibilities and
+alternatives that might face the contractor on site and worked out the formulas for a larger
+area rather than only one simple direct state.

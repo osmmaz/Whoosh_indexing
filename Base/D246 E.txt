@@ -1,0 +1,19 @@
+Accelerated and ambient storage stability tests were conducted using
+model nitrogen compounds in petroleum derived jet A fuel and n decane,
+indicating that the rate of sediment formation was dependent on the structural
+features of nitrogen compounds, the nature of diluent employed and storage
+conditions. Air, increased temperature, dissolved oxygen and light all strongly
+accelerate the sediment formation rate but the removal of dissolved oxygen
+from the base fuel (jet A fuel and n decane) significantly reduced the rate.
+Carboxylic acids act as an accelerator while phenols inhibitor toward sediment
+formation with nitrogen containing compounds. The reaction has a low
+apparent activation energy and appears to involve a free radical oxidative self
+condensation of nitrogen compounds. Characterization of sediment was made
+by elemental analysis, infrared and mass spectroscopy. The lower O/C ratios of
+sediment proved that the oxidation is a key aspect of je t fuel thermal instability.
+Approximately 25 different types of possible compounds were identified from
+average properties of 2,5 dimethylpyrrole sediments. Nuclear magnetic
+resonance spectroscopies were applied to the characterization of average
+molecular structural parameters of various fuel samples containing varying
+amounts of parrafinic and aromatic constituents with the help of computer
+programming.

@@ -1,0 +1,12 @@
+The prediction o f software development effort from early software estimates is a
+challenging task because not much o f the information about the software is available at
+that time. Moreover, the information gathered fo r software attributes from various
+sources is subjective to imprecision and uncertainty. Imprecision arises when an expert
+defines some qualitative criteria to differentiate between two or more classes.
+Uncertainty arises due to the existence o f more than one metric fo r a particular attribute.
+This uncertainty leads to the uncertainty in software effort prediction. This thesis
+presents a type 2 FLS based effort prediction framework that is capable o f handling
+imprecision and uncertainty. In addition, empirical studies regarding the impact o f
+various parameters o f FLS on effort prediction system are carried out. The thesis also
+identifies a set o f attributes that can give indication o f the credibility o f existing size
+metrics; and uses these attributes to evaluate some existing software size metrics.

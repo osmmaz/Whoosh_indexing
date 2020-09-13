@@ -1,0 +1,10 @@
+Advances in networking and data processing speeds have led to the need for high speed
+cryptosystems. The speed o f a cryptosystem is function o f its complexity and the
+technology used to implement it. This work investigates the techniques o f designing fa st
+modulo multipliers since modulo multiplication is a basic essential operation in public key
+cryptography. Two types o f modulo multipliers have been designed and modeled using
+VHDL and MatLab. While the first multiplier is based on asynchronous adder design, the
+other multiplier is based on four to two compressor design. In addition, a Built In Self
+Test (BIST) methodology has been developed for the Compressor based multiplier
+design. The two multiplier designs have been evaluated and compared based on their
+area delay cost.

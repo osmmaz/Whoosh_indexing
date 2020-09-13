@@ -1,0 +1,13 @@
+The design and actual thermodynamic performance of Ghazlan power plant have
+been studied based on both first and second  law analysis. A comparison between the two
+performances indicated that there is a room for improvements. Being encouraged by this
+and the fact that a 1  improvement in performance will result in saving of millions of
+Saudi Riyals per year, a full exergy analysis is carried out to identify the potentials for
+improving the plant performance. The exergy analysis shows a detailed breakdown of
+exergy losses of the different components in the plant. Hence based on the results of the
+analysis, several alternative arrangements to improve the plant efficiency were considered.
+This included the plant turbine cycle operation under various conditions. In this regard, the
+thermodynamic physical quantities whose effects were studied are: throttle steam pressure
+and temperature, reheat steam pressure and temperature for a single reheat, double reheat,
+reheat pressure for a double reheat and number of feedwater heaters. The results o f the
+study are presented in tabular and graphical forms and discussed in detail.

@@ -1,0 +1,16 @@
+Echo is a debilitating problem fo r full duplex data transm ission over the telephone
+network and hence m ust be cancelled. This echo tends to divide into two distinct
+components which exhibit quite different characteristics. The recently proposed leastmean
+mixed norms algorithm utilizes this difference to achieve a higher degree of
+cancellation as compared to the single norm algorithm that is usually used. In this
+thesis, the least mean m ixed norm s algorithm is studied fo r a general pair o f error
+nonlinearities. In particular, the convergence o f the algorithm is studied and its
+performance is evaluated fo r both correlated and independent identically distributed
+inputs. The calculus o f variations is then used to determ ine the optimum pair of
+nonlinearities fo r each input. These optimum nonlinearities are expressed in terms
+of the additive noise probability density function (pdf). Approxim ating the pdf using
+the Gram Charlier expansion provides a practical way fo r im plem enting the optimal
+nonlinearities. A ll o f the above theoretical developments encompass and extend m any
+existing results. Sim ulation was finally used to demonstrate the advantages o f the
+least mean m ixed norm s algorithm over the single norm algorithm fo r half duplex
+data transmission.

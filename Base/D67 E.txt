@@ -1,0 +1,17 @@
+Performance measurement techniques/systems normally assume homogeneity
+among decision making units (DMUs) where the units under evaluation share the
+same characteristics. However, in practice, the units are not homogenous and
+naturally fall into groups based on the nature of the business processes or
+organizational structures. This implies that simple efficiency indicators cannot be
+applied to assess the performance of such units and sub units.
+Another issue faced with this type of problems is with the aggregation of the
+performance measures. Normally, the efficiency evaluation of the unit depends on the
+efficiency values of its sub units which require the assessment of the sub units in
+order to evaluate the overall efficiency of the unit. However, since the units might not
+have the same number of sub units and don’t share the same characteristics; simple
+summation cannot be applied to aggregate the performance measures.
+In this thesis, an AHP and DEA hybrid model has been developed for calculating
+and aggregating performance measures in an organization with several units and subunits
+considering their individual characteristics. In addition, the ranks of such units
+and sub units were determined. The model was compared with other models and its
+advantage in limiting the effect of zero weights problem is demonstrated.

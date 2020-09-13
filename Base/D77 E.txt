@@ -1,0 +1,9 @@
+In this thesis, new strategies have been proposed to analyze the field around high pressure lines
+Continuous mono polar current using the specific finite element method "is one of the main problems
+For continuous high voltage lines, the halo is formed around the line connections The proposed strategies include not taking the "Dobch" hypothesis which suggests that the Albons
+Located around line connections only affect the value of the electric field and not its direction. In addition to that the
+Suggested strategies The ions on line connections have been deployed in the analysis process in the case of mono  lines
+Polar and for the first time in bipolar lines. 
+The strategies included, in addition to
+It is proposed to propose a way of simulating the borderline connections to be in the end rather than
+At the distance of a pyramid like the height of the line from the surface of the earth

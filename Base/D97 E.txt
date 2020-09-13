@@ -1,0 +1,20 @@
+Seismic attributes can be used in seismic interpretation. As seismic data quality
+improves, interpretation of seismic attributes becomes more reliable. Seismic attributes reveal
+information that often cannot be detected in conventional seismic displays. The attributes can
+be used for both quantitative and qualitative interpretation of any zone of interest
+The main goal of this study is to estimate porosity, water saturation, and volume of silt
+using several seismic attributes and then arrive at getting one conclusion based on the quantitative
+and the qualitative analyses.
+In the quantitative analysis, nine seismic attributes are used to estimate the reservoir
+properties mentioned above. These attributes are calculated and averaged over the zone of
+interest, from Base Khuff to Pre Unayzah Unconformity, compared to the log derived reservoir
+properties from 19 wells. Multi variant regression is used to approximate a linear transformation
+between seismic attributes and reservoir properties. Then the transformation is applied to the
+whole seismic data.
+In the qualitative analysis, spectral attributes are studied in addition to the nine seismic
+attributes discussed in the quantitative analysis. Attributes are related to the reservoir properties
+qualitatively. Both the quantitative and the qualitative interpretation are in agreement.
+I preserved two wells for validation purposes. The estimated reservoir properties of
+these two wells using Multi seismic attributes approach are in agreement with the well driven
+reservoir properties.The multi seismic attributes driven reservoir properties method was
+compared to the single attribute method and to a method utilizing simple kriging of well information.

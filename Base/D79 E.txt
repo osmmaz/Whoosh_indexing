@@ -1,0 +1,14 @@
+The data obtained from the measurements of the flow properties of flow in a
+confined, isothermal, swirling flowfield are analyzed for turbulent kinetic energy
+terms. The axisymmetric flow measurements were carried out with a twocomponent
+laser Doppler velocimeter (LDV). The main objective of this study
+is to analyze a detailed experimental database to help in the understanding of
+the behavior of swirled, axisymmetric, recirculating, turbulent flows. In addition,
+the data from this study will be available for upgrading advanced design
+codes. Furthermore, the influence of swirl number and swirl type on the flowfield
+characteristics (e.g., turbulent kinetic energy terms: convection, diffusion,
+dissipation, and production terms) are investigated. These terms were calculated
+directly from the experimental data using central differencing. The contributions
+of various components of the turbulent kinetic energy terms to the convection, diffusion,
+dissipation, and production of the turbulent kinetic energy are presented,
+as functions of radial and axial positions.

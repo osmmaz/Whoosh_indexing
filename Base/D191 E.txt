@@ -1,0 +1,18 @@
+Experimental research has been conducted on an inter bracedcolumn
+System .to investigate that the load carrying capacity
+of a series of straight columns would be increased effectively
+by bracing them with very light braces. It is difficult
+to predict reliably the strength of any column by theoretical
+methods, where the strength of an actual steel column is
+impaired by the presence of residual stresses and initial
+imperfections (crookedness). In addition, however, very
+limited theoretical study without experimental investigation
+has been carried out. Therefore, the experimental work is
+needed to provide satisfactory evidence of the predicted buckling
+loads of an interbraced column system and the corresponding
+brace forces.
+The results of the study indicate that very large gains
+in the column carrying capacity can be achieved by using a
+light bracing system of small strength and rigidity. Also
+these results agreed to large extent with the theoretical
+studies. 

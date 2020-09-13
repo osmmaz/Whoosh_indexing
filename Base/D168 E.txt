@@ -1,0 +1,19 @@
+Currently, the billing systems for public utilities
+(Electricity, Water/gas, and Telephone) are stand alone,
+inaccurate, costly, and slow. Several attempts were made to
+automate the billing systems. However, none of these systems
+was cost effective for wide range implementation. In this
+thesis, an integrated system for the three utilities and a
+credit card reader li are proposed.
+The proposed system has two structures. The first structure
+is hardware which consists of a digital energy meter, a
+digital water/gas meter, a telephone call meter, a credit
+card reader, and a microcontroller. The proposed techniques
+for electrical energy metering are simulated for different
+sampling rate, sampling precision, and sampling delay under
+harmonics and no harmonicas cases. Each meter circuit is
+designed, built and tested. The second structure is software
+which includes the development of system trouble shooting
+program and system operation program. The integrated system
+is tested and has proven to be stable, reliable and easy to
+maintain within its accuracy.

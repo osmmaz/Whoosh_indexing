@@ -1,0 +1,5 @@
+The aim of this action is to adjust the constant control of the class from
+Parallel non linear PDE system using conversion (transformer engine).
+We convert the original system to a new system that has proven stable. we
+Some examples should be made to illustrate the control of the display system boundaries
+Blowing in time, thus showing how effective the method.

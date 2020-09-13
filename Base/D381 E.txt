@@ -1,0 +1,26 @@
+Antennas play an integral part in wireless communication system.
+Microstrip patch antennas are versatile in terms of their geometrical shapes
+and implementations. Inhibiting characteristics of a single microstrip patch,
+like low gain and smaller bandwidth, make it more popular for array
+configuration. The aim of this work is to design and implement a microstrip
+phased array antenna, printed on a composite ferrite dielectric substrate.
+Four rectangular radiating patches on a low dielectric constant substrate are
+arranged in linear configuration to achieve required radiation properties. The
+microstrip array feeder network, consisted of integrated power divider and
+phase shifters, is realized on an externally magnetized ferrite substrate.
+Tunable progressive phase shift is produced by varying the magnetic bias
+that changes the permeability of ferrite material, which in turn changes the
+phase velocity and, hence, the insertion phase of the propagating microwave
+signal. The four way power splitter is attained using Wilkinson type power
+dividers, which improves the isolation and matching of the ports. The
+antenna array is designed using standard equations and simulated by
+professional software called, High Frequency Structural Simulator (HFSS).
+Among many antenna simulators, HFSS is selected as it allowed the
+inclusion of anisotropic ferrite material in the simulation process. The
+antenna prototype is printed using the PCB plotter and manually transferred
+on the composite substrate, which introduced some inaccuracy. Finally, the
+simulated reflection response and radiation characteristics of the designed
+antenna array are corroborated using experimental results obtained from the
+Network Analyzer and the Antenna Transmission & Measurement System,
+reSpectively. The designed array exhibited very close radiation response to
+that of design objective.

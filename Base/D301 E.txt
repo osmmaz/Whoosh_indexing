@@ -1,0 +1,22 @@
+A servomechanism is a system that controls the position or velocity of a mechanical
+devise. In many applications, such as disk drive head positioning and pick and place robots, it
+is desirable to have servomechanisms effect a minimum time response. Since there is a limit
+on the magnitude of the control signal in every control system, this leads to time optimal
+controllers that are bang bang. Truly bang bang time optimal control systems are not
+practical, due to the poor overall behavior such as the instantaneous switching and the limit
+cycles about the target state. In order to eliminate such undesirable behavior, we apply
+Continuous Proximate Time Optimal (CPTO) controller to a third order servomechanism
+having three real roots, which represents our modeling of the hard disk drive servomechanism.
+We have shown that the CPTO controller gives near time optimal response for large states,
+and provides smooth and stable response with near linear control for small states.
+To overcome the mathematical difficulties of solving the time optimal control problem
+of the model of the plant, new approach based on similarity transformation has been used.
+A saturated linear state feedback controller has been designed for comparison and
+assessment.
+It has been shown through the simulation results that response times are indeed near
+time optimal. Moreover, it has been shown though specific examples that the CPTO behaves
+well in the presence of certain unmodeled dynamics, also it behaves well in the presence of a
+plant parameter variation providing that the control law is based on the worst case
+consideration.
+A comparison of the performance of the CPTO controller when changing the design
+criterion of the linear gain constants has been made.

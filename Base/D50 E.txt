@@ -1,0 +1,16 @@
+This thesis is concerned with using a priori information on the communication
+problem to enhance the performance of adaptive algorithms. We demonstrate
+this for two scenarios.
+In the first part of the thesis, we consider the problem of channel estimation
+for multiuser OFDM transmission over block time varying channels. We show
+that frequency domain based channel estimation can be more practical and less
+computationally complex than the time domain based estimation. We show how
+a priori information (time and frequency correlation) allows us to design Kalman
+filters and obtain a very good performance in environments with high Doppler.
+In the second part we use our a priori knowledge about the output noise distribution
+to design adaptive filters with optimum error nonlinearities. Specifically, we use the energy relation that is usually used for mean square analysis to derive
+the mean square error for general error nonlinearities and subsequently use
+that to design optimum error nonlinearities given our knowledge about the noise
+distribution. We use a similar technique to design adaptive filters with optimum
+error nonlinearities and data normalization that is usually used when the input
+data is correlated.

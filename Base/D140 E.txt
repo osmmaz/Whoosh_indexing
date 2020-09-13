@@ -1,0 +1,22 @@
+The die life data from a large aluminum extrusion ‘plant, is comprehensively analyzed,
+to determine the nature of the reliability model suitable to characterize the data. It
+is shown that the extrusion die life corresponding to all modes o f failures can be
+modeled by Weibull reliability model. Since fm.ct.ure and wear are the two m ain
+modes of die failure, they are also heated separately. A fracture mechanics based
+model is proposed to predict the life of dies failed due to fracture, using M onte Carlo
+Simulation. Another wear based simulation model is also developed to predict the life
+of dies failed due to wear. F inally a competitive risk model is form ulated to model the
+real situation when both of these major causes of failure are present simultaneously.
+Comparison of the simulated results is made with the real life data collected from a
+local extrusion plant (A L U P C O ). and the validity of weibull model fo r the die life
+prediction is established. One of the objective of the work was to correlate the mean
+and scatter of the die life (o r the scale and shape param eter o f the weibull model) with
+the profile complexity of the die. Die complexity definition in literature was found to
+be inadequate, and a new die complexity definition was proposed which was based on
+multiple regression analysis of average die life . and key variables, and parameters
+having a major influence on the die life. Thus in the absence o f any historical die
+life data, the die reliability can directly be predicted using the proposed die complexity
+and die life correlation. Using the results of this study it w ill be possible to calculate
+the number of dies required to meet a production target (corresponding to specific
+die reliability requirement), to make a comparative assessment, o f dies, as well as to
+determine the age replacement strategies fo r the die.

@@ -1,0 +1,6 @@
+A complete design and implementation of a cell library has been accomplished in
+this work. This cell library supports a formal high level synthesis framework. The
+library contains the logic level models of all the primitive functions of a Realization
+Specification Language (RSL). Modular design methodology is employed to support
+the expandibdity of basic cells. Examples of a formal adder, multiplier, inner product
+and matrix matrix multiplier are presented

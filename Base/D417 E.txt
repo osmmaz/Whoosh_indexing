@@ -1,0 +1,16 @@
+This thesis consists o f two main parts. In the first part, two optimal Hankel methods:
+optimal Hankel without a D term developed by Bettayeb and optimal Hankel with a
+D term developed by Glover, are applied to HR (infinite impulse response) digital filter design
+and approximation. The results obtained from optimal Hankel methods are compared
+to the results obtained from other time domain design methods: Least squares methods,
+CF method, balanced approximation methods, and suboptimal Hankel methods. Important
+conclusions are derived from this comparative study. Moreover, a slight modification is
+made to one o f the optimal Hankel methods to improve its efficiency. The D term which is
+neglected in this method is forced to be equal to the dc term o f the impulse response. This
+improvement is shown by examples.
+In the second part, the two sided approximation technique for HR digital filter
+design is applied to the above methods. General formulae are derived so that any timedomain
+IIR digital filter design method could be applied using the two sided approximation.
+It is shown through different examples that this technique gives a very efficient approximations
+to the desired magnitude response with low order HR digital filters compared
+to the one sided approximation technique

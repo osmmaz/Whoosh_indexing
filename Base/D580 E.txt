@@ -1,0 +1,19 @@
+Electrochemical impedance spectroscopy (EIS) is one type of nondestructive testing (NDT)
+methods where the material’s impedance is analyzed over wide range of frequencies and based
+on the impedance parameters, the material quality in terms of corrosion rate is determined. In
+this thesis, two different approaches for estimating the electrochemical impedance spectroscopies
+(EIS) are presented which are High Order Statistic (HOS) based deconvolution and Adaptive
+Filtering (AF). These two methods are proposed to overcome the drawbacks of the existing EIS
+techniques in terms of noise sensitivity in the case of time domain methods and the slow process
+speed in the case of frequency domain methods. The HOS based method treats the impedance
+spectrum as the unknown system frequency response in a convolution problem. Given the input
+signal (applied signal) and the response signal (output signal), the impedance spectrum could be
+estimated by the HOS based deconvolution using the third order moments of both the input and
+output signals. For the AF based method, the impedance spectrum is measured by estimating the
+parameters of the equivalent circuit representing the impedance system. Each proposed
+approach is analyzed with different material models and different noise statistics that usually
+corrupt the measurement data. MATLAB simulations and experimental results are used in the
+performance assessment of the two proposed methods as well as comparisons with existing
+methods. In comparison with the existing methods, it is shown that the proposed algorithms
+perform very efficiently even with the present of Gaussian and non Gaussian distributed noises
+at low signal to noise ratio (SNR).

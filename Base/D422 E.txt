@@ -1,0 +1,25 @@
+demand grows are not sufficient on the long term basis. Demand is increasing
+faster at peak times than at other times. Besides, it takes several years to build a new
+power plant. Investments in peak generation as well as in transmission and distribution are
+not economically justified. For many utilities, it is more cost effective to fully utilize
+what they have rather than try to build new power plants. More and more utilities are
+extending their activities into the customer’s side. They are implementing the Demand
+Side Management(DSM) programs. The electricity distribution companies use either the
+Direct Load Control(DLC) or the indirect load control. There are different systems to
+apply the DLC. However, these systems suffer from shortcomings. A new DLC system is
+proposed in this thesis to overcome the drawbacks of the existing systems.
+A new DLC system is designed in this thesis. It is proposed to use this system as
+one of the alternatives of the DSM programs. The proposed DLC system satisfies the
+utility objectives and the customer requirements.
+The system has three main parts. The first part is a master station center at the utility side.
+It consists of a PC. The second part is the control device that is installed at the customer
+side. It is a Programmable Logic Controller (PLC). The third part is the interface circuits
+between the control device and the PC, and between the PLC and the loads. Two
+sophisticated programs are developed to serve the purpose of the proposed DLC system.
+One is stored in the PLC to direct control the customer loads. The other is used as user
+interface and PC protocol to control the installed PLC at the customer side. The control
+strategy is done through different scenarios.
+A prototype system is designed, implemented and evaluated. The propsed DLC
+system is studied on a real life case. The results of the experiments and the study show
+that there is a demand reduction in the load curve. The proposed DLC system meets the
+objective that it is designed for

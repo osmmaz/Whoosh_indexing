@@ -1,0 +1,16 @@
+A num erical study o f flow in a Periodically Converging Diverging Channel is •perform
+ed to exam ine turbulent separated flow and heat transfer characteristics. This
+geometry has num erous applications in high performance heat exchanging systems
+because o f its effective influence on heat transfer augmentation. The method is based
+on the fu lly conserved control volume representation o f fu lly elliptic Navier Stokes,
+and Energy equations in body fitted orthogonal curvilinear coordinate system . Turbulence
+is sim ulated via two equation (k — s ) model.
+The presented results consist o f computed velocity and streamline distributions,
+the kinetic energy o f turbulence, pressure drop, friction factor, and local, average and
+m axim um N usselt num ber distribution. System atic variations are made in Reynolds
+num ber (40.000 to 100,000) and the aspect, ratio ('2a/X=0.27 and 0.34). The study
+is fu rth er extended to flows with different ranges o f inlet swirl. The results are
+compared with the different available experimental data and show that the method
+with the utilized turbulence closure model and the discretization scheme reproduce
+the essential features o f various channel heat transfer and flu id flow effects observed
+in experiments.

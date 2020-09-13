@@ -1,0 +1,14 @@
+Software watermarking is one of the most important methods for protecting copyrights
+and authenticating ownership; and hence preventing software piracy. It received more
+attention recently and it is expected to even get more interest. However, in all the work
+done in this area, none o f them have used a specific or a particular evaluation measures to
+criticize the proposed software watermarking technique.
+In this thesis, several issues related to software watermarking were studied and a survey
+was conducted on the current and promising new techniques designed to reliably preserve
+and protect software programs. Different software watermarking techniques and attacks
+to those techniques were classified and evaluated. A promising benchmarking framework
+for software watermarking techniques was proposed, based on the results o f conducted
+experimentations, which allows for measuring the efficiency o f current and possibly
+future proposed software watermarking schemes. This will allow comparing different
+watermarking techniques and will lead to speeding up the potential research work in this
+area.

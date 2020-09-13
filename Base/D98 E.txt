@@ -1,0 +1,15 @@
+Alternate adsorption of polyanion and polycation onto a substrate through layer by
+layer (LbL) assembly provides a convenient mean of depositing ultrathin film with
+controlled thicknesses and compositions. Spin assisted layer by layer (SA LbL) assembly
+was introduced to reduce processing time and improve layering quality. This dissertation
+explores the use of SA LbL assembly in particular for fabricating reverse osmosis (RO)
+membrane.
+The effect several parameters such as molecular weight of polyelectrolyte,
+concentration of polyelectrolyte solution, spin speed, and ionic strength of polyelectrolyte
+solution has been thoroughly investigated. However; the effect of pH for this particular
+technique has not been investigated yet whereas pH is one of the most important
+parameter for controlling film properties. This dissertation also investigated the effect of
+pH coupled with other parameters such as spin speed and concentration. Four different polyelectrolyte membrane systems such as poly(diallyldiamine
+ammonium chloride) (PDAC) /poly(vinyl sulfate) (PVS); poly(allylamine hydrochloride)
+xx
+(PAH)/PVS; Poly(ethylene imine)

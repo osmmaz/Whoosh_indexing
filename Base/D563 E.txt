@@ -1,0 +1,25 @@
+The reduction in the usefiil service life of concrete structures in the Arabian
+Gulf, due to chloride induced reinforcement corrosion, is of major concern to the
+construction industry in this region. There are several options available to minimize
+concrete deterioration due to reinforcement corrosion. Among these alternatives,
+the use of good quality concrete is the cheapest one. However, it is difficult to
+produce good quality concrete locally, as the available limestone aggregates are
+weak and highly absorptive. Therefore, there is a need to improve the quality  of
+concrete by suitable adjustments in the mix design. Further, the performance of
+high quality  concrete when exposed to thermal variations is not very well
+documented.
+This research was conducted to develop high quality concrete utilizing local
+aggregates. Three types of coarse aggregates, namely limestone aggregates from
+Abu Hadriyah and Riyadh, and steel slag aggregates were selected to produce high
+quality concrete. The tensile strength and reinforcement corrosion of the high
+quality concrete produced using local aggregates were investigated.
+The data developed in this research indicate that the quality of aggregate has a
+significant effect on the corrosion resistance o f concrete. The steel slag aggregate
+concrete showed better corrosion resistance and tensile strength followed by
+Riyadh and Abu Hadriyah aggregate concretes. Exposure to thermal variations
+reduced the corrosion resistance of reinforced concrete specimens prepared with the
+selected aggregates.
+The service life of the concrete prepared with the selected aggregates was
+predicted using two models, namely B azanf s mathematical model and Morinaga
+empirical formula. The highest service life was recorded in the concrete specimens
+prepared with steel slag aggregates, silica fume and steel fibers.

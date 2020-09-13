@@ -1,0 +1,16 @@
+The characterization of channels having randoaly tiae
+varying response is inportant for systea perforaance analysis
+and design. In particular, such characterization is needed
+for the perforaance evaluation over aany radio fading
+channels. Those channels exhibit a aultipath nature of signal
+propagation causing destructive or constructive interference
+to the signal which leads at sone instances to the loss of
+the signal completely.
+The sain objective of this thesis is to find a suitable
+statistical aodel of soae radio channels in the Southern
+Region of Saudi Arabia, fihen incorporated into the systea
+design, these aodels should help in iaproving the perforaance
+of the systea. The appropriate statistical aodels, the fade
+depth statistics, and the fading characteristics are found
+for soae links in the region. Moreover, discussions regarding
+the physical interpretation of these results are presented.

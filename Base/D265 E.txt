@@ -1,0 +1,14 @@
+During a construction project, delays may result from many
+circumstances. Delays may be caused by the owner, the contractor, by acts of
+god, or a third party. They may occur early or late in the job, alone or with other
+delays. Negotiating a fair and timely damage settlement, is beneficial to all
+parties. Network based scheduling is an excellent vehicle for negotiating
+settlement of changes, disputes and delays throughout the project. In the
+construction industry there is no single, standard and “accepted" procedure to
+determine impact of schedule delays due to change orders or other unplanned
+developments. In this thesis, four delay measurement processes are studied.
+These procedures are employed to measure delay impact, utilizing computerized
+CPM analyses, performed on genuine construction schedules. Results indicate
+that outcomes of delay analyses are not predictable, nor can one method be
+used universally. It is determined however, that in given circumstances, one
+procedure can be more befitting than another.

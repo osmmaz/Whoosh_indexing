@@ -1,0 +1,14 @@
+Since their introduction in 1998, the applications of space time trellis codes have
+been, and still are, increasing rapidly. In this thesis, unequal error protecting ST
+trellis codes are designed then used to transm it images over a rapid fading channel.
+The idea is to use ST trellis codes that provide strong error protection to one of
+its multiple input bits and send the important part of the image through that bit.
+This requires modifying the existing performance measurement techniques such
+th at they show the weight of error protection on each input bit. This is done
+using a modified transfer function and new upper bounds for each individual input
+bit. To find the desired codes, two approaches are used: design and exhaustive
+search. Both approaches are used to find several QPSK and 8PSK codes that
+provide strong error protection properties to the most significant bit. To complete
+the application, the JPEG image processing technique is modified to separate the
+important from the less im portant bits. Finally, test images are simulated using
+the new codes in addition to several codes from the literature for comparison.

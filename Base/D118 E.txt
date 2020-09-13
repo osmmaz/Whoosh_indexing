@@ -1,0 +1,13 @@
+This research work is part of an on going research project on natural
+Arabic understanding at KFUPM. The project is aimed at building "A
+Natural Arabic Understanding System" (NAUS). Our aim is to develop
+a sentence generation module for the system.
+This research work presents the design, implementation and
+integration of an Arabic Sentence Generator (ASG) within NAUS. ASG
+consists of four main components: preprocessor module,
+morphological module, end case module, and syntactic module. The
+design and implementation of this system are modular.
+In the implementation, the morphological, end case, and syntactic
+modules have been integrated with the correspond analysis modules
+of NAUS. This, in turn, reduced development. effort and minimizes
+program size. ASG has been implemented in Prolog.
